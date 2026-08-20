@@ -1,0 +1,951 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>ISOBAR — Global Risk Pressure Index</title>
+  <style>
+    html, body, #root { margin: 0; padding: 0; min-height: 100vh; background: #0A0D10; }
+    #root { color: #5B6770; font-family: -apple-system, "Segoe UI", Helvetica, Arial, sans-serif; }
+    .isobar-fallback { padding: 60px 24px; max-width: 560px; margin: 0 auto; text-align: center; }
+    .isobar-fallback h2 { color: #E7ECEF; font-size: 18px; margin-bottom: 12px; }
+    .isobar-fallback p { font-size: 13.5px; line-height: 1.6; margin: 8px 0; }
+  </style>
+</head>
+<body>
+  <div id="root">
+    <div class="isobar-fallback" id="isobar-loading">
+      <h2>Loading ISOBAR…</h2>
+      <p>If this message doesn't disappear within about 10 seconds, this page couldn't
+      load the tools it needs from the internet. Make sure you're connected to the
+      internet and try reloading. If it still doesn't work, something (like a strict
+      network or ad-blocker) may be blocking unpkg.com.</p>
+    </div>
+  </div>
+
+  <script>
+    // Surfaces any failure directly on the page, since a non-technical
+    // reader can't easily check a browser console for errors.
+    window.addEventListener("error", function (e) {
+      var root = document.getElementById("root");
+      if (root && root.dataset.mounted === "true") return;
+      var msg = (e && (e.message || (e.error && e.error.message))) || "Unknown error";
+      root.innerHTML =
+        '<div class="isobar-fallback">' +
+        "<h2 style=\"color:#C4523F;\">Something didn't load correctly</h2>" +
+        "<p><strong>Error:</strong> " + msg + "</p>" +
+        "<p>This usually means the page could not reach the internet to load React " +
+        "or Babel from unpkg.com. Check your internet connection, or try a different " +
+        "browser/network if one is blocking unpkg.com.</p>" +
+        "</div>";
+    }, true);
+  </script>
+
+  <script crossorigin src="https://unpkg.com/react@18.3.1/umd/react.production.min.js"></script>
+  <script crossorigin src="https://unpkg.com/react-dom@18.3.1/umd/react-dom.production.min.js"></script>
+  <script src="https://unpkg.com/@babel/standalone@7.24.7/babel.min.js"></script>
+
+  <script type="text/babel" data-presets="react">
+const { useState, useMemo, useEffect } = React;
+
+const FONT_DISPLAY = "'Futura', 'Century Gothic', 'Segoe UI', sans-serif";
+const FONT_MONO = "'SFMono-Regular', 'Consolas', 'Menlo', 'Courier New', monospace";
+const FONT_BODY = "-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif";
+
+/* ────────────────────────────────────────────────────────────────────────
+   ISOBAR — Global Risk Pressure Index
+   Design tokens:
+   void       #0A0D10   base background
+   panel      #12171C   card / panel surface
+   panelRaise #171E24   raised surface (drawer, sidebar)
+   line       #212930   hairline borders / grid
+   textHi     #E7ECEF   primary text
+   textMid    #94A2AB   secondary text
+   textLow    #5B6770   tertiary / captions
+   signal     #4FB8C4   interactive accent (teal) — never used for risk data
+   riskLow    #3D9A6B   green   — low pressure
+   riskMod    #D6A340   amber   — moderate
+   riskHigh   #C4523F   brick   — high
+   riskSevere #8B2E3D   deep red — severe
+
+   Display face: Space Grotesk (headers, product name)
+   Data face:    IBM Plex Mono (scores, timestamps, coordinates)
+   Body face:    IBM Plex Sans (copy, labels)
+
+   Signature element: a live "systems" ticker (weather-wire metaphor —
+   reading pressure systems instead of a flat red/green map) + isobar
+   contour lines etched faintly into the background.
+   ─────────────────────────────────────────────────────────────────────── */
+
+/* ---------------------------------------------------------------------- */
+/* Mock dataset — illustrative only, not a real intelligence assessment.  */
+/* Shape mirrors what a live feed (GDELT / ACLED / IMF) would populate.   */
+/* ---------------------------------------------------------------------- */
+
+const REGIONS = [
+  "North America",
+  "Latin America",
+  "Europe",
+  "MENA",
+  "Sub-Saharan Africa",
+  "South Asia",
+  "East Asia",
+  "Southeast Asia",
+  "Eurasia",
+  "Oceania",
+
+];
+
+const RAW_COUNTRIES = [
+  { name: "United States", region: "North America", political: 32, conflict: 12, economic: 24, regulatory: 28, trend: "flat", note: "Election-cycle policy uncertainty elevated." },
+  { name: "Canada", region: "North America", political: 14, conflict: 5, economic: 18, regulatory: 20, trend: "flat", note: "Stable baseline, trade-dependency watch." },
+  { name: "Mexico", region: "North America", political: 44, conflict: 58, economic: 40, regulatory: 46, trend: "up", note: "Cartel-linked violence pressuring border states." },
+  { name: "Brazil", region: "Latin America", political: 40, conflict: 30, economic: 42, regulatory: 38, trend: "flat", note: "Fiscal policy debate ongoing in congress." },
+  { name: "Argentina", region: "Latin America", political: 46, conflict: 20, economic: 68, regulatory: 44, trend: "down", note: "Currency stabilization measures showing early effect." },
+  { name: "Venezuela", region: "Latin America", political: 82, conflict: 48, economic: 88, regulatory: 80, trend: "flat", note: "Sanctions regime and hyperinflation persist." },
+  { name: "Colombia", region: "Latin America", political: 48, conflict: 56, economic: 38, regulatory: 40, trend: "flat", note: "Peace-process implementation uneven in rural zones." },
+  { name: "Haiti", region: "Latin America", political: 88, conflict: 84, economic: 78, regulatory: 82, trend: "up", note: "Gang control over capital transit corridors expanding." },
+  { name: "Chile", region: "Latin America", political: 24, conflict: 14, economic: 26, regulatory: 22, trend: "flat", note: "Constitutional reform track resolved, stable outlook." },
+  { name: "Germany", region: "Europe", political: 18, conflict: 8, economic: 26, regulatory: 16, trend: "flat", note: "Energy diversification largely complete." },
+  { name: "France", region: "Europe", political: 34, conflict: 16, economic: 28, regulatory: 24, trend: "up", note: "Budget standoff raising coalition-stability questions." },
+  { name: "United Kingdom", region: "Europe", political: 26, conflict: 10, economic: 24, regulatory: 22, trend: "flat", note: "Post-EU regulatory alignment ongoing sector by sector." },
+  { name: "Poland", region: "Europe", political: 24, conflict: 20, economic: 22, regulatory: 20, trend: "flat", note: "Frontline logistics hub for regional supply chains." },
+  { name: "Ukraine", region: "Europe", political: 62, conflict: 92, economic: 70, regulatory: 58, trend: "flat", note: "Active conflict zone; frontline shifts limited this quarter." },
+  { name: "Russia", region: "Europe", political: 58, conflict: 74, economic: 64, regulatory: 76, trend: "flat", note: "Sanctions architecture continues to reshape trade routes." },
+  { name: "Turkey", region: "Europe", political: 52, conflict: 38, economic: 60, regulatory: 48, trend: "down", note: "Central bank credibility rebuilding after policy reversal." },
+  { name: "Iran", region: "MENA", political: 70, conflict: 56, economic: 74, regulatory: 78, trend: "up", note: "Regional posture and sanctions exposure both elevated." },
+  { name: "Israel", region: "MENA", political: 58, conflict: 66, economic: 34, regulatory: 30, trend: "flat", note: "Security posture dominating near-term policy bandwidth." },
+  { name: "Saudi Arabia", region: "MENA", political: 34, conflict: 26, economic: 30, regulatory: 36, trend: "flat", note: "Diversification agenda proceeding on schedule." },
+  { name: "Egypt", region: "MENA", political: 46, conflict: 34, economic: 56, regulatory: 44, trend: "flat", note: "Currency and subsidy reform under IMF program." },
+  { name: "Yemen", region: "MENA", political: 84, conflict: 88, economic: 82, regulatory: 74, trend: "flat", note: "Fragmented governance across contested territory." },
+  { name: "UAE", region: "MENA", political: 16, conflict: 12, economic: 16, regulatory: 18, trend: "flat", note: "Regional safe-haven positioning intact." },
+  { name: "Nigeria", region: "Sub-Saharan Africa", political: 52, conflict: 60, economic: 54, regulatory: 50, trend: "flat", note: "Security operations continue in northeast." },
+  { name: "South Africa", region: "Sub-Saharan Africa", political: 38, conflict: 30, economic: 46, regulatory: 40, trend: "flat", note: "Coalition governance stabilizing after transition." },
+  { name: "Ethiopia", region: "Sub-Saharan Africa", political: 60, conflict: 62, economic: 58, regulatory: 52, trend: "down", note: "Regional ceasefire holding, reconstruction underway." },
+  { name: "Sudan", region: "Sub-Saharan Africa", political: 90, conflict: 94, economic: 86, regulatory: 80, trend: "up", note: "Active internal conflict displacing regional populations." },
+  { name: "Kenya", region: "Sub-Saharan Africa", political: 36, conflict: 28, economic: 38, regulatory: 34, trend: "flat", note: "Regional logistics hub, protest cycles episodic." },
+  { name: "DR Congo", region: "Sub-Saharan Africa", political: 72, conflict: 80, economic: 68, regulatory: 64, trend: "up", note: "Eastern provinces contested by armed groups." },
+  { name: "India", region: "South Asia", political: 30, conflict: 26, economic: 24, regulatory: 32, trend: "flat", note: "Manufacturing relocation inflows continuing." },
+  { name: "Pakistan", region: "South Asia", political: 58, conflict: 54, economic: 62, regulatory: 50, trend: "flat", note: "IMF program compliance under close watch." },
+  { name: "Bangladesh", region: "South Asia", political: 48, conflict: 34, economic: 44, regulatory: 42, trend: "down", note: "Political transition settling into new cycle." },
+  { name: "Afghanistan", region: "South Asia", political: 78, conflict: 70, economic: 80, regulatory: 84, trend: "flat", note: "Governance and aid-access constraints persist." },
+  { name: "Sri Lanka", region: "South Asia", political: 40, conflict: 18, economic: 52, regulatory: 38, trend: "down", note: "Debt restructuring program on track." },
+  { name: "China", region: "East Asia", political: 38, conflict: 22, economic: 36, regulatory: 54, trend: "flat", note: "Regulatory tightening in select tech and finance sectors." },
+  { name: "Japan", region: "East Asia", political: 16, conflict: 10, economic: 22, regulatory: 14, trend: "flat", note: "Stable baseline, currency policy closely watched." },
+  { name: "South Korea", region: "East Asia", political: 30, conflict: 24, economic: 20, regulatory: 18, trend: "up", note: "Political transition period underway." },
+  { name: "North Korea", region: "East Asia", political: 86, conflict: 60, economic: 84, regulatory: 92, trend: "flat", note: "Opaque governance, near-total sanctions isolation." },
+  { name: "Taiwan", region: "East Asia", political: 44, conflict: 48, economic: 26, regulatory: 20, trend: "flat", note: "Cross-strait posture remains the dominant risk factor." },
+  { name: "Indonesia", region: "Southeast Asia", political: 28, conflict: 20, economic: 30, regulatory: 32, trend: "flat", note: "Investment climate steady through leadership transition." },
+  { name: "Vietnam", region: "Southeast Asia", political: 22, conflict: 12, economic: 24, regulatory: 30, trend: "down", note: "Manufacturing FDI inflows accelerating." },
+  { name: "Thailand", region: "Southeast Asia", political: 40, conflict: 26, economic: 32, regulatory: 34, trend: "flat", note: "Coalition politics stable for now." },
+  { name: "Myanmar", region: "Southeast Asia", political: 82, conflict: 78, economic: 72, regulatory: 70, trend: "flat", note: "Civil conflict continues across multiple fronts." },
+  { name: "Philippines", region: "Southeast Asia", political: 34, conflict: 30, economic: 32, regulatory: 30, trend: "flat", note: "Maritime dispute tensions episodic but contained." },
+  { name: "Singapore", region: "Southeast Asia", political: 8, conflict: 4, economic: 10, regulatory: 8, trend: "flat", note: "Regional stability anchor, minimal composite risk." },
+  { name: "Kazakhstan", region: "Eurasia", political: 34, conflict: 20, economic: 34, regulatory: 36, trend: "flat", note: "Energy-export diversification progressing." },
+  { name: "Georgia", region: "Eurasia", political: 48, conflict: 30, economic: 36, regulatory: 38, trend: "up", note: "Political alignment debate intensifying." },
+  { name: "Cuba", region: "Latin America", political: 58, conflict: 14, economic: 67, regulatory: 73, trend: "flat", note: "Sanctions exposure continues to weigh on trade and finance." },
+  { name: "Ecuador", region: "Latin America", political: 38, conflict: 57, economic: 36, regulatory: 13, trend: "flat", note: "Elevated conflict-related incidents reported this cycle." },
+  { name: "Peru", region: "Latin America", political: 37, conflict: 38, economic: 40, regulatory: 19, trend: "flat", note: "Baseline conditions stable; monitored for change." },
+  { name: "Italy", region: "Europe", political: 18, conflict: 11, economic: 44, regulatory: 17, trend: "flat", note: "Baseline conditions stable; monitored for change." },
+  { name: "Serbia", region: "Europe", political: 39, conflict: 34, economic: 43, regulatory: 40, trend: "flat", note: "Baseline conditions stable; monitored for change." },
+  { name: "Belarus", region: "Europe", political: 62, conflict: 36, economic: 67, regulatory: 72, trend: "flat", note: "Sanctions exposure continues to weigh on trade and finance." },
+  { name: "Syria", region: "MENA", political: 65, conflict: 86, economic: 69, regulatory: 67, trend: "up", note: "Active armed conflict remains the dominant risk driver." },
+  { name: "Jordan", region: "MENA", political: 36, conflict: 11, economic: 40, regulatory: 20, trend: "flat", note: "Baseline conditions stable; monitored for change." },
+  { name: "Lebanon", region: "MENA", political: 65, conflict: 34, economic: 64, regulatory: 20, trend: "flat", note: "Economic fragility remains the primary pressure point." },
+  { name: "Qatar", region: "MENA", political: 34, conflict: 14, economic: 22, regulatory: 16, trend: "flat", note: "Baseline conditions stable; monitored for change." },
+  { name: "Libya", region: "MENA", political: 62, conflict: 55, economic: 71, regulatory: 42, trend: "flat", note: "Elevated conflict-related incidents reported this cycle." },
+  { name: "Morocco", region: "MENA", political: 32, conflict: 20, economic: 38, regulatory: 18, trend: "flat", note: "Baseline conditions stable; monitored for change." },
+  { name: "Mali", region: "Sub-Saharan Africa", political: 60, conflict: 85, economic: 72, regulatory: 45, trend: "up", note: "Active armed conflict remains the dominant risk driver." },
+  { name: "Somalia", region: "Sub-Saharan Africa", political: 55, conflict: 90, economic: 67, regulatory: 42, trend: "up", note: "Active armed conflict remains the dominant risk driver." },
+  { name: "Zimbabwe", region: "Sub-Saharan Africa", political: 61, conflict: 15, economic: 65, regulatory: 64, trend: "flat", note: "Sanctions exposure continues to weigh on trade and finance." },
+  { name: "Malaysia", region: "Southeast Asia", political: 31, conflict: 13, economic: 14, regulatory: 18, trend: "flat", note: "Baseline conditions stable; monitored for change." },
+  { name: "Azerbaijan", region: "Eurasia", political: 31, conflict: 31, economic: 39, regulatory: 20, trend: "flat", note: "Baseline conditions stable; monitored for change." },
+  { name: "Australia", region: "Oceania", political: 17, conflict: 8, economic: 13, regulatory: 10, trend: "flat", note: "Baseline conditions stable; monitored for change." },
+
+];
+
+// Raw weight units, not required to sum to 100 — composite() normalizes.
+const DEFAULT_WEIGHTS = { political: 25, conflict: 25, economic: 25, regulatory: 25 };
+const FACTOR_KEYS = ["political", "conflict", "economic", "regulatory"];
+
+function composite(c, weights) {
+  const total = FACTOR_KEYS.reduce((s, k) => s + weights[k], 0) || 1;
+  const weighted = FACTOR_KEYS.reduce((s, k) => s + c[k] * weights[k], 0);
+  return weighted / total;
+}
+
+/* ---------------------------------------------------------------------- */
+/* Proprietary weighting framework                                        */
+/* Instead of one flat weight set applied to every country, each market   */
+/* is classified on four structural dimensions. Weights are DERIVED from  */
+/* those classifications, not hand-picked per country — the rule set is   */
+/* the IP, not any single number. Illustrative classifications below;     */
+/* production version would tie these to real indicators (ACLED intensity */
+/* for conflict, OFAC/EU lists for sanctions, IMF program status for      */
+/* econ fragility, World Bank WGI for institutional strength).            */
+/* ---------------------------------------------------------------------- */
+
+const CONFLICT_POINTS = { none: 0, low: 3, moderate: 8, high: 15, war: 25 };
+const SANCTIONS_POINTS = { none: 0, targeted: 8, heavy: 20, "near-total": 35 };
+const ECON_POINTS = { low: 0, moderate: 8, high: 18 };
+const INSTITUTION_POLITICAL_POINTS = { strong: 0, moderate: 4, weak: 10 };
+const INSTITUTION_REGULATORY_POINTS = { strong: 0, moderate: 4, weak: 8 };
+
+const CONFLICT_LABEL = { none: "no active conflict", low: "low conflict exposure", moderate: "moderate conflict exposure", high: "high conflict exposure", war: "active armed conflict" };
+const SANCTIONS_LABEL = { none: "no sanctions exposure", targeted: "targeted sanctions", heavy: "heavy sanctions regime", "near-total": "near-total sanctions isolation" };
+const ECON_LABEL = { low: "low economic fragility", moderate: "moderate economic fragility", high: "high economic fragility" };
+const INSTITUTION_LABEL = { strong: "strong institutions", moderate: "moderate institutional strength", weak: "weak institutional strength" };
+
+// { conflict, sanctions, econ, inst } per country — illustrative classification.
+const COUNTRY_FLAGS = {
+  "United States": { conflict: "low", sanctions: "none", econ: "low", inst: "strong" },
+  "Canada": { conflict: "none", sanctions: "none", econ: "low", inst: "strong" },
+  "Mexico": { conflict: "high", sanctions: "none", econ: "moderate", inst: "moderate" },
+  "Brazil": { conflict: "low", sanctions: "none", econ: "moderate", inst: "moderate" },
+  "Argentina": { conflict: "low", sanctions: "none", econ: "high", inst: "moderate" },
+  "Venezuela": { conflict: "moderate", sanctions: "heavy", econ: "high", inst: "weak" },
+  "Colombia": { conflict: "high", sanctions: "none", econ: "moderate", inst: "moderate" },
+  "Haiti": { conflict: "high", sanctions: "none", econ: "high", inst: "weak" },
+  "Chile": { conflict: "none", sanctions: "none", econ: "low", inst: "strong" },
+  "Germany": { conflict: "none", sanctions: "none", econ: "low", inst: "strong" },
+  "France": { conflict: "low", sanctions: "none", econ: "moderate", inst: "strong" },
+  "United Kingdom": { conflict: "none", sanctions: "none", econ: "low", inst: "strong" },
+  "Poland": { conflict: "low", sanctions: "none", econ: "low", inst: "moderate" },
+  "Ukraine": { conflict: "war", sanctions: "targeted", econ: "high", inst: "moderate" },
+  "Russia": { conflict: "high", sanctions: "near-total", econ: "moderate", inst: "weak" },
+  "Turkey": { conflict: "moderate", sanctions: "none", econ: "high", inst: "moderate" },
+  "Iran": { conflict: "moderate", sanctions: "near-total", econ: "high", inst: "weak" },
+  "Israel": { conflict: "high", sanctions: "none", econ: "low", inst: "moderate" },
+  "Saudi Arabia": { conflict: "low", sanctions: "none", econ: "low", inst: "moderate" },
+  "Egypt": { conflict: "moderate", sanctions: "none", econ: "high", inst: "moderate" },
+  "Yemen": { conflict: "war", sanctions: "targeted", econ: "high", inst: "weak" },
+  "UAE": { conflict: "low", sanctions: "none", econ: "low", inst: "moderate" },
+  "Nigeria": { conflict: "high", sanctions: "none", econ: "moderate", inst: "moderate" },
+  "South Africa": { conflict: "moderate", sanctions: "none", econ: "moderate", inst: "moderate" },
+  "Ethiopia": { conflict: "high", sanctions: "none", econ: "moderate", inst: "moderate" },
+  "Sudan": { conflict: "war", sanctions: "targeted", econ: "high", inst: "weak" },
+  "Kenya": { conflict: "moderate", sanctions: "none", econ: "moderate", inst: "moderate" },
+  "DR Congo": { conflict: "high", sanctions: "none", econ: "moderate", inst: "weak" },
+  "India": { conflict: "low", sanctions: "none", econ: "low", inst: "moderate" },
+  "Pakistan": { conflict: "moderate", sanctions: "none", econ: "high", inst: "moderate" },
+  "Bangladesh": { conflict: "low", sanctions: "none", econ: "moderate", inst: "moderate" },
+  "Afghanistan": { conflict: "high", sanctions: "heavy", econ: "high", inst: "weak" },
+  "Sri Lanka": { conflict: "low", sanctions: "none", econ: "high", inst: "moderate" },
+  "China": { conflict: "low", sanctions: "targeted", econ: "moderate", inst: "moderate" },
+  "Japan": { conflict: "none", sanctions: "none", econ: "low", inst: "strong" },
+  "South Korea": { conflict: "moderate", sanctions: "none", econ: "low", inst: "strong" },
+  "North Korea": { conflict: "moderate", sanctions: "near-total", econ: "high", inst: "weak" },
+  "Taiwan": { conflict: "high", sanctions: "none", econ: "low", inst: "strong" },
+  "Indonesia": { conflict: "low", sanctions: "none", econ: "low", inst: "moderate" },
+  "Vietnam": { conflict: "low", sanctions: "none", econ: "low", inst: "moderate" },
+  "Thailand": { conflict: "moderate", sanctions: "none", econ: "moderate", inst: "moderate" },
+  "Myanmar": { conflict: "war", sanctions: "heavy", econ: "high", inst: "weak" },
+  "Philippines": { conflict: "moderate", sanctions: "none", econ: "moderate", inst: "moderate" },
+  "Singapore": { conflict: "none", sanctions: "none", econ: "low", inst: "strong" },
+  "Kazakhstan": { conflict: "low", sanctions: "none", econ: "moderate", inst: "moderate" },
+  "Georgia": { conflict: "moderate", sanctions: "none", econ: "moderate", inst: "moderate" },
+  "Cuba": { conflict: "low", sanctions: "heavy", econ: "high", inst: "weak" },
+  "Ecuador": { conflict: "high", sanctions: "none", econ: "moderate", inst: "moderate" },
+  "Peru": { conflict: "moderate", sanctions: "none", econ: "moderate", inst: "moderate" },
+  "Italy": { conflict: "none", sanctions: "none", econ: "moderate", inst: "strong" },
+  "Serbia": { conflict: "moderate", sanctions: "targeted", econ: "moderate", inst: "moderate" },
+  "Belarus": { conflict: "moderate", sanctions: "heavy", econ: "high", inst: "weak" },
+  "Syria": { conflict: "war", sanctions: "heavy", econ: "high", inst: "weak" },
+  "Jordan": { conflict: "low", sanctions: "none", econ: "moderate", inst: "moderate" },
+  "Lebanon": { conflict: "moderate", sanctions: "none", econ: "high", inst: "weak" },
+  "Qatar": { conflict: "low", sanctions: "none", econ: "low", inst: "moderate" },
+  "Libya": { conflict: "high", sanctions: "targeted", econ: "high", inst: "weak" },
+  "Morocco": { conflict: "low", sanctions: "none", econ: "moderate", inst: "moderate" },
+  "Mali": { conflict: "war", sanctions: "targeted", econ: "high", inst: "weak" },
+  "Somalia": { conflict: "war", sanctions: "targeted", econ: "high", inst: "weak" },
+  "Zimbabwe": { conflict: "low", sanctions: "heavy", econ: "high", inst: "weak" },
+  "Malaysia": { conflict: "low", sanctions: "none", econ: "low", inst: "moderate" },
+  "Azerbaijan": { conflict: "moderate", sanctions: "none", econ: "moderate", inst: "moderate" },
+  "Australia": { conflict: "none", sanctions: "none", econ: "low", inst: "strong" },
+
+};
+
+function deriveBaseWeights(flags) {
+  if (!flags) return DEFAULT_WEIGHTS;
+  const w = { political: 25, conflict: 25, economic: 25, regulatory: 25 };
+  w.conflict += CONFLICT_POINTS[flags.conflict] ?? 0;
+  w.regulatory += SANCTIONS_POINTS[flags.sanctions] ?? 0;
+  w.economic += ECON_POINTS[flags.econ] ?? 0;
+  w.political += INSTITUTION_POLITICAL_POINTS[flags.inst] ?? 0;
+  w.regulatory += INSTITUTION_REGULATORY_POINTS[flags.inst] ?? 0;
+  return w;
+}
+
+function baselineRationale(flags) {
+  if (!flags) return "No classification on file — using flat structural baseline.";
+  return [CONFLICT_LABEL[flags.conflict], SANCTIONS_LABEL[flags.sanctions], ECON_LABEL[flags.econ], INSTITUTION_LABEL[flags.inst]]
+    .filter(Boolean)
+    .join(" · ");
+}
+
+/* ---------------------------------------------------------------------- */
+/* Color scale                                                            */
+/* ---------------------------------------------------------------------- */
+
+const STOPS = [
+  { at: 0, color: [61, 154, 107] },   // riskLow
+  { at: 45, color: [214, 163, 64] },  // riskMod
+  { at: 70, color: [196, 82, 63] },   // riskHigh
+  { at: 100, color: [139, 46, 61] },  // riskSevere
+];
+
+function lerp(a, b, t) {
+  return a + (b - a) * t;
+}
+
+function riskColor(score) {
+  for (let i = 0; i < STOPS.length - 1; i++) {
+    const a = STOPS[i];
+    const b = STOPS[i + 1];
+    if (score >= a.at && score <= b.at) {
+      const t = (score - a.at) / (b.at - a.at);
+      const r = Math.round(lerp(a.color[0], b.color[0], t));
+      const g = Math.round(lerp(a.color[1], b.color[1], t));
+      const bl = Math.round(lerp(a.color[2], b.color[2], t));
+      return `rgb(${r}, ${g}, ${bl})`;
+    }
+  }
+  return `rgb(${STOPS[STOPS.length - 1].color.join(", ")})`;
+}
+
+function riskLabel(score) {
+  if (score < 30) return "LOW";
+  if (score < 45) return "GUARDED";
+  if (score < 60) return "ELEVATED";
+  if (score < 75) return "HIGH";
+  return "SEVERE";
+}
+
+function trendGlyph(trend) {
+  if (trend === "up") return "▲";
+  if (trend === "down") return "▼";
+  return "▬";
+}
+function trendColor(trend) {
+  if (trend === "up") return "#C4523F";
+  if (trend === "down") return "#3D9A6B";
+  return "#5B6770";
+}
+
+/* ---------------------------------------------------------------------- */
+
+function IsobarRiskMap() {
+
+  const [regionFilter, setRegionFilter] = useState("All");
+  const [sort, setSort] = useState("score-desc");
+  const [query, setQuery] = useState("");
+  const [selectedName, setSelectedName] = useState(null);
+  const [now, setNow] = useState(new Date());
+  // customWeights: { [countryName]: { political, conflict, economic, regulatory } }
+  // Absence of an entry means "use DEFAULT_WEIGHTS".
+  const [customWeights, setCustomWeights] = useState({});
+
+  // Live data: this page tries to fetch data/scores.json (written by the
+  // scheduled robot script) on load. If it's missing or fails — e.g. this
+  // file is just being opened directly, not hosted with the robot set up
+  // yet — it silently falls back to the built-in sample numbers below, and
+  // says so honestly in the header rather than pretending to be live.
+  const [liveData, setLiveData] = useState(null);
+  const [liveStatus, setLiveStatus] = useState("loading"); // loading | live | fallback
+
+  useEffect(() => {
+    fetch("data/scores.json")
+      .then((r) => {
+        if (!r.ok) throw new Error("no live data file");
+        return r.json();
+      })
+      .then((data) => {
+        setLiveData(data);
+        setLiveStatus("live");
+      })
+      .catch(() => {
+        setLiveStatus("fallback");
+      });
+  }, []);
+
+  useEffect(() => {
+    const id = setInterval(() => setNow(new Date()), 30000);
+    return () => clearInterval(id);
+  }, []);
+
+  const COUNTRIES = useMemo(() => {
+    const liveByName = {};
+    if (liveData && liveData.countries) {
+      liveData.countries.forEach((lc) => { liveByName[lc.name] = lc; });
+    }
+    return RAW_COUNTRIES.map((c) => {
+      const live = liveByName[c.name];
+      const merged = live ? { ...c, political: live.political, conflict: live.conflict, trend: live.trend, note: live.note } : c;
+      const base = deriveBaseWeights(COUNTRY_FLAGS[merged.name]);
+      const weights = customWeights[merged.name] || base;
+      return {
+        ...merged,
+        weights,
+        baseWeights: base,
+        isCustom: Boolean(customWeights[merged.name]),
+        isLive: Boolean(live),
+        score: Math.round(composite(merged, weights)),
+      };
+    }).sort((a, b) => b.score - a.score);
+  }, [customWeights, liveData]);
+
+  const selected = useMemo(() => COUNTRIES.find((c) => c.name === selectedName) || null, [COUNTRIES, selectedName]);
+
+  const topAlerts = useMemo(() => COUNTRIES.slice(0, 8), [COUNTRIES]);
+
+  const filtered = useMemo(() => {
+    let list = COUNTRIES.filter((c) => (regionFilter === "All" ? true : c.region === regionFilter));
+    if (query.trim()) {
+      const q = query.trim().toLowerCase();
+      list = list.filter((c) => c.name.toLowerCase().includes(q));
+    }
+    list = [...list].sort((a, b) => {
+      if (sort === "score-desc") return b.score - a.score;
+      if (sort === "score-asc") return a.score - b.score;
+      return a.name.localeCompare(b.name);
+    });
+    return list;
+  }, [COUNTRIES, regionFilter, sort, query]);
+
+  const grouped = useMemo(() => {
+    const map = {};
+    filtered.forEach((c) => {
+      if (!map[c.region]) map[c.region] = [];
+      map[c.region].push(c);
+    });
+    return map;
+  }, [filtered]);
+
+  const avgScore = Math.round(COUNTRIES.reduce((s, c) => s + c.score, 0) / COUNTRIES.length);
+  const customCount = COUNTRIES.filter((c) => c.isCustom).length;
+
+  const displayRegions =
+    regionFilter === "All" ? REGIONS.filter((r) => grouped[r]) : REGIONS.filter((r) => r === regionFilter);
+
+  const barData = selected
+    ? [
+        { label: "Political", value: selected.political },
+        { label: "Conflict", value: selected.conflict },
+        { label: "Economic", value: selected.economic },
+        { label: "Regulatory", value: selected.regulatory },
+      ]
+    : [];
+
+  function updateSelectedWeight(key, value) {
+    if (!selected) return;
+    setCustomWeights((prev) => ({
+      ...prev,
+      [selected.name]: { ...(prev[selected.name] || selected.weights), [key]: Number(value) },
+    }));
+  }
+
+  function resetSelectedWeights() {
+    if (!selected) return;
+    setCustomWeights((prev) => {
+      const next = { ...prev };
+      delete next[selected.name];
+      return next;
+    });
+  }
+
+  return (
+    <div
+      style={{
+        fontFamily: FONT_BODY,
+        background: "#0A0D10",
+        color: "#E7ECEF",
+        minHeight: "100vh",
+        position: "relative",
+        overflow: "hidden",
+      }}
+    >
+      {/* faint isobar contour lines etched into the background */}
+      <IsobarBackdrop />
+
+      <div style={{ position: "relative", zIndex: 1 }}>
+        {/* ── Header ───────────────────────────────────────────────── */}
+        <header
+          style={{
+            borderBottom: "1px solid #212930",
+            padding: "20px 28px 16px",
+          }}
+        >
+          <div style={{ display: "flex", alignItems: "baseline", justifyContent: "space-between", flexWrap: "wrap", gap: 12 }}>
+            <div style={{ display: "flex", alignItems: "baseline", gap: 12 }}>
+              <h1
+                style={{
+                  fontFamily: FONT_DISPLAY,
+                  fontWeight: 700,
+                  fontSize: 26,
+                  letterSpacing: "0.02em",
+                  margin: 0,
+                }}
+              >
+                ISOBAR
+              </h1>
+              <span style={{ fontFamily: FONT_MONO, fontSize: 11, color: "#5B6770", letterSpacing: "0.08em" }}>
+                GLOBAL RISK PRESSURE INDEX
+              </span>
+            </div>
+            <div style={{ fontFamily: FONT_MONO, fontSize: 11, color: "#5B6770", textAlign: "right" }}>
+              <div>
+                LAST SYNC{" "}
+                <span style={{ color: "#4FB8C4" }}>
+                  {now.toLocaleTimeString([], { hour: "2-digit", minute: "2-digit" })}
+                </span>
+              </div>
+              <div>
+                {COUNTRIES.length} MARKETS ·{" "}
+                {liveStatus === "loading" && <span style={{ color: "#5B6770" }}>CHECKING FOR LIVE DATA…</span>}
+                {liveStatus === "live" && <span style={{ color: "#3D9A6B" }}>● LIVE FEED CONNECTED</span>}
+                {liveStatus === "fallback" && <span style={{ color: "#D6A340" }}>SAMPLE DATA (no live feed found)</span>}
+              </div>
+              {liveStatus === "live" && liveData && liveData.generatedAt && (
+                <div style={{ marginTop: 2, color: "#5B6770" }}>
+                  Feed generated {new Date(liveData.generatedAt).toLocaleString([], { month: "short", day: "numeric", hour: "2-digit", minute: "2-digit" })}
+                </div>
+              )}
+            </div>
+          </div>
+          <p style={{ color: "#94A2AB", fontSize: 13.5, marginTop: 10, maxWidth: 640, lineHeight: 1.5 }}>
+            Reading the pressure systems shaping global risk. Composite score blends political,
+            conflict, economic, and regulatory pressure per market — refreshed on a rolling cycle.
+          </p>
+        </header>
+
+        {/* ── Ticker ───────────────────────────────────────────────── */}
+        <div
+          style={{
+            borderBottom: "1px solid #212930",
+            background: "#12171C",
+            padding: "8px 0",
+            overflow: "hidden",
+            whiteSpace: "nowrap",
+          }}
+        >
+          <div className="isobar-ticker" style={{ display: "inline-flex", gap: 40 }}>
+            {[...topAlerts, ...topAlerts].map((c, i) => (
+              <span key={i} style={{ fontFamily: FONT_MONO, fontSize: 12, color: "#94A2AB" }}>
+                <span style={{ color: riskColor(c.score), fontWeight: 600 }}>● {c.name}</span>{" "}
+                <span style={{ color: "#5B6770" }}>{c.score}</span>{" "}
+                <span style={{ color: trendColor(c.trend) }}>{trendGlyph(c.trend)}</span>{" "}
+                <span style={{ color: "#5B6770" }}>— {c.note}</span>
+              </span>
+            ))}
+          </div>
+        </div>
+
+        <div style={{ display: "flex", alignItems: "flex-start" }}>
+          {/* ── Sidebar ────────────────────────────────────────────── */}
+          <aside
+            style={{
+              width: 220,
+              flexShrink: 0,
+              borderRight: "1px solid #212930",
+              padding: "24px 18px",
+              minHeight: "calc(100vh - 140px)",
+            }}
+          >
+            <div style={{ marginBottom: 24 }}>
+              <div style={{ fontFamily: FONT_MONO, fontSize: 11, color: "#5B6770", marginBottom: 10, letterSpacing: "0.06em" }}>
+                GLOBAL AVERAGE
+              </div>
+              <div style={{ fontFamily: FONT_MONO, fontSize: 32, fontWeight: 600, color: riskColor(avgScore) }}>
+                {avgScore}
+              </div>
+              <div style={{ fontSize: 11, color: "#5B6770", marginTop: 2 }}>{riskLabel(avgScore)} PRESSURE</div>
+            </div>
+
+            <div style={{ marginBottom: 22 }}>
+              <label style={{ fontFamily: FONT_MONO, fontSize: 11, color: "#5B6770", letterSpacing: "0.06em" }}>
+                SEARCH
+              </label>
+              <input
+                value={query}
+                onChange={(e) => setQuery(e.target.value)}
+                placeholder="Find a market…"
+                style={{
+                  width: "100%",
+                  marginTop: 6,
+                  background: "#12171C",
+                  border: "1px solid #212930",
+                  borderRadius: 4,
+                  padding: "8px 10px",
+                  color: "#E7ECEF",
+                  fontSize: 13,
+                  outline: "none",
+                }}
+              />
+            </div>
+
+            <div style={{ marginBottom: 22 }}>
+              <label style={{ fontFamily: FONT_MONO, fontSize: 11, color: "#5B6770", letterSpacing: "0.06em" }}>
+                REGION
+              </label>
+              <div style={{ display: "flex", flexDirection: "column", gap: 4, marginTop: 8 }}>
+                {["All", ...REGIONS].map((r) => (
+                  <button
+                    key={r}
+                    onClick={() => setRegionFilter(r)}
+                    style={{
+                      textAlign: "left",
+                      background: regionFilter === r ? "#1B2329" : "transparent",
+                      border: "none",
+                      borderLeft: regionFilter === r ? "2px solid #4FB8C4" : "2px solid transparent",
+                      color: regionFilter === r ? "#E7ECEF" : "#94A2AB",
+                      padding: "6px 8px",
+                      fontSize: 12.5,
+                      cursor: "pointer",
+                      borderRadius: 2,
+                    }}
+                  >
+                    {r}
+                  </button>
+                ))}
+              </div>
+            </div>
+
+            <div>
+              <label style={{ fontFamily: FONT_MONO, fontSize: 11, color: "#5B6770", letterSpacing: "0.06em" }}>
+                SORT
+              </label>
+              <select
+                value={sort}
+                onChange={(e) => setSort(e.target.value)}
+                style={{
+                  width: "100%",
+                  marginTop: 6,
+                  background: "#12171C",
+                  border: "1px solid #212930",
+                  borderRadius: 4,
+                  padding: "8px 10px",
+                  color: "#E7ECEF",
+                  fontSize: 12.5,
+                }}
+              >
+                <option value="score-desc">Highest pressure first</option>
+                <option value="score-asc">Lowest pressure first</option>
+                <option value="alpha">Alphabetical</option>
+              </select>
+            </div>
+          </aside>
+
+          {/* ── Main grid ──────────────────────────────────────────── */}
+          <main style={{ flex: 1, padding: "24px 28px", minWidth: 0 }}>
+            {displayRegions.length === 0 && (
+              <div style={{ color: "#5B6770", fontSize: 13 }}>No markets match this filter.</div>
+            )}
+            {displayRegions.map((region) => (
+              <div key={region} style={{ marginBottom: 28 }}>
+                <div
+                  style={{
+                    fontFamily: FONT_MONO,
+                    fontSize: 11.5,
+                    color: "#5B6770",
+                    letterSpacing: "0.08em",
+                    marginBottom: 10,
+                    display: "flex",
+                    alignItems: "center",
+                    gap: 8,
+                  }}
+                >
+                  {region.toUpperCase()}
+                  <span style={{ flex: 1, height: 1, background: "#212930" }} />
+                </div>
+                <div
+                  style={{
+                    display: "grid",
+                    gridTemplateColumns: "repeat(auto-fill, minmax(150px, 1fr))",
+                    gap: 10,
+                  }}
+                >
+                  {grouped[region].map((c) => (
+                    <button
+                      key={c.name}
+                      onClick={() => setSelectedName(c.name)}
+                      style={{
+                        textAlign: "left",
+                        background: "#12171C",
+                        border: "1px solid #212930",
+                        borderLeft: `3px solid ${riskColor(c.score)}`,
+                        borderRadius: 4,
+                        padding: "10px 12px",
+                        cursor: "pointer",
+                        transition: "transform 0.12s ease, border-color 0.12s ease",
+                        position: "relative",
+                      }}
+                      onMouseEnter={(e) => (e.currentTarget.style.borderColor = "#4FB8C4")}
+                      onMouseLeave={(e) => (e.currentTarget.style.borderColor = "#212930")}
+                    >
+                      {c.isCustom && (
+                        <span
+                          title="Custom weighting applied"
+                          style={{
+                            position: "absolute",
+                            top: 8,
+                            right: 8,
+                            width: 6,
+                            height: 6,
+                            borderRadius: "50%",
+                            background: "#4FB8C4",
+                          }}
+                        />
+                      )}
+                      <div style={{ fontSize: 13, color: "#E7ECEF", fontWeight: 500, marginBottom: 4 }}>{c.name}</div>
+                      <div style={{ display: "flex", alignItems: "baseline", justifyContent: "space-between" }}>
+                        <span
+                          style={{
+                            fontFamily: FONT_MONO,
+                            fontSize: 20,
+                            fontWeight: 600,
+                            color: riskColor(c.score),
+                          }}
+                        >
+                          {c.score}
+                        </span>
+                        <span style={{ fontSize: 10.5, color: trendColor(c.trend), fontFamily: FONT_MONO }}>
+                          {trendGlyph(c.trend)}
+                        </span>
+                      </div>
+                      <div style={{ fontSize: 9.5, color: "#5B6770", marginTop: 2, letterSpacing: "0.04em" }}>
+                        {riskLabel(c.score)}
+                      </div>
+                    </button>
+                  ))}
+                </div>
+              </div>
+            ))}
+
+            {/* ── Methodology strip ─────────────────────────────────── */}
+            <div
+              style={{
+                marginTop: 32,
+                borderTop: "1px solid #212930",
+                paddingTop: 18,
+              }}
+            >
+              <div style={{ fontFamily: FONT_MONO, fontSize: 11, color: "#5B6770", letterSpacing: "0.06em", marginBottom: 12 }}>
+                PROPRIETARY WEIGHTING FRAMEWORK
+              </div>
+              <div style={{ display: "flex", gap: 28, flexWrap: "wrap", marginBottom: 12 }}>
+                <FrameworkDim label="Conflict exposure" detail="Pushes conflict weight up — none → active war" />
+                <FrameworkDim label="Sanctions regime" detail="Pushes regulatory weight up — none → near-total" />
+                <FrameworkDim label="Economic fragility" detail="Pushes economic weight up — low → high" />
+                <FrameworkDim label="Institutional strength" detail="Pushes political & regulatory up as it weakens" />
+              </div>
+              <div style={{ fontSize: 11.5, color: "#5B6770", maxWidth: 640, lineHeight: 1.5 }}>
+                Every market starts from an even 25/25/25/25 baseline, then each dimension above adds
+                weight to the factors it structurally affects — so a country under heavy sanctions
+                weights regulatory risk higher by default, while an active conflict zone weights
+                conflict higher, without anyone hand-picking numbers per country. Click any market to
+                see its specific baseline and adjust it further.{" "}
+                {customCount > 0 && (
+                  <>
+                    <span style={{ color: "#4FB8C4" }}>{customCount}</span> market
+                    {customCount > 1 ? "s" : ""} currently overridden beyond the proprietary baseline (
+                    <span style={{ color: "#4FB8C4" }}>●</span> marker on tile).
+                  </>
+                )}
+              </div>
+              <div style={{ fontSize: 10.5, color: "#4A5560", maxWidth: 640, marginTop: 10 }}>
+                Illustrative classification for demo purposes. Production version would tie each
+                dimension to a real indicator — ACLED intensity for conflict, OFAC/EU lists for
+                sanctions, IMF program status for economic fragility, World Bank governance indicators
+                for institutional strength.
+              </div>
+            </div>
+          </main>
+        </div>
+      </div>
+
+      {/* ── Drawer ───────────────────────────────────────────────── */}
+      {selected && (
+        <div
+          onClick={() => setSelectedName(null)}
+          style={{
+            position: "fixed",
+            inset: 0,
+            background: "rgba(10,13,16,0.6)",
+            zIndex: 10,
+            display: "flex",
+            justifyContent: "flex-end",
+          }}
+        >
+          <div
+            onClick={(e) => e.stopPropagation()}
+            style={{
+              width: 380,
+              maxWidth: "90vw",
+              background: "#171E24",
+              borderLeft: "1px solid #212930",
+              height: "100%",
+              padding: "26px 24px",
+              overflowY: "auto",
+            }}
+          >
+            <div style={{ display: "flex", justifyContent: "space-between", alignItems: "flex-start" }}>
+              <div>
+                <div style={{ fontFamily: FONT_MONO, fontSize: 10.5, color: "#5B6770", letterSpacing: "0.08em" }}>
+                  {selected.region.toUpperCase()}
+                </div>
+                <h2 style={{ fontFamily: FONT_DISPLAY, fontSize: 22, margin: "4px 0 0" }}>{selected.name}</h2>
+              </div>
+              <button
+                onClick={() => setSelectedName(null)}
+                style={{ background: "none", border: "none", color: "#5B6770", fontSize: 18, cursor: "pointer" }}
+              >
+                ✕
+              </button>
+            </div>
+
+            <div style={{ display: "flex", alignItems: "baseline", gap: 10, marginTop: 18 }}>
+              <span style={{ fontFamily: FONT_MONO, fontSize: 40, fontWeight: 600, color: riskColor(selected.score) }}>
+                {selected.score}
+              </span>
+              <span style={{ fontSize: 12.5, color: "#94A2AB" }}>{riskLabel(selected.score)} PRESSURE</span>
+              <span style={{ fontFamily: FONT_MONO, fontSize: 13, color: trendColor(selected.trend), marginLeft: "auto" }}>
+                {trendGlyph(selected.trend)} {selected.trend.toUpperCase()}
+              </span>
+            </div>
+
+            <p style={{ fontSize: 13, color: "#94A2AB", marginTop: 14, lineHeight: 1.5 }}>{selected.note}</p>
+
+            <div style={{ marginTop: 24 }}>
+              <div style={{ fontFamily: FONT_MONO, fontSize: 11, color: "#5B6770", marginBottom: 10, letterSpacing: "0.06em" }}>
+                SUB-SCORE BREAKDOWN
+              </div>
+              <div style={{ display: "flex", flexDirection: "column", gap: 14 }}>
+                {barData.map((d) => (
+                  <div key={d.label}>
+                    <div style={{ display: "flex", justifyContent: "space-between", fontSize: 12, color: "#94A2AB", marginBottom: 4 }}>
+                      <span>{d.label}</span>
+                      <span style={{ fontFamily: FONT_MONO, color: riskColor(d.value) }}>{d.value}</span>
+                    </div>
+                    <div style={{ background: "#1B2329", borderRadius: 3, height: 8, overflow: "hidden" }}>
+                      <div style={{ width: d.value + "%", height: "100%", background: riskColor(d.value), borderRadius: 3 }} />
+                    </div>
+                  </div>
+                ))}
+              </div>
+            </div>
+
+            <div style={{ marginTop: 24, borderTop: "1px solid #212930", paddingTop: 18 }}>
+              <div style={{ display: "flex", justifyContent: "space-between", alignItems: "baseline", marginBottom: 6 }}>
+                <div style={{ fontFamily: FONT_MONO, fontSize: 11, color: "#5B6770", letterSpacing: "0.06em" }}>
+                  WEIGHTING FOR {selected.name.toUpperCase()}
+                </div>
+                {selected.isCustom && (
+                  <button
+                    onClick={resetSelectedWeights}
+                    style={{
+                      background: "none",
+                      border: "none",
+                      color: "#4FB8C4",
+                      fontSize: 11,
+                      cursor: "pointer",
+                      fontFamily: FONT_MONO,
+                    }}
+                  >
+                    ↺ RESET TO BASELINE
+                  </button>
+                )}
+              </div>
+
+              <div style={{ fontSize: 11, color: "#94A2AB", marginBottom: 14, lineHeight: 1.5 }}>
+                <span style={{ color: "#5B6770" }}>Baseline drivers:</span>{" "}
+                {baselineRationale(COUNTRY_FLAGS[selected.name])}
+              </div>
+
+              {(() => {
+                const total = FACTOR_KEYS.reduce((s, k) => s + selected.weights[k], 0) || 1;
+                return FACTOR_KEYS.map((k) => (
+                  <div key={k} style={{ marginBottom: 12 }}>
+                    <div style={{ display: "flex", justifyContent: "space-between", fontSize: 12, marginBottom: 4 }}>
+                      <span style={{ textTransform: "capitalize", color: "#94A2AB" }}>{k}</span>
+                      <span style={{ fontFamily: FONT_MONO, color: "#4FB8C4" }}>
+                        {Math.round((selected.weights[k] / total) * 100)}%
+                      </span>
+                    </div>
+                    <input
+                      type="range"
+                      min={0}
+                      max={100}
+                      value={selected.weights[k]}
+                      onChange={(e) => updateSelectedWeight(k, e.target.value)}
+                      style={{ width: "100%", accentColor: "#4FB8C4" }}
+                    />
+                  </div>
+                ));
+              })()}
+
+              <div style={{ fontSize: 10.5, color: "#5B6770", marginTop: 6, lineHeight: 1.5 }}>
+                Sliders don't need to sum to 100 — they're normalized automatically. This override
+                applies to {selected.name} only; every other market keeps its own proprietary
+                baseline unless you adjust it too.
+              </div>
+            </div>
+
+            <div style={{ marginTop: 16, borderTop: "1px solid #212930", paddingTop: 14, fontSize: 11, color: "#5B6770" }}>
+              Composite = Σ(sub-score × weight) ÷ Σ(weights)
+            </div>
+          </div>
+        </div>
+      )}
+
+      <style>{`
+        @keyframes isobar-scroll {
+          from { transform: translateX(0); }
+          to { transform: translateX(-50%); }
+        }
+        .isobar-ticker {
+          animation: isobar-scroll 60s linear infinite;
+        }
+        @media (prefers-reduced-motion: reduce) {
+          .isobar-ticker { animation: none; }
+        }
+        button:focus-visible, input:focus-visible, select:focus-visible {
+          outline: 2px solid #4FB8C4;
+          outline-offset: 1px;
+        }
+      `}</style>
+    </div>
+  );
+}
+
+function FrameworkDim({ label, detail }) {
+  return (
+    <div style={{ minWidth: 180, maxWidth: 220 }}>
+      <div style={{ fontSize: 12.5, color: "#E7ECEF", fontWeight: 500, marginBottom: 2 }}>{label}</div>
+      <div style={{ fontSize: 11, color: "#5B6770", lineHeight: 1.4 }}>{detail}</div>
+    </div>
+  );
+}
+
+function IsobarBackdrop() {
+  // faint concentric contour lines, echoing pressure-system maps
+  const rings = Array.from({ length: 6 }, (_, i) => 60 + i * 70);
+  return (
+    <svg
+      style={{ position: "absolute", top: -100, right: -150, opacity: 0.35, pointerEvents: "none" }}
+      width="700"
+      height="700"
+      viewBox="0 0 700 700"
+    >
+      {rings.map((r, i) => (
+        <circle key={i} cx="350" cy="350" r={r} fill="none" stroke="#212930" strokeWidth="1" />
+      ))}
+    </svg>
+  );
+}
+
+
+    ReactDOM.createRoot(document.getElementById("root")).render(<IsobarRiskMap />);
+    document.getElementById("root").dataset.mounted = "true";
+  </script>
+</body>
+</html>
