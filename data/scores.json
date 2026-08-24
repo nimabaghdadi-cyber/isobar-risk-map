@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-23T19:13:32.145960+00:00",
+  "generatedAt": "2026-08-24T03:44:18.760551+00:00",
   "source": "GDELT (news tone/volume, 3-day window) blended 50/50 with baseline",
   "countries": [
     {
@@ -29,7 +29,7 @@
       "conflict": 58,
       "economic": 40,
       "regulatory": 46,
-      "trend": "down",
+      "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline."
     },
     {
@@ -55,12 +55,12 @@
     {
       "name": "Venezuela",
       "region": "Latin America",
-      "political": 71,
+      "political": 82,
       "conflict": 48,
       "economic": 88,
       "regulatory": 80,
-      "trend": "down",
-      "note": "Live-updated from recent news coverage."
+      "trend": "up",
+      "note": "No fresh coverage this cycle; showing baseline."
     },
     {
       "name": "Colombia",
@@ -79,7 +79,7 @@
       "conflict": 84,
       "economic": 78,
       "regulatory": 82,
-      "trend": "up",
+      "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline."
     },
     {
@@ -115,22 +115,22 @@
     {
       "name": "United Kingdom",
       "region": "Europe",
-      "political": 26,
+      "political": 40,
       "conflict": 10,
       "economic": 24,
       "regulatory": 22,
-      "trend": "flat",
-      "note": "No fresh coverage this cycle; showing baseline."
+      "trend": "up",
+      "note": "Live-updated from recent news coverage."
     },
     {
       "name": "Poland",
       "region": "Europe",
-      "political": 24,
+      "political": 43,
       "conflict": 20,
       "economic": 22,
       "regulatory": 20,
-      "trend": "flat",
-      "note": "No fresh coverage this cycle; showing baseline."
+      "trend": "up",
+      "note": "Live-updated from recent news coverage."
     },
     {
       "name": "Ukraine",
@@ -139,7 +139,7 @@
       "conflict": 92,
       "economic": 70,
       "regulatory": 58,
-      "trend": "down",
+      "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline."
     },
     {
@@ -159,18 +159,18 @@
       "conflict": 38,
       "economic": 60,
       "regulatory": 48,
-      "trend": "down",
+      "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline."
     },
     {
       "name": "Switzerland",
       "region": "Europe",
-      "political": 8,
+      "political": 30,
       "conflict": 4,
       "economic": 12,
       "regulatory": 10,
-      "trend": "flat",
-      "note": "No fresh coverage this cycle; showing baseline."
+      "trend": "up",
+      "note": "Live-updated from recent news coverage."
     },
     {
       "name": "Iran",
@@ -189,7 +189,7 @@
       "conflict": 66,
       "economic": 34,
       "regulatory": 30,
-      "trend": "down",
+      "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline."
     },
     {
@@ -209,7 +209,7 @@
       "conflict": 34,
       "economic": 56,
       "regulatory": 44,
-      "trend": "down",
+      "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline."
     },
     {
@@ -245,12 +245,12 @@
     {
       "name": "South Africa",
       "region": "Sub-Saharan Africa",
-      "political": 45,
+      "political": 38,
       "conflict": 30,
       "economic": 46,
       "regulatory": 40,
-      "trend": "up",
-      "note": "Live-updated from recent news coverage."
+      "trend": "down",
+      "note": "No fresh coverage this cycle; showing baseline."
     },
     {
       "name": "Ethiopia",
@@ -295,12 +295,12 @@
     {
       "name": "India",
       "region": "South Asia",
-      "political": 30,
+      "political": 40,
       "conflict": 26,
       "economic": 24,
       "regulatory": 32,
-      "trend": "flat",
-      "note": "No fresh coverage this cycle; showing baseline."
+      "trend": "up",
+      "note": "Live-updated from recent news coverage."
     },
     {
       "name": "Pakistan",
@@ -329,7 +329,7 @@
       "conflict": 70,
       "economic": 80,
       "regulatory": 84,
-      "trend": "up",
+      "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline."
     },
     {
@@ -365,42 +365,42 @@
     {
       "name": "South Korea",
       "region": "East Asia",
-      "political": 43,
+      "political": 30,
       "conflict": 24,
       "economic": 20,
       "regulatory": 18,
-      "trend": "up",
-      "note": "Live-updated from recent news coverage."
+      "trend": "down",
+      "note": "No fresh coverage this cycle; showing baseline."
     },
     {
       "name": "North Korea",
       "region": "East Asia",
-      "political": 86,
+      "political": 74,
       "conflict": 60,
       "economic": 84,
       "regulatory": 92,
-      "trend": "flat",
-      "note": "No fresh coverage this cycle; showing baseline."
+      "trend": "down",
+      "note": "Live-updated from recent news coverage."
     },
     {
       "name": "Taiwan",
       "region": "East Asia",
-      "political": 50,
+      "political": 44,
       "conflict": 48,
       "economic": 26,
       "regulatory": 20,
-      "trend": "flat",
-      "note": "Live-updated from recent news coverage."
+      "trend": "down",
+      "note": "No fresh coverage this cycle; showing baseline."
     },
     {
       "name": "Indonesia",
       "region": "Southeast Asia",
-      "political": 41,
+      "political": 28,
       "conflict": 20,
       "economic": 30,
       "regulatory": 32,
-      "trend": "up",
-      "note": "Live-updated from recent news coverage."
+      "trend": "down",
+      "note": "No fresh coverage this cycle; showing baseline."
     },
     {
       "name": "Vietnam",
@@ -425,22 +425,22 @@
     {
       "name": "Myanmar",
       "region": "Southeast Asia",
-      "political": 82,
+      "political": 72,
       "conflict": 78,
       "economic": 72,
       "regulatory": 70,
-      "trend": "flat",
-      "note": "No fresh coverage this cycle; showing baseline."
+      "trend": "down",
+      "note": "Live-updated from recent news coverage."
     },
     {
       "name": "Philippines",
       "region": "Southeast Asia",
-      "political": 34,
+      "political": 44,
       "conflict": 30,
       "economic": 32,
       "regulatory": 30,
-      "trend": "down",
-      "note": "No fresh coverage this cycle; showing baseline."
+      "trend": "up",
+      "note": "Live-updated from recent news coverage."
     },
     {
       "name": "Singapore",
@@ -455,12 +455,12 @@
     {
       "name": "Kazakhstan",
       "region": "Eurasia",
-      "political": 44,
+      "political": 34,
       "conflict": 20,
       "economic": 34,
       "regulatory": 36,
-      "trend": "up",
-      "note": "Live-updated from recent news coverage."
+      "trend": "down",
+      "note": "No fresh coverage this cycle; showing baseline."
     },
     {
       "name": "Georgia",
