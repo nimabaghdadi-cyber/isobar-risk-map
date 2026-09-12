@@ -27,14 +27,25 @@ this file. Can also be run by hand: `python update_scores.py`
 """
 
 import json
-import time
+import re
 import urllib.request
 import urllib.parse
 from pathlib import Path
 from datetime import datetime, timezone
+from concurrent.futures import ThreadPoolExecutor, as_completed
 
 GDELT_DOC_API = "https://api.gdeltproject.org/api/v2/doc/doc"
 DATA_FILE = Path(__file__).parent / "data" / "scores.json"
+HISTORY_FILE = Path(__file__).parent / "data" / "history.json"
+HEADLINES_DIR = Path(__file__).parent / "data" / "headlines"
+MAX_HISTORY_POINTS = 120  # ~30 days at 4 runs/day
+MAX_ALERTS = 30
+MAX_WORKERS = 8  # concurrent countries in flight — cuts a ~25min serial run to a few minutes
+MAX_ARCHIVE_ARTICLES = 100
+
+
+def slugify(name: str) -> str:
+    return re.sub(r"[^a-z0-9]+", "-", name.lower()).strip("-")
 
 # Baseline scores — mirrors the original 48 hand-considered countries in
 # the app. (The other ~130 auto-generated countries are left static for
@@ -142,14 +153,19 @@ def fetch_articles(country_name: str, max_articles: int = 4):
     country from GDELT. These are shown verbatim on the site — nothing
     here is AI-written, it's just real headlines with real links, so
     there's no fabrication risk. Returns [] on failure.
+
+    Sorted by relevance (HybridRel), not pure recency (DateDesc) — when
+    a country has sparse direct coverage, sorting by "most recent" alone
+    causes GDELT to backfill with unrelated recent articles just to hit
+    the record count, rather than returning fewer, more relevant ones.
     """
     params = {
         "query": f'"{country_name}" sourcelang:eng',
         "mode": "artlist",
         "format": "json",
-        "timespan": "3d",
-        "maxrecords": str(max_articles),
-        "sort": "DateDesc",
+        "timespan": "7d",
+        "maxrecords": "10",
+        "sort": "HybridRel",
     }
     url = GDELT_DOC_API + "?" + urllib.parse.urlencode(params)
     try:
@@ -160,16 +176,75 @@ def fetch_articles(country_name: str, max_articles: int = 4):
         print(f"  [warn] GDELT article fetch failed for {country_name}: {exc}")
         return []
 
-    articles = payload.get("articles", [])[:max_articles]
-    return [
-        {
-            "title": a.get("title", "").strip(),
-            "url": a.get("url", ""),
-            "domain": a.get("domain", ""),
-        }
-        for a in articles
-        if a.get("title") and a.get("url")
-    ]
+    raw_articles = payload.get("articles", [])
+    seen_titles = set()
+    deduped = []
+    for a in raw_articles:
+        title = (a.get("title") or "").strip()
+        url_ = a.get("url", "")
+        if not title or not url_:
+            continue
+        key = title.lower()
+        if key in seen_titles:
+            continue  # skip syndicated duplicates of the same wire story
+        seen_titles.add(key)
+        deduped.append({"title": title, "url": url_, "domain": a.get("domain", "")})
+        if len(deduped) >= max_articles:
+            break
+    return deduped
+
+
+def fetch_full_archive(country_name: str, max_articles: int = MAX_ARCHIVE_ARTICLES):
+    """Fetch up to 100 dated headlines about a country, going back 30 days.
+    Also relevance-sorted first (same reasoning as fetch_articles — avoids
+    irrelevant backfill for sparsely-covered countries), then re-sorted by
+    actual publish date, newest first, for display. A quiet country simply
+    gets however many real articles exist — never padded to hit 100.
+    """
+    params = {
+        "query": f'"{country_name}" sourcelang:eng',
+        "mode": "artlist",
+        "format": "json",
+        "timespan": "30d",
+        "maxrecords": "100",
+        "sort": "HybridRel",
+    }
+    url = GDELT_DOC_API + "?" + urllib.parse.urlencode(params)
+    try:
+        req = urllib.request.Request(url, headers={"User-Agent": "isobar-risk-map/1.0"})
+        with urllib.request.urlopen(req, timeout=25) as resp:
+            payload = json.loads(resp.read().decode("utf-8"))
+    except Exception as exc:
+        print(f"  [warn] GDELT archive fetch failed for {country_name}: {exc}")
+        return []
+
+    raw_articles = payload.get("articles", [])
+    seen_titles = set()
+    items = []
+    for a in raw_articles:
+        title = (a.get("title") or "").strip()
+        url_ = a.get("url", "")
+        if not title or not url_:
+            continue
+        key = title.lower()
+        if key in seen_titles:
+            continue
+        seen_titles.add(key)
+
+        seendate = a.get("seendate", "")
+        try:
+            dt = datetime.strptime(seendate, "%Y%m%dT%H%M%SZ")
+            date_str = dt.strftime("%b %d, %Y")
+        except Exception:
+            dt = datetime.min
+            date_str = ""
+
+        items.append({"title": title, "url": url_, "domain": a.get("domain", ""), "date": date_str, "_dt": dt})
+
+    items.sort(key=lambda x: x["_dt"], reverse=True)
+    for it in items:
+        it.pop("_dt", None)
+    return items[:max_articles]
 
 
 def tone_reading(avg_tone):
@@ -215,6 +290,20 @@ def volume_to_conflict_bump(article_count: int) -> float:
     return min(15, article_count / 40)
 
 
+def risk_band(score):
+    # Mirrors the thresholds used on the website's riskLabel() function —
+    # keep these two in sync if you ever change one.
+    if score < 30:
+        return "LOW"
+    if score < 45:
+        return "GUARDED"
+    if score < 60:
+        return "ELEVATED"
+    if score < 75:
+        return "HIGH"
+    return "SEVERE"
+
+
 def load_previous():
     if DATA_FILE.exists():
         try:
@@ -224,66 +313,146 @@ def load_previous():
     return None
 
 
+def load_history():
+    if HISTORY_FILE.exists():
+        try:
+            return json.loads(HISTORY_FILE.read_text())
+        except Exception:
+            return {}
+    return {}
+
+
+def process_country(name, base, previous_by_name):
+    """Everything needed for one country — this runs concurrently across
+    countries via the thread pool below, so it must not depend on shared
+    mutable state."""
+    avg_tone, count = fetch_tone(name)
+    headlines = fetch_articles(name)
+    archive = fetch_full_archive(name)
+
+    if avg_tone is None:
+        political = base["political"]
+        conflict = base["conflict"]
+    else:
+        political_signal = tone_to_political_signal(avg_tone)
+        conflict_bump = volume_to_conflict_bump(count) if avg_tone < -3 else 0
+        political = round(base["political"] * 0.5 + political_signal * 0.5)
+        conflict = round(min(100, base["conflict"] * 0.5 + (base["conflict"] + conflict_bump) * 0.5))
+
+    prev_entry = previous_by_name.get(name)
+    prev_score = None
+    if prev_entry:
+        prev_score = prev_entry.get("political", 0) * 0.5 + prev_entry.get("conflict", 0) * 0.5
+    new_score = political * 0.5 + conflict * 0.5
+
+    if prev_score is None:
+        trend = "flat"
+    elif new_score > prev_score + 2:
+        trend = "up"
+    elif new_score < prev_score - 2:
+        trend = "down"
+    else:
+        trend = "flat"
+
+    return {
+        "name": name,
+        "region": base["region"],
+        "political": political,
+        "conflict": conflict,
+        "economic": base["economic"],
+        "regulatory": base["regulatory"],
+        "trend": trend,
+        "note": "Live-updated from recent news coverage." if avg_tone is not None else "No fresh coverage this cycle; showing baseline.",
+        "headlines": headlines,
+        "toneReading": tone_reading(avg_tone),
+        "volumeReading": volume_reading(count),
+        "_trackScore": round(new_score),  # internal, used for history/alerts below
+        "_prevScore": prev_score,
+        "_archive": archive,
+    }
+
+
 def main():
     previous = load_previous()
     previous_by_name = {c["name"]: c for c in (previous or {}).get("countries", [])} if previous else {}
+    history = load_history()
+    prev_alerts = (previous or {}).get("alerts", []) if previous else []
 
+    now_iso = datetime.now(timezone.utc).isoformat()
     results = []
-    for name, base in BASELINE.items():
-        print(f"Checking {name}...")
-        avg_tone, count = fetch_tone(name)
-        headlines = fetch_articles(name)
+    new_alerts = []
 
-        if avg_tone is None:
-            # No usable data this run — keep the baseline untouched.
-            political = base["political"]
-            conflict = base["conflict"]
-        else:
-            political_signal = tone_to_political_signal(avg_tone)
-            conflict_bump = volume_to_conflict_bump(count) if avg_tone < -3 else 0
-            # Blend 50/50 with baseline so one noisy day can't swing scores wildly.
-            political = round(base["political"] * 0.5 + political_signal * 0.5)
-            conflict = round(min(100, base["conflict"] * 0.5 + (base["conflict"] + conflict_bump) * 0.5))
+    print(f"Checking {len(BASELINE)} countries with up to {MAX_WORKERS} in parallel...")
+    with ThreadPoolExecutor(max_workers=MAX_WORKERS) as executor:
+        futures = {
+            executor.submit(process_country, name, base, previous_by_name): name
+            for name, base in BASELINE.items()
+        }
+        for future in as_completed(futures):
+            name = futures[future]
+            try:
+                result = future.result()
+            except Exception as exc:
+                print(f"  [warn] {name} failed entirely this run: {exc}")
+                continue
+            print(f"  done: {name}")
+            results.append(result)
 
-        prev_entry = previous_by_name.get(name)
-        prev_score = None
-        if prev_entry:
-            prev_score = prev_entry.get("political", 0) * 0.5 + prev_entry.get("conflict", 0) * 0.5
-        new_score = political * 0.5 + conflict * 0.5
-        if prev_score is None:
-            trend = "flat"
-        elif new_score > prev_score + 2:
-            trend = "up"
-        elif new_score < prev_score - 2:
-            trend = "down"
-        else:
-            trend = "flat"
+            # Threshold-crossing alert: only fires when we actually have a
+            # previous score to compare against (not on a country's first run).
+            if result["_prevScore"] is not None:
+                band_now = risk_band(result["_trackScore"])
+                band_prev = risk_band(round(result["_prevScore"]))
+                if band_now != band_prev:
+                    new_alerts.append({
+                        "name": result["name"],
+                        "from": band_prev,
+                        "to": band_now,
+                        "at": now_iso,
+                    })
 
-        results.append({
-            "name": name,
-            "region": base["region"],
-            "political": political,
-            "conflict": conflict,
-            "economic": base["economic"],
-            "regulatory": base["regulatory"],
-            "trend": trend,
-            "note": "Live-updated from recent news coverage." if avg_tone is not None else "No fresh coverage this cycle; showing baseline.",
-            "headlines": headlines,
-            "toneReading": tone_reading(avg_tone),
-            "volumeReading": volume_reading(count),
-        })
+            # History: append this run's point, capped to MAX_HISTORY_POINTS.
+            hist = history.get(result["name"], [])
+            hist.append({"t": now_iso, "score": result["_trackScore"]})
+            history[result["name"]] = hist[-MAX_HISTORY_POINTS:]
 
-        time.sleep(1)  # be polite to the free API
+    # Write each country's full headline archive to its own file — kept
+    # separate from scores.json so every visitor isn't downloading up to
+    # 100 headlines × 64 countries just to see the dashboard.
+    HEADLINES_DIR.mkdir(parents=True, exist_ok=True)
+    for r in results:
+        archive_path = HEADLINES_DIR / f"{slugify(r['name'])}.json"
+        archive_path.write_text(json.dumps({
+            "country": r["name"],
+            "generatedAt": now_iso,
+            "headlines": r["_archive"],
+        }, indent=2))
+
+    # Drop the internal-only fields before writing the public output.
+    for r in results:
+        r.pop("_trackScore", None)
+        r.pop("_prevScore", None)
+        r.pop("_archive", None)
+
+    results.sort(key=lambda r: r["name"])
+    all_alerts = (new_alerts + prev_alerts)[:MAX_ALERTS]
 
     output = {
-        "generatedAt": datetime.now(timezone.utc).isoformat(),
+        "generatedAt": now_iso,
         "source": "GDELT (news tone/volume, 3-day window) blended 50/50 with baseline",
         "countries": results,
+        "alerts": all_alerts,
     }
 
     DATA_FILE.parent.mkdir(parents=True, exist_ok=True)
     DATA_FILE.write_text(json.dumps(output, indent=2))
+    HISTORY_FILE.write_text(json.dumps(history, indent=2))
     print(f"\nWrote {len(results)} countries to {DATA_FILE}")
+    print(f"Wrote history for {len(history)} countries to {HISTORY_FILE}")
+    if new_alerts:
+        print(f"{len(new_alerts)} threshold-crossing alert(s) this run:")
+        for a in new_alerts:
+            print(f"  {a['name']}: {a['from']} -> {a['to']}")
 
 
 if __name__ == "__main__":
