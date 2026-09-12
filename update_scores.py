@@ -17,6 +17,11 @@ This only updates political + conflict. Economic and regulatory scores
 stay as the manually-set baseline, because GDELT is a news feed, not an
 economic database (see: connect IMF/World Bank data for that later).
 
+The 64-country watchlist below is a deliberate strategic selection, not
+an arbitrary sample: major economies, active conflict/crisis zones,
+supply chain & manufacturing hubs, and a regional strategic watch list.
+Add or remove countries here any time — it's just a dictionary below.
+
 Run automatically every 6 hours by the GitHub Actions workflow next to
 this file. Can also be run by hand: `python update_scores.py`
 """
@@ -40,49 +45,65 @@ BASELINE = {
     "Mexico": {"region": "North America", "political": 44, "conflict": 58, "economic": 40, "regulatory": 46},
     "Brazil": {"region": "Latin America", "political": 40, "conflict": 30, "economic": 42, "regulatory": 38},
     "Argentina": {"region": "Latin America", "political": 46, "conflict": 20, "economic": 68, "regulatory": 44},
-    "Venezuela": {"region": "Latin America", "political": 82, "conflict": 48, "economic": 88, "regulatory": 80},
-    "Colombia": {"region": "Latin America", "political": 48, "conflict": 56, "economic": 38, "regulatory": 40},
-    "Haiti": {"region": "Latin America", "political": 88, "conflict": 84, "economic": 78, "regulatory": 82},
-    "Chile": {"region": "Latin America", "political": 24, "conflict": 14, "economic": 26, "regulatory": 22},
-    "Germany": {"region": "Europe", "political": 18, "conflict": 8, "economic": 26, "regulatory": 16},
-    "France": {"region": "Europe", "political": 34, "conflict": 16, "economic": 28, "regulatory": 24},
     "United Kingdom": {"region": "Europe", "political": 26, "conflict": 10, "economic": 24, "regulatory": 22},
-    "Poland": {"region": "Europe", "political": 24, "conflict": 20, "economic": 22, "regulatory": 20},
-    "Ukraine": {"region": "Europe", "political": 62, "conflict": 92, "economic": 70, "regulatory": 58},
+    "France": {"region": "Europe", "political": 34, "conflict": 16, "economic": 28, "regulatory": 24},
+    "Germany": {"region": "Europe", "political": 18, "conflict": 8, "economic": 26, "regulatory": 16},
+    "Italy": {"region": "Europe", "political": 18, "conflict": 11, "economic": 44, "regulatory": 17},
     "Russia": {"region": "Europe", "political": 58, "conflict": 74, "economic": 64, "regulatory": 76},
     "Turkey": {"region": "Europe", "political": 52, "conflict": 38, "economic": 60, "regulatory": 48},
-    "Switzerland": {"region": "Europe", "political": 8, "conflict": 4, "economic": 12, "regulatory": 10},
-    "Iran": {"region": "MENA", "political": 70, "conflict": 56, "economic": 74, "regulatory": 78},
-    "Israel": {"region": "MENA", "political": 58, "conflict": 66, "economic": 34, "regulatory": 30},
     "Saudi Arabia": {"region": "MENA", "political": 34, "conflict": 26, "economic": 30, "regulatory": 36},
-    "Egypt": {"region": "MENA", "political": 46, "conflict": 34, "economic": 56, "regulatory": 44},
-    "Yemen": {"region": "MENA", "political": 84, "conflict": 88, "economic": 82, "regulatory": 74},
-    "UAE": {"region": "MENA", "political": 16, "conflict": 12, "economic": 16, "regulatory": 18},
-    "Nigeria": {"region": "Sub-Saharan Africa", "political": 52, "conflict": 60, "economic": 54, "regulatory": 50},
     "South Africa": {"region": "Sub-Saharan Africa", "political": 38, "conflict": 30, "economic": 46, "regulatory": 40},
-    "Ethiopia": {"region": "Sub-Saharan Africa", "political": 60, "conflict": 62, "economic": 58, "regulatory": 52},
-    "Sudan": {"region": "Sub-Saharan Africa", "political": 90, "conflict": 94, "economic": 86, "regulatory": 80},
-    "Kenya": {"region": "Sub-Saharan Africa", "political": 36, "conflict": 28, "economic": 38, "regulatory": 34},
-    "DR Congo": {"region": "Sub-Saharan Africa", "political": 72, "conflict": 80, "economic": 68, "regulatory": 64},
     "India": {"region": "South Asia", "political": 30, "conflict": 26, "economic": 24, "regulatory": 32},
-    "Pakistan": {"region": "South Asia", "political": 58, "conflict": 54, "economic": 62, "regulatory": 50},
-    "Bangladesh": {"region": "South Asia", "political": 48, "conflict": 34, "economic": 44, "regulatory": 42},
-    "Afghanistan": {"region": "South Asia", "political": 78, "conflict": 70, "economic": 80, "regulatory": 84},
-    "Sri Lanka": {"region": "South Asia", "political": 40, "conflict": 18, "economic": 52, "regulatory": 38},
     "China": {"region": "East Asia", "political": 38, "conflict": 22, "economic": 36, "regulatory": 54},
     "Japan": {"region": "East Asia", "political": 16, "conflict": 10, "economic": 22, "regulatory": 14},
     "South Korea": {"region": "East Asia", "political": 30, "conflict": 24, "economic": 20, "regulatory": 18},
+    "Indonesia": {"region": "Southeast Asia", "political": 28, "conflict": 20, "economic": 30, "regulatory": 32},
+    "Australia": {"region": "Oceania", "political": 17, "conflict": 8, "economic": 13, "regulatory": 10},
+    "Ukraine": {"region": "Europe", "political": 62, "conflict": 92, "economic": 70, "regulatory": 58},
+    "Israel": {"region": "MENA", "political": 58, "conflict": 66, "economic": 34, "regulatory": 30},
+    "Iran": {"region": "MENA", "political": 70, "conflict": 56, "economic": 74, "regulatory": 78},
+    "Yemen": {"region": "MENA", "political": 84, "conflict": 88, "economic": 82, "regulatory": 74},
+    "Syria": {"region": "MENA", "political": 65, "conflict": 86, "economic": 69, "regulatory": 67},
+    "Sudan": {"region": "Sub-Saharan Africa", "political": 90, "conflict": 94, "economic": 86, "regulatory": 80},
+    "Myanmar": {"region": "Southeast Asia", "political": 82, "conflict": 78, "economic": 72, "regulatory": 70},
+    "Haiti": {"region": "Latin America", "political": 88, "conflict": 84, "economic": 78, "regulatory": 82},
+    "Venezuela": {"region": "Latin America", "political": 82, "conflict": 48, "economic": 88, "regulatory": 80},
     "North Korea": {"region": "East Asia", "political": 86, "conflict": 60, "economic": 84, "regulatory": 92},
     "Taiwan": {"region": "East Asia", "political": 44, "conflict": 48, "economic": 26, "regulatory": 20},
-    "Indonesia": {"region": "Southeast Asia", "political": 28, "conflict": 20, "economic": 30, "regulatory": 32},
+    "Lebanon": {"region": "MENA", "political": 65, "conflict": 34, "economic": 64, "regulatory": 20},
+    "Libya": {"region": "MENA", "political": 62, "conflict": 55, "economic": 71, "regulatory": 42},
+    "Ethiopia": {"region": "Sub-Saharan Africa", "political": 60, "conflict": 62, "economic": 58, "regulatory": 52},
+    "DR Congo": {"region": "Sub-Saharan Africa", "political": 72, "conflict": 80, "economic": 68, "regulatory": 64},
+    "Mali": {"region": "Sub-Saharan Africa", "political": 60, "conflict": 85, "economic": 72, "regulatory": 45},
+    "Somalia": {"region": "Sub-Saharan Africa", "political": 55, "conflict": 90, "economic": 67, "regulatory": 42},
+    "Pakistan": {"region": "South Asia", "political": 58, "conflict": 54, "economic": 62, "regulatory": 50},
+    "Afghanistan": {"region": "South Asia", "political": 78, "conflict": 70, "economic": 80, "regulatory": 84},
     "Vietnam": {"region": "Southeast Asia", "political": 22, "conflict": 12, "economic": 24, "regulatory": 30},
     "Thailand": {"region": "Southeast Asia", "political": 40, "conflict": 26, "economic": 32, "regulatory": 34},
-    "Myanmar": {"region": "Southeast Asia", "political": 82, "conflict": 78, "economic": 72, "regulatory": 70},
+    "Malaysia": {"region": "Southeast Asia", "political": 31, "conflict": 13, "economic": 14, "regulatory": 18},
     "Philippines": {"region": "Southeast Asia", "political": 34, "conflict": 30, "economic": 32, "regulatory": 30},
+    "Bangladesh": {"region": "South Asia", "political": 48, "conflict": 34, "economic": 44, "regulatory": 42},
+    "Poland": {"region": "Europe", "political": 24, "conflict": 20, "economic": 22, "regulatory": 20},
+    "Egypt": {"region": "MENA", "political": 46, "conflict": 34, "economic": 56, "regulatory": 44},
+    "UAE": {"region": "MENA", "political": 16, "conflict": 12, "economic": 16, "regulatory": 18},
     "Singapore": {"region": "Southeast Asia", "political": 8, "conflict": 4, "economic": 10, "regulatory": 8},
+    "Nigeria": {"region": "Sub-Saharan Africa", "political": 52, "conflict": 60, "economic": 54, "regulatory": 50},
+    "Kenya": {"region": "Sub-Saharan Africa", "political": 36, "conflict": 28, "economic": 38, "regulatory": 34},
+    "Morocco": {"region": "MENA", "political": 32, "conflict": 20, "economic": 38, "regulatory": 18},
+    "Chile": {"region": "Latin America", "political": 24, "conflict": 14, "economic": 26, "regulatory": 22},
+    "Peru": {"region": "Latin America", "political": 37, "conflict": 38, "economic": 40, "regulatory": 19},
+    "Colombia": {"region": "Latin America", "political": 48, "conflict": 56, "economic": 38, "regulatory": 40},
     "Kazakhstan": {"region": "Eurasia", "political": 34, "conflict": 20, "economic": 34, "regulatory": 36},
     "Georgia": {"region": "Eurasia", "political": 48, "conflict": 30, "economic": 36, "regulatory": 38},
-    "Armenia": {"region": "Eurasia", "political": 50, "conflict": 42, "economic": 40, "regulatory": 40},
+    "Azerbaijan": {"region": "Eurasia", "political": 31, "conflict": 31, "economic": 39, "regulatory": 20},
+    "Jordan": {"region": "MENA", "political": 36, "conflict": 11, "economic": 40, "regulatory": 20},
+    "Qatar": {"region": "MENA", "political": 34, "conflict": 14, "economic": 22, "regulatory": 16},
+    "Ecuador": {"region": "Latin America", "political": 38, "conflict": 57, "economic": 36, "regulatory": 13},
+    "Cuba": {"region": "Latin America", "political": 58, "conflict": 14, "economic": 67, "regulatory": 73},
+    "Zimbabwe": {"region": "Sub-Saharan Africa", "political": 61, "conflict": 15, "economic": 65, "regulatory": 64},
+    "Belarus": {"region": "Europe", "political": 62, "conflict": 36, "economic": 67, "regulatory": 72},
+    "Serbia": {"region": "Europe", "political": 39, "conflict": 34, "economic": 43, "regulatory": 40},
+    "Sri Lanka": {"region": "South Asia", "political": 40, "conflict": 18, "economic": 52, "regulatory": 38},
 }
 
 
@@ -116,6 +137,72 @@ def fetch_tone(country_name: str):
     return avg_tone, total_count
 
 
+def fetch_articles(country_name: str, max_articles: int = 4):
+    """Fetch a handful of real, recent article titles + links about a
+    country from GDELT. These are shown verbatim on the site — nothing
+    here is AI-written, it's just real headlines with real links, so
+    there's no fabrication risk. Returns [] on failure.
+    """
+    params = {
+        "query": f'"{country_name}" sourcelang:eng',
+        "mode": "artlist",
+        "format": "json",
+        "timespan": "3d",
+        "maxrecords": str(max_articles),
+        "sort": "DateDesc",
+    }
+    url = GDELT_DOC_API + "?" + urllib.parse.urlencode(params)
+    try:
+        req = urllib.request.Request(url, headers={"User-Agent": "isobar-risk-map/1.0"})
+        with urllib.request.urlopen(req, timeout=20) as resp:
+            payload = json.loads(resp.read().decode("utf-8"))
+    except Exception as exc:
+        print(f"  [warn] GDELT article fetch failed for {country_name}: {exc}")
+        return []
+
+    articles = payload.get("articles", [])[:max_articles]
+    return [
+        {
+            "title": a.get("title", "").strip(),
+            "url": a.get("url", ""),
+            "domain": a.get("domain", ""),
+        }
+        for a in articles
+        if a.get("title") and a.get("url")
+    ]
+
+
+def tone_reading(avg_tone):
+    """Plain-language description of recent coverage tone. Thresholds are
+    rough judgment calls, not a precise scientific scale — GDELT tone
+    typically runs roughly -10 (very negative) to +10 (very positive)."""
+    if avg_tone is None:
+        return "No recent coverage found."
+    if avg_tone <= -5:
+        return "Coverage over the last 3 days has been notably negative."
+    if avg_tone <= -2:
+        return "Coverage over the last 3 days has leaned negative."
+    if avg_tone < 2:
+        return "Coverage over the last 3 days has been mixed or neutral."
+    if avg_tone < 5:
+        return "Coverage over the last 3 days has leaned positive."
+    return "Coverage over the last 3 days has been notably positive."
+
+
+def volume_reading(article_count):
+    """Plain-language description of coverage volume. Thresholds are a
+    rough starting point (absolute, not yet compared to each country's
+    own historical baseline) — reasonable to refine once there's a
+    longer run history to compare against."""
+    if article_count == 0:
+        return None
+    if article_count > 40:
+        return "Coverage volume has been unusually high this week."
+    if article_count < 8:
+        return "Coverage volume has been light this week."
+    return None  # typical volume isn't worth calling out
+
+
 def tone_to_political_signal(avg_tone: float) -> float:
     # GDELT tone typically runs roughly -10 (very negative) to +10 (very positive).
     # Map that onto a 0-100 risk scale, negative tone -> higher score.
@@ -145,6 +232,7 @@ def main():
     for name, base in BASELINE.items():
         print(f"Checking {name}...")
         avg_tone, count = fetch_tone(name)
+        headlines = fetch_articles(name)
 
         if avg_tone is None:
             # No usable data this run — keep the baseline untouched.
@@ -180,6 +268,9 @@ def main():
             "regulatory": base["regulatory"],
             "trend": trend,
             "note": "Live-updated from recent news coverage." if avg_tone is not None else "No fresh coverage this cycle; showing baseline.",
+            "headlines": headlines,
+            "toneReading": tone_reading(avg_tone),
+            "volumeReading": volume_reading(count),
         })
 
         time.sleep(1)  # be polite to the free API
