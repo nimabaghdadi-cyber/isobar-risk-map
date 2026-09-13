@@ -1,5 +1,546 @@
 {
   "country": "Israel",
-  "generatedAt": "2026-09-13T00:13:56.727599+00:00",
-  "headlines": []
+  "generatedAt": "2026-09-13T06:16:49.371098+00:00",
+  "headlines": [
+    {
+      "title": "Israel seeks to attract Jews abroad with jobs , studies , tailored aliyah programs",
+      "url": "https://www.jpost.com/aliyah/article-908433",
+      "domain": "jpost.com",
+      "date": "Sep 13, 2026"
+    },
+    {
+      "title": "75 years of investing in Israel : Women driving a legacy of impact",
+      "url": "http://www.jpost.com/history/article-904422",
+      "domain": "jpost.com",
+      "date": "Sep 10, 2026"
+    },
+    {
+      "title": "US pressure over E1 settlement construction ignores Israel West Bank security",
+      "url": "https://www.jpost.com/opinion/article-907436",
+      "domain": "jpost.com",
+      "date": "Sep 05, 2026"
+    },
+    {
+      "title": "It is all predictable the frequent Israel pre - emptive wars on Lebanon , Syria and West Bank \u2026",
+      "url": "https://adonis49.wordpress.com/2026/09/05/it-is-all-predictable-the-frequent-israel-pre-emptive-wars-on-lebanon-syria-and-west-bank/",
+      "domain": "adonis49.wordpress.com",
+      "date": "Sep 05, 2026"
+    },
+    {
+      "title": "Netanyahu Says Israel Closer Than Ever to Toppling Iran Government",
+      "url": "https://www.khaama.com/netanyahu-says-israel-closer-than-ever-to-toppling-irans-government/",
+      "domain": "khaama.com",
+      "date": "Sep 05, 2026"
+    },
+    {
+      "title": "Former NSC chief Eildan warns Israel is losing international support",
+      "url": "https://www.jpost.com/israel-news/article-907628",
+      "domain": "jpost.com",
+      "date": "Sep 05, 2026"
+    },
+    {
+      "title": "Months after ceasefire , Israel and Hezbollah battle over a strategic hill in Lebanon \u2013 Winnipeg Free Press",
+      "url": "https://www.winnipegfreepress.com/world/2026/09/05/months-after-ceasefire-israel-and-hezbollah-battle-over-a-strategic-hill-in-lebanon",
+      "domain": "winnipegfreepress.com",
+      "date": "Sep 05, 2026"
+    },
+    {
+      "title": "Months after ceasefire , Israel and Hezbollah battle over a strategic hill in Lebanon",
+      "url": "https://www.wral.com/news/ap/6a083-months-after-ceasefire-israel-and-hezbollah-battle-over-a-strategic-hill-in-lebanon/",
+      "domain": "wral.com",
+      "date": "Sep 05, 2026"
+    },
+    {
+      "title": "Arab News | Has Israel claimed capture of Ali Al - Taher changed military equation in south Lebanon ?",
+      "url": "https://www.arabnews.com/middle-east/has-israels-claimed-capture-of-ali-al-taher-changed-military-equation-in-south-lebanon-3000503",
+      "domain": "arabnews.com",
+      "date": "Sep 05, 2026"
+    },
+    {
+      "title": "Lebanese ministry says three killed in Israeli strikes",
+      "url": "https://www.rte.ie/news/middle-east/2026/0905/1590417-middle-east-lebanon-israel/",
+      "domain": "rte.ie",
+      "date": "Sep 05, 2026"
+    },
+    {
+      "title": "Israel battle over national identity could become America next crisis",
+      "url": "https://www.jpost.com/opinion/article-907423",
+      "domain": "jpost.com",
+      "date": "Sep 04, 2026"
+    },
+    {
+      "title": "Israeli strike on Lebanon kills two : state media",
+      "url": "https://www.channelnewsasia.com/world/israeli-strike-lebanon-kills-two-6362756",
+      "domain": "channelnewsasia.com",
+      "date": "Sep 04, 2026"
+    },
+    {
+      "title": "Podcast : Israel cannot outsource its security to international forces",
+      "url": "https://www.israelnationalnews.com/news/432720",
+      "domain": "israelnationalnews.com",
+      "date": "Sep 04, 2026"
+    },
+    {
+      "title": "Israel says it has cleared Hezbollah fighters from tunnels under key Lebanon ridge",
+      "url": "https://dunyanews.tv/en/World/971356-israel-says-it-has-cleared-hezbollah-fighters-from-tunnels-under-key-l",
+      "domain": "dunyanews.tv",
+      "date": "Sep 04, 2026"
+    },
+    {
+      "title": "John Fetterman Reportedly Ditched Meeting With Disabled Vets To Do Fox News Hit On Israel",
+      "url": "https://dailycaller.com/2026/09/04/john-fetterman-ditched-meeting-disabled-vets-israel/",
+      "domain": "dailycaller.com",
+      "date": "Sep 04, 2026"
+    },
+    {
+      "title": "Red Cross says transferred four people released by Israel to Lebanon",
+      "url": "https://www.al-monitor.com/originals/2026/09/red-cross-says-transferred-four-people-released-israel-lebanon",
+      "domain": "al-monitor.com",
+      "date": "Sep 04, 2026"
+    },
+    {
+      "title": "Israel Defense Minister Hails Capture of Ali Al - Taher Ridge from Hezbollah",
+      "url": "https://english.aawsat.com/arab-world/5314519-israel-defense-minister-hails-capture-ali-al-taher-ridge-hezbollah",
+      "domain": "english.aawsat.com",
+      "date": "Sep 04, 2026"
+    },
+    {
+      "title": "Arab News | Israel defense minister hails capture of Hezbollah highland in Lebanon",
+      "url": "https://www.arabnews.com/middle-east/israel-defense-minister-hails-capture-of-hezbollah-highland-in-lebanon-3000463",
+      "domain": "arabnews.com",
+      "date": "Sep 04, 2026"
+    },
+    {
+      "title": "Israel Threatens Fresh Strikes on Iran Energy and Civilian Infrastructure",
+      "url": "https://www.khaama.com/israel-threatens-fresh-strikes-on-irans-energy-and-civilian-infrastructure/",
+      "domain": "khaama.com",
+      "date": "Sep 04, 2026"
+    },
+    {
+      "title": "Bank of Israel makes third successive rate cut",
+      "url": "https://en.globes.co.il/en/article-bank-of-israel-makes-third-successive-rate-cut-1001554055",
+      "domain": "en.globes.co.il",
+      "date": "Sep 04, 2026"
+    },
+    {
+      "title": "German defense exports to Israel soar",
+      "url": "https://en.globes.co.il/en/article-german-defense-exports-to-israel-soar-1001554312",
+      "domain": "en.globes.co.il",
+      "date": "Sep 03, 2026"
+    },
+    {
+      "title": "\u0643\u0627\u062a\u0633 \u064a\u0647\u062f\u062f \u0625\u064a\u0631\u0627\u0646 : \u0623\u064a \u0647\u062c\u0648\u0645 \u0639\u0644\u0649 \u0625\u0633\u0631\u0627\u0626\u064a\u0644 \u0633\u064a\u0637\u0644\u0642 \u064a\u062f\u0646\u0627 \u0644\u0636\u0631\u0628 \u0643\u0644 \u0627\u0644\u0628\u0646\u064a\u0629 \u0627\u0644\u062a\u062d\u062a\u064a\u0629",
+      "url": "https://www.okaz.com.sa/politics/na/2264216",
+      "domain": "okaz.com.sa",
+      "date": "Sep 03, 2026"
+    },
+    {
+      "title": "Trump says US fighting Iran to protect Israel , Middle East , West",
+      "url": "https://aa.com.tr/en/us-israel-iran-war/trump-says-us-fighting-iran-to-protect-israel-middle-east-west/4045864",
+      "domain": "aa.com.tr",
+      "date": "Sep 03, 2026"
+    },
+    {
+      "title": "Israel undersea fleet on its way to a new era",
+      "url": "http://www.jpost.com/defense-and-tech/article-907338",
+      "domain": "jpost.com",
+      "date": "Sep 02, 2026"
+    },
+    {
+      "title": "Israeli Strike on Lebanon Kills One",
+      "url": "https://english.aawsat.com/arab-world/5313863-israeli-strike-lebanon-kills-one",
+      "domain": "english.aawsat.com",
+      "date": "Sep 02, 2026"
+    },
+    {
+      "title": "Arab News | Israeli strike on Lebanon kills one : state media",
+      "url": "https://www.arabnews.com/middle-east/israeli-strike-on-lebanon-kills-one-state-media-3000223",
+      "domain": "arabnews.com",
+      "date": "Sep 02, 2026"
+    },
+    {
+      "title": "Israeli strike on Lebanon kills one : state media",
+      "url": "https://arynews.tv/israeli-strike-on-lebanon-kills-one-state-media",
+      "domain": "arynews.tv",
+      "date": "Sep 02, 2026"
+    },
+    {
+      "title": "Israel bars U . S . citizens over Palestinian ties and opinions : NPR",
+      "url": "https://www.npr.org/2026/09/02/nx-s1-5950449/israel-bars-americans-over-palestinian-ties",
+      "domain": "npr.org",
+      "date": "Sep 02, 2026"
+    },
+    {
+      "title": "Arab News | Can Syria - Israel talks deliver a deal or only delay the next clash ?",
+      "url": "https://www.arabnews.com/middle-east/can-syria-israel-talks-deliver-a-deal-or-only-delay-the-next-clash-3000146",
+      "domain": "arabnews.com",
+      "date": "Sep 02, 2026"
+    },
+    {
+      "title": "Israel bars U . S . citizens over criticism and ties to Palestinian activists , lawyers say",
+      "url": "https://knpr.org/npr/2026-09-02/israel-bars-u-s-citizens-over-criticism-and-ties-to-palestinian-activists-lawyers-say",
+      "domain": "knpr.org",
+      "date": "Sep 02, 2026"
+    },
+    {
+      "title": "Why Israel and Turkey are trading insults and jockeying for power in neighbouring Syria",
+      "url": "https://theconversation.com/why-israel-and-turkey-are-trading-insults-and-jockeying-for-power-in-neighbouring-syria-290730",
+      "domain": "theconversation.com",
+      "date": "Sep 02, 2026"
+    },
+    {
+      "title": "Israel - Greece defense deal highlights Europe shifting ties with Israel",
+      "url": "http://www.jpost.com/opinion/article-907280",
+      "domain": "jpost.com",
+      "date": "Sep 02, 2026"
+    },
+    {
+      "title": "Jake Auchincloss advances in MA primary against Bernie Sanders ally",
+      "url": "https://www.foxnews.com/politics/house-democrat-survives-left-flank-challenge-bernie-volunteer-mounts-insurgent-bid",
+      "domain": "foxnews.com",
+      "date": "Sep 02, 2026"
+    },
+    {
+      "title": "Falklands : After Netanyahu son backs Argentina sovereignty , Trump hints US may review united kingdom claim",
+      "url": "https://www.middleeasteye.net/news/falklands-trump-signals-us-may-review-uk-claim-after-netanyahu-son-backs-argentina",
+      "domain": "middleeasteye.net",
+      "date": "Sep 01, 2026"
+    },
+    {
+      "title": "New Database Tracks Pro - Israel Political Donations in the United States \u2013 NaturalNews . com",
+      "url": "https://www.naturalnews.com/2026-09-01-new-database-tracks-pro-israel-political-donations.html",
+      "domain": "naturalnews.com",
+      "date": "Sep 01, 2026"
+    },
+    {
+      "title": "Schools in east Jerusalem strike after Israel fails to renew entry permits for teaching staff",
+      "url": "https://www.yahoo.com/news/politics/articles/schools-east-jerusalem-strike-israel-132527326.html",
+      "domain": "yahoo.com",
+      "date": "Sep 01, 2026"
+    },
+    {
+      "title": "The View From India newsletter : Israel strategic predicaments",
+      "url": "https://www.thehindu.com/news/international/the-view-from-india-israels-strategic-predicaments/article71410688.ece",
+      "domain": "thehindu.com",
+      "date": "Sep 01, 2026"
+    },
+    {
+      "title": "Israel , Greece Ink Historic $3 . 5 Billion  Achilles Shield  Air Defense Deal",
+      "url": "https://www.breitbart.com/middle-east/2026/08/31/israel-greece-seal-historic-3-5b-achilles-shield-deal-to-build-multi-layered-air-defense/",
+      "domain": "breitbart.com",
+      "date": "Sep 01, 2026"
+    },
+    {
+      "title": "Israel signs with Greece one of its biggest - ever arms sales",
+      "url": "https://www.freemalaysiatoday.com/category/highlight/2026/09/01/israel-signs-with-greece-one-of-its-biggest-ever-arms-sales",
+      "domain": "freemalaysiatoday.com",
+      "date": "Aug 31, 2026"
+    },
+    {
+      "title": "Lebanon calls for Greece to help implement deal with Israel",
+      "url": "https://www.freemalaysiatoday.com/category/highlight/2026/09/01/lebanon-calls-for-greece-to-help-implement-deal-with-israel",
+      "domain": "freemalaysiatoday.com",
+      "date": "Aug 31, 2026"
+    },
+    {
+      "title": "Lebanon asks Greece to help enforce agreement with Israel | Politics News",
+      "url": "https://www.aljazeera.com/news/2026/8/31/lebanon-asks-greece-to-help-enforce-agreement-with-israel",
+      "domain": "aljazeera.com",
+      "date": "Aug 31, 2026"
+    },
+    {
+      "title": "Lebanese House Speaker warns of  existential risks , says Israel seeks sectarian strife",
+      "url": "https://www.upi.com/Top_News/World-News/2026/08/31/lebanon-house-speaker-israel-lebanon/7031788201715/",
+      "domain": "upi.com",
+      "date": "Aug 31, 2026"
+    },
+    {
+      "title": "Greece signs $3 . 5bn air defence deal with Israel",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/greece-signs-35bn-air-defence-deal-israel",
+      "domain": "middleeasteye.net",
+      "date": "Aug 31, 2026"
+    },
+    {
+      "title": "Greece , Israel sign over NIS 10b . defense agreement against Turkey , Iran",
+      "url": "http://www.jpost.com/israel-news/defense-news/article-907112",
+      "domain": "jpost.com",
+      "date": "Aug 31, 2026"
+    },
+    {
+      "title": "Furious in T\u00fcrkiye over the",
+      "url": "https://www.bankingnews.gr/amyna-diplomatia/articles/896617/furious-in-tuerkiye-over-the-shield-of-achilles-dirty-alliance-in-the-eastern-mediterranean-the-hidden-26m-deal-between-greece-and-israel",
+      "domain": "bankingnews.gr",
+      "date": "Aug 31, 2026"
+    },
+    {
+      "title": "Syria is choosing diplomacy with Israel , but can its approach last ?",
+      "url": "https://www.aljazeera.com/features/2026/8/31/syria-is-choosing-diplomacy-with-israel-but-can-its-approach-last",
+      "domain": "aljazeera.com",
+      "date": "Aug 31, 2026"
+    },
+    {
+      "title": "Israel lands massive \u20ac3 billion  Achilles Shield  deal with Greece",
+      "url": "https://www.israelnationalnews.com/news/432483",
+      "domain": "israelnationalnews.com",
+      "date": "Aug 31, 2026"
+    },
+    {
+      "title": "Former Israeli premier says Israel associated with  genocide  among US students",
+      "url": "https://tribune.com.pk/story/2626694/former-israeli-premier-says-israel-associated-with-genocide-among-us-students",
+      "domain": "tribune.com.pk",
+      "date": "Aug 31, 2026"
+    },
+    {
+      "title": "How Durban moved anti - Israel rhetoric into the mainstream",
+      "url": "https://www.jpost.com/opinion/article-907070",
+      "domain": "jpost.com",
+      "date": "Aug 31, 2026"
+    },
+    {
+      "title": "South Africa charges Israel with defying ICJ binding genocide orders",
+      "url": "https://www.citizen.co.za/news/south-africa/south-africa-charges-israel-with-defying-icjs-binding-genocide-orders/",
+      "domain": "citizen.co.za",
+      "date": "Aug 31, 2026"
+    },
+    {
+      "title": "Why Israel ? The double standard behind the world obsession with Jews",
+      "url": "http://www.jpost.com/opinion/article-906656",
+      "domain": "jpost.com",
+      "date": "Aug 30, 2026"
+    },
+    {
+      "title": "Israel says Netanyahu son  urgently evacuated  from the US after threat | Benjamin Netanyahu News",
+      "url": "https://www.aljazeera.com/news/2026/8/30/israel-says-netanyahus-son-urgently-evacuated-from-the-us-after-threat",
+      "domain": "aljazeera.com",
+      "date": "Aug 30, 2026"
+    },
+    {
+      "title": "Greece to sign $3 . 6b . air defense deal with Israel",
+      "url": "https://www.jpost.com/israel-news/defense-news/article-906968",
+      "domain": "jpost.com",
+      "date": "Aug 30, 2026"
+    },
+    {
+      "title": "Israel needs a bigger defense budget , and a new US security pact",
+      "url": "http://www.jpost.com/opinion/article-906773",
+      "domain": "jpost.com",
+      "date": "Aug 29, 2026"
+    },
+    {
+      "title": "Opinion : Democrats bow to what politically fashionable",
+      "url": "https://www.bostonherald.com/2026/08/29/opinion-democrats-bow-to-whats-politically-fashionable/",
+      "domain": "bostonherald.com",
+      "date": "Aug 29, 2026"
+    },
+    {
+      "title": "T\u00fcrkiye has no  political value  in fueling enmity with Israel : Former US envoy",
+      "url": "https://aa.com.tr/en/turkiye/turkiye-has-no-political-value-in-fueling-enmity-with-israel-former-us-envoy/4039780",
+      "domain": "aa.com.tr",
+      "date": "Aug 28, 2026"
+    },
+    {
+      "title": "Disabled Parking Permits in Israel Are Out of Control . Now Comes the Crackdown",
+      "url": "https://www.haaretz.com/israel-news/business/economy-finance/2026-08-28/ty-article/.premium/disabled-parking-permits-in-israel-are-out-of-control-now-comes-the-crackdown/000001a0-42fa-d268-a1fe-5bfedade0000",
+      "domain": "haaretz.com",
+      "date": "Aug 28, 2026"
+    },
+    {
+      "title": "UK officials  face ejection from Gaza office : Reports",
+      "url": "http://global.chinadaily.com.cn/a/202608/28/WS6a90e66ae4b06d4aa055ae8e.html",
+      "domain": "global.chinadaily.com.cn",
+      "date": "Aug 28, 2026"
+    },
+    {
+      "title": "D\u00e9j\u00e0 Vu - Creating the UN all over again",
+      "url": "https://www.israelnationalnews.com/news/432327",
+      "domain": "israelnationalnews.com",
+      "date": "Aug 27, 2026"
+    },
+    {
+      "title": "Badenoch must answer for the Torie blanket support for Israel",
+      "url": "https://www.middleeasteye.net/opinion/badenoch-must-answer-tories-blanket-support-israel",
+      "domain": "middleeasteye.net",
+      "date": "Aug 27, 2026"
+    },
+    {
+      "title": "75 Years of Investing in Israel : Launching Israel Bonds",
+      "url": "http://www.jpost.com/history/article-901591",
+      "domain": "jpost.com",
+      "date": "Aug 27, 2026"
+    },
+    {
+      "title": "Israel has power to respond to international action against it with consequences",
+      "url": "https://www.jpost.com/opinion/article-906691",
+      "domain": "jpost.com",
+      "date": "Aug 27, 2026"
+    },
+    {
+      "title": "After recent strikes in Syria , Turkey may view Israel as its regional rival",
+      "url": "http://www.jpost.com/middle-east/article-906684",
+      "domain": "jpost.com",
+      "date": "Aug 26, 2026"
+    },
+    {
+      "title": "Three pro - Israel Democrats given key roles on House foreign affairs panel",
+      "url": "https://www.theguardian.com/us-news/2026/aug/26/pro-israel-democrats-house-foreign-affairs-committee",
+      "domain": "theguardian.com",
+      "date": "Aug 26, 2026"
+    },
+    {
+      "title": "Could Syria become the focus of an Israeli - Turkish conflict ?",
+      "url": "https://www.dw.com/en/could-syria-become-the-focus-of-an-israeli-turkish-conflict/a-78507781",
+      "domain": "dw.com",
+      "date": "Aug 26, 2026"
+    },
+    {
+      "title": "Qatar condemns Israeli defense chief entry into southwestern Syria",
+      "url": "https://tribune.com.pk/story/2625936/qatar-condemns-israeli-defence-chiefs-entry-into-southwestern-syria",
+      "domain": "tribune.com.pk",
+      "date": "Aug 26, 2026"
+    },
+    {
+      "title": "Pitch For Defense Treaty And Moving US Military To Israel Is Insane",
+      "url": "https://www.zerohedge.com/geopolitical/pitch-defense-treaty-and-moving-us-military-israel-insane",
+      "domain": "zerohedge.com",
+      "date": "Aug 26, 2026"
+    },
+    {
+      "title": "Poll Shows Majority of Voters Oppose U . S .- Israel Military Integration Plan \u2013 NaturalNews . com",
+      "url": "https://www.naturalnews.com/2026-08-25-majority-voters-oppose-us-israel-military-integration-plan.html",
+      "domain": "naturalnews.com",
+      "date": "Aug 26, 2026"
+    },
+    {
+      "title": "ISRAEL WARNS : Hamas Kite Launches Could Trigger Sharp Escalation In Gaza",
+      "url": "https://www.theyeshivaworld.com/news/israel-news/2589351/israel-warns-hamas-kite-launches-could-trigger-sharp-escalation-in-gaza.html",
+      "domain": "theyeshivaworld.com",
+      "date": "Aug 26, 2026"
+    },
+    {
+      "title": "Katz visits Mount Hermon , provokes Syria and Turkey",
+      "url": "http://www.albawaba.com/news/katz-visits-mount-hermon-provokes-syria-1635781",
+      "domain": "albawaba.com",
+      "date": "Aug 25, 2026"
+    },
+    {
+      "title": "Most US Democrats in early 2028 primary states oppose aid to Israel : Poll",
+      "url": "https://www.aljazeera.com/news/2026/8/25/most-us-democrats-in-early-2028-primary-states-oppose-aid-to-israel-poll",
+      "domain": "aljazeera.com",
+      "date": "Aug 25, 2026"
+    },
+    {
+      "title": "Could Syria become the unlikely bridge between Israel and Turkiye ?",
+      "url": "https://www.arabnews.com/node/2655781/middle-east",
+      "domain": "arabnews.com",
+      "date": "Aug 25, 2026"
+    },
+    {
+      "title": "US official says Israel evaded extradition of  Ashkelon hacker",
+      "url": "https://www.ynetnews.com/article/rkkbjccvmg",
+      "domain": "ynetnews.com",
+      "date": "Aug 25, 2026"
+    },
+    {
+      "title": "Strikes in Gaza Kill 4 , Including 2 Children , a Week After US Asked Israel to Curb Attacks",
+      "url": "https://english.aawsat.com/arab-world/5310855-strikes-gaza-kill-4-including-2-children-week-after-us-asked-israel-curb-attacks",
+      "domain": "english.aawsat.com",
+      "date": "Aug 25, 2026"
+    },
+    {
+      "title": "Luxembourg halts Israel Bonds approvals , leaving EU future uncertain",
+      "url": "https://www.jpost.com/international/article-906497",
+      "domain": "jpost.com",
+      "date": "Aug 25, 2026"
+    },
+    {
+      "title": "Netanyahu warns Hamas over Gaza launches as group accuses Israel of escalation",
+      "url": "https://news.webindia123.com/news/Articles/World/20260824/4490222.html",
+      "domain": "news.webindia123.com",
+      "date": "Aug 24, 2026"
+    },
+    {
+      "title": "Two children among four Gaza dead week after US asked Israel to curb attacks",
+      "url": "https://www.edp24.co.uk/news/national/26491842.two-children-among-four-gaza-dead-week-us-asked-israel-curb-attacks/",
+      "domain": "edp24.co.uk",
+      "date": "Aug 24, 2026"
+    },
+    {
+      "title": "2 children among 4 killed in Gaza a week after US asked Israel to curb attacks",
+      "url": "https://www.ksat.com/news/world/2026/08/24/2-children-among-4-killed-in-gaza-a-week-after-us-asked-israel-to-curb-attacks/",
+      "domain": "ksat.com",
+      "date": "Aug 24, 2026"
+    },
+    {
+      "title": "Israel must rebuild ties with US , American Jews after Benjamin Netanyahu",
+      "url": "https://www.jpost.com/opinion/article-906458",
+      "domain": "jpost.com",
+      "date": "Aug 24, 2026"
+    },
+    {
+      "title": "Why Turkey sees Israeli strikes in Syria as warning over its military role , Mecca Pact",
+      "url": "https://www.al-monitor.com/originals/2026/08/why-turkey-sees-israeli-strikes-syria-warning-over-its-military-role-mecca-pact",
+      "domain": "al-monitor.com",
+      "date": "Aug 24, 2026"
+    },
+    {
+      "title": "Israeli spy Jonathan Pollard wants Iran  off the map , says wars on Turkey and Egypt are next",
+      "url": "https://www.middleeasteye.net/news/israeli-spy-jonathan-pollard-wants-iran-map-threatens-war-turkey-and-egypt",
+      "domain": "middleeasteye.net",
+      "date": "Aug 24, 2026"
+    },
+    {
+      "title": "Syria , Israel Hold US - Mediated Talks to Ease Tensions",
+      "url": "https://english.aawsat.com/arab-world/5310400-syria-israel-hold-us-mediated-talks-ease-tensions",
+      "domain": "english.aawsat.com",
+      "date": "Aug 24, 2026"
+    },
+    {
+      "title": "Israel accuses Gaza of launching drones , balloons and kites ; responds with two airstrikes killing four - year old",
+      "url": "https://timesofindia.indiatimes.com/world/middle-east/israel-accuses-gaza-of-launching-drones-balloons-and-kites-responds-with-two-airstrikes-killing-four-year-old/articleshow/133450563.cms",
+      "domain": "timesofindia.indiatimes.com",
+      "date": "Aug 24, 2026"
+    },
+    {
+      "title": "KUSHNER WARNS HAMAS :  If You Try To Cheat , No One Will Stand In Israel Way  \u2013 The Yeshiva World",
+      "url": "https://www.theyeshivaworld.com/news/israel-news/2588977/kushner-warns-hamas-if-you-try-to-cheat-no-one-will-stand-in-israels-way-2.html",
+      "domain": "theyeshivaworld.com",
+      "date": "Aug 24, 2026"
+    },
+    {
+      "title": "Syria says Israel talks addressed de - escalation , staying out of Israel - Turkey tensions",
+      "url": "https://www.yahoo.com/news/world/articles/syria-says-israel-talks-addressed-223659710.html",
+      "domain": "yahoo.com",
+      "date": "Aug 23, 2026"
+    },
+    {
+      "title": "Tom Barrack Israel criticism tests his credibility as a mediator",
+      "url": "https://www.jpost.com/middle-east/article-906344",
+      "domain": "jpost.com",
+      "date": "Aug 23, 2026"
+    },
+    {
+      "title": "Syria sees Israel security talks resuming despite no trust",
+      "url": "https://arynews.tv/syria-sees-israel-security-talks-resuming-despite-no-trust",
+      "domain": "arynews.tv",
+      "date": "Aug 23, 2026"
+    },
+    {
+      "title": "Syria Foreign Minister Sees Israel Security Talks Resuming Despite No Trust",
+      "url": "https://www.haaretz.com/israel-news/israel-security/2026-08-23/ty-article/syrias-foreign-minister-sees-israel-security-talks-resuming-despite-no-trust/000001a0-2da8-d293-a1e7-3db8a5c90000",
+      "domain": "haaretz.com",
+      "date": "Aug 23, 2026"
+    },
+    {
+      "title": "Syrian FM Shaibani claims negotiations expected to resume soon with Israel",
+      "url": "https://www.jpost.com/middle-east/article-906294",
+      "domain": "jpost.com",
+      "date": "Aug 23, 2026"
+    },
+    {
+      "title": "Israelis worry about weakening connection with younger Jewish Americans",
+      "url": "https://www.wral.com/news/ap/92625-israelis-worry-about-weakening-connection-with-younger-jewish-americans/",
+      "domain": "wral.com",
+      "date": "Aug 23, 2026"
+    }
+  ]
 }
