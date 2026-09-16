@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-16T12:13:07.872034+00:00",
+  "generatedAt": "2026-09-16T18:11:32.355712+00:00",
   "source": "GDELT (news tone/volume, 3-day window) blended 50/50 with baseline",
   "countries": [
     {
@@ -48,7 +48,7 @@
       "conflict": 31,
       "economic": 39,
       "regulatory": 20,
-      "trend": "down",
+      "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
       "headlines": [],
       "toneReading": "No recent coverage found.",
@@ -63,28 +63,7 @@
       "regulatory": 42,
       "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [
-        {
-          "title": "What Is the Ganga River Called in Bangladesh ?",
-          "url": "https://www.jagranjosh.com/general-knowledge/what-is-the-ganga-river-called-in-bangladesh-1820012163-1",
-          "domain": "jagranjosh.com"
-        },
-        {
-          "title": "Tarique Rahman may skip BRICS Summit in Delhi : Why does Bangladesh  absence  matter so much to India Northeast ?",
-          "url": "https://www.moneycontrol.com/world/tarique-rahman-may-skip-brics-summit-in-delhi-why-does-bangladesh-s-absence-matter-so-much-to-india-s-northeast-article-14027081.html",
-          "domain": "moneycontrol.com"
-        },
-        {
-          "title": "Tarique Rahman BRICS dilemma : Challenges , choices and opportunities for Bangladesh",
-          "url": "https://timesofindia.indiatimes.com/blogs/voices/tarique-rahmans-brics-dilemma-challenges-choices-and-opportunities-for-bangladesh/",
-          "domain": "timesofindia.indiatimes.com"
-        },
-        {
-          "title": "Indian fish importers urge Bangladesh to lift Hilsa export ban ahead of Durga Puja",
-          "url": "https://aninews.in/news/world/asia/indian-fish-importers-urge-bangladesh-to-lift-hilsa-export-ban-ahead-of-durga-puja20260911161432/",
-          "domain": "aninews.in"
-        }
-      ],
+      "headlines": [],
       "toneReading": "No recent coverage found.",
       "volumeReading": null
     },
@@ -97,7 +76,28 @@
       "regulatory": 72,
       "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [],
+      "headlines": [
+        {
+          "title": "Book Culture of Belarusian Tatars exhibition from Belaru National Library collection on show in Oman",
+          "url": "https://www.sb.by/en/book-culture-of-belarusian-tatars-exhibition-from-belarus-national-library-collection-on-show-in-oma.html",
+          "domain": "sb.by"
+        },
+        {
+          "title": "Lukashenko on policy of Lithuania , Latvia towards Belarus : theyre already shooting themselves in the ear",
+          "url": "https://www.sb.by/en/lukashenko-on-policy-of-lithuania-latvia-towards-belarus-they-re-already-shooting-themselves-in-the-.html",
+          "domain": "sb.by"
+        },
+        {
+          "title": "Belarus ready for deep industrial cooperation and widen agri sector partnership with India : FM Maxim Ryzhenkov",
+          "url": "https://economictimes.indiatimes.com/news/economy/foreign-trade/belarus-ready-for-deep-industrial-cooperation-and-widen-agri-sector-partnership-with-india-fm-maxim-ryzhenkov/articleshow/134116469.cms",
+          "domain": "economictimes.indiatimes.com"
+        },
+        {
+          "title": "EAM Jaishankar , Belarus counterpart Ryzhenkov discuss ties , regional developments",
+          "url": "https://www.prokerala.com/news/articles/a1811404.html",
+          "domain": "prokerala.com"
+        }
+      ],
       "toneReading": "No recent coverage found.",
       "volumeReading": null
     },
@@ -199,9 +199,30 @@
       "conflict": 57,
       "economic": 36,
       "regulatory": 13,
-      "trend": "down",
+      "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [],
+      "headlines": [
+        {
+          "title": "South Korea reaches U - 20 Women World Cup round of 16",
+          "url": "https://www.koreaherald.com/article/10871549",
+          "domain": "koreaherald.com"
+        },
+        {
+          "title": "Rubio pushes anti - drug fight in Ecuador",
+          "url": "https://www.freemalaysiatoday.com/category/world/2026/09/10/rubio-pushes-anti-drug-fight-in-ecuador",
+          "domain": "freemalaysiatoday.com"
+        },
+        {
+          "title": "Rubio pledges more US support for Ecuador in fight against narco - trafficking",
+          "url": "https://aa.com.tr/en/americas/rubio-pledges-more-us-support-for-ecuador-in-fight-against-narco-trafficking/4052619",
+          "domain": "aa.com.tr"
+        },
+        {
+          "title": "US announces $45m in security funding , additional naval vessels for Ecuador",
+          "url": "https://www.aljazeera.com/news/2026/9/9/us-announces-45m-in-security-funding-additional-naval-vessels-for-ecuador",
+          "domain": "aljazeera.com"
+        }
+      ],
       "toneReading": "No recent coverage found.",
       "volumeReading": null
     },
@@ -277,7 +298,7 @@
       "conflict": 84,
       "economic": 78,
       "regulatory": 82,
-      "trend": "up",
+      "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
       "headlines": [],
       "toneReading": "No recent coverage found.",
@@ -342,7 +363,7 @@
       "conflict": 11,
       "economic": 44,
       "regulatory": 17,
-      "trend": "down",
+      "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
       "headlines": [],
       "toneReading": "No recent coverage found.",
@@ -474,28 +495,7 @@
       "regulatory": 18,
       "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [
-        {
-          "title": "Morocco Warns Spain : We Will Not Be Used for Political Score - Settling",
-          "url": "https://www.moroccoworldnews.com/2026/09/337908/morocco-warns-spain-we-will-not-be-used-for-political-score-settling/",
-          "domain": "moroccoworldnews.com"
-        },
-        {
-          "title": "Morocco Receives Five Chinese CRRC Ziyang Diesel Locomotives",
-          "url": "https://www.moroccoworldnews.com/2026/09/338036/morocco-receives-five-chinese-crrc-ziyang-diesel-locomotives/",
-          "domain": "moroccoworldnews.com"
-        },
-        {
-          "title": "Morocco denies involvement in migrant surge into Spain Ceuta | Migration News",
-          "url": "https://www.aljazeera.com/news/2026/9/10/morocco-denies-involvement-in-migrant-surge-into-spains-ceuta",
-          "domain": "aljazeera.com"
-        },
-        {
-          "title": "Akhannouch to Lekjaa :  Were Still Waiting  on AFCON Promises",
-          "url": "https://www.moroccoworldnews.com/2026/09/337936/akhannouch-to-lekjaa-were-still-waiting-on-afcon-promises/",
-          "domain": "moroccoworldnews.com"
-        }
-      ],
+      "headlines": [],
       "toneReading": "No recent coverage found.",
       "volumeReading": null
     },
@@ -506,7 +506,7 @@
       "conflict": 78,
       "economic": 72,
       "regulatory": 70,
-      "trend": "up",
+      "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
       "headlines": [],
       "toneReading": "No recent coverage found.",
@@ -534,28 +534,7 @@
       "regulatory": 92,
       "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [
-        {
-          "title": "North Korea launches ballistic missiles",
-          "url": "https://www.wyff4.com/article/north-korea-launches-missiles/73694606",
-          "domain": "wyff4.com"
-        },
-        {
-          "title": "North Korea launches a ballistic missile toward the sea , South Korea says \u2013 Winnipeg Free Press",
-          "url": "https://www.winnipegfreepress.com/world/2026/09/11/south-korea-says-north-korea-has-launched-a-projectile-toward-the-waters-off-the-norths-east-coast",
-          "domain": "winnipegfreepress.com"
-        },
-        {
-          "title": "Russia Is Helping Supercharge North Korea Military Drones \u2013 The Diplomat",
-          "url": "https://thediplomat.com/2026/09/russia-is-helping-supercharge-north-koreas-military-drones/",
-          "domain": "thediplomat.com"
-        },
-        {
-          "title": "North Korea launches ballistic missiles toward the sea following military drill it sees as threat",
-          "url": "https://www.nbcnews.com/world/north-korea/north-korea-launches-ballistic-missiles-sea-military-drill-sees-threat-rcna597333",
-          "domain": "nbcnews.com"
-        }
-      ],
+      "headlines": [],
       "toneReading": "No recent coverage found.",
       "volumeReading": null
     },
@@ -594,7 +573,28 @@
       "regulatory": 30,
       "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [],
+      "headlines": [
+        {
+          "title": "Philippines ferry fire kills 5 people , dozens missing",
+          "url": "https://www.thehindu.com/news/international/philippines-ferry-fire-kills-several-people-and-dozens-missing/article71450134.ece",
+          "domain": "thehindu.com"
+        },
+        {
+          "title": "Telangana - Philippines Trade Deal to Expand Beyond Rice to Seeds , Meat",
+          "url": "https://dailypioneer.com/news/philippines-looks-beyond-rice-eyes-telangana-seeds-and-meat-products",
+          "domain": "dailypioneer.com"
+        },
+        {
+          "title": "Philippines Ferry Inferno : Five Dead , Nearly 100 Missing as Fiery Video is Released",
+          "url": "https://www.tmz.com/2026/09/10/boat-in-philippines-on-fire-leaves-multiple-dead/",
+          "domain": "tmz.com"
+        },
+        {
+          "title": "Migrating abroad soon ? Do these 5 financial steps before leaving the Philippines",
+          "url": "https://www.philstar.com/business/banking/2026/09/11/2549056/migrating-abroad-soon-do-these-5-financial-steps-leaving-philippines",
+          "domain": "philstar.com"
+        }
+      ],
       "toneReading": "No recent coverage found.",
       "volumeReading": null
     },
@@ -618,7 +618,7 @@
       "conflict": 14,
       "economic": 22,
       "regulatory": 16,
-      "trend": "down",
+      "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
       "headlines": [],
       "toneReading": "No recent coverage found.",
@@ -724,28 +724,7 @@
       "regulatory": 38,
       "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [
-        {
-          "title": "Punjab travel trade delegation explores Sri Lanka for stronger India tourism push",
-          "url": "https://www.ft.lk/travel-tourism/Punjab-travel-trade-delegation-explores-Sri-Lanka-for-stronger-India-tourism-push/27-797090",
-          "domain": "ft.lk"
-        },
-        {
-          "title": "Rajnath Singh Meets Sri Lankan President , PM , Pledges Joint Regional Safety Efforts",
-          "url": "https://www.deccanchronicle.com/world/rajnath-singh-meets-sri-lankan-president-pm-pledges-joint-efforts-for-regional-security-1986140",
-          "domain": "deccanchronicle.com"
-        },
-        {
-          "title": "Sri Lanka Will Not Allow Its Territory To Threaten India Security Interest , President Dissanayake Assures Rajnath Singh",
-          "url": "https://www.freepressjournal.in/india/sri-lanka-will-not-allow-its-territory-to-threaten-indias-security-interest-president-dissanayake-assures-rajnath-singh",
-          "domain": "freepressjournal.in"
-        },
-        {
-          "title": "Rajnath Singh meets Sri Lankan president , vows joint efforts for regional security",
-          "url": "https://www.newindianexpress.com/world/2026/Sep/09/rajnath-singh-meets-sri-lankan-president-vows-joint-efforts-for-regional-security",
-          "domain": "newindianexpress.com"
-        }
-      ],
+      "headlines": [],
       "toneReading": "No recent coverage found.",
       "volumeReading": null
     },
@@ -758,7 +737,28 @@
       "regulatory": 80,
       "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [],
+      "headlines": [
+        {
+          "title": "Switzerland bans Sudanese gold imports amid war",
+          "url": "https://www.radiotamazuj.org/en/news/article/switzerland-bans-sudanese-gold-imports-amid-war",
+          "domain": "radiotamazuj.org"
+        },
+        {
+          "title": "Sudanese Defence Minister : Those Who Are Hostile to Indonesia Are Enemies of Sudan",
+          "url": "https://en.republika.co.id/berita/tl4gg9484/sudanese-defence-minister-those-who-are-hostile-to-indonesia-are-enemies-of-sudan",
+          "domain": "en.republika.co.id"
+        },
+        {
+          "title": "Sudan Burhan discusses peace efforts with Quintet delegation",
+          "url": "https://www.radiotamazuj.org/en/news/article/sudans-burhan-discusses-peace-efforts-with-quintet-delegation",
+          "domain": "radiotamazuj.org"
+        },
+        {
+          "title": "Sudan Sovereignty Council chief discusses peace efforts , political process with Quintet delegation",
+          "url": "https://aa.com.tr/en/middle-east/sudan-s-sovereignty-council-chief-discusses-peace-efforts-political-process-with-quintet-delegation/4052681",
+          "domain": "aa.com.tr"
+        }
+      ],
       "toneReading": "No recent coverage found.",
       "volumeReading": null
     },
@@ -784,28 +784,7 @@
       "regulatory": 20,
       "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [
-        {
-          "title": "Taiwan showcases tech capabilities at Europe chip forum",
-          "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/09/10/2003864040",
-          "domain": "taipeitimes.com"
-        },
-        {
-          "title": "Lai calls for closer cooperation in meeting with Japan parliamentary group",
-          "url": "https://www.taipeitimes.com/News/front/archives/2026/09/10/2003864001",
-          "domain": "taipeitimes.com"
-        },
-        {
-          "title": "Taiwan Stock Exchange : TWSE London outreach underscores strong global investor interest in Taiwan",
-          "url": "https://www.finanznachrichten.de/nachrichten-2026-09/69553394-taiwan-stock-exchange-twse-london-outreach-underscores-strong-global-investor-interest-in-taiwan-008.htm",
-          "domain": "finanznachrichten.de"
-        },
-        {
-          "title": "\u300a TAIPEI TIMES \u300b Taiwan not on right drone track : ex - official - \u7126\u9ede",
-          "url": "https://news.ltn.com.tw/news/focus/breakingnews/5568827",
-          "domain": "news.ltn.com.tw"
-        }
-      ],
+      "headlines": [],
       "toneReading": "No recent coverage found.",
       "volumeReading": null
     },
@@ -911,11 +890,6 @@
       "note": "No fresh coverage this cycle; showing baseline.",
       "headlines": [
         {
-          "title": "The Ultimate Hedger : Why Vietnam Is Thriving Amid Global Disorder",
-          "url": "https://thediplomat.com/2026/09/the-ultimate-hedger-why-vietnam-is-thriving-amid-global-disorder/",
-          "domain": "thediplomat.com"
-        },
-        {
           "title": "BRICS Sidelines : Modi , Vietnam PM review ties after strategic partnership upgrade",
           "url": "https://www.thehindubusinessline.com/news/brics-sidelines-modi-vietnam-pm-review-ties-after-strategic-partnership-upgrade/article71459526.ece",
           "domain": "thehindubusinessline.com"
@@ -929,6 +903,11 @@
           "title": "Vietnam To Lam Concludes State Visit to Russia , Departs For France \u2013 The Diplomat",
           "url": "https://thediplomat.com/2026/09/vietnams-to-lam-concludes-state-visit-to-russia-departs-for-france/",
           "domain": "thediplomat.com"
+        },
+        {
+          "title": "Russia and Vietnam sign framework deal on strategic oil storage",
+          "url": "https://www.asiaone.com/world/russia-and-vietnam-sign-framework-deal-strategic-oil-storage",
+          "domain": "asiaone.com"
         }
       ],
       "toneReading": "No recent coverage found.",
@@ -956,28 +935,7 @@
       "regulatory": 64,
       "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [
-        {
-          "title": "How social grants work differently in South Africa and Zimbabwe",
-          "url": "https://www.thesouthafrican.com/lifestyle/sassa/how-social-grants-work-differently-in-south-africa-and-zimbabwe/",
-          "domain": "thesouthafrican.com"
-        },
-        {
-          "title": "Southern Africa : Zimbabwe Suspends Antimony , Tungsten Exports in Processing Push",
-          "url": "https://allafrica.com/stories/202609100719.html",
-          "domain": "allafrica.com"
-        },
-        {
-          "title": "ZIFA confirms Warriors home venue for AFCON 2027 qualifiers",
-          "url": "https://bulawayo24.com/index-id-news-sc-national-byo-267276.html",
-          "domain": "bulawayo24.com"
-        },
-        {
-          "title": "Mnangagwa effects major government , commission changes",
-          "url": "https://www.newzimbabwe.com/mnangagwa-effects-major-government-commission-changes/",
-          "domain": "newzimbabwe.com"
-        }
-      ],
+      "headlines": [],
       "toneReading": "No recent coverage found.",
       "volumeReading": null
     }
