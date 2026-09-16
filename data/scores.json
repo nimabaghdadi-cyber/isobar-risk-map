@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-16T06:13:20.838540+00:00",
+  "generatedAt": "2026-09-16T12:13:07.872034+00:00",
   "source": "GDELT (news tone/volume, 3-day window) blended 50/50 with baseline",
   "countries": [
     {
@@ -35,7 +35,7 @@
       "conflict": 8,
       "economic": 13,
       "regulatory": 10,
-      "trend": "down",
+      "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
       "headlines": [],
       "toneReading": "No recent coverage found.",
@@ -44,15 +44,15 @@
     {
       "name": "Azerbaijan",
       "region": "Eurasia",
-      "political": 42,
+      "political": 31,
       "conflict": 31,
       "economic": 39,
       "regulatory": 20,
-      "trend": "up",
-      "note": "Live-updated from recent news coverage.",
+      "trend": "down",
+      "note": "No fresh coverage this cycle; showing baseline.",
       "headlines": [],
-      "toneReading": "Coverage over the last 3 days has been mixed or neutral.",
-      "volumeReading": "Coverage volume has been light this week."
+      "toneReading": "No recent coverage found.",
+      "volumeReading": null
     },
     {
       "name": "Bangladesh",
@@ -63,21 +63,42 @@
       "regulatory": 42,
       "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [],
+      "headlines": [
+        {
+          "title": "What Is the Ganga River Called in Bangladesh ?",
+          "url": "https://www.jagranjosh.com/general-knowledge/what-is-the-ganga-river-called-in-bangladesh-1820012163-1",
+          "domain": "jagranjosh.com"
+        },
+        {
+          "title": "Tarique Rahman may skip BRICS Summit in Delhi : Why does Bangladesh  absence  matter so much to India Northeast ?",
+          "url": "https://www.moneycontrol.com/world/tarique-rahman-may-skip-brics-summit-in-delhi-why-does-bangladesh-s-absence-matter-so-much-to-india-s-northeast-article-14027081.html",
+          "domain": "moneycontrol.com"
+        },
+        {
+          "title": "Tarique Rahman BRICS dilemma : Challenges , choices and opportunities for Bangladesh",
+          "url": "https://timesofindia.indiatimes.com/blogs/voices/tarique-rahmans-brics-dilemma-challenges-choices-and-opportunities-for-bangladesh/",
+          "domain": "timesofindia.indiatimes.com"
+        },
+        {
+          "title": "Indian fish importers urge Bangladesh to lift Hilsa export ban ahead of Durga Puja",
+          "url": "https://aninews.in/news/world/asia/indian-fish-importers-urge-bangladesh-to-lift-hilsa-export-ban-ahead-of-durga-puja20260911161432/",
+          "domain": "aninews.in"
+        }
+      ],
       "toneReading": "No recent coverage found.",
       "volumeReading": null
     },
     {
       "name": "Belarus",
       "region": "Europe",
-      "political": 58,
+      "political": 62,
       "conflict": 36,
       "economic": 67,
       "regulatory": 72,
       "trend": "flat",
-      "note": "Live-updated from recent news coverage.",
+      "note": "No fresh coverage this cycle; showing baseline.",
       "headlines": [],
-      "toneReading": "Coverage over the last 3 days has been mixed or neutral.",
+      "toneReading": "No recent coverage found.",
       "volumeReading": null
     },
     {
@@ -141,28 +162,7 @@
       "regulatory": 40,
       "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [
-        {
-          "title": "Colombia to start aerial spraying of coca crops despite health worries",
-          "url": "https://www.hawaiitribune-herald.com/2026/09/12/nation-world-news/colombia-to-start-aerial-spraying-of-coca-crops-despite-health-worries/",
-          "domain": "hawaiitribune-herald.com"
-        },
-        {
-          "title": "Rubio visits Ecuador as Trump - friendly leader helps US counterdrug push",
-          "url": "https://www.pilotonline.com/2026/09/09/marco-rubio-ecuador/",
-          "domain": "pilotonline.com"
-        },
-        {
-          "title": "Rubio embarks on Latin America tour | The Arkansas Democrat - Gazette - Arkansa Best News Source",
-          "url": "https://www.arkansasonline.com/news/2026/sep/09/rubio-embarks-on-latin-america-tour/",
-          "domain": "arkansasonline.com"
-        },
-        {
-          "title": "The Drug Lord Died . The Hippos Multiplied .",
-          "url": "https://pjmedia.com/david-manney/2026/09/10/the-drug-lord-died-the-hippos-multiplied-n4956940",
-          "domain": "pjmedia.com"
-        }
-      ],
+      "headlines": [],
       "toneReading": "No recent coverage found.",
       "volumeReading": null
     },
@@ -195,15 +195,15 @@
     {
       "name": "Ecuador",
       "region": "Latin America",
-      "political": 50,
+      "political": 38,
       "conflict": 57,
       "economic": 36,
       "regulatory": 13,
-      "trend": "up",
-      "note": "Live-updated from recent news coverage.",
+      "trend": "down",
+      "note": "No fresh coverage this cycle; showing baseline.",
       "headlines": [],
-      "toneReading": "Coverage over the last 3 days has leaned negative.",
-      "volumeReading": "Coverage volume has been light this week."
+      "toneReading": "No recent coverage found.",
+      "volumeReading": null
     },
     {
       "name": "Egypt",
@@ -214,28 +214,7 @@
       "regulatory": 44,
       "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [
-        {
-          "title": "Turkish defense manufacturer MKE enters Egyptian market , sets up company for joint production",
-          "url": "https://aa.com.tr/en/turkiye/turkish-defense-manufacturer-mke-enters-egyptian-market-sets-up-company-for-joint-production/4051885",
-          "domain": "aa.com.tr"
-        },
-        {
-          "title": "Russia markets drone - like missiles in Egypt during Su - 57 jet Africa air show",
-          "url": "http://www.jpost.com/defense-and-tech/article-908197",
-          "domain": "jpost.com"
-        },
-        {
-          "title": "Arab News | Egypt moves to build $1bn AI data centre with Nvidia tech",
-          "url": "https://www.arabnews.com/business/egypt-moves-to-build-1bn-ai-data-centre-with-nvidia-tech-3001048",
-          "domain": "arabnews.com"
-        },
-        {
-          "title": "Sarang helicopter display reflects enduring bonds of friendship between India and Egypt : IAF",
-          "url": "https://www.prokerala.com/news/articles/a1810822.html",
-          "domain": "prokerala.com"
-        }
-      ],
+      "headlines": [],
       "toneReading": "No recent coverage found.",
       "volumeReading": null
     },
@@ -272,30 +251,9 @@
       "conflict": 30,
       "economic": 36,
       "regulatory": 38,
-      "trend": "down",
+      "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [
-        {
-          "title": "Georgia Tech memorial honors 9 / 11 victims 25 years later",
-          "url": "https://www.fox5atlanta.com/news/georgia-tech-memorial-honors-9-11-victims-25-years-later",
-          "domain": "fox5atlanta.com"
-        },
-        {
-          "title": "Georgia - Pacific Corporation : Industry Safety Organizations Recognize Georgia - Pacific for Excellence and Innovation",
-          "url": "https://www.finanznachrichten.de/nachrichten-2026-09/69548957-georgia-pacific-corporation-industry-safety-organizations-recognize-georgia-pacific-for-excellence-and-innovation-200.htm",
-          "domain": "finanznachrichten.de"
-        },
-        {
-          "title": "Lewis Pugh South Georgia swim : In 2017 , Lewis Pugh swam 1 km at South Georgia to campaign for protection . 7 years later , protected waters had grown from 2 % to 36 %, adding 166 , 000 km\u00b2 of ocean in total",
-          "url": "https://economictimes.indiatimes.com/news/international/us/in-2017-lewis-pugh-swam-1-km-at-south-georgia-to-campaign-for-protection-7-years-later-protected-waters-had-grown-from-2-to-36-adding-166000-km-of-ocean-in-total/articleshow/134021066.cms",
-          "domain": "economictimes.indiatimes.com"
-        },
-        {
-          "title": "Georgia hiker discovers two dead bodies on mountain , sheriff says",
-          "url": "https://nypost.com/2026/09/11/us-news/georgia-hiker-discovers-two-dead-bodies-on-mountain-sheriff-says/",
-          "domain": "nypost.com"
-        }
-      ],
+      "headlines": [],
       "toneReading": "No recent coverage found.",
       "volumeReading": null
     },
@@ -315,36 +273,15 @@
     {
       "name": "Haiti",
       "region": "Latin America",
-      "political": 76,
+      "political": 88,
       "conflict": 84,
       "economic": 78,
       "regulatory": 82,
-      "trend": "down",
-      "note": "Live-updated from recent news coverage.",
-      "headlines": [
-        {
-          "title": "Haiti Contribution to the History of Humanity - HaitiLibre . com : Haiti news 7 / 7",
-          "url": "https://www.haitilibre.com/en/news-48408-haiti-s-contribution-to-the-history-of-humanity.html",
-          "domain": "haitilibre.com"
-        },
-        {
-          "title": "American Missionary Pleads Guilty in Federal Court to Molesting Haitian Boys After 17 Years of Mission Trips",
-          "url": "https://www.ibtimes.co.uk/former-ohio-missionary-guilty-child-abuse-haiti-1818946",
-          "domain": "ibtimes.co.uk"
-        },
-        {
-          "title": "Former Ohio missionary admits to sexually abusing children in Haiti",
-          "url": "https://www.yahoo.com/news/us/articles/former-ohio-missionary-admits-sexually-101827154.html",
-          "domain": "yahoo.com"
-        },
-        {
-          "title": "Haiti - Security : Vladimir Paraison at the 5th UN Police Chief Summit ( Speech )",
-          "url": "https://www.haitilibre.com/en/news-48425-haiti-security-vladimir-paraison-at-the-5th-un-police-chiefssummit-speech.html",
-          "domain": "haitilibre.com"
-        }
-      ],
-      "toneReading": "Coverage over the last 3 days has leaned negative.",
-      "volumeReading": "Coverage volume has been light this week."
+      "trend": "up",
+      "note": "No fresh coverage this cycle; showing baseline.",
+      "headlines": [],
+      "toneReading": "No recent coverage found.",
+      "volumeReading": null
     },
     {
       "name": "India",
@@ -401,15 +338,15 @@
     {
       "name": "Italy",
       "region": "Europe",
-      "political": 31,
+      "political": 18,
       "conflict": 11,
       "economic": 44,
       "regulatory": 17,
-      "trend": "up",
-      "note": "Live-updated from recent news coverage.",
+      "trend": "down",
+      "note": "No fresh coverage this cycle; showing baseline.",
       "headlines": [],
-      "toneReading": "Coverage over the last 3 days has been mixed or neutral.",
-      "volumeReading": "Coverage volume has been unusually high this week."
+      "toneReading": "No recent coverage found.",
+      "volumeReading": null
     },
     {
       "name": "Japan",
@@ -446,28 +383,7 @@
       "regulatory": 36,
       "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [
-        {
-          "title": "India , Kazakhstan to firm up practical areas of economic cooperation during President Tokayev visit for BRICS Summit",
-          "url": "https://economictimes.indiatimes.com/news/india/india-kazakhstan-to-firm-up-practical-areas-of-economic-cooperation-during-president-tokayevs-visit-for-brics-summit/articleshow/134048318.cms",
-          "domain": "economictimes.indiatimes.com"
-        },
-        {
-          "title": "Binance : Kazakhstan makes significant progress in digital , financial infrastructure ( Exclusive interview )",
-          "url": "https://www.trend.az/casia/kazakhstan/4222683.html",
-          "domain": "trend.az"
-        },
-        {
-          "title": "Beyond Oil and Gas : How Kazakhstan Wants to Become a Gateway for Chinese Capital and Technology \u00b7 TechNode",
-          "url": "https://technode.com/2026/09/11/beyond-oil-and-gas-how-kazakhstan-wants-to-become-a-gateway-for-chinese-capital-and-technology/",
-          "domain": "technode.com"
-        },
-        {
-          "title": "Tokayev , U . S . Special Envoy Sergio Gor discuss Kazakhstan - U . S . strategic partnership",
-          "url": "https://www.trend.az/casia/kazakhstan/4223378.html",
-          "domain": "trend.az"
-        }
-      ],
+      "headlines": [],
       "toneReading": "No recent coverage found.",
       "volumeReading": null
     },
@@ -493,28 +409,7 @@
       "regulatory": 20,
       "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [
-        {
-          "title": "Israel intensifies attacks in southern Lebanon with more than 30 blasts in one town",
-          "url": "https://aa.com.tr/en/middle-east/israel-intensifies-attacks-in-southern-lebanon-with-more-than-30-blasts-in-one-town/4055567",
-          "domain": "aa.com.tr"
-        },
-        {
-          "title": "Israel war leaves Lebanon schools balancing students and the displaced",
-          "url": "https://www.yahoo.com/news/world/articles/israel-war-leaves-lebanon-schools-053611505.html",
-          "domain": "yahoo.com"
-        },
-        {
-          "title": "Israel war leaves Lebanon schools balancing students and the displaced | Israel attacks Lebanon News",
-          "url": "https://www.aljazeera.com/features/2026/9/9/israels-war-leaves-lebanons-schools-balancing-students-and-the-displaced",
-          "domain": "aljazeera.com"
-        },
-        {
-          "title": "Israel - Lebanon talks in Rome delayed to October : US official",
-          "url": "https://www.moneycontrol.com/world/israel-lebanon-talks-in-rome-delayed-to-october-us-official-article-14028280.html",
-          "domain": "moneycontrol.com"
-        }
-      ],
+      "headlines": [],
       "toneReading": "No recent coverage found.",
       "volumeReading": null
     },
@@ -527,28 +422,7 @@
       "regulatory": 42,
       "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [
-        {
-          "title": "Eastern , western Libyan military commands agree on joint steps toward army reunification",
-          "url": "https://aa.com.tr/en/middle-east/eastern-western-libyan-military-commands-agree-on-joint-steps-toward-army-s-reunification/4052666",
-          "domain": "aa.com.tr"
-        },
-        {
-          "title": "UN hails Libya election deal as Security Council urges Libyans to seize the moment",
-          "url": "https://www.globalissues.org/news/2026/09/09/44009",
-          "domain": "globalissues.org"
-        },
-        {
-          "title": "Algeria suspends diplomatic relations with  dwarf state  UAE",
-          "url": "https://www.middleeasteye.net/news/algeria-severs-diplomatic-relations-dwarf-state-uae",
-          "domain": "middleeasteye.net"
-        },
-        {
-          "title": "Algeria Cuts Diplomatic Ties with UAE",
-          "url": "https://allafrica.com/stories/202609110039.html",
-          "domain": "allafrica.com"
-        }
-      ],
+      "headlines": [],
       "toneReading": "No recent coverage found.",
       "volumeReading": null
     },
@@ -559,7 +433,7 @@
       "conflict": 13,
       "economic": 14,
       "regulatory": 18,
-      "trend": "down",
+      "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
       "headlines": [],
       "toneReading": "No recent coverage found.",
@@ -598,7 +472,7 @@
       "conflict": 20,
       "economic": 38,
       "regulatory": 18,
-      "trend": "down",
+      "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
       "headlines": [
         {
@@ -628,14 +502,14 @@
     {
       "name": "Myanmar",
       "region": "Southeast Asia",
-      "political": 64,
+      "political": 82,
       "conflict": 78,
       "economic": 72,
       "regulatory": 70,
-      "trend": "down",
-      "note": "Live-updated from recent news coverage.",
+      "trend": "up",
+      "note": "No fresh coverage this cycle; showing baseline.",
       "headlines": [],
-      "toneReading": "Coverage over the last 3 days has been mixed or neutral.",
+      "toneReading": "No recent coverage found.",
       "volumeReading": null
     },
     {
@@ -660,7 +534,28 @@
       "regulatory": 92,
       "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [],
+      "headlines": [
+        {
+          "title": "North Korea launches ballistic missiles",
+          "url": "https://www.wyff4.com/article/north-korea-launches-missiles/73694606",
+          "domain": "wyff4.com"
+        },
+        {
+          "title": "North Korea launches a ballistic missile toward the sea , South Korea says \u2013 Winnipeg Free Press",
+          "url": "https://www.winnipegfreepress.com/world/2026/09/11/south-korea-says-north-korea-has-launched-a-projectile-toward-the-waters-off-the-norths-east-coast",
+          "domain": "winnipegfreepress.com"
+        },
+        {
+          "title": "Russia Is Helping Supercharge North Korea Military Drones \u2013 The Diplomat",
+          "url": "https://thediplomat.com/2026/09/russia-is-helping-supercharge-north-koreas-military-drones/",
+          "domain": "thediplomat.com"
+        },
+        {
+          "title": "North Korea launches ballistic missiles toward the sea following military drill it sees as threat",
+          "url": "https://www.nbcnews.com/world/north-korea/north-korea-launches-ballistic-missiles-sea-military-drill-sees-threat-rcna597333",
+          "domain": "nbcnews.com"
+        }
+      ],
       "toneReading": "No recent coverage found.",
       "volumeReading": null
     },
@@ -719,28 +614,28 @@
     {
       "name": "Qatar",
       "region": "MENA",
-      "political": 43,
+      "political": 34,
       "conflict": 14,
       "economic": 22,
       "regulatory": 16,
-      "trend": "up",
-      "note": "Live-updated from recent news coverage.",
+      "trend": "down",
+      "note": "No fresh coverage this cycle; showing baseline.",
       "headlines": [],
-      "toneReading": "Coverage over the last 3 days has been mixed or neutral.",
-      "volumeReading": "Coverage volume has been light this week."
+      "toneReading": "No recent coverage found.",
+      "volumeReading": null
     },
     {
       "name": "Russia",
       "region": "Europe",
-      "political": 60,
+      "political": 58,
       "conflict": 74,
       "economic": 64,
       "regulatory": 76,
       "trend": "flat",
-      "note": "Live-updated from recent news coverage.",
+      "note": "No fresh coverage this cycle; showing baseline.",
       "headlines": [],
-      "toneReading": "Coverage over the last 3 days has leaned negative.",
-      "volumeReading": "Coverage volume has been unusually high this week."
+      "toneReading": "No recent coverage found.",
+      "volumeReading": null
     },
     {
       "name": "Saudi Arabia",
@@ -829,7 +724,28 @@
       "regulatory": 38,
       "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [],
+      "headlines": [
+        {
+          "title": "Punjab travel trade delegation explores Sri Lanka for stronger India tourism push",
+          "url": "https://www.ft.lk/travel-tourism/Punjab-travel-trade-delegation-explores-Sri-Lanka-for-stronger-India-tourism-push/27-797090",
+          "domain": "ft.lk"
+        },
+        {
+          "title": "Rajnath Singh Meets Sri Lankan President , PM , Pledges Joint Regional Safety Efforts",
+          "url": "https://www.deccanchronicle.com/world/rajnath-singh-meets-sri-lankan-president-pm-pledges-joint-efforts-for-regional-security-1986140",
+          "domain": "deccanchronicle.com"
+        },
+        {
+          "title": "Sri Lanka Will Not Allow Its Territory To Threaten India Security Interest , President Dissanayake Assures Rajnath Singh",
+          "url": "https://www.freepressjournal.in/india/sri-lanka-will-not-allow-its-territory-to-threaten-indias-security-interest-president-dissanayake-assures-rajnath-singh",
+          "domain": "freepressjournal.in"
+        },
+        {
+          "title": "Rajnath Singh meets Sri Lankan president , vows joint efforts for regional security",
+          "url": "https://www.newindianexpress.com/world/2026/Sep/09/rajnath-singh-meets-sri-lankan-president-vows-joint-efforts-for-regional-security",
+          "domain": "newindianexpress.com"
+        }
+      ],
       "toneReading": "No recent coverage found.",
       "volumeReading": null
     },
@@ -840,7 +756,7 @@
       "conflict": 94,
       "economic": 86,
       "regulatory": 80,
-      "trend": "up",
+      "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
       "headlines": [],
       "toneReading": "No recent coverage found.",
@@ -868,7 +784,28 @@
       "regulatory": 20,
       "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [],
+      "headlines": [
+        {
+          "title": "Taiwan showcases tech capabilities at Europe chip forum",
+          "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/09/10/2003864040",
+          "domain": "taipeitimes.com"
+        },
+        {
+          "title": "Lai calls for closer cooperation in meeting with Japan parliamentary group",
+          "url": "https://www.taipeitimes.com/News/front/archives/2026/09/10/2003864001",
+          "domain": "taipeitimes.com"
+        },
+        {
+          "title": "Taiwan Stock Exchange : TWSE London outreach underscores strong global investor interest in Taiwan",
+          "url": "https://www.finanznachrichten.de/nachrichten-2026-09/69553394-taiwan-stock-exchange-twse-london-outreach-underscores-strong-global-investor-interest-in-taiwan-008.htm",
+          "domain": "finanznachrichten.de"
+        },
+        {
+          "title": "\u300a TAIPEI TIMES \u300b Taiwan not on right drone track : ex - official - \u7126\u9ede",
+          "url": "https://news.ltn.com.tw/news/focus/breakingnews/5568827",
+          "domain": "news.ltn.com.tw"
+        }
+      ],
       "toneReading": "No recent coverage found.",
       "volumeReading": null
     },
@@ -957,7 +894,7 @@
       "conflict": 48,
       "economic": 88,
       "regulatory": 80,
-      "trend": "up",
+      "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
       "headlines": [],
       "toneReading": "No recent coverage found.",
@@ -972,7 +909,28 @@
       "regulatory": 30,
       "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [],
+      "headlines": [
+        {
+          "title": "The Ultimate Hedger : Why Vietnam Is Thriving Amid Global Disorder",
+          "url": "https://thediplomat.com/2026/09/the-ultimate-hedger-why-vietnam-is-thriving-amid-global-disorder/",
+          "domain": "thediplomat.com"
+        },
+        {
+          "title": "BRICS Sidelines : Modi , Vietnam PM review ties after strategic partnership upgrade",
+          "url": "https://www.thehindubusinessline.com/news/brics-sidelines-modi-vietnam-pm-review-ties-after-strategic-partnership-upgrade/article71459526.ece",
+          "domain": "thehindubusinessline.com"
+        },
+        {
+          "title": "India , Vietnam reaffirm commitment to further strengthen partnership as PM Modi meets counterpart on BRICS sidelines",
+          "url": "https://aninews.in/news/world/asia/india-vietnam-reaffirm-commitment-to-further-strengthen-partnership-as-pm-modi-meets-counterpart-on-brics-sidelines20260912133131/",
+          "domain": "aninews.in"
+        },
+        {
+          "title": "Vietnam To Lam Concludes State Visit to Russia , Departs For France \u2013 The Diplomat",
+          "url": "https://thediplomat.com/2026/09/vietnams-to-lam-concludes-state-visit-to-russia-departs-for-france/",
+          "domain": "thediplomat.com"
+        }
+      ],
       "toneReading": "No recent coverage found.",
       "volumeReading": null
     },
@@ -983,7 +941,7 @@
       "conflict": 88,
       "economic": 82,
       "regulatory": 74,
-      "trend": "up",
+      "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
       "headlines": [],
       "toneReading": "No recent coverage found.",
@@ -998,12 +956,39 @@
       "regulatory": 64,
       "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [],
+      "headlines": [
+        {
+          "title": "How social grants work differently in South Africa and Zimbabwe",
+          "url": "https://www.thesouthafrican.com/lifestyle/sassa/how-social-grants-work-differently-in-south-africa-and-zimbabwe/",
+          "domain": "thesouthafrican.com"
+        },
+        {
+          "title": "Southern Africa : Zimbabwe Suspends Antimony , Tungsten Exports in Processing Push",
+          "url": "https://allafrica.com/stories/202609100719.html",
+          "domain": "allafrica.com"
+        },
+        {
+          "title": "ZIFA confirms Warriors home venue for AFCON 2027 qualifiers",
+          "url": "https://bulawayo24.com/index-id-news-sc-national-byo-267276.html",
+          "domain": "bulawayo24.com"
+        },
+        {
+          "title": "Mnangagwa effects major government , commission changes",
+          "url": "https://www.newzimbabwe.com/mnangagwa-effects-major-government-commission-changes/",
+          "domain": "newzimbabwe.com"
+        }
+      ],
       "toneReading": "No recent coverage found.",
       "volumeReading": null
     }
   ],
   "alerts": [
+    {
+      "name": "Myanmar",
+      "from": "HIGH",
+      "to": "SEVERE",
+      "at": "2026-09-16T12:13:07.872034+00:00"
+    },
     {
       "name": "Myanmar",
       "from": "SEVERE",
@@ -1174,12 +1159,6 @@
     },
     {
       "name": "Poland",
-      "from": "LOW",
-      "to": "GUARDED",
-      "at": "2026-09-14T18:11:13.186327+00:00"
-    },
-    {
-      "name": "Qatar",
       "from": "LOW",
       "to": "GUARDED",
       "at": "2026-09-14T18:11:13.186327+00:00"
