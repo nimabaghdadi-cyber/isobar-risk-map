@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-17T06:13:08.410358+00:00",
+  "generatedAt": "2026-09-17T12:12:42.905704+00:00",
   "source": "GDELT (news tone/volume, 3-day window) blended 50/50 with baseline",
   "countries": [
     {
@@ -102,28 +102,7 @@
       "regulatory": 20,
       "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [
-        {
-          "title": "Canada turning to Europe as trade tensions with US escalate",
-          "url": "https://aa.com.tr/en/americas/canada-turning-to-europe-as-trade-tensions-with-us-escalate/4055570",
-          "domain": "aa.com.tr"
-        },
-        {
-          "title": "Canadian boycott of US products pushes grocers to adapt , explore new supply sources",
-          "url": "https://www.thedailystar.net/business/news/canadian-boycott-us-products-pushes-grocers-adapt-explore-new-supply-sources-4271601",
-          "domain": "thedailystar.net"
-        },
-        {
-          "title": "SUNshine Girl Mandie | Edmonton Sun",
-          "url": "https://edmontonsun.com/sunshine-girl/sunshine-girl-mandie-16",
-          "domain": "edmontonsun.com"
-        },
-        {
-          "title": "SUNshine Girl Lucy | Edmonton Sun",
-          "url": "https://edmontonsun.com/sunshine-girls/sunshine-girl-lucy-5",
-          "domain": "edmontonsun.com"
-        }
-      ],
+      "headlines": [],
       "toneReading": "No recent coverage found.",
       "volumeReading": null
     },
@@ -162,7 +141,28 @@
       "regulatory": 40,
       "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [],
+      "headlines": [
+        {
+          "title": "Colombia to start aerial spraying of coca crops despite health worries",
+          "url": "https://www.hawaiitribune-herald.com/2026/09/12/nation-world-news/colombia-to-start-aerial-spraying-of-coca-crops-despite-health-worries/",
+          "domain": "hawaiitribune-herald.com"
+        },
+        {
+          "title": "The Drug Lord Died . The Hippos Multiplied .",
+          "url": "https://pjmedia.com/david-manney/2026/09/10/the-drug-lord-died-the-hippos-multiplied-n4956940",
+          "domain": "pjmedia.com"
+        },
+        {
+          "title": "US Recalls Potato Chips Containing Pork Cracklings",
+          "url": "https://www.deccanchronicle.com/lifestyle/food/us-recalls-potato-chips-containing-pork-cracklings-1986623",
+          "domain": "deccanchronicle.com"
+        },
+        {
+          "title": "Frontier adds 3 former Spirit routes to South America",
+          "url": "https://thepointsguy.com/news/frontier-airlines-new-service-south-america/",
+          "domain": "thepointsguy.com"
+        }
+      ],
       "toneReading": "No recent coverage found.",
       "volumeReading": null
     },
@@ -266,28 +266,7 @@
       "regulatory": 16,
       "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [
-        {
-          "title": "Mass protests erupt in Germany as AfD eyes breakthrough in eastern states",
-          "url": "https://timesofindia.indiatimes.com/world/europe/mass-protests-erupt-in-germany-as-afd-eyes-breakthrough-in-eastern-states/articleshow/134171697.cms",
-          "domain": "timesofindia.indiatimes.com"
-        },
-        {
-          "title": "PM Modi , German Chancellor Merz reaffirm commitment to strengthen cooperation",
-          "url": "https://www.thehindu.com/news/national/pm-modi-german-chancellor-merz-reaffirm-commitment-to-strengthen-cooperation/article71454626.ece",
-          "domain": "thehindu.com"
-        },
-        {
-          "title": "Thousands protest far right in Germany",
-          "url": "https://tribune.com.pk/story/2628998/thousands-protest-far-right-in-germany",
-          "domain": "tribune.com.pk"
-        },
-        {
-          "title": "German foreign minister urges voters to back Ukraine , NATO as far right surges",
-          "url": "https://www.politico.eu/article/german-foreign-minister-johann-wadephul-urges-voters-to-back-ukraine-nato-as-far-right-surges/",
-          "domain": "politico.eu"
-        }
-      ],
+      "headlines": [],
       "toneReading": "No recent coverage found.",
       "volumeReading": null
     },
@@ -534,28 +513,7 @@
       "regulatory": 92,
       "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [
-        {
-          "title": "North Korea launches ballistic missiles",
-          "url": "https://www.wyff4.com/article/north-korea-launches-missiles/73694606",
-          "domain": "wyff4.com"
-        },
-        {
-          "title": "North Korea launches a ballistic missile toward the sea , South Korea says \u2013 Winnipeg Free Press",
-          "url": "https://www.winnipegfreepress.com/world/2026/09/11/south-korea-says-north-korea-has-launched-a-projectile-toward-the-waters-off-the-norths-east-coast",
-          "domain": "winnipegfreepress.com"
-        },
-        {
-          "title": "North Korea launches ballistic missiles toward the sea following military drill it sees as threat",
-          "url": "https://www.nbcnews.com/world/north-korea/north-korea-launches-ballistic-missiles-sea-military-drill-sees-threat-rcna597333",
-          "domain": "nbcnews.com"
-        },
-        {
-          "title": "North Korea Launches Ballistic Missiles After US , South Korea And Japan End Major Trilateral Military Drill",
-          "url": "https://www.freepressjournal.in/world/north-korea-launches-ballistic-missiles-after-us-south-korea-and-japan-end-major-trilateral-military-drill",
-          "domain": "freepressjournal.in"
-        }
-      ],
+      "headlines": [],
       "toneReading": "No recent coverage found.",
       "volumeReading": null
     },
@@ -776,7 +734,28 @@
       "regulatory": 34,
       "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [],
+      "headlines": [
+        {
+          "title": "Thailand halves visa - free stay for Malaysians to 30 days from Sept 15 , little impact expected",
+          "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/09/10/thailand-halves-visa-free-stay-for-malaysians-to-30-days-from-sept-15-little-impact-expected",
+          "domain": "thestar.com.my"
+        },
+        {
+          "title": "Hundreds rally at Israeli embassy in Bangkok to demand foreigners respect Thai laws",
+          "url": "https://www.latimes.com/world-nation/story/2026-09-10/hundreds-rally-at-israeli-embassy-in-bangkok-to-demand-foreigners-respect-thai-laws",
+          "domain": "latimes.com"
+        },
+        {
+          "title": "Chinese Golden Week expected to bring 250 , 000 visitors and 11 . 5bn baht to Thailand",
+          "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/09/12/chinese-golden-week-expected-to-bring-250000-visitors-and-115bn-baht-to-thailand",
+          "domain": "thestar.com.my"
+        },
+        {
+          "title": "Israelis cant  do whatever they want in Thailand  - Thai FM",
+          "url": "https://www.sott.net/article/508344-Israelis-cant-do-whatever-they-want-in-Thailand-Thai-FM",
+          "domain": "sott.net"
+        }
+      ],
       "toneReading": "No recent coverage found.",
       "volumeReading": null
     },
@@ -828,28 +807,7 @@
       "regulatory": 22,
       "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [
-        {
-          "title": "UK lists African countries whose citizens can travel with eTA instead of visa",
-          "url": "https://www.vanguardngr.com/2026/09/uk-lists-african-countries-whose-citizens-can-travel-with-eta-instead-of-visa/",
-          "domain": "vanguardngr.com"
-        },
-        {
-          "title": "Northern Ireland is part of united kingdom : Nigel Farage rejects Trump call for united Ireland",
-          "url": "https://timesofindia.indiatimes.com/world/uk/northern-ireland-is-part-of-uk-nigel-farage-rejects-trumps-call-for-united-ireland/articleshow/134149044.cms",
-          "domain": "timesofindia.indiatimes.com"
-        },
-        {
-          "title": "Fragile recovery in transatlantic confidence as US investors warn on united kingdom competitiveness",
-          "url": "http://www.prnewswire.com/news-releases/fragile-recovery-in-transatlantic-confidence-as-us-investors-warn-on-uk-competitiveness-302874161.html",
-          "domain": "prnewswire.com"
-        },
-        {
-          "title": "Russia issues horror WW3 threat to strike 34 united kingdom towns - map shows Putin targets",
-          "url": "https://www.aol.co.uk/articles/russia-issues-horror-ww3-threat-083600000.html",
-          "domain": "aol.co.uk"
-        }
-      ],
+      "headlines": [],
       "toneReading": "No recent coverage found.",
       "volumeReading": null
     },
@@ -901,28 +859,7 @@
       "regulatory": 74,
       "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [
-        {
-          "title": "Iran - aligned fighters capture Yemen port near vital global trade route",
-          "url": "https://wpde.com/news/nation-world/iran-aligned-fighters-capture-yemen-port-near-vital-global-trade-route-houthi-rebels-bab-el-mandeb-strait",
-          "domain": "wpde.com"
-        },
-        {
-          "title": "Houthi rebels reach strategic port city in Yemen , other Mideast news",
-          "url": "https://www.sandiegouniontribune.com/2026/09/10/houthi-rebels-yemen-port-city-mideast-news/",
-          "domain": "sandiegouniontribune.com"
-        },
-        {
-          "title": "Houthis take over strategic port city in Yemen , threatening shipping",
-          "url": "https://www.pilotonline.com/2026/09/10/yemen-houthi-port-city/",
-          "domain": "pilotonline.com"
-        },
-        {
-          "title": "No military solution to conflict in Yemen , Eritrean foreign minister says",
-          "url": "https://www.middleeasteye.net/live-blog/live-blog-update/no-military-solution-conflict-yemen-eritrean-foreign-minister-says",
-          "domain": "middleeasteye.net"
-        }
-      ],
+      "headlines": [],
       "toneReading": "No recent coverage found.",
       "volumeReading": null
     },
