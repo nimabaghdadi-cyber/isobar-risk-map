@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-17T00:12:47.676573+00:00",
+  "generatedAt": "2026-09-17T06:13:08.410358+00:00",
   "source": "GDELT (news tone/volume, 3-day window) blended 50/50 with baseline",
   "countries": [
     {
@@ -102,7 +102,28 @@
       "regulatory": 20,
       "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [],
+      "headlines": [
+        {
+          "title": "Canada turning to Europe as trade tensions with US escalate",
+          "url": "https://aa.com.tr/en/americas/canada-turning-to-europe-as-trade-tensions-with-us-escalate/4055570",
+          "domain": "aa.com.tr"
+        },
+        {
+          "title": "Canadian boycott of US products pushes grocers to adapt , explore new supply sources",
+          "url": "https://www.thedailystar.net/business/news/canadian-boycott-us-products-pushes-grocers-adapt-explore-new-supply-sources-4271601",
+          "domain": "thedailystar.net"
+        },
+        {
+          "title": "SUNshine Girl Mandie | Edmonton Sun",
+          "url": "https://edmontonsun.com/sunshine-girl/sunshine-girl-mandie-16",
+          "domain": "edmontonsun.com"
+        },
+        {
+          "title": "SUNshine Girl Lucy | Edmonton Sun",
+          "url": "https://edmontonsun.com/sunshine-girls/sunshine-girl-lucy-5",
+          "domain": "edmontonsun.com"
+        }
+      ],
       "toneReading": "No recent coverage found.",
       "volumeReading": null
     },
@@ -180,28 +201,7 @@
       "regulatory": 13,
       "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [
-        {
-          "title": "South Korea reaches U - 20 Women World Cup round of 16",
-          "url": "https://www.koreaherald.com/article/10871549",
-          "domain": "koreaherald.com"
-        },
-        {
-          "title": "Rubio pushes anti - drug fight in Ecuador",
-          "url": "https://www.freemalaysiatoday.com/category/world/2026/09/10/rubio-pushes-anti-drug-fight-in-ecuador",
-          "domain": "freemalaysiatoday.com"
-        },
-        {
-          "title": "US announces $45m in security funding , additional naval vessels for Ecuador",
-          "url": "https://www.aljazeera.com/news/2026/9/9/us-announces-45m-in-security-funding-additional-naval-vessels-for-ecuador",
-          "domain": "aljazeera.com"
-        },
-        {
-          "title": "Rubio says US is working with allies to counter drugs but will  still blow up ships if need be",
-          "url": "https://www.asiaone.com:443/world/rubio-says-us-working-allies-counter-drugs-will-still-blow-ships-if-need-be",
-          "domain": "asiaone.com"
-        }
-      ],
+      "headlines": [],
       "toneReading": "No recent coverage found.",
       "volumeReading": null
     },
@@ -253,28 +253,7 @@
       "regulatory": 38,
       "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [
-        {
-          "title": "Georgia Tech memorial honors 9 / 11 victims 25 years later",
-          "url": "https://www.fox5atlanta.com/news/georgia-tech-memorial-honors-9-11-victims-25-years-later",
-          "domain": "fox5atlanta.com"
-        },
-        {
-          "title": "Georgia - Pacific Corporation : Industry Safety Organizations Recognize Georgia - Pacific for Excellence and Innovation",
-          "url": "https://www.finanznachrichten.de/nachrichten-2026-09/69548957-georgia-pacific-corporation-industry-safety-organizations-recognize-georgia-pacific-for-excellence-and-innovation-200.htm",
-          "domain": "finanznachrichten.de"
-        },
-        {
-          "title": "Lewis Pugh South Georgia swim : In 2017 , Lewis Pugh swam 1 km at South Georgia to campaign for protection . 7 years later , protected waters had grown from 2 % to 36 %, adding 166 , 000 km\u00b2 of ocean in total",
-          "url": "https://economictimes.indiatimes.com/news/international/us/in-2017-lewis-pugh-swam-1-km-at-south-georgia-to-campaign-for-protection-7-years-later-protected-waters-had-grown-from-2-to-36-adding-166000-km-of-ocean-in-total/articleshow/134021066.cms",
-          "domain": "economictimes.indiatimes.com"
-        },
-        {
-          "title": "Georgia hiker discovers two dead bodies on mountain , sheriff says",
-          "url": "https://nypost.com/2026/09/11/us-news/georgia-hiker-discovers-two-dead-bodies-on-mountain-sheriff-says/",
-          "domain": "nypost.com"
-        }
-      ],
+      "headlines": [],
       "toneReading": "No recent coverage found.",
       "volumeReading": null
     },
@@ -287,7 +266,28 @@
       "regulatory": 16,
       "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [],
+      "headlines": [
+        {
+          "title": "Mass protests erupt in Germany as AfD eyes breakthrough in eastern states",
+          "url": "https://timesofindia.indiatimes.com/world/europe/mass-protests-erupt-in-germany-as-afd-eyes-breakthrough-in-eastern-states/articleshow/134171697.cms",
+          "domain": "timesofindia.indiatimes.com"
+        },
+        {
+          "title": "PM Modi , German Chancellor Merz reaffirm commitment to strengthen cooperation",
+          "url": "https://www.thehindu.com/news/national/pm-modi-german-chancellor-merz-reaffirm-commitment-to-strengthen-cooperation/article71454626.ece",
+          "domain": "thehindu.com"
+        },
+        {
+          "title": "Thousands protest far right in Germany",
+          "url": "https://tribune.com.pk/story/2628998/thousands-protest-far-right-in-germany",
+          "domain": "tribune.com.pk"
+        },
+        {
+          "title": "German foreign minister urges voters to back Ukraine , NATO as far right surges",
+          "url": "https://www.politico.eu/article/german-foreign-minister-johann-wadephul-urges-voters-to-back-ukraine-nato-as-far-right-surges/",
+          "domain": "politico.eu"
+        }
+      ],
       "toneReading": "No recent coverage found.",
       "volumeReading": null
     },
@@ -365,28 +365,7 @@
       "regulatory": 17,
       "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [
-        {
-          "title": "Beijing lodges diplomatic protests over Taiwan official visit to Italy",
-          "url": "https://www.scmp.com/news/china/diplomacy/article/3367234/beijing-lodges-diplomatic-protests-over-taiwan-officials-visit-italy",
-          "domain": "scmp.com"
-        },
-        {
-          "title": "Italian feminist fighter Emma Bonino dies at 78",
-          "url": "https://punchng.com/italian-feminist-fighter-emma-bonino-dies-at-78/",
-          "domain": "punchng.com"
-        },
-        {
-          "title": "RFAs : Marl\u00e8ne and Paolo Fresco Fellowship in African Studies",
-          "url": "https://www2.fundsforngos.org/individuals/rfas-marlene-and-paolo-fresco-fellowship-in-african-studies/",
-          "domain": "fundsforngos.org"
-        },
-        {
-          "title": "Beijing urges Italy , EU to  honor one - China principle with real actions , lodges protest over Taiwan",
-          "url": "https://aa.com.tr/en/asia-pacific/beijing-urges-italy-eu-to-honor-one-china-principle-with-real-actions-lodges-protest-over-taiwan/4054099",
-          "domain": "aa.com.tr"
-        }
-      ],
+      "headlines": [],
       "toneReading": "No recent coverage found.",
       "volumeReading": null
     },
@@ -464,28 +443,7 @@
       "regulatory": 42,
       "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [
-        {
-          "title": "UN hails Libya election deal as Security Council urges Libyans to seize the moment",
-          "url": "https://www.globalissues.org/news/2026/09/09/44009",
-          "domain": "globalissues.org"
-        },
-        {
-          "title": "Algeria suspends diplomatic relations with  dwarf state  UAE",
-          "url": "https://www.middleeasteye.net/news/algeria-severs-diplomatic-relations-dwarf-state-uae",
-          "domain": "middleeasteye.net"
-        },
-        {
-          "title": "Algeria Cuts Diplomatic Ties with UAE",
-          "url": "https://allafrica.com/stories/202609110039.html",
-          "domain": "allafrica.com"
-        },
-        {
-          "title": "Syria , Libya discuss resumption of flights between two countries",
-          "url": "https://sana.sy/en/syria/2341644/",
-          "domain": "sana.sy"
-        }
-      ],
+      "headlines": [],
       "toneReading": "No recent coverage found.",
       "volumeReading": null
     },
@@ -576,7 +534,28 @@
       "regulatory": 92,
       "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [],
+      "headlines": [
+        {
+          "title": "North Korea launches ballistic missiles",
+          "url": "https://www.wyff4.com/article/north-korea-launches-missiles/73694606",
+          "domain": "wyff4.com"
+        },
+        {
+          "title": "North Korea launches a ballistic missile toward the sea , South Korea says \u2013 Winnipeg Free Press",
+          "url": "https://www.winnipegfreepress.com/world/2026/09/11/south-korea-says-north-korea-has-launched-a-projectile-toward-the-waters-off-the-norths-east-coast",
+          "domain": "winnipegfreepress.com"
+        },
+        {
+          "title": "North Korea launches ballistic missiles toward the sea following military drill it sees as threat",
+          "url": "https://www.nbcnews.com/world/north-korea/north-korea-launches-ballistic-missiles-sea-military-drill-sees-threat-rcna597333",
+          "domain": "nbcnews.com"
+        },
+        {
+          "title": "North Korea Launches Ballistic Missiles After US , South Korea And Japan End Major Trilateral Military Drill",
+          "url": "https://www.freepressjournal.in/world/north-korea-launches-ballistic-missiles-after-us-south-korea-and-japan-end-major-trilateral-military-drill",
+          "domain": "freepressjournal.in"
+        }
+      ],
       "toneReading": "No recent coverage found.",
       "volumeReading": null
     },
@@ -641,28 +620,7 @@
       "regulatory": 16,
       "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [
-        {
-          "title": "Qatar Wins Three Gold Medals at FISU World University Weightlifting Championship",
-          "url": "https://www.qatarliving.com/en/article/qatar-wins-three-gold-medals-at-fisu-world-university-weightlifting-championship",
-          "domain": "qatarliving.com"
-        },
-        {
-          "title": "Your First Job in Qatar : A Fresh Graduate Guide",
-          "url": "https://www.qatarliving.com/en/article/first-job-qatar-fresh-graduate-guide",
-          "domain": "qatarliving.com"
-        },
-        {
-          "title": "Saudi & GCC Job Transfers to Qatar : Visa & Salary",
-          "url": "https://www.qatarliving.com/en/article/saudi-gcc-job-transfers-qatar-visa-salary",
-          "domain": "qatarliving.com"
-        },
-        {
-          "title": "Qatar Stars League Foundation Approves Annual Report and Reviews Statute Amendment Proposal",
-          "url": "https://www.qatarliving.com/en/article/qatar-stars-league-foundation-approves-annual-report-and-reviews-statute-amendment-proposal",
-          "domain": "qatarliving.com"
-        }
-      ],
+      "headlines": [],
       "toneReading": "No recent coverage found.",
       "volumeReading": null
     },
@@ -688,28 +646,7 @@
       "regulatory": 36,
       "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [
-        {
-          "title": "Saudi Arabian firms eye deeper ties with China",
-          "url": "http://global.chinadaily.com.cn/a/202609/11/WS6aa34ab5e4b06d4aa055d71e.html",
-          "domain": "global.chinadaily.com.cn"
-        },
-        {
-          "title": "Saudi Arabia says drones from Iraq hit East - West oil pipeline , suspends exports",
-          "url": "https://www.moneycontrol.com/world/saudi-arabia-says-drones-from-iraq-hit-east-west-oil-pipeline-suspends-exports-article-14028260.html",
-          "domain": "moneycontrol.com"
-        },
-        {
-          "title": "Trump says Iran probably responsible for attack on Saudi pipeline",
-          "url": "https://us.cnn.com/2026/09/12/middleeast/trump-iran-saudi-pipeline-intl",
-          "domain": "us.cnn.com"
-        },
-        {
-          "title": "Gulf bloc condemns drone attack on Saudi pipeline from Iraq",
-          "url": "https://aa.com.tr/en/middle-east/gulf-bloc-condemns-drone-attack-on-saudi-pipeline-from-iraq/4054879",
-          "domain": "aa.com.tr"
-        }
-      ],
+      "headlines": [],
       "toneReading": "No recent coverage found.",
       "volumeReading": null
     },
@@ -813,28 +750,7 @@
       "regulatory": 67,
       "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [
-        {
-          "title": "Syria : united kingdom Statement to the September 2026 IAEA Board of Governors",
-          "url": "https://www.globalsecurity.org/wmd/library/news/syria/2026/syria-260909-ukfcdo01.htm",
-          "domain": "globalsecurity.org"
-        },
-        {
-          "title": "Photo Exclusive : Russia Returns To Syria Bases , Contradicting  Transfer  Claims",
-          "url": "https://www.rferl.org/a/russia-syria-return-to-bases-photo-exclusive-tartus/33852491.html",
-          "domain": "rferl.org"
-        },
-        {
-          "title": "Syria , Libya discuss resumption of flights between two countries",
-          "url": "https://sana.sy/en/syria/2341644/",
-          "domain": "sana.sy"
-        },
-        {
-          "title": "Syria Rejects Sovereignty Violations , Netanyahu Entry into Its Territory",
-          "url": "https://english.aawsat.com/arab-world/5317693-syria-rejects-sovereignty-violations-netanyahu%E2%80%99s-entry-its-territory",
-          "domain": "english.aawsat.com"
-        }
-      ],
+      "headlines": [],
       "toneReading": "No recent coverage found.",
       "volumeReading": null
     },
@@ -873,28 +789,7 @@
       "regulatory": 48,
       "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [
-        {
-          "title": "Turkey posts significant gains in PISA 2025 while socioeconomic gaps persist",
-          "url": "https://bianet.org/haber/turkey-posts-significant-gains-in-pisa-2025-while-socioeconomic-gaps-persist-323333",
-          "domain": "bianet.org"
-        },
-        {
-          "title": "US weighs foreign warships as China navy outpaces American fleet",
-          "url": "http://www.jpost.com/international/article-908399",
-          "domain": "jpost.com"
-        },
-        {
-          "title": "Houthi official warns Turkey and Pakistan against intervention on Saudi Arabia side \u2013 Middle East Monitor",
-          "url": "https://www.middleeastmonitor.com/20260911-houthi-official-warns-turkey-and-pakistan-against-intervention-on-saudi-arabias-side/",
-          "domain": "middleeastmonitor.com"
-        },
-        {
-          "title": "Jamie Oliver 20 - Minute Chicken Recipe Is My Favorite",
-          "url": "https://www.aol.com/articles/jamie-oliver-20-minute-chicken-172000000.html",
-          "domain": "aol.com"
-        }
-      ],
+      "headlines": [],
       "toneReading": "No recent coverage found.",
       "volumeReading": null
     },
@@ -933,7 +828,28 @@
       "regulatory": 22,
       "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [],
+      "headlines": [
+        {
+          "title": "UK lists African countries whose citizens can travel with eTA instead of visa",
+          "url": "https://www.vanguardngr.com/2026/09/uk-lists-african-countries-whose-citizens-can-travel-with-eta-instead-of-visa/",
+          "domain": "vanguardngr.com"
+        },
+        {
+          "title": "Northern Ireland is part of united kingdom : Nigel Farage rejects Trump call for united Ireland",
+          "url": "https://timesofindia.indiatimes.com/world/uk/northern-ireland-is-part-of-uk-nigel-farage-rejects-trumps-call-for-united-ireland/articleshow/134149044.cms",
+          "domain": "timesofindia.indiatimes.com"
+        },
+        {
+          "title": "Fragile recovery in transatlantic confidence as US investors warn on united kingdom competitiveness",
+          "url": "http://www.prnewswire.com/news-releases/fragile-recovery-in-transatlantic-confidence-as-us-investors-warn-on-uk-competitiveness-302874161.html",
+          "domain": "prnewswire.com"
+        },
+        {
+          "title": "Russia issues horror WW3 threat to strike 34 united kingdom towns - map shows Putin targets",
+          "url": "https://www.aol.co.uk/articles/russia-issues-horror-ww3-threat-083600000.html",
+          "domain": "aol.co.uk"
+        }
+      ],
       "toneReading": "No recent coverage found.",
       "volumeReading": null
     },
