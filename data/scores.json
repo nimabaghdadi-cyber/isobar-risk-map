@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-17T12:12:42.905704+00:00",
+  "generatedAt": "2026-09-17T18:12:00.106581+00:00",
   "source": "GDELT (news tone/volume, 3-day window) blended 50/50 with baseline",
   "countries": [
     {
@@ -11,7 +11,28 @@
       "regulatory": 84,
       "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [],
+      "headlines": [
+        {
+          "title": "Mullah Baradar , T\u00fcrkiye envoy discuss economic ties , migrant issues",
+          "url": "https://pajhwok.com/2026/09/10/mullah-baradar-turkiye-envoy-discuss-economic-ties-migrant-issues/",
+          "domain": "pajhwok.com"
+        },
+        {
+          "title": "Afghanistan call for stronger security cooperation at China conference",
+          "url": "https://pajhwok.com/2026/09/12/afghanistan-call-for-stronger-security-cooperation-at-china-conference/",
+          "domain": "pajhwok.com"
+        },
+        {
+          "title": "UNO Center for Afghanistan Studies became hub of knowledge after 9 / 11",
+          "url": "https://www.wowt.com/2026/09/10/uno-center-afghanistan-studies-became-hub-knowledge-after-911/",
+          "domain": "wowt.com"
+        },
+        {
+          "title": "Iran State TV Orders Historical Series Claiming Herat Was Separated From Iran",
+          "url": "https://www.khaama.com/iran-state-tv-orders-historical-series-claiming-herat-was-separated-from-iran/",
+          "domain": "khaama.com"
+        }
+      ],
       "toneReading": "No recent coverage found.",
       "volumeReading": null
     },
@@ -24,7 +45,28 @@
       "regulatory": 44,
       "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [],
+      "headlines": [
+        {
+          "title": "Donald Trump bombshell U - turn as US president  will not back Argentina over Falklands",
+          "url": "https://www.aol.co.uk/articles/donald-trump-bombshell-u-turn-102700000.html",
+          "domain": "aol.co.uk"
+        },
+        {
+          "title": "US State Department approves possible $140M sale of Black Hawk helicopters to Argentina",
+          "url": "https://aa.com.tr/en/americas/us-state-department-approves-possible-140m-sale-of-black-hawk-helicopters-to-argentina/4053849",
+          "domain": "aa.com.tr"
+        },
+        {
+          "title": "Argentina student plans school massacre with help from ChatGPT : feds",
+          "url": "https://nypost.com/2026/09/12/world-news/argentina-student-plans-school-massacre-with-help-from-chatgpt-feds/",
+          "domain": "nypost.com"
+        },
+        {
+          "title": "Donald Trump claims he could  settle  a war over the Falklands",
+          "url": "https://www.aol.co.uk/articles/donald-trump-claims-could-settle-103523000.html",
+          "domain": "aol.co.uk"
+        }
+      ],
       "toneReading": "No recent coverage found.",
       "volumeReading": null
     },
@@ -89,7 +131,28 @@
       "regulatory": 38,
       "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [],
+      "headlines": [
+        {
+          "title": "Brazil is in fashion , as Brazilians like to say . Here why",
+          "url": "https://economictimes.indiatimes.com/news/international/world-news/brazil-is-in-fashion-as-brazilians-like-to-say-heres-why/articleshow/134186159.cms",
+          "domain": "economictimes.indiatimes.com"
+        },
+        {
+          "title": "Brazil is in fashion , as Brazilians like to say . Here why | World News",
+          "url": "http://www.thegazette.com/news/world/brazil-is-in-fashion-as-brazilians-like-to-say-here-s-why/article_fd75f3b8-b36e-5872-ad90-0e20a3980e8d.html",
+          "domain": "thegazette.com"
+        },
+        {
+          "title": "Brazil meat ban  reversing expectation of EU - Mercosur deal , ambassador warns",
+          "url": "https://www.yahoo.com/news/world/articles/brazil-meat-ban-reversing-expectations-065518267.html",
+          "domain": "yahoo.com"
+        },
+        {
+          "title": "Brazil is in fashion , as Brazilians like to say . Here why \u2013 Winnipeg Free Press",
+          "url": "https://www.winnipegfreepress.com/arts-and-life/life/2026/09/13/brazil-is-in-fashion-as-brazilians-like-to-say-heres-why",
+          "domain": "winnipegfreepress.com"
+        }
+      ],
       "toneReading": "No recent coverage found.",
       "volumeReading": null
     },
@@ -102,7 +165,28 @@
       "regulatory": 20,
       "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [],
+      "headlines": [
+        {
+          "title": "Canada turning to Europe as trade tensions with US escalate",
+          "url": "https://aa.com.tr/en/americas/canada-turning-to-europe-as-trade-tensions-with-us-escalate/4055570",
+          "domain": "aa.com.tr"
+        },
+        {
+          "title": "Canadian boycott of US products pushes grocers to adapt , explore new supply sources",
+          "url": "https://www.thedailystar.net/business/news/canadian-boycott-us-products-pushes-grocers-adapt-explore-new-supply-sources-4271601",
+          "domain": "thedailystar.net"
+        },
+        {
+          "title": "SUNshine Girl Mandie | Edmonton Sun",
+          "url": "https://edmontonsun.com/sunshine-girl/sunshine-girl-mandie-16",
+          "domain": "edmontonsun.com"
+        },
+        {
+          "title": "SUNshine Girl Lucy | Edmonton Sun",
+          "url": "https://edmontonsun.com/sunshine-girls/sunshine-girl-lucy-5",
+          "domain": "edmontonsun.com"
+        }
+      ],
       "toneReading": "No recent coverage found.",
       "volumeReading": null
     },
@@ -141,28 +225,7 @@
       "regulatory": 40,
       "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [
-        {
-          "title": "Colombia to start aerial spraying of coca crops despite health worries",
-          "url": "https://www.hawaiitribune-herald.com/2026/09/12/nation-world-news/colombia-to-start-aerial-spraying-of-coca-crops-despite-health-worries/",
-          "domain": "hawaiitribune-herald.com"
-        },
-        {
-          "title": "The Drug Lord Died . The Hippos Multiplied .",
-          "url": "https://pjmedia.com/david-manney/2026/09/10/the-drug-lord-died-the-hippos-multiplied-n4956940",
-          "domain": "pjmedia.com"
-        },
-        {
-          "title": "US Recalls Potato Chips Containing Pork Cracklings",
-          "url": "https://www.deccanchronicle.com/lifestyle/food/us-recalls-potato-chips-containing-pork-cracklings-1986623",
-          "domain": "deccanchronicle.com"
-        },
-        {
-          "title": "Frontier adds 3 former Spirit routes to South America",
-          "url": "https://thepointsguy.com/news/frontier-airlines-new-service-south-america/",
-          "domain": "thepointsguy.com"
-        }
-      ],
+      "headlines": [],
       "toneReading": "No recent coverage found.",
       "volumeReading": null
     },
@@ -188,7 +251,28 @@
       "regulatory": 64,
       "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [],
+      "headlines": [
+        {
+          "title": "Ebola infections in DR Congo surpass 7 , 000",
+          "url": "https://sana.sy/en/health/2342111/",
+          "domain": "sana.sy"
+        },
+        {
+          "title": "Fire in eastern DR Congo kills at least 24 students at two schools",
+          "url": "https://www.edp24.co.uk/news/national/26540566.fire-eastern-dr-congo-kills-least-24-students-two-schools/",
+          "domain": "edp24.co.uk"
+        },
+        {
+          "title": "Arab News | DR Congo Ebola outbreak spreads to 7th province : governor",
+          "url": "https://www.arabnews.com/world/dr-congo-ebola-outbreak-spreads-to-7th-province-governor-3001346",
+          "domain": "arabnews.com"
+        },
+        {
+          "title": "Cyclist attempts to cover 14 , 000 kilometers for peace in DR Congo",
+          "url": "https://edition.cnn.com/world/africa/cycist-attempts-14-000-kilometers-for-peace-dr-congo-spc",
+          "domain": "edition.cnn.com"
+        }
+      ],
       "toneReading": "No recent coverage found.",
       "volumeReading": null
     },
@@ -227,7 +311,28 @@
       "regulatory": 52,
       "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [],
+      "headlines": [
+        {
+          "title": "PM Modi , Ethiopian counterpart discuss ways to strengthen strategic partnership",
+          "url": "https://theshillongtimes.com/2026/09/12/pm-modi-ethiopian-counterpart-discuss-ways-to-strengthen-strategic-partnership/",
+          "domain": "theshillongtimes.com"
+        },
+        {
+          "title": "BRICS Summit : PM Modi , Abiy discuss India - Ethiopia economic , defence ties",
+          "url": "https://www.moneycontrol.com/news/india/brics-summit-pm-modi-abiy-discuss-india-ethiopia-economic-defence-ties-14028369.html",
+          "domain": "moneycontrol.com"
+        },
+        {
+          "title": "PM Modi holds bilateral meeting with Ethiopian counterpart Abiy Ahmed Ali on sidelines of BRICS Summit",
+          "url": "https://news.webindia123.com/news/Articles/World/20260912/4497681.html",
+          "domain": "news.webindia123.com"
+        },
+        {
+          "title": "PM Modi meets Ethiopia Abiy Ahmed on sidelines of BRICS Summit in Delhi",
+          "url": "https://economictimes.indiatimes.com/news/india/pm-modi-meets-ethiopias-abiy-ahmed-on-sidelines-of-brics-summit-in-delhi/articleshow/134109581.cms",
+          "domain": "economictimes.indiatimes.com"
+        }
+      ],
       "toneReading": "No recent coverage found.",
       "volumeReading": null
     },
@@ -240,7 +345,28 @@
       "regulatory": 24,
       "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [],
+      "headlines": [
+        {
+          "title": "The style evolution of Andy Burnham  cool - girl  wife Marie - France van Heel",
+          "url": "https://www.hellomagazine.com/fashion/922310/andy-burnhams-wife-marie-france-van-heel-best-looks-style-evolution/",
+          "domain": "hellomagazine.com"
+        },
+        {
+          "title": "French broadcaster pulls replay after actress calls Israel genocide",
+          "url": "https://www.middleeasteye.net/live-blog/live-blog-update/french-broadcaster-pulls-replay-after-actress-calls-israels-genocide",
+          "domain": "middleeasteye.net"
+        },
+        {
+          "title": "Hundreds of asylum seekers removed from united kingdom to France have disappeared , say NGOs",
+          "url": "https://www.theguardian.com/uk-news/2026/sep/11/asylum-seekers-removed-uk-to-france-disappeared-children-one-in-one-out",
+          "domain": "theguardian.com"
+        },
+        {
+          "title": "French broadcaster removes replay of program after actress Adele Haenel denounces Gaza genocide",
+          "url": "https://aa.com.tr/en/europe/french-broadcaster-removes-replay-of-program-after-actress-adele-haenel-denounces-gaza-genocide/4054294",
+          "domain": "aa.com.tr"
+        }
+      ],
       "toneReading": "No recent coverage found.",
       "volumeReading": null
     },
@@ -253,7 +379,28 @@
       "regulatory": 38,
       "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [],
+      "headlines": [
+        {
+          "title": "Georgia hiker discovers two dead bodies on mountain , sheriff says",
+          "url": "https://nypost.com/2026/09/11/us-news/georgia-hiker-discovers-two-dead-bodies-on-mountain-sheriff-says/",
+          "domain": "nypost.com"
+        },
+        {
+          "title": "Republican  unity tour  bus in Georgia flies off a cliff : report",
+          "url": "https://www.alternet.org/georgia-trump-gra-republicans/",
+          "domain": "alternet.org"
+        },
+        {
+          "title": "Georgia Southern vs . Clemson Sept . 12 : TV , Stream | 1049 Fox Sports Upstate",
+          "url": "https://1049foxsports.iheart.com/content/2026-09-12-georgia-southern-vs-clemson-sept-12-tv-stream/",
+          "domain": "1049foxsports.iheart.com"
+        },
+        {
+          "title": "Russian Hacker Extradited From Georgia in Massive Bank Fraud Scheme",
+          "url": "https://townhall.com/news/scott-mcclallen/2026/09/11/russian-hacker-extradited-from-georgia-in-massive-bank-fraud-scheme-n2682845",
+          "domain": "townhall.com"
+        }
+      ],
       "toneReading": "No recent coverage found.",
       "volumeReading": null
     },
@@ -266,7 +413,28 @@
       "regulatory": 16,
       "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [],
+      "headlines": [
+        {
+          "title": "Mass protests erupt in Germany as AfD eyes breakthrough in eastern states",
+          "url": "https://timesofindia.indiatimes.com/world/europe/mass-protests-erupt-in-germany-as-afd-eyes-breakthrough-in-eastern-states/articleshow/134171697.cms",
+          "domain": "timesofindia.indiatimes.com"
+        },
+        {
+          "title": "PM Modi , German Chancellor Merz reaffirm commitment to strengthen cooperation",
+          "url": "https://www.thehindu.com/news/national/pm-modi-german-chancellor-merz-reaffirm-commitment-to-strengthen-cooperation/article71454626.ece",
+          "domain": "thehindu.com"
+        },
+        {
+          "title": "Thousands protest far right in Germany",
+          "url": "https://tribune.com.pk/story/2628998/thousands-protest-far-right-in-germany",
+          "domain": "tribune.com.pk"
+        },
+        {
+          "title": "Germany : Lower Saxony local polls in focus after AfD win",
+          "url": "https://www.dw.com/en/germany-lower-saxony-local-polls-in-focus-after-afd-win/live-79223427",
+          "domain": "dw.com"
+        }
+      ],
       "toneReading": "No recent coverage found.",
       "volumeReading": null
     },
@@ -279,7 +447,28 @@
       "regulatory": 82,
       "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [],
+      "headlines": [
+        {
+          "title": "Haiti - Security : Vladimir Paraison at the 5th UN Police Chief Summit ( Speech )",
+          "url": "https://www.haitilibre.com/en/news-48425-haiti-security-vladimir-paraison-at-the-5th-un-police-chiefssummit-speech.html",
+          "domain": "haitilibre.com"
+        },
+        {
+          "title": "Black Firefighters Who Were Killed On 9 / 11 : FDNY Black Vulcan Society",
+          "url": "https://961wtth.iheart.com/content/2023-09-10-remembering-black-firefighters-who-died-on-911/",
+          "domain": "961wtth.iheart.com"
+        },
+        {
+          "title": "Former Ohio missionary pleads guilty to molesting 2 boys in Haiti",
+          "url": "https://www.13abc.com/2026/09/11/former-ohio-missionary-pleads-guilty-molesting-2-boys-haiti/",
+          "domain": "13abc.com"
+        },
+        {
+          "title": "TriplePundit \u2022 Megan Pearson",
+          "url": "https://triplepundit.com/author/megan-pearson/",
+          "domain": "triplepundit.com"
+        }
+      ],
       "toneReading": "No recent coverage found.",
       "volumeReading": null
     },
@@ -370,7 +559,28 @@
       "regulatory": 20,
       "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [],
+      "headlines": [
+        {
+          "title": "Mormon Wive Star Jessi Draper Ex Jordan Ngatikaura Speaks Out After Divorce Finalized",
+          "url": "https://www.tmz.com/2026/09/11/jessi-draper-ex-jordan-ngatikaura-speaks-out-after-divorce/",
+          "domain": "tmz.com"
+        },
+        {
+          "title": "Mormon Wive Stars Jessi Draper and Jordan Ngatikaura Finalize Divorce",
+          "url": "https://www.tmz.com/2026/09/11/jessi-draper-and-jordan-ngatikaura-finalize-divorce/",
+          "domain": "tmz.com"
+        },
+        {
+          "title": "9 / 11 25th anniversary ceremony updates : Families gather at World Trade Center , the Pentagon and Shanksville , Pennsylvania",
+          "url": "https://6abc.com/live-updates/911-25th-anniversary-ceremony-updates-families-gather-world-trade-center-pentagon-shanksville-pennsylvania/19811366/",
+          "domain": "6abc.com"
+        },
+        {
+          "title": "Families , visitors honor lives lost as NYC prepares to mark 25 years since 9 / 11",
+          "url": "https://6abc.com/live-updates/911-25th-anniversary-ceremony-updates-families-gather-world-trade-center-pentagon-shanksville-pennsylvania/19811366/entry/19817751/",
+          "domain": "6abc.com"
+        }
+      ],
       "toneReading": "No recent coverage found.",
       "volumeReading": null
     },
@@ -383,7 +593,28 @@
       "regulatory": 36,
       "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [],
+      "headlines": [
+        {
+          "title": "India , Kazakhstan to firm up practical areas of economic cooperation during President Tokayev visit for BRICS Summit",
+          "url": "https://economictimes.indiatimes.com/news/india/india-kazakhstan-to-firm-up-practical-areas-of-economic-cooperation-during-president-tokayevs-visit-for-brics-summit/articleshow/134048318.cms",
+          "domain": "economictimes.indiatimes.com"
+        },
+        {
+          "title": "Binance : Kazakhstan makes significant progress in digital , financial infrastructure ( Exclusive interview )",
+          "url": "https://www.trend.az/casia/kazakhstan/4222683.html",
+          "domain": "trend.az"
+        },
+        {
+          "title": "Beyond Oil and Gas : How Kazakhstan Wants to Become a Gateway for Chinese Capital and Technology \u00b7 TechNode",
+          "url": "https://technode.com/2026/09/11/beyond-oil-and-gas-how-kazakhstan-wants-to-become-a-gateway-for-chinese-capital-and-technology/",
+          "domain": "technode.com"
+        },
+        {
+          "title": "Tokayev , U . S . Special Envoy Sergio Gor discuss Kazakhstan - U . S . strategic partnership",
+          "url": "https://www.trend.az/casia/kazakhstan/4223378.html",
+          "domain": "trend.az"
+        }
+      ],
       "toneReading": "No recent coverage found.",
       "volumeReading": null
     },
@@ -461,7 +692,28 @@
       "regulatory": 46,
       "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [],
+      "headlines": [
+        {
+          "title": "No . 25 : Claudia Sheinbaum : Mexico first woman president",
+          "url": "http://www.jpost.com/influencers-26/50jews-26/article-908081",
+          "domain": "jpost.com"
+        },
+        {
+          "title": "New Mexico leaders beg Apple and Google not to rename their state on apps",
+          "url": "https://www.independent.co.uk/news/world/americas/us-politics/trump-new-mexico-name-maps-b3048198.html",
+          "domain": "independent.co.uk"
+        },
+        {
+          "title": "Trade war : Mexico and U . S . sprint toward bilateral deal",
+          "url": "https://www.bnnbloomberg.ca/tariffs/2026/09/11/mexico-washington-sprint-toward-bilateral-trade-deal-before-us-elections/",
+          "domain": "bnnbloomberg.ca"
+        },
+        {
+          "title": "Mexico Independence Day celebrated in Shusha ( PHOTO )",
+          "url": "https://www.trend.az/azerbaijan/politics/4223159.html",
+          "domain": "trend.az"
+        }
+      ],
       "toneReading": "No recent coverage found.",
       "volumeReading": null
     },
@@ -552,7 +804,28 @@
       "regulatory": 30,
       "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [],
+      "headlines": [
+        {
+          "title": "Telangana - Philippines Trade Deal to Expand Beyond Rice to Seeds , Meat",
+          "url": "https://dailypioneer.com/news/philippines-looks-beyond-rice-eyes-telangana-seeds-and-meat-products",
+          "domain": "dailypioneer.com"
+        },
+        {
+          "title": "Migrating abroad soon ? Do these 5 financial steps before leaving the Philippines",
+          "url": "https://www.philstar.com/business/banking/2026/09/11/2549056/migrating-abroad-soon-do-these-5-financial-steps-leaving-philippines",
+          "domain": "philstar.com"
+        },
+        {
+          "title": "Weekend list : P100 movies , MIBF , Grandparents\u00e2\u20ac\u2122 Day",
+          "url": "https://www.philstar.com/lifestyle/arts-and-culture/2026/09/11/2555356/weekend-list-p100-movies-mibf-grandparents-day",
+          "domain": "philstar.com"
+        },
+        {
+          "title": "US backs LNG , nuclear projects in Philippines with eye on China",
+          "url": "https://bworldonline.com/top-stories/2026/09/11/776320/us-backs-lng-nuclear-projects-in-philippines-with-eye-on-china/",
+          "domain": "bworldonline.com"
+        }
+      ],
       "toneReading": "No recent coverage found.",
       "volumeReading": null
     },
@@ -630,7 +903,28 @@
       "regulatory": 8,
       "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [],
+      "headlines": [
+        {
+          "title": "How you can buy the iPhone Duo , travel to Singapore for 4 days with stay and food , and still save Rs 50 , 000 over India pricing",
+          "url": "https://www.moneycontrol.com/technology/how-you-can-buy-the-iphone-duo-travel-to-singapore-for-4-days-with-stay-and-food-and-still-save-rs-50-000-over-india-pricing-article-14028807.html",
+          "domain": "moneycontrol.com"
+        },
+        {
+          "title": "NCC cadets from India attend week - long youth exchange programme in Singapore",
+          "url": "https://www.hindustantimes.com/world-news/ncc-cadets-from-india-attend-week-long-youth-exchange-programme-in-singapore-101789090987736.html",
+          "domain": "hindustantimes.com"
+        },
+        {
+          "title": "NCC India Cadets Explore Singapore Culture , Development And Diplomacy During Week - Long Youth Exchange Programme",
+          "url": "https://www.freepressjournal.in/education/ncc-india-cadets-explore-singapores-culture-development-and-diplomacy-during-week-long-youth-exchange-programme",
+          "domain": "freepressjournal.in"
+        },
+        {
+          "title": "NCC Cadets Explore Singapore Multiculturalism , Development During Youth Exchange",
+          "url": "https://www.deccanchronicle.com/nation/world/ncc-cadets-explore-singapores-multiculturalism-development-during-youth-exchange-1986618",
+          "domain": "deccanchronicle.com"
+        }
+      ],
       "toneReading": "No recent coverage found.",
       "volumeReading": null
     },
@@ -643,7 +937,28 @@
       "regulatory": 42,
       "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [],
+      "headlines": [
+        {
+          "title": "ICE Sends Somali Asylum Seeker to Guant\u00e1namo Bay Prison Camp",
+          "url": "https://www.democracynow.org/2026/9/11/headlines/ice_sends_somali_asylum_seeker_to_guantanamo_bay_prison_camp",
+          "domain": "democracynow.org"
+        },
+        {
+          "title": "Somali pirates free hijacked vessel : sources",
+          "url": "https://www.geo.tv/latest/681751-somali-pirates-free-hijacked-vessel-security-sources",
+          "domain": "geo.tv"
+        },
+        {
+          "title": "Somali pirates free hijacked vessel : security sources",
+          "url": "https://www.hindustantimes.com/world-news/us-news/somali-pirates-free-hijacked-vessel-security-sources-101789167059141.html",
+          "domain": "hindustantimes.com"
+        },
+        {
+          "title": "Singapore Leadership Study Tour Held for Somalia Leaders",
+          "url": "http://radiodalsan.com/2026/09/12/singapore-leadership-study-tour/",
+          "domain": "radiodalsan.com"
+        }
+      ],
       "toneReading": "No recent coverage found.",
       "volumeReading": null
     },
@@ -708,7 +1023,28 @@
       "regulatory": 67,
       "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [],
+      "headlines": [
+        {
+          "title": "Syria : united kingdom Statement to the September 2026 IAEA Board of Governors",
+          "url": "https://www.globalsecurity.org/wmd/library/news/syria/2026/syria-260909-ukfcdo01.htm",
+          "domain": "globalsecurity.org"
+        },
+        {
+          "title": "Photo Exclusive : Russia Returns To Syria Bases , Contradicting  Transfer  Claims",
+          "url": "https://www.rferl.org/a/russia-syria-return-to-bases-photo-exclusive-tartus/33852491.html",
+          "domain": "rferl.org"
+        },
+        {
+          "title": "Syria Rejects Sovereignty Violations , Netanyahu Entry into Its Territory",
+          "url": "https://english.aawsat.com/arab-world/5317693-syria-rejects-sovereignty-violations-netanyahu%E2%80%99s-entry-its-territory",
+          "domain": "english.aawsat.com"
+        },
+        {
+          "title": "Saudi Arabia Condemns Netanyahu Visit to Occupied Syrian Territory as  Illegal Entry",
+          "url": "https://www.khaama.com/saudi-arabia-condemns-netanyahus-visit-to-occupied-syrian-territory-as-illegal-entry/",
+          "domain": "khaama.com"
+        }
+      ],
       "toneReading": "No recent coverage found.",
       "volumeReading": null
     },
@@ -734,28 +1070,7 @@
       "regulatory": 34,
       "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [
-        {
-          "title": "Thailand halves visa - free stay for Malaysians to 30 days from Sept 15 , little impact expected",
-          "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/09/10/thailand-halves-visa-free-stay-for-malaysians-to-30-days-from-sept-15-little-impact-expected",
-          "domain": "thestar.com.my"
-        },
-        {
-          "title": "Hundreds rally at Israeli embassy in Bangkok to demand foreigners respect Thai laws",
-          "url": "https://www.latimes.com/world-nation/story/2026-09-10/hundreds-rally-at-israeli-embassy-in-bangkok-to-demand-foreigners-respect-thai-laws",
-          "domain": "latimes.com"
-        },
-        {
-          "title": "Chinese Golden Week expected to bring 250 , 000 visitors and 11 . 5bn baht to Thailand",
-          "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/09/12/chinese-golden-week-expected-to-bring-250000-visitors-and-115bn-baht-to-thailand",
-          "domain": "thestar.com.my"
-        },
-        {
-          "title": "Israelis cant  do whatever they want in Thailand  - Thai FM",
-          "url": "https://www.sott.net/article/508344-Israelis-cant-do-whatever-they-want-in-Thailand-Thai-FM",
-          "domain": "sott.net"
-        }
-      ],
+      "headlines": [],
       "toneReading": "No recent coverage found.",
       "volumeReading": null
     },
@@ -807,7 +1122,28 @@
       "regulatory": 22,
       "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [],
+      "headlines": [
+        {
+          "title": "UK lists African countries whose citizens can travel with eTA instead of visa",
+          "url": "https://www.vanguardngr.com/2026/09/uk-lists-african-countries-whose-citizens-can-travel-with-eta-instead-of-visa/",
+          "domain": "vanguardngr.com"
+        },
+        {
+          "title": "Northern Ireland is part of united kingdom : Nigel Farage rejects Trump call for united Ireland",
+          "url": "https://timesofindia.indiatimes.com/world/uk/northern-ireland-is-part-of-uk-nigel-farage-rejects-trumps-call-for-united-ireland/articleshow/134149044.cms",
+          "domain": "timesofindia.indiatimes.com"
+        },
+        {
+          "title": "Russia issues horror WW3 threat to strike 34 united kingdom towns - map shows Putin targets",
+          "url": "https://www.aol.co.uk/articles/russia-issues-horror-ww3-threat-083600000.html",
+          "domain": "aol.co.uk"
+        },
+        {
+          "title": "Russia WW3 threat to strike 34 united kingdom RAF bases \u2013 map shows Putin  secret  targets",
+          "url": "https://www.dailystar.co.uk/news/latest-news/russias-ww3-threat-strike-34-37655423",
+          "domain": "dailystar.co.uk"
+        }
+      ],
       "toneReading": "No recent coverage found.",
       "volumeReading": null
     },
@@ -820,7 +1156,28 @@
       "regulatory": 28,
       "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [],
+      "headlines": [
+        {
+          "title": "Everything changed for our country : Upstate remembers 9 / 11",
+          "url": "https://www.yahoo.com/news/us/articles/everything-changed-country-upstate-remembers-171505712.html",
+          "domain": "yahoo.com"
+        },
+        {
+          "title": "Should You Ignore MP Materials and Buy This Rare - Earth Stock Instead ?",
+          "url": "https://www.fool.com/investing/2026/09/12/ignore-mp-materials-buy-rare-earth-stock/",
+          "domain": "fool.com"
+        },
+        {
+          "title": "Novartis India shares snap 9 - day rally to fall over 1 % amid profit booking",
+          "url": "https://www.moneycontrol.com/news/business/markets/novartis-india-shares-snap-9-day-rally-to-fall-over-1-amid-profit-booking-14027861.html",
+          "domain": "moneycontrol.com"
+        },
+        {
+          "title": "France apologizes for UN diplomatic spat with Washington",
+          "url": "https://www.thedailystar.net/news/world/news/france-apologizes-un-diplomatic-spat-washington-4271546",
+          "domain": "thedailystar.net"
+        }
+      ],
       "toneReading": "No recent coverage found.",
       "volumeReading": null
     },
@@ -859,7 +1216,28 @@
       "regulatory": 74,
       "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [],
+      "headlines": [
+        {
+          "title": "Iran - aligned fighters capture Yemen port near vital global trade route",
+          "url": "https://wpde.com/news/nation-world/iran-aligned-fighters-capture-yemen-port-near-vital-global-trade-route-houthi-rebels-bab-el-mandeb-strait",
+          "domain": "wpde.com"
+        },
+        {
+          "title": "Houthis take over strategic port city in Yemen , threatening shipping",
+          "url": "https://www.pilotonline.com/2026/09/10/yemen-houthi-port-city/",
+          "domain": "pilotonline.com"
+        },
+        {
+          "title": "No military solution to conflict in Yemen , Eritrean foreign minister says",
+          "url": "https://www.middleeasteye.net/live-blog/live-blog-update/no-military-solution-conflict-yemen-eritrean-foreign-minister-says",
+          "domain": "middleeasteye.net"
+        },
+        {
+          "title": "Yemen risks return to civil war as Houthis target vital shipping route",
+          "url": "https://www.pilotonline.com/2026/09/10/yemen-fighting-explained/",
+          "domain": "pilotonline.com"
+        }
+      ],
       "toneReading": "No recent coverage found.",
       "volumeReading": null
     },
