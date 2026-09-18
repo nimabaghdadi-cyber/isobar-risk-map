@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-18T06:12:34.166040+00:00",
+  "generatedAt": "2026-09-18T12:12:13.795031+00:00",
   "source": "GDELT (news tone/volume, 3-day window) blended 50/50 with baseline",
   "countries": [
     {
@@ -37,28 +37,7 @@
       "regulatory": 10,
       "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [
-        {
-          "title": "Listless Rams fall to 49ers in season opener in Australia",
-          "url": "https://www.ocregister.com/2026/09/10/listless-rams-fall-to-49ers-in-season-opener-in-australia/",
-          "domain": "ocregister.com"
-        },
-        {
-          "title": "First H5 bird flu death of endangered Australian sea lion recorded amid fears for small population",
-          "url": "https://www.theguardian.com/australia-news/2026/sep/13/first-h5-bird-flu-death-of-endangered-australian-sea-lion-kangaroo-island",
-          "domain": "theguardian.com"
-        },
-        {
-          "title": "Indian Navy chief meets Australian counterpart in Canberra , discusses deepening maritime cooperation",
-          "url": "https://www.prokerala.com/news/articles/a1810990.html",
-          "domain": "prokerala.com"
-        },
-        {
-          "title": "The Indian Cowboy rides again : Australia - India feature film inspired by Bobby Cash announced",
-          "url": "https://timesofindia.indiatimes.com/world/rest-of-world/the-indian-cowboy-rides-again-australia-india-feature-film-inspired-by-bobby-cash-announced/articleshow/134063084.cms",
-          "domain": "timesofindia.indiatimes.com"
-        }
-      ],
+      "headlines": [],
       "toneReading": "No recent coverage found.",
       "volumeReading": null
     },
@@ -97,7 +76,28 @@
       "regulatory": 72,
       "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [],
+      "headlines": [
+        {
+          "title": "Lukashenko on policy of Lithuania , Latvia towards Belarus : theyre already shooting themselves in the ear",
+          "url": "https://www.sb.by/en/lukashenko-on-policy-of-lithuania-latvia-towards-belarus-they-re-already-shooting-themselves-in-the-.html",
+          "domain": "sb.by"
+        },
+        {
+          "title": "Belarus ready for deep industrial cooperation and widen agri sector partnership with India : FM Maxim Ryzhenkov",
+          "url": "https://economictimes.indiatimes.com/news/economy/foreign-trade/belarus-ready-for-deep-industrial-cooperation-and-widen-agri-sector-partnership-with-india-fm-maxim-ryzhenkov/articleshow/134116469.cms",
+          "domain": "economictimes.indiatimes.com"
+        },
+        {
+          "title": "EAM Jaishankar , Belarus counterpart Ryzhenkov discuss ties , regional developments",
+          "url": "https://www.prokerala.com/news/articles/a1811404.html",
+          "domain": "prokerala.com"
+        },
+        {
+          "title": "Belarus Foreign Affairs Minister Ryzhenkov arrives in Delhi to attend 18th BRICS Summit",
+          "url": "https://news.webindia123.com/news/Articles/World/20260912/4497654.html",
+          "domain": "news.webindia123.com"
+        }
+      ],
       "toneReading": "No recent coverage found.",
       "volumeReading": null
     },
@@ -292,28 +292,7 @@
       "regulatory": 32,
       "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [
-        {
-          "title": "Congress unable to digest India progress , spreading negativity over BRICS : BJP",
-          "url": "https://www.thehindu.com/news/national/congress-unable-to-digest-indias-progress-spreading-negativity-over-brics-bjp/article71456028.ece",
-          "domain": "thehindu.com"
-        },
-        {
-          "title": "BJP and Congress at loggerheads over hosting of Brics 2026 summit",
-          "url": "https://www.business-standard.com/external-affairs-defence-security/news/bjp-and-congress-at-loggerheads-over-hosting-of-brics-2026-summit-126091101559_1.html",
-          "domain": "business-standard.com"
-        },
-        {
-          "title": "Oppn suffering from indigestion as India is forging ahead : BJP Sambit Patra on BRICS Summit",
-          "url": "https://www.prokerala.com/news/articles/a1811015.html",
-          "domain": "prokerala.com"
-        },
-        {
-          "title": "Policy Push Meets Production Scale as electronica India and productronica India 2026 Return to Bengaluru with 750+ Exhibitors from 30+ Countries",
-          "url": "https://aninews.in/news/business/policy-push-meets-production-scale-as-electronica-india-and-productronica-india-2026-return-to-bengaluru-with-750-exhibitors-from-30-countries20260911160107/",
-          "domain": "aninews.in"
-        }
-      ],
+      "headlines": [],
       "toneReading": "No recent coverage found.",
       "volumeReading": null
     },
@@ -326,28 +305,7 @@
       "regulatory": 32,
       "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [
-        {
-          "title": "Indian envoy calls Indonesia key Global South voice in BRICS",
-          "url": "https://en.antaranews.com/news/431053/indian-envoy-calls-indonesia-key-global-south-voice-in-brics",
-          "domain": "en.antaranews.com"
-        },
-        {
-          "title": "Indonesia , India elevate global roles through BRICS partnership : Envoy",
-          "url": "https://en.antaranews.com/news/431084/indonesia-india-elevate-global-roles-through-brics-partnership-envoy",
-          "domain": "en.antaranews.com"
-        },
-        {
-          "title": "Indonesia hit by 6 . 2 magnitude earthquake on volcano - filled island",
-          "url": "https://www.mirror.co.uk/news/world-news/indonesia-java-earthquake-saturday-volcano-37654554",
-          "domain": "mirror.co.uk"
-        },
-        {
-          "title": "Indonesia must not become a platform for Israeli business",
-          "url": "https://www.middleeastmonitor.com/20260912-indonesia-must-not-become-a-platform-for-israeli-business/",
-          "domain": "middleeastmonitor.com"
-        }
-      ],
+      "headlines": [],
       "toneReading": "No recent coverage found.",
       "volumeReading": null
     },
@@ -412,7 +370,28 @@
       "regulatory": 20,
       "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [],
+      "headlines": [
+        {
+          "title": "Mormon Wive Star Jessi Draper Ex Jordan Ngatikaura Speaks Out After Divorce Finalized",
+          "url": "https://www.tmz.com/2026/09/11/jessi-draper-ex-jordan-ngatikaura-speaks-out-after-divorce/",
+          "domain": "tmz.com"
+        },
+        {
+          "title": "Mormon Wive Stars Jessi Draper and Jordan Ngatikaura Finalize Divorce",
+          "url": "https://www.tmz.com/2026/09/11/jessi-draper-and-jordan-ngatikaura-finalize-divorce/",
+          "domain": "tmz.com"
+        },
+        {
+          "title": "General Hospital Spoilers : Are Jordan & Dr . Nichols Sisters \u2013 New Character Surprising PC Connection ?",
+          "url": "https://www.celebdirtylaundry.com/2026/general-hospital-spoilers-are-jordan-dr-nichols-sisters-new-characters-surprising-pc-connection/",
+          "domain": "celebdirtylaundry.com"
+        },
+        {
+          "title": "Multiple U . S . military aircraft damaged in Iranian strikes on military base in Jordan",
+          "url": "https://www.sott.net/article/508345-Multiple-US-military-aircraft-damaged-in-Iranian-strikes-on-military-base-in-Jordan",
+          "domain": "sott.net"
+        }
+      ],
       "toneReading": "No recent coverage found.",
       "volumeReading": null
     },
@@ -451,7 +430,28 @@
       "regulatory": 20,
       "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [],
+      "headlines": [
+        {
+          "title": "Israel intensifies attacks in southern Lebanon with more than 30 blasts in one town",
+          "url": "https://aa.com.tr/en/middle-east/israel-intensifies-attacks-in-southern-lebanon-with-more-than-30-blasts-in-one-town/4055567",
+          "domain": "aa.com.tr"
+        },
+        {
+          "title": "Israel - Lebanon talks in Rome delayed to October : US official",
+          "url": "https://www.moneycontrol.com/world/israel-lebanon-talks-in-rome-delayed-to-october-us-official-article-14028280.html",
+          "domain": "moneycontrol.com"
+        },
+        {
+          "title": "Ceiling leaking and in need of repair : Lebanon County restaurant inspections , Sept . 12 , 2026",
+          "url": "https://lancasteronline.com/business/restaurant_inspections/ceiling-leaking-and-in-need-of-repair-lebanon-county-restaurant-inspections-sept-12-2026/article_806913d6-3caa-4117-910c-f737f70e1b09.html",
+          "domain": "lancasteronline.com"
+        },
+        {
+          "title": "Israel says it has destroyed major underground Hezbollah base",
+          "url": "https://www.bbc.co.uk/news/articles/c4gl92lw8vpo",
+          "domain": "bbc.co.uk"
+        }
+      ],
       "toneReading": "No recent coverage found.",
       "volumeReading": null
     },
@@ -464,7 +464,28 @@
       "regulatory": 42,
       "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [],
+      "headlines": [
+        {
+          "title": "Truth : Lavrov say US has abused post - 9 / 11 global solidarity",
+          "url": "https://www.sott.net/article/508352-Truth-Lavrov-say-US-has-abused-post-9-11-global-solidarity",
+          "domain": "sott.net"
+        },
+        {
+          "title": "Column : The White House Benghazi Cover Up",
+          "url": "https://www.newsbusters.org/blogs/nb/chuck-norris/2014/05/13/column-white-houses-benghazi-cover",
+          "domain": "newsbusters.org"
+        },
+        {
+          "title": "Reopened after 11 years , Benghazi University breaks 3 Guinness World Records",
+          "url": "https://www.ummid.com/news/2026/9/11/reopened-after-11-years-benghazi-university-breaks-3-guinness-world-records.html",
+          "domain": "ummid.com"
+        },
+        {
+          "title": "Family , friends say goodbye to Berry , 51 - year - old security guard murdered in Overasselt",
+          "url": "https://nltimes.nl/2026/09/12/family-friends-say-goodbye-berry-51-year-old-security-guard-murdered-overasselt",
+          "domain": "nltimes.nl"
+        }
+      ],
       "toneReading": "No recent coverage found.",
       "volumeReading": null
     },
@@ -529,28 +550,7 @@
       "regulatory": 70,
       "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [
-        {
-          "title": "Myanmar airport shut after rebel drone attack : security sources",
-          "url": "https://www.thehindu.com/news/international/myanmar-airport-shut-after-rebel-drone-attack-security-sources/article71455106.ece",
-          "domain": "thehindu.com"
-        },
-        {
-          "title": "Myanmar head visits Cambodia for meeting | The Arkansas Democrat - Gazette",
-          "url": "https://www.arkansasonline.com/news/2026/sep/12/myanmars-head-visits-cambodia-for-meeting/",
-          "domain": "arkansasonline.com"
-        },
-        {
-          "title": "How Myanmar civil war is reshaping its mineral economy",
-          "url": "https://www.mining-technology.com/analysis/how-myanmars-civil-war-is-reshaping-its-mineral-economy/",
-          "domain": "mining-technology.com"
-        },
-        {
-          "title": "Myanmar says UN envoy illegitimate ahead of credentials decision",
-          "url": "https://www.freemalaysiatoday.com/category/world/2026/09/13/myanmar-says-un-envoy-illegitimate-ahead-of-credentials-decision",
-          "domain": "freemalaysiatoday.com"
-        }
-      ],
+      "headlines": [],
       "toneReading": "No recent coverage found.",
       "volumeReading": null
     },
@@ -615,7 +615,28 @@
       "regulatory": 30,
       "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [],
+      "headlines": [
+        {
+          "title": "Philippines ferry fire : Dozens missing , firefighters search vessel",
+          "url": "https://www.cp24.com/news/world/2026/09/11/philippine-firefighters-enter-charred-ferry-as-rescuers-search-for-84-missing/",
+          "domain": "cp24.com"
+        },
+        {
+          "title": "PH to match Vietnam with 15 Heritage Parks",
+          "url": "https://www.sunstar.com.ph/cebu/ph-to-match-vietnam-with-15-heritage-parks",
+          "domain": "sunstar.com.ph"
+        },
+        {
+          "title": "Philippines aims to conclude Oman , Singapore tax talks this year",
+          "url": "https://www.philstar.com/business/2026/09/13/2555822/philippines-aims-conclude-oman-singapore-tax-talks-year",
+          "domain": "philstar.com"
+        },
+        {
+          "title": "Death toll in Philippine ferry fire rises to 35 as more bodies are recovered",
+          "url": "https://www.pressdemocrat.com/2026/09/11/philippines-ferry-fire-death-toll/",
+          "domain": "pressdemocrat.com"
+        }
+      ],
       "toneReading": "No recent coverage found.",
       "volumeReading": null
     },
@@ -710,9 +731,9 @@
           "domain": "businesstimes.com.sg"
         },
         {
-          "title": "SPF | Clarification On Safew Technology Co . Ltd Being A Singapore - Based Entity",
-          "url": "https://www.police.gov.sg/Media-Hub/News/2026/09/20260910_clarification_on_safew_technology_co_ltd_being_a_singapore_based_entity",
-          "domain": "police.gov.sg"
+          "title": "Grace Fu to deliver statement at 70th IAEA general conference in Vienna",
+          "url": "https://www.asiaone.com/singapore/grace-fu-iaea-conference-national-statement-vienna",
+          "domain": "asiaone.com"
         }
       ],
       "toneReading": "No recent coverage found.",
@@ -800,28 +821,7 @@
       "regulatory": 80,
       "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [
-        {
-          "title": "UAE AI op targeting UN critics over Sudan",
-          "url": "https://www.albawaba.com/business/uae-ai-op-targeting-un-critics-over-1636901",
-          "domain": "albawaba.com"
-        },
-        {
-          "title": "Anthropic says UAE - linked AI op targeted UN staff over Sudan",
-          "url": "https://timesofindia.indiatimes.com/world/rest-of-world/anthropic-says-uae-linked-ai-op-targeted-un-staff-over-sudan/articleshow/134167044.cms",
-          "domain": "timesofindia.indiatimes.com"
-        },
-        {
-          "title": "Sudan announces 2026 secondary school exam results",
-          "url": "https://www.radiotamazuj.org/en/news/article/sudan-announces-2026-secondary-school-exam-results",
-          "domain": "radiotamazuj.org"
-        },
-        {
-          "title": "Arab News | Sudan war is now a regional crisis",
-          "url": "https://www.arabnews.com/opinion/sudans-war-is-now-a-regional-crisis-3001319",
-          "domain": "arabnews.com"
-        }
-      ],
+      "headlines": [],
       "toneReading": "No recent coverage found.",
       "volumeReading": null
     },
@@ -847,7 +847,28 @@
       "regulatory": 20,
       "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [],
+      "headlines": [
+        {
+          "title": "PLA Purge May Be Driving China To Rely More On Military Pressure Against Taiwan : Analysts",
+          "url": "https://www.zerohedge.com/geopolitical/pla-purge-may-be-driving-china-rely-more-military-pressure-against-taiwan-analysts",
+          "domain": "zerohedge.com"
+        },
+        {
+          "title": "Seasonal winds ease , western Taiwan highs to hit 34\u00b0C Saturday",
+          "url": "https://focustaiwan.tw/society/202609110019",
+          "domain": "focustaiwan.tw"
+        },
+        {
+          "title": "Taiwan Academy in Houston to host Taiwan arts event",
+          "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/09/12/2003864142",
+          "domain": "taipeitimes.com"
+        },
+        {
+          "title": "Apple and Taiwan Semiconductor Manufacturing Just Announced a Cutting - Edge Chip . 1 Stock Offers Far Greater Upside .",
+          "url": "https://www.aol.com/articles/apple-taiwan-semiconductor-manufacturing-just-134400000.html",
+          "domain": "aol.com"
+        }
+      ],
       "toneReading": "No recent coverage found.",
       "volumeReading": null
     },
@@ -860,7 +881,28 @@
       "regulatory": 34,
       "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [],
+      "headlines": [
+        {
+          "title": "Chinese Golden Week expected to bring 250 , 000 visitors and 11 . 5bn baht to Thailand",
+          "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/09/12/chinese-golden-week-expected-to-bring-250000-visitors-and-115bn-baht-to-thailand",
+          "domain": "thestar.com.my"
+        },
+        {
+          "title": "Israelis cant  do whatever they want in Thailand  - Thai FM",
+          "url": "https://www.sott.net/article/508344-Israelis-cant-do-whatever-they-want-in-Thailand-Thai-FM",
+          "domain": "sott.net"
+        },
+        {
+          "title": "I quit the united kingdom for Thailand at 28 - Britain has no freedom",
+          "url": "https://www.birminghammail.co.uk/news/midlands-news/i-quit-uk-thailand-28-34579774",
+          "domain": "birminghammail.co.uk"
+        },
+        {
+          "title": "Indian woman spends Rs 1 lakh a month living in Thailand , netizens say  cheaper than Mumbai",
+          "url": "https://www.moneycontrol.com/news/trends/indian-woman-spends-rs-1-lakh-a-month-living-in-thailand-netizens-say-cheaper-than-mumbai-14028609.html",
+          "domain": "moneycontrol.com"
+        }
+      ],
       "toneReading": "No recent coverage found.",
       "volumeReading": null
     },
@@ -938,7 +980,28 @@
       "regulatory": 80,
       "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [],
+      "headlines": [
+        {
+          "title": "US oil giant Chevron confirms it will expand operations in Venezuela",
+          "url": "https://abc11.com/post/us-oil-giant-chevron-confirms-will-expand-operations-venezuela/19823353/",
+          "domain": "abc11.com"
+        },
+        {
+          "title": "Washington Examiner | Political News and Conservative Analysis About Congress , the President , and the Federal Government",
+          "url": "http://www.washingtonexaminer.com/restoring-america/4718803/venezuela-needs-presidential-election-in-2027/",
+          "domain": "washingtonexaminer.com"
+        },
+        {
+          "title": "Chevron Already Committed $7 Billion to Venezuela . Trump Says Exxon Is Next . Here the Big Difference Between the 2 .",
+          "url": "https://www.fool.com/investing/2026/09/12/chevron-already-committed-7-billion-to-venezuela-t/?source=iedfolrf0000001",
+          "domain": "fool.com"
+        },
+        {
+          "title": "Trump traps US in  vicious cycle  as  his power hemorrhage : DC insider",
+          "url": "https://www.alternet.org/trump-iran-canada-greenland/",
+          "domain": "alternet.org"
+        }
+      ],
       "toneReading": "No recent coverage found.",
       "volumeReading": null
     },
@@ -977,28 +1040,7 @@
       "regulatory": 64,
       "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [
-        {
-          "title": "How social grants work differently in South Africa and Zimbabwe",
-          "url": "https://www.thesouthafrican.com/lifestyle/sassa/how-social-grants-work-differently-in-south-africa-and-zimbabwe/",
-          "domain": "thesouthafrican.com"
-        },
-        {
-          "title": "Mnangagwa effects major government , commission changes",
-          "url": "https://www.newzimbabwe.com/mnangagwa-effects-major-government-commission-changes/",
-          "domain": "newzimbabwe.com"
-        },
-        {
-          "title": "Mnangagwa makes his birthday a national holiday \u2013 here what it means",
-          "url": "https://www.thesouthafrican.com/news/zimbabwe/mnangagwa-makes-his-birthday-a-national-holiday-heres-what-it-means/",
-          "domain": "thesouthafrican.com"
-        },
-        {
-          "title": "Team captain Nkomo bounces back as Lady Chevrons squad to face South Africa is named",
-          "url": "https://www.newzimbabwe.com/team-captain-nkomo-bounces-back-as-lady-chevrons-squad-to-face-south-africa-is-named/",
-          "domain": "newzimbabwe.com"
-        }
-      ],
+      "headlines": [],
       "toneReading": "No recent coverage found.",
       "volumeReading": null
     }
