@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-18T00:13:22.904881+00:00",
+  "generatedAt": "2026-09-18T06:12:34.166040+00:00",
   "source": "GDELT (news tone/volume, 3-day window) blended 50/50 with baseline",
   "countries": [
     {
@@ -44,11 +44,6 @@
           "domain": "ocregister.com"
         },
         {
-          "title": "DP World prices \u20ac750mln green notes , $750mln conventional bonds",
-          "url": "https://www.zawya.com/en/capital-markets/dp-world-prices-750mln-green-notes-750mln-conventional-bonds-521818",
-          "domain": "zawya.com"
-        },
-        {
           "title": "First H5 bird flu death of endangered Australian sea lion recorded amid fears for small population",
           "url": "https://www.theguardian.com/australia-news/2026/sep/13/first-h5-bird-flu-death-of-endangered-australian-sea-lion-kangaroo-island",
           "domain": "theguardian.com"
@@ -57,6 +52,11 @@
           "title": "Indian Navy chief meets Australian counterpart in Canberra , discusses deepening maritime cooperation",
           "url": "https://www.prokerala.com/news/articles/a1810990.html",
           "domain": "prokerala.com"
+        },
+        {
+          "title": "The Indian Cowboy rides again : Australia - India feature film inspired by Bobby Cash announced",
+          "url": "https://timesofindia.indiatimes.com/world/rest-of-world/the-indian-cowboy-rides-again-australia-india-feature-film-inspired-by-bobby-cash-announced/articleshow/134063084.cms",
+          "domain": "timesofindia.indiatimes.com"
         }
       ],
       "toneReading": "No recent coverage found.",
@@ -97,28 +97,7 @@
       "regulatory": 72,
       "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [
-        {
-          "title": "Lukashenko on policy of Lithuania , Latvia towards Belarus : theyre already shooting themselves in the ear",
-          "url": "https://www.sb.by/en/lukashenko-on-policy-of-lithuania-latvia-towards-belarus-they-re-already-shooting-themselves-in-the-.html",
-          "domain": "sb.by"
-        },
-        {
-          "title": "Belarus ready for deep industrial cooperation and widen agri sector partnership with India : FM Maxim Ryzhenkov",
-          "url": "https://economictimes.indiatimes.com/news/economy/foreign-trade/belarus-ready-for-deep-industrial-cooperation-and-widen-agri-sector-partnership-with-india-fm-maxim-ryzhenkov/articleshow/134116469.cms",
-          "domain": "economictimes.indiatimes.com"
-        },
-        {
-          "title": "EAM Jaishankar , Belarus counterpart Ryzhenkov discuss ties , regional developments",
-          "url": "https://www.prokerala.com/news/articles/a1811404.html",
-          "domain": "prokerala.com"
-        },
-        {
-          "title": "Belarus Foreign Affairs Minister Ryzhenkov arrives in Delhi to attend 18th BRICS Summit",
-          "url": "https://news.webindia123.com/news/Articles/World/20260912/4497654.html",
-          "domain": "news.webindia123.com"
-        }
-      ],
+      "headlines": [],
       "toneReading": "No recent coverage found.",
       "volumeReading": null
     },
@@ -248,28 +227,7 @@
       "regulatory": 52,
       "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [
-        {
-          "title": "PM Modi , Ethiopian counterpart discuss ways to strengthen strategic partnership",
-          "url": "https://theshillongtimes.com/2026/09/12/pm-modi-ethiopian-counterpart-discuss-ways-to-strengthen-strategic-partnership/",
-          "domain": "theshillongtimes.com"
-        },
-        {
-          "title": "BRICS Summit : PM Modi , Abiy discuss India - Ethiopia economic , defence ties",
-          "url": "https://www.moneycontrol.com/news/india/brics-summit-pm-modi-abiy-discuss-india-ethiopia-economic-defence-ties-14028369.html",
-          "domain": "moneycontrol.com"
-        },
-        {
-          "title": "PM Modi holds bilateral meeting with Ethiopian counterpart Abiy Ahmed Ali on sidelines of BRICS Summit",
-          "url": "https://news.webindia123.com/news/Articles/World/20260912/4497681.html",
-          "domain": "news.webindia123.com"
-        },
-        {
-          "title": "PM Modi meets Ethiopia Abiy Ahmed on sidelines of BRICS Summit in Delhi",
-          "url": "https://economictimes.indiatimes.com/news/india/pm-modi-meets-ethiopias-abiy-ahmed-on-sidelines-of-brics-summit-in-delhi/articleshow/134109581.cms",
-          "domain": "economictimes.indiatimes.com"
-        }
-      ],
+      "headlines": [],
       "toneReading": "No recent coverage found.",
       "volumeReading": null
     },
@@ -334,7 +292,28 @@
       "regulatory": 32,
       "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [],
+      "headlines": [
+        {
+          "title": "Congress unable to digest India progress , spreading negativity over BRICS : BJP",
+          "url": "https://www.thehindu.com/news/national/congress-unable-to-digest-indias-progress-spreading-negativity-over-brics-bjp/article71456028.ece",
+          "domain": "thehindu.com"
+        },
+        {
+          "title": "BJP and Congress at loggerheads over hosting of Brics 2026 summit",
+          "url": "https://www.business-standard.com/external-affairs-defence-security/news/bjp-and-congress-at-loggerheads-over-hosting-of-brics-2026-summit-126091101559_1.html",
+          "domain": "business-standard.com"
+        },
+        {
+          "title": "Oppn suffering from indigestion as India is forging ahead : BJP Sambit Patra on BRICS Summit",
+          "url": "https://www.prokerala.com/news/articles/a1811015.html",
+          "domain": "prokerala.com"
+        },
+        {
+          "title": "Policy Push Meets Production Scale as electronica India and productronica India 2026 Return to Bengaluru with 750+ Exhibitors from 30+ Countries",
+          "url": "https://aninews.in/news/business/policy-push-meets-production-scale-as-electronica-india-and-productronica-india-2026-return-to-bengaluru-with-750-exhibitors-from-30-countries20260911160107/",
+          "domain": "aninews.in"
+        }
+      ],
       "toneReading": "No recent coverage found.",
       "volumeReading": null
     },
@@ -347,7 +326,28 @@
       "regulatory": 32,
       "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [],
+      "headlines": [
+        {
+          "title": "Indian envoy calls Indonesia key Global South voice in BRICS",
+          "url": "https://en.antaranews.com/news/431053/indian-envoy-calls-indonesia-key-global-south-voice-in-brics",
+          "domain": "en.antaranews.com"
+        },
+        {
+          "title": "Indonesia , India elevate global roles through BRICS partnership : Envoy",
+          "url": "https://en.antaranews.com/news/431084/indonesia-india-elevate-global-roles-through-brics-partnership-envoy",
+          "domain": "en.antaranews.com"
+        },
+        {
+          "title": "Indonesia hit by 6 . 2 magnitude earthquake on volcano - filled island",
+          "url": "https://www.mirror.co.uk/news/world-news/indonesia-java-earthquake-saturday-volcano-37654554",
+          "domain": "mirror.co.uk"
+        },
+        {
+          "title": "Indonesia must not become a platform for Israeli business",
+          "url": "https://www.middleeastmonitor.com/20260912-indonesia-must-not-become-a-platform-for-israeli-business/",
+          "domain": "middleeastmonitor.com"
+        }
+      ],
       "toneReading": "No recent coverage found.",
       "volumeReading": null
     },
@@ -386,28 +386,7 @@
       "regulatory": 17,
       "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [
-        {
-          "title": "Beijing lodges diplomatic protests over Taiwan official visit to Italy",
-          "url": "https://www.scmp.com/news/china/diplomacy/article/3367234/beijing-lodges-diplomatic-protests-over-taiwan-officials-visit-italy",
-          "domain": "scmp.com"
-        },
-        {
-          "title": "Italian feminist fighter Emma Bonino dies at 78",
-          "url": "https://punchng.com/italian-feminist-fighter-emma-bonino-dies-at-78/",
-          "domain": "punchng.com"
-        },
-        {
-          "title": "RFAs : Marl\u00e8ne and Paolo Fresco Fellowship in African Studies",
-          "url": "https://www2.fundsforngos.org/individuals/rfas-marlene-and-paolo-fresco-fellowship-in-african-studies/",
-          "domain": "fundsforngos.org"
-        },
-        {
-          "title": "Beijing urges Italy , EU to  honor one - China principle with real actions , lodges protest over Taiwan",
-          "url": "https://aa.com.tr/en/asia-pacific/beijing-urges-italy-eu-to-honor-one-china-principle-with-real-actions-lodges-protest-over-taiwan/4054099",
-          "domain": "aa.com.tr"
-        }
-      ],
+      "headlines": [],
       "toneReading": "No recent coverage found.",
       "volumeReading": null
     },
@@ -459,28 +438,7 @@
       "regulatory": 34,
       "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [
-        {
-          "title": "Foreign nationals can work , invest in Kenya if they obey our laws - Ruto - Latest News In Nigeria , Nigeria News Today , Your Online Nigerian Newspaper",
-          "url": "https://www.nigerianeye.com/2026/09/foreign-nationals-can-work-invest-in.html",
-          "domain": "nigerianeye.com"
-        },
-        {
-          "title": "Man on a mission : Inside Kindiki big task to deliver Mt Kenya to Ruto",
-          "url": "https://www.the-star.co.ke/news/2026-09-12-inside-kindikis-big-task-to-deliver-mt-kenya-votes",
-          "domain": "the-star.co.ke"
-        },
-        {
-          "title": "Singoie : Kenya shares US pain 25 years after 9 / 11 attacks",
-          "url": "https://www.the-star.co.ke/news/2026-09-11-singoie-kenya-shares-us-pain-25-years-after-911-attacks",
-          "domain": "the-star.co.ke"
-        },
-        {
-          "title": "Wamboka , Natembeya warn Museveni against meddling in 2027 elections",
-          "url": "https://www.standardmedia.co.ke/politics/article/2001557614/wamboka-natembeya-warn-museveni-against-meddling-in-2027-elections",
-          "domain": "standardmedia.co.ke"
-        }
-      ],
+      "headlines": [],
       "toneReading": "No recent coverage found.",
       "volumeReading": null
     },
@@ -571,7 +529,28 @@
       "regulatory": 70,
       "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [],
+      "headlines": [
+        {
+          "title": "Myanmar airport shut after rebel drone attack : security sources",
+          "url": "https://www.thehindu.com/news/international/myanmar-airport-shut-after-rebel-drone-attack-security-sources/article71455106.ece",
+          "domain": "thehindu.com"
+        },
+        {
+          "title": "Myanmar head visits Cambodia for meeting | The Arkansas Democrat - Gazette",
+          "url": "https://www.arkansasonline.com/news/2026/sep/12/myanmars-head-visits-cambodia-for-meeting/",
+          "domain": "arkansasonline.com"
+        },
+        {
+          "title": "How Myanmar civil war is reshaping its mineral economy",
+          "url": "https://www.mining-technology.com/analysis/how-myanmars-civil-war-is-reshaping-its-mineral-economy/",
+          "domain": "mining-technology.com"
+        },
+        {
+          "title": "Myanmar says UN envoy illegitimate ahead of credentials decision",
+          "url": "https://www.freemalaysiatoday.com/category/world/2026/09/13/myanmar-says-un-envoy-illegitimate-ahead-of-credentials-decision",
+          "domain": "freemalaysiatoday.com"
+        }
+      ],
       "toneReading": "No recent coverage found.",
       "volumeReading": null
     },
@@ -597,28 +576,7 @@
       "regulatory": 92,
       "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [
-        {
-          "title": "North Korea launches ballistic missiles",
-          "url": "https://www.wyff4.com/article/north-korea-launches-missiles/73694606",
-          "domain": "wyff4.com"
-        },
-        {
-          "title": "North Korea launches a ballistic missile toward the sea , South Korea says \u2013 Winnipeg Free Press",
-          "url": "https://www.winnipegfreepress.com/world/2026/09/11/south-korea-says-north-korea-has-launched-a-projectile-toward-the-waters-off-the-norths-east-coast",
-          "domain": "winnipegfreepress.com"
-        },
-        {
-          "title": "North Korea launches ballistic missiles toward the sea following military drill it sees as threat",
-          "url": "https://www.nbcnews.com/world/north-korea/north-korea-launches-ballistic-missiles-sea-military-drill-sees-threat-rcna597333",
-          "domain": "nbcnews.com"
-        },
-        {
-          "title": "North Korea Launches Ballistic Missiles After US , South Korea And Japan End Major Trilateral Military Drill",
-          "url": "https://www.freepressjournal.in/world/north-korea-launches-ballistic-missiles-after-us-south-korea-and-japan-end-major-trilateral-military-drill",
-          "domain": "freepressjournal.in"
-        }
-      ],
+      "headlines": [],
       "toneReading": "No recent coverage found.",
       "volumeReading": null
     },
@@ -696,28 +654,7 @@
       "regulatory": 76,
       "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [
-        {
-          "title": "US House of Representatives to vote on Russia sanctions bill that could hit India with tariffs",
-          "url": "https://www.moneycontrol.com/world/us-house-of-representatives-to-vote-on-russia-sanctions-bill-that-could-hit-india-with-tariffs-article-14028262.html",
-          "domain": "moneycontrol.com"
-        },
-        {
-          "title": "Ukraine battlefield optimism is ebbing as Russia threatens its  fortress belt",
-          "url": "https://freerepublic.com/focus/f-news/4395039/posts",
-          "domain": "freerepublic.com"
-        },
-        {
-          "title": "Indo Russia  Innopraktika  Technology Hub seals four agreements at Innoprom India 2026",
-          "url": "https://economictimes.indiatimes.com/news/india/indo-russia-innopraktika-technology-hub-seals-four-agreements-at-innoprom-india-2026/articleshow/134047324.cms",
-          "domain": "economictimes.indiatimes.com"
-        },
-        {
-          "title": "Putin warns Europe against troops in Ukraine , says it would mean  war against Russia",
-          "url": "https://www.moneycontrol.com/world/putin-warns-europe-against-troops-in-ukraine-says-it-would-mean-war-against-russia-article-14028272.html",
-          "domain": "moneycontrol.com"
-        }
-      ],
+      "headlines": [],
       "toneReading": "No recent coverage found.",
       "volumeReading": null
     },
@@ -730,28 +667,7 @@
       "regulatory": 36,
       "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [
-        {
-          "title": "Saudi Arabian firms eye deeper ties with China",
-          "url": "http://global.chinadaily.com.cn/a/202609/11/WS6aa34ab5e4b06d4aa055d71e.html",
-          "domain": "global.chinadaily.com.cn"
-        },
-        {
-          "title": "Saudi Arabia says drones from Iraq hit East - West oil pipeline , suspends exports",
-          "url": "https://www.moneycontrol.com/world/saudi-arabia-says-drones-from-iraq-hit-east-west-oil-pipeline-suspends-exports-article-14028260.html",
-          "domain": "moneycontrol.com"
-        },
-        {
-          "title": "Trump says Iran probably responsible for attack on Saudi pipeline",
-          "url": "https://us.cnn.com/2026/09/12/middleeast/trump-iran-saudi-pipeline-intl",
-          "domain": "us.cnn.com"
-        },
-        {
-          "title": "Gulf bloc condemns drone attack on Saudi pipeline from Iraq",
-          "url": "https://aa.com.tr/en/middle-east/gulf-bloc-condemns-drone-attack-on-saudi-pipeline-from-iraq/4054879",
-          "domain": "aa.com.tr"
-        }
-      ],
+      "headlines": [],
       "toneReading": "No recent coverage found.",
       "volumeReading": null
     },
@@ -764,28 +680,7 @@
       "regulatory": 40,
       "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [
-        {
-          "title": "Serbian president inspects expressway being constructed by Chinese company",
-          "url": "http://www.china.org.cn/2026-09/13/content_118693353.shtml",
-          "domain": "china.org.cn"
-        },
-        {
-          "title": "Uzbekistan , Serbia move toward migration and mobility agreement",
-          "url": "https://www.trend.az/casia/uzbekistan/4223095.html",
-          "domain": "trend.az"
-        },
-        {
-          "title": "Empowered Bulgaria celebrate as Balkan U16 men champions \u2013 FIVB",
-          "url": "https://www.fivb.com/empowered-bulgaria-celebrate-as-balkan-u16-mens-champions/",
-          "domain": "fivb.com"
-        },
-        {
-          "title": "Kosovo protesters rally in support of ex - president ahead of war crimes trial verdict",
-          "url": "https://www.wral.com/news/ap/f6415-kosovo-protesters-rally-in-support-of-ex-president-ahead-of-war-crimes-trial-verdict/",
-          "domain": "wral.com"
-        }
-      ],
+      "headlines": [],
       "toneReading": "No recent coverage found.",
       "volumeReading": null
     },
@@ -798,7 +693,28 @@
       "regulatory": 8,
       "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [],
+      "headlines": [
+        {
+          "title": "How you can buy the iPhone Duo , travel to Singapore for 4 days with stay and food , and still save Rs 50 , 000 over India pricing",
+          "url": "https://www.moneycontrol.com/technology/how-you-can-buy-the-iphone-duo-travel-to-singapore-for-4-days-with-stay-and-food-and-still-save-rs-50-000-over-india-pricing-article-14028807.html",
+          "domain": "moneycontrol.com"
+        },
+        {
+          "title": "New Japanese drama filmed entirely in Singapore for 1st time ever , cast includes J - pop idol",
+          "url": "https://www.asiaone.com:443/entertainment/squall-japanese-drama-singapore-jpop-genjibu-kaname-yoshizawa-riko",
+          "domain": "asiaone.com"
+        },
+        {
+          "title": "Daily Debrief : What Happened Today ( Sep 11 )",
+          "url": "https://www.businesstimes.com.sg/singapore/daily-debrief-what-happened-today-sep-112",
+          "domain": "businesstimes.com.sg"
+        },
+        {
+          "title": "SPF | Clarification On Safew Technology Co . Ltd Being A Singapore - Based Entity",
+          "url": "https://www.police.gov.sg/Media-Hub/News/2026/09/20260910_clarification_on_safew_technology_co_ltd_being_a_singapore_based_entity",
+          "domain": "police.gov.sg"
+        }
+      ],
       "toneReading": "No recent coverage found.",
       "volumeReading": null
     },
@@ -837,7 +753,28 @@
       "regulatory": 18,
       "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [],
+      "headlines": [
+        {
+          "title": "North Korea launches unidentified projectile out to sea",
+          "url": "https://www.perthnow.com.au/news/conflict/north-korea-launches-unidentified-projectile-out-to-sea-c-22860198",
+          "domain": "perthnow.com.au"
+        },
+        {
+          "title": "North Korea launches unidentified projectile toward East Sea",
+          "url": "https://www.channelnewsasia.com/east-asia/north-korea-launches-unidentified-projectile-toward-east-sea-6379606",
+          "domain": "channelnewsasia.com"
+        },
+        {
+          "title": "North Korea fires ballistic missiles toward sea after rival military drill it sees as provocation",
+          "url": "https://www.newindianexpress.com/world/2026/Sep/12/north-korea-fires-ballistic-missiles-toward-sea-after-rivals-military-drill-it-sees-as-provocation-2",
+          "domain": "newindianexpress.com"
+        },
+        {
+          "title": "North Korea launches ballistic missiles toward the sea following military drill it sees as threat",
+          "url": "https://www.nbcnews.com/world/north-korea/north-korea-launches-ballistic-missiles-sea-military-drill-sees-threat-rcna597333",
+          "domain": "nbcnews.com"
+        }
+      ],
       "toneReading": "No recent coverage found.",
       "volumeReading": null
     },
@@ -863,7 +800,28 @@
       "regulatory": 80,
       "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [],
+      "headlines": [
+        {
+          "title": "UAE AI op targeting UN critics over Sudan",
+          "url": "https://www.albawaba.com/business/uae-ai-op-targeting-un-critics-over-1636901",
+          "domain": "albawaba.com"
+        },
+        {
+          "title": "Anthropic says UAE - linked AI op targeted UN staff over Sudan",
+          "url": "https://timesofindia.indiatimes.com/world/rest-of-world/anthropic-says-uae-linked-ai-op-targeted-un-staff-over-sudan/articleshow/134167044.cms",
+          "domain": "timesofindia.indiatimes.com"
+        },
+        {
+          "title": "Sudan announces 2026 secondary school exam results",
+          "url": "https://www.radiotamazuj.org/en/news/article/sudan-announces-2026-secondary-school-exam-results",
+          "domain": "radiotamazuj.org"
+        },
+        {
+          "title": "Arab News | Sudan war is now a regional crisis",
+          "url": "https://www.arabnews.com/opinion/sudans-war-is-now-a-regional-crisis-3001319",
+          "domain": "arabnews.com"
+        }
+      ],
       "toneReading": "No recent coverage found.",
       "volumeReading": null
     },
@@ -915,28 +873,7 @@
       "regulatory": 48,
       "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [
-        {
-          "title": "US weighs foreign warships as China navy outpaces American fleet",
-          "url": "http://www.jpost.com/international/article-908399",
-          "domain": "jpost.com"
-        },
-        {
-          "title": "Houthi official warns Turkey and Pakistan against intervention on Saudi Arabia side \u2013 Middle East Monitor",
-          "url": "https://www.middleeastmonitor.com/20260911-houthi-official-warns-turkey-and-pakistan-against-intervention-on-saudi-arabias-side/",
-          "domain": "middleeastmonitor.com"
-        },
-        {
-          "title": "Jamie Oliver 20 - Minute Chicken Recipe Is My Favorite",
-          "url": "https://www.aol.com/articles/jamie-oliver-20-minute-chicken-172000000.html",
-          "domain": "aol.com"
-        },
-        {
-          "title": "Israel will not defend Greek Aegean against Turkey as Achilles Shield highlights strategic gaps",
-          "url": "https://www.bankingnews.gr/amyna-diplomatia/articles/898945/israel-will-not-defend-greek-aegean-against-turkey-as-achilles-shield-highlights-strategic-gaps",
-          "domain": "bankingnews.gr"
-        }
-      ],
+      "headlines": [],
       "toneReading": "No recent coverage found.",
       "volumeReading": null
     },
@@ -1040,7 +977,28 @@
       "regulatory": 64,
       "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [],
+      "headlines": [
+        {
+          "title": "How social grants work differently in South Africa and Zimbabwe",
+          "url": "https://www.thesouthafrican.com/lifestyle/sassa/how-social-grants-work-differently-in-south-africa-and-zimbabwe/",
+          "domain": "thesouthafrican.com"
+        },
+        {
+          "title": "Mnangagwa effects major government , commission changes",
+          "url": "https://www.newzimbabwe.com/mnangagwa-effects-major-government-commission-changes/",
+          "domain": "newzimbabwe.com"
+        },
+        {
+          "title": "Mnangagwa makes his birthday a national holiday \u2013 here what it means",
+          "url": "https://www.thesouthafrican.com/news/zimbabwe/mnangagwa-makes-his-birthday-a-national-holiday-heres-what-it-means/",
+          "domain": "thesouthafrican.com"
+        },
+        {
+          "title": "Team captain Nkomo bounces back as Lady Chevrons squad to face South Africa is named",
+          "url": "https://www.newzimbabwe.com/team-captain-nkomo-bounces-back-as-lady-chevrons-squad-to-face-south-africa-is-named/",
+          "domain": "newzimbabwe.com"
+        }
+      ],
       "toneReading": "No recent coverage found.",
       "volumeReading": null
     }
