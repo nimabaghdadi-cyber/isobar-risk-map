@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-19T00:13:10.820106+00:00",
+  "generatedAt": "2026-09-19T06:12:11.204512+00:00",
   "source": "GDELT (news tone/volume, 3-day window) blended 50/50 with baseline",
   "countries": [
     {
@@ -24,7 +24,28 @@
       "regulatory": 44,
       "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [],
+      "headlines": [
+        {
+          "title": "Donald Trump bombshell U - turn as US president  will not back Argentina over Falklands",
+          "url": "https://www.aol.co.uk/articles/donald-trump-bombshell-u-turn-102700000.html",
+          "domain": "aol.co.uk"
+        },
+        {
+          "title": "Argentina student plans school massacre with help from ChatGPT : feds",
+          "url": "https://nypost.com/2026/09/12/world-news/argentina-student-plans-school-massacre-with-help-from-chatgpt-feds/",
+          "domain": "nypost.com"
+        },
+        {
+          "title": "Donald Trump claims he could  settle  a war over the Falklands",
+          "url": "https://www.aol.co.uk/articles/donald-trump-claims-could-settle-103523000.html",
+          "domain": "aol.co.uk"
+        },
+        {
+          "title": "Trump claims he could  settle  a war over the Falklands",
+          "url": "https://www.perthnow.com.au/news/politics/trump-claims-he-could-settle-a-war-over-the-falklands-c-22861575",
+          "domain": "perthnow.com.au"
+        }
+      ],
       "toneReading": "No recent coverage found.",
       "volumeReading": null
     },
@@ -89,7 +110,28 @@
       "regulatory": 38,
       "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [],
+      "headlines": [
+        {
+          "title": "Brazil is in fashion , as Brazilians like to say . Here why",
+          "url": "https://economictimes.indiatimes.com/news/international/world-news/brazil-is-in-fashion-as-brazilians-like-to-say-heres-why/articleshow/134186159.cms",
+          "domain": "economictimes.indiatimes.com"
+        },
+        {
+          "title": "Brazil is in fashion , as Brazilians like to say . Here why | World News",
+          "url": "http://www.thegazette.com/news/world/brazil-is-in-fashion-as-brazilians-like-to-say-here-s-why/article_fd75f3b8-b36e-5872-ad90-0e20a3980e8d.html",
+          "domain": "thegazette.com"
+        },
+        {
+          "title": "Brazil is in fashion , as Brazilians like to say . Here why \u2013 Winnipeg Free Press",
+          "url": "https://www.winnipegfreepress.com/arts-and-life/life/2026/09/13/brazil-is-in-fashion-as-brazilians-like-to-say-heres-why",
+          "domain": "winnipegfreepress.com"
+        },
+        {
+          "title": "The unending fight against the stigma of HIV : NPR",
+          "url": "https://www.npr.org/2026/09/12/g-s1-142404/hiv-aids-brazil-stigma",
+          "domain": "npr.org"
+        }
+      ],
       "toneReading": "No recent coverage found.",
       "volumeReading": null
     },
@@ -102,7 +144,28 @@
       "regulatory": 20,
       "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [],
+      "headlines": [
+        {
+          "title": "Canada turning to Europe as trade tensions with US escalate",
+          "url": "https://aa.com.tr/en/americas/canada-turning-to-europe-as-trade-tensions-with-us-escalate/4055570",
+          "domain": "aa.com.tr"
+        },
+        {
+          "title": "Canadian boycott of US products pushes grocers to adapt , explore new supply sources",
+          "url": "https://www.thedailystar.net/business/news/canadian-boycott-us-products-pushes-grocers-adapt-explore-new-supply-sources-4271601",
+          "domain": "thedailystar.net"
+        },
+        {
+          "title": "SUNshine Girl Mandie | Edmonton Sun",
+          "url": "https://edmontonsun.com/sunshine-girl/sunshine-girl-mandie-16",
+          "domain": "edmontonsun.com"
+        },
+        {
+          "title": "SUNshine Girl Lucy | Edmonton Sun",
+          "url": "https://edmontonsun.com/sunshine-girls/sunshine-girl-lucy-5",
+          "domain": "edmontonsun.com"
+        }
+      ],
       "toneReading": "No recent coverage found.",
       "volumeReading": null
     },
@@ -180,7 +243,28 @@
       "regulatory": 13,
       "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [],
+      "headlines": [
+        {
+          "title": "South Korea reaches U - 20 Women World Cup round of 16",
+          "url": "https://www.koreaherald.com/article/10871549",
+          "domain": "koreaherald.com"
+        },
+        {
+          "title": "Ecuador Noboa Praises Trump - Rubio Cartel Crackdown Strategy",
+          "url": "https://www.breitbart.com/border/2026/09/11/ecuadors-noboa-praises-trump-rubio-cartel-crackdown-strategy/",
+          "domain": "breitbart.com"
+        },
+        {
+          "title": "List of countries offering eVisa to Nigerians in 2026",
+          "url": "https://www.vanguardngr.com/2026/09/list-of-countries-offering-evisa-to-nigerians-in-2026/",
+          "domain": "vanguardngr.com"
+        },
+        {
+          "title": "Moises Caicedo might not handle this Chelsea burden as well as Enzo Fern\u00e1ndez did",
+          "url": "https://theprideoflondon.com/moises-caicedo-might-not-handle-chelsea-burden-well-enzo-fernandez-did",
+          "domain": "theprideoflondon.com"
+        }
+      ],
       "toneReading": "No recent coverage found.",
       "volumeReading": null
     },
@@ -219,7 +303,28 @@
       "regulatory": 24,
       "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [],
+      "headlines": [
+        {
+          "title": "Sarkozy Routes Around Parliament , Ditches Net Neutrality , Forces Copyright Clauses Into All ISP Terms Of Service",
+          "url": "https://www.techdirt.com/2011/09/07/sarkozy-routes-around-parliament-ditches-net-neutrality-forces-copyright-clauses-into-all-isp-terms-service/",
+          "domain": "techdirt.com"
+        },
+        {
+          "title": "France moves to defuse US row over UN social media post",
+          "url": "https://www.aol.co.uk/articles/france-moves-defuse-us-row-075754000.html",
+          "domain": "aol.co.uk"
+        },
+        {
+          "title": "Zidane names Lens defender Ganiou in France preliminary squad",
+          "url": "https://dailypost.ng/2026/09/12/zidane-names-lens-defender-ganiou-in-france-preliminary-squad/",
+          "domain": "dailypost.ng"
+        },
+        {
+          "title": "Train derailment in France injures 44 , police suspect sabotage",
+          "url": "https://www.cbsnews.com/news/france-normandy-train-derailment-sabotage/",
+          "domain": "cbsnews.com"
+        }
+      ],
       "toneReading": "No recent coverage found.",
       "volumeReading": null
     },
@@ -245,7 +350,28 @@
       "regulatory": 16,
       "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [],
+      "headlines": [
+        {
+          "title": "Mass protests erupt in Germany as AfD eyes breakthrough in eastern states",
+          "url": "https://timesofindia.indiatimes.com/world/europe/mass-protests-erupt-in-germany-as-afd-eyes-breakthrough-in-eastern-states/articleshow/134171697.cms",
+          "domain": "timesofindia.indiatimes.com"
+        },
+        {
+          "title": "Thousands protest far right in Germany",
+          "url": "https://tribune.com.pk/story/2628998/thousands-protest-far-right-in-germany",
+          "domain": "tribune.com.pk"
+        },
+        {
+          "title": "Germany : Lower Saxony local polls in focus after AfD win",
+          "url": "https://www.dw.com/en/germany-lower-saxony-local-polls-in-focus-after-afd-win/live-79223427",
+          "domain": "dw.com"
+        },
+        {
+          "title": "Valkyrie Gabby Williams leads France past Germany 86 - 64 to reach women FIBA World Cup final",
+          "url": "https://www.mercurynews.com/2026/09/12/france-tops-host-germany-86-64-to-reach-womens-fiba-world-cup-final-against-us-or-spain/",
+          "domain": "mercurynews.com"
+        }
+      ],
       "toneReading": "No recent coverage found.",
       "volumeReading": null
     },
@@ -284,7 +410,28 @@
       "regulatory": 32,
       "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [],
+      "headlines": [
+        {
+          "title": "Indonesia , India elevate global roles through BRICS partnership : Envoy",
+          "url": "https://en.antaranews.com/news/431084/indonesia-india-elevate-global-roles-through-brics-partnership-envoy",
+          "domain": "en.antaranews.com"
+        },
+        {
+          "title": "Indonesia must not become a platform for Israeli business",
+          "url": "https://www.middleeastmonitor.com/20260912-indonesia-must-not-become-a-platform-for-israeli-business/",
+          "domain": "middleeastmonitor.com"
+        },
+        {
+          "title": "Bank Indonesia promotes local currency use among BRICS nations",
+          "url": "https://en.antaranews.com/news/431080/bank-indonesia-promotes-local-currency-use-among-brics-nations",
+          "domain": "en.antaranews.com"
+        },
+        {
+          "title": "Prabowo affirms Indonesia role at 18th BRICS Summit in New Delhi",
+          "url": "https://en.antaranews.com/news/431125/prabowo-affirms-indonesias-role-at-18th-brics-summit-in-new-delhi",
+          "domain": "en.antaranews.com"
+        }
+      ],
       "toneReading": "No recent coverage found.",
       "volumeReading": null
     },
@@ -375,7 +522,28 @@
       "regulatory": 34,
       "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [],
+      "headlines": [
+        {
+          "title": "Foreign nationals can work , invest in Kenya if they obey our laws - Ruto - Latest News In Nigeria , Nigeria News Today , Your Online Nigerian Newspaper",
+          "url": "https://www.nigerianeye.com/2026/09/foreign-nationals-can-work-invest-in.html",
+          "domain": "nigerianeye.com"
+        },
+        {
+          "title": "Wamboka , Natembeya warn Museveni against meddling in 2027 elections",
+          "url": "https://www.standardmedia.co.ke/politics/article/2001557614/wamboka-natembeya-warn-museveni-against-meddling-in-2027-elections",
+          "domain": "standardmedia.co.ke"
+        },
+        {
+          "title": "KANYADUDI : Crackdown on Burundian refugee - traders in Kenya national interest",
+          "url": "https://www.the-star.co.ke/siasa/2026-09-13-kanyadudi-burundian-crisis-tests-east-africas-integration-agenda",
+          "domain": "the-star.co.ke"
+        },
+        {
+          "title": "The CEO who tells women to think twice before being  nice",
+          "url": "https://www.businessdailyafrica.com/bd/lifestyle/weekend-with-the-ceo/ceo-jacqueline-waihenya-5591954",
+          "domain": "businessdailyafrica.com"
+        }
+      ],
       "toneReading": "No recent coverage found.",
       "volumeReading": null
     },
@@ -388,28 +556,7 @@
       "regulatory": 20,
       "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [
-        {
-          "title": "Israel intensifies attacks in southern Lebanon with more than 30 blasts in one town",
-          "url": "https://aa.com.tr/en/middle-east/israel-intensifies-attacks-in-southern-lebanon-with-more-than-30-blasts-in-one-town/4055567",
-          "domain": "aa.com.tr"
-        },
-        {
-          "title": "Israel - Lebanon talks in Rome delayed to October : US official",
-          "url": "https://www.moneycontrol.com/world/israel-lebanon-talks-in-rome-delayed-to-october-us-official-article-14028280.html",
-          "domain": "moneycontrol.com"
-        },
-        {
-          "title": "Ceiling leaking and in need of repair : Lebanon County restaurant inspections , Sept . 12 , 2026",
-          "url": "https://lancasteronline.com/business/restaurant_inspections/ceiling-leaking-and-in-need-of-repair-lebanon-county-restaurant-inspections-sept-12-2026/article_806913d6-3caa-4117-910c-f737f70e1b09.html",
-          "domain": "lancasteronline.com"
-        },
-        {
-          "title": "Israel - Lebanon talks in Rome delayed to October : US official - Middle East and Africa",
-          "url": "http://www.thejakartapost.com/world/2026/09/12/israel-lebanon-talks-in-rome-delayed-to-october-us-official",
-          "domain": "thejakartapost.com"
-        }
-      ],
+      "headlines": [],
       "toneReading": "No recent coverage found.",
       "volumeReading": null
     },
@@ -461,7 +608,28 @@
       "regulatory": 46,
       "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [],
+      "headlines": [
+        {
+          "title": "CM Punk goes full John Cena after losing the WWE championship to Sami Zayn",
+          "url": "https://www.cagesideseats.com/wwe/475355/cm-punk-goes-full-john-cena-after-losing-the-wwe-championship-to-sami-zayn",
+          "domain": "cagesideseats.com"
+        },
+        {
+          "title": "El Grito : Phoenix celebrates Mexican independence with fifth annual event",
+          "url": "https://www.fox10phoenix.com/news/el-grito-phoenix-celebrates-mexican-independence-fifth-annual-event",
+          "domain": "fox10phoenix.com"
+        },
+        {
+          "title": "Talk of the Town : New Mexico reading , film incentives and library closures",
+          "url": "https://www.abqjournal.com/opinion/opinion-talk-of-the-town/3117119",
+          "domain": "abqjournal.com"
+        },
+        {
+          "title": "The Roundhouse Report : Pro - Hull PAC makes big boo - boo in first campaign ad",
+          "url": "https://www.santafenewmexican.com/news/roundhouse_report/the-roundhouse-report-pro-hull-pac-makes-big-boo-boo-in-first-campaign-ad/article_dc00dc7e-68d8-4ded-8e07-bcf6862bf081.html",
+          "domain": "santafenewmexican.com"
+        }
+      ],
       "toneReading": "No recent coverage found.",
       "volumeReading": null
     },
@@ -487,28 +655,7 @@
       "regulatory": 70,
       "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [
-        {
-          "title": "Myanmar head visits Cambodia for meeting | The Arkansas Democrat - Gazette",
-          "url": "https://www.arkansasonline.com/news/2026/sep/12/myanmars-head-visits-cambodia-for-meeting/",
-          "domain": "arkansasonline.com"
-        },
-        {
-          "title": "Myanmar says UN envoy illegitimate ahead of credentials decision",
-          "url": "https://www.freemalaysiatoday.com/category/world/2026/09/13/myanmar-says-un-envoy-illegitimate-ahead-of-credentials-decision",
-          "domain": "freemalaysiatoday.com"
-        },
-        {
-          "title": "Arab News | Myanmar says UN envoy illegitimate ahead of credentials decision",
-          "url": "https://www.arabnews.com/world/myanmar-says-un-envoy-illegitimate-ahead-of-credentials-decision-3001534",
-          "domain": "arabnews.com"
-        },
-        {
-          "title": "Myanmar government revokes status and seeks action against UN envoy Kyaw Moe Tun",
-          "url": "https://www.asiaone.com:443/asia/myanmar-government-revokes-status-and-seeks-action-against-un-envoy-kyaw-moe-tun",
-          "domain": "asiaone.com"
-        }
-      ],
+      "headlines": [],
       "toneReading": "No recent coverage found.",
       "volumeReading": null
     },
@@ -534,7 +681,28 @@
       "regulatory": 92,
       "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [],
+      "headlines": [
+        {
+          "title": "UN chief message to North Korea Kim signals cautious bid to revive engagement : expert",
+          "url": "https://www.koreaherald.com/article/10871622",
+          "domain": "koreaherald.com"
+        },
+        {
+          "title": "North Korea fires missiles after US - South Korea drills",
+          "url": "https://www.dw.com/en/north-korea-fires-multiple-ballistic-missiles-day-after-trilateral-drills-end/a-79242070",
+          "domain": "dw.com"
+        },
+        {
+          "title": "North Korea fires ballistic missiles toward sea after rival military drill it sees as provocation",
+          "url": "https://www.newindianexpress.com/world/2026/Sep/12/north-korea-fires-ballistic-missiles-toward-sea-after-rivals-military-drill-it-sees-as-provocation-2",
+          "domain": "newindianexpress.com"
+        },
+        {
+          "title": "North Korea Launches Multiple Ballistic Missiles , Raises Fresh Tensions in Korean Peninsula",
+          "url": "https://www.oneindia.com/international/north-korea-launches-multiple-ballistic-missiles-raises-fresh-tensions-in-korean-peninsula-8203199.html",
+          "domain": "oneindia.com"
+        }
+      ],
       "toneReading": "No recent coverage found.",
       "volumeReading": null
     },
@@ -586,7 +754,28 @@
       "regulatory": 20,
       "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [],
+      "headlines": [
+        {
+          "title": "NATO military aircraft scrambled over Europe as urgent warning issued in Poland",
+          "url": "https://www.mirror.co.uk/news/world-news/nato-russia-ukraine-poland-war-37655860",
+          "domain": "mirror.co.uk"
+        },
+        {
+          "title": "Poland Warns Russia Likely to Intensify European Border Provocations",
+          "url": "https://www.breitbart.com/europe/2026/09/12/poland-warns-russia-likely-to-intensify-european-border-provocations/",
+          "domain": "breitbart.com"
+        },
+        {
+          "title": "Middle powers guarding Europe eastern flank \u2013 opinion",
+          "url": "https://www.lrt.lt/en/news-in-english/19/3047171/middle-powers-guarding-europe-s-eastern-flank-opinion",
+          "domain": "lrt.lt"
+        },
+        {
+          "title": "NATO jets scrambled as Russia launches horror attack - WW3 fears explode",
+          "url": "https://www.aol.co.uk/articles/nato-jets-scrambled-russia-launches-131100000.html",
+          "domain": "aol.co.uk"
+        }
+      ],
       "toneReading": "No recent coverage found.",
       "volumeReading": null
     },
@@ -677,28 +866,7 @@
       "regulatory": 40,
       "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [
-        {
-          "title": "WEATHER : Cut - off low to bring storms , hail and dramatic temperature drop",
-          "url": "https://www.thesouthafrican.com/news/weather/weather-forecasting-cut-off-low-to-bring-storms-hail-and-dramatic-temperature-drop/",
-          "domain": "thesouthafrican.com"
-        },
-        {
-          "title": "Again , two Nigerians killed in South Africa xenophobic crisis",
-          "url": "https://www.vanguardngr.com/2026/09/again-two-nigerians-killed-in-south-africas-xenophobic-crisis/",
-          "domain": "vanguardngr.com"
-        },
-        {
-          "title": "Again , two Nigerians confirmed killed in South Africa xenophobic crisis",
-          "url": "https://theeagleonline.com.ng/again-two-nigerians-confirmed-killed-in-south-africas-xenophobic-crisis/",
-          "domain": "theeagleonline.com.ng"
-        },
-        {
-          "title": "Romance scam : Six Nigerians defraud 100 American women of over N8bn",
-          "url": "https://tribuneonlineng.com/romance-scam-six-nigerians-defraud-100-american-women-of-over-n8bn/",
-          "domain": "tribuneonlineng.com"
-        }
-      ],
+      "headlines": [],
       "toneReading": "No recent coverage found.",
       "volumeReading": null
     },
@@ -711,7 +879,28 @@
       "regulatory": 18,
       "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [],
+      "headlines": [
+        {
+          "title": "North Korea fires ballistic missiles toward sea after rival military drill it sees as provocation",
+          "url": "https://www.newindianexpress.com/world/2026/Sep/12/north-korea-fires-ballistic-missiles-toward-sea-after-rivals-military-drill-it-sees-as-provocation-2",
+          "domain": "newindianexpress.com"
+        },
+        {
+          "title": "North Korea fires missiles after US - South Korea drills",
+          "url": "https://www.dw.com/en/north-korea-fires-multiple-ballistic-missiles-day-after-trilateral-drills-end/a-79242070",
+          "domain": "dw.com"
+        },
+        {
+          "title": "North Korea fires several short - range ballistic missiles",
+          "url": "https://www.pakistantoday.com.pk/2026/09/12/north-korea-fires-several-short-range-ballistic-missiles-toward-sea-south-korea-says",
+          "domain": "pakistantoday.com.pk"
+        },
+        {
+          "title": "North Korea fires several short - range ballistic missiles toward sea , South Korea says",
+          "url": "https://dunyanews.tv/en/World/972527-north-korea-fires-several-shortrange-ballistic-missiles-toward-sea-s",
+          "domain": "dunyanews.tv"
+        }
+      ],
       "toneReading": "No recent coverage found.",
       "volumeReading": null
     },
@@ -763,7 +952,28 @@
       "regulatory": 20,
       "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [],
+      "headlines": [
+        {
+          "title": "Apple and Taiwan Semiconductor Manufacturing Just Announced a Cutting - Edge Chip . 1 Stock Offers Far Greater Upside .",
+          "url": "https://www.aol.com/articles/apple-taiwan-semiconductor-manufacturing-just-134400000.html",
+          "domain": "aol.com"
+        },
+        {
+          "title": "Taiwan temple culture showcased in Poland",
+          "url": "https://focustaiwan.tw:443/culture/202609120010",
+          "domain": "focustaiwan.tw"
+        },
+        {
+          "title": "China threatens to cancel Xi - Trump summit",
+          "url": "https://www.aol.com/articles/china-threatens-cancel-xi-trump-154203000.html",
+          "domain": "aol.com"
+        },
+        {
+          "title": "China threatens to cancel summit if US approves new arms sales to Taiwan",
+          "url": "https://www.straitstimes.com/world/china-threatens-to-cancel-summit-if-us-approves-new-arms-sales-to-taiwan",
+          "domain": "straitstimes.com"
+        }
+      ],
       "toneReading": "No recent coverage found.",
       "volumeReading": null
     },
@@ -793,9 +1003,9 @@
           "domain": "moneycontrol.com"
         },
         {
-          "title": "Succession blues VI",
-          "url": "https://thaipoliticalprisoners.wordpress.com/2026/09/12/succession-blues-vi/",
-          "domain": "thaipoliticalprisoners.wordpress.com"
+          "title": "India car leasing market poised for growth as SMEs , corporates embrace employee mobility",
+          "url": "https://www.thehindu.com/business/Industry/indias-car-leasing-market-poised-for-growth-as-smes-corporates-embrace-employee-mobility/article71460107.ece",
+          "domain": "thehindu.com"
         }
       ],
       "toneReading": "No recent coverage found.",
@@ -836,7 +1046,28 @@
       "regulatory": 58,
       "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [],
+      "headlines": [
+        {
+          "title": "8 killed , dozens wounded in Russian strikes on Ukraine as Putin warns Europe against sending troops",
+          "url": "https://nypost.com/2026/09/12/world-news/8-killed-dozens-wounded-in-russian-strikes-on-ukraine-as-putin-warns-europe-against-sending-troops/",
+          "domain": "nypost.com"
+        },
+        {
+          "title": "3 killed in Russian strikes on Ukraine as Putin warns Europe against sending troops",
+          "url": "https://www.independent.co.uk/news/world/europe/ukraine-vladimir-putin-europe-kyiv-moscow-b3049032.html",
+          "domain": "independent.co.uk"
+        },
+        {
+          "title": "8 killed in Russian strikes on Ukraine as Putin warns Europe against sending troops",
+          "url": "https://www.aol.com/articles/3-killed-russian-strikes-ukraine-091438000.html",
+          "domain": "aol.com"
+        },
+        {
+          "title": "Poroshenko calls on EU to boost financial aid to cover Ukraine budget deficit",
+          "url": "https://en.interfax.com.ua/news/general/1203091.html",
+          "domain": "en.interfax.com.ua"
+        }
+      ],
       "toneReading": "No recent coverage found.",
       "volumeReading": null
     },
@@ -849,7 +1080,28 @@
       "regulatory": 22,
       "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [],
+      "headlines": [
+        {
+          "title": "Northern Ireland is part of united kingdom : Nigel Farage rejects Trump call for united Ireland",
+          "url": "https://timesofindia.indiatimes.com/world/uk/northern-ireland-is-part-of-uk-nigel-farage-rejects-trumps-call-for-united-ireland/articleshow/134149044.cms",
+          "domain": "timesofindia.indiatimes.com"
+        },
+        {
+          "title": "Russia issues horror WW3 threat to strike 34 united kingdom towns - map shows Putin targets",
+          "url": "https://www.aol.co.uk/articles/russia-issues-horror-ww3-threat-083600000.html",
+          "domain": "aol.co.uk"
+        },
+        {
+          "title": "Russia WW3 threat to strike 34 united kingdom RAF bases \u2013 map shows Putin  secret  targets",
+          "url": "https://www.dailystar.co.uk/news/latest-news/russias-ww3-threat-strike-34-37655423",
+          "domain": "dailystar.co.uk"
+        },
+        {
+          "title": "UK Student Visa Applications Fall 16 %: How Immigration Rule Changes Are Affecting Foreign Students",
+          "url": "https://www.jagranjosh.com/news/uk-student-visa-applications-fall-16-percent-how-immigration-rule-changes-are-affecting-foreign-students-187357",
+          "domain": "jagranjosh.com"
+        }
+      ],
       "toneReading": "No recent coverage found.",
       "volumeReading": null
     },
@@ -862,7 +1114,28 @@
       "regulatory": 28,
       "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [],
+      "headlines": [
+        {
+          "title": "Should You Ignore MP Materials and Buy This Rare - Earth Stock Instead ?",
+          "url": "https://www.fool.com/investing/2026/09/12/ignore-mp-materials-buy-rare-earth-stock/",
+          "domain": "fool.com"
+        },
+        {
+          "title": "France apologizes for UN diplomatic spat with Washington",
+          "url": "https://www.thedailystar.net/news/world/news/france-apologizes-un-diplomatic-spat-washington-4271546",
+          "domain": "thedailystar.net"
+        },
+        {
+          "title": "Federal Register :: Waiver of Specified Statutory Requirements for Commercial Space Launch and Reentry Actions",
+          "url": "https://www.federalregister.gov/documents/2026/07/30/2026-15415/waiver-of-specified-statutory-requirements-for-commercial-space-launch-and-reentry-actions",
+          "domain": "federalregister.gov"
+        },
+        {
+          "title": "Trump Says He Open to Chinese Automakers Building Cars in US",
+          "url": "https://www.theepochtimes.com/us/trump-says-hes-open-to-chinese-automakers-building-cars-in-us-6086636",
+          "domain": "theepochtimes.com"
+        }
+      ],
       "toneReading": "No recent coverage found.",
       "volumeReading": null
     },
@@ -901,28 +1174,7 @@
       "regulatory": 74,
       "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [
-        {
-          "title": "War On Iran : Ansar Allah Goes On The Offensive \u2013 Moon of Alabama",
-          "url": "https://www.moonofalabama.org/2026/09/war-on-iran-ansar-allah-goes-on-the-offensive.html/comment-page-2",
-          "domain": "moonofalabama.org"
-        },
-        {
-          "title": "Arab News | How can the Houthis be challenged ?",
-          "url": "https://www.arabnews.com/opinion/how-can-the-houthis-be-challenged-3001445",
-          "domain": "arabnews.com"
-        },
-        {
-          "title": "The Houthis vs Saudi Arabia | The new lords of the Red Sea",
-          "url": "https://www.thehindu.com/news/international/the-houthis-vs-saudi-arabia-the-new-lords-of-the-red-sea/article71461151.ece",
-          "domain": "thehindu.com"
-        },
-        {
-          "title": "Houthis Seize Island as Saudi Shuts Pipeline , Opening New Iran War Front",
-          "url": "https://www.deccanchronicle.com/west-asia/houthis-seize-island-as-saudi-shuts-pipeline-opening-new-iran-war-front-1986865",
-          "domain": "deccanchronicle.com"
-        }
-      ],
+      "headlines": [],
       "toneReading": "No recent coverage found.",
       "volumeReading": null
     },
