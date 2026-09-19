@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-19T06:12:11.204512+00:00",
+  "generatedAt": "2026-09-19T12:11:40.650667+00:00",
   "source": "GDELT (news tone/volume, 3-day window) blended 50/50 with baseline",
   "countries": [
     {
@@ -24,28 +24,7 @@
       "regulatory": 44,
       "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [
-        {
-          "title": "Donald Trump bombshell U - turn as US president  will not back Argentina over Falklands",
-          "url": "https://www.aol.co.uk/articles/donald-trump-bombshell-u-turn-102700000.html",
-          "domain": "aol.co.uk"
-        },
-        {
-          "title": "Argentina student plans school massacre with help from ChatGPT : feds",
-          "url": "https://nypost.com/2026/09/12/world-news/argentina-student-plans-school-massacre-with-help-from-chatgpt-feds/",
-          "domain": "nypost.com"
-        },
-        {
-          "title": "Donald Trump claims he could  settle  a war over the Falklands",
-          "url": "https://www.aol.co.uk/articles/donald-trump-claims-could-settle-103523000.html",
-          "domain": "aol.co.uk"
-        },
-        {
-          "title": "Trump claims he could  settle  a war over the Falklands",
-          "url": "https://www.perthnow.com.au/news/politics/trump-claims-he-could-settle-a-war-over-the-falklands-c-22861575",
-          "domain": "perthnow.com.au"
-        }
-      ],
+      "headlines": [],
       "toneReading": "No recent coverage found.",
       "volumeReading": null
     },
@@ -58,7 +37,28 @@
       "regulatory": 10,
       "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [],
+      "headlines": [
+        {
+          "title": "First H5 bird flu death of endangered Australian sea lion recorded amid fears for small population",
+          "url": "https://www.theguardian.com/australia-news/2026/sep/13/first-h5-bird-flu-death-of-endangered-australian-sea-lion-kangaroo-island",
+          "domain": "theguardian.com"
+        },
+        {
+          "title": "Pacific drugs highway : Australia new plan to target cocaine traffickers moving through islands",
+          "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/09/13/pacific-drugs-highway-australias-new-plan-to-target-cocaine-traffickers-moving-through-islands",
+          "domain": "thestar.com.my"
+        },
+        {
+          "title": "Tayla Meath Death News :  The Dog House Australia  star , Tayla Meath , passes away at 30 after battling cancer",
+          "url": "https://timesofindia.indiatimes.com/tv/news/english/the-dog-house-australia-star-tayla-meat/articleshow/134126408.cms",
+          "domain": "timesofindia.indiatimes.com"
+        },
+        {
+          "title": "ABC talks immigration in an economic vacuum",
+          "url": "https://www.macrobusiness.com.au/2026/09/abc-talks-immigration-in-an-economic-vacuum/",
+          "domain": "macrobusiness.com.au"
+        }
+      ],
       "toneReading": "No recent coverage found.",
       "volumeReading": null
     },
@@ -110,28 +110,7 @@
       "regulatory": 38,
       "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [
-        {
-          "title": "Brazil is in fashion , as Brazilians like to say . Here why",
-          "url": "https://economictimes.indiatimes.com/news/international/world-news/brazil-is-in-fashion-as-brazilians-like-to-say-heres-why/articleshow/134186159.cms",
-          "domain": "economictimes.indiatimes.com"
-        },
-        {
-          "title": "Brazil is in fashion , as Brazilians like to say . Here why | World News",
-          "url": "http://www.thegazette.com/news/world/brazil-is-in-fashion-as-brazilians-like-to-say-here-s-why/article_fd75f3b8-b36e-5872-ad90-0e20a3980e8d.html",
-          "domain": "thegazette.com"
-        },
-        {
-          "title": "Brazil is in fashion , as Brazilians like to say . Here why \u2013 Winnipeg Free Press",
-          "url": "https://www.winnipegfreepress.com/arts-and-life/life/2026/09/13/brazil-is-in-fashion-as-brazilians-like-to-say-heres-why",
-          "domain": "winnipegfreepress.com"
-        },
-        {
-          "title": "The unending fight against the stigma of HIV : NPR",
-          "url": "https://www.npr.org/2026/09/12/g-s1-142404/hiv-aids-brazil-stigma",
-          "domain": "npr.org"
-        }
-      ],
+      "headlines": [],
       "toneReading": "No recent coverage found.",
       "volumeReading": null
     },
@@ -191,7 +170,28 @@
       "regulatory": 54,
       "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [],
+      "headlines": [
+        {
+          "title": "India Modi and China Xi seek to reset ties on BRICS sidelines",
+          "url": "https://www.wral.com/news/ap/e51a7-indias-modi-and-chinas-xi-seek-to-reset-ties-on-brics-sidelines/",
+          "domain": "wral.com"
+        },
+        {
+          "title": "China sits with India as BRICS condemns Pahalgam attack : Why it matters as Beijing - Pakistan ties show signs of strain",
+          "url": "https://www.moneycontrol.com/world/china-sits-with-india-as-brics-condemns-pahalgam-attack-why-it-matters-as-beijing-pakistan-ties-show-signs-of-strain-article-14028584.html",
+          "domain": "moneycontrol.com"
+        },
+        {
+          "title": "US - China decoupling could benefit other countries , China trade war game suggests",
+          "url": "https://www.scmp.com/news/china/science/article/3367290/us-china-decoupling-could-benefit-other-countries-china-trade-war-game-suggests",
+          "domain": "scmp.com"
+        },
+        {
+          "title": "Dar stresses deeper Pak - China strategic ties",
+          "url": "https://www.pakistantoday.com.pk/2026/09/12/dar-stresses-deeper-pak-china-strategic-ties",
+          "domain": "pakistantoday.com.pk"
+        }
+      ],
       "toneReading": "No recent coverage found.",
       "volumeReading": null
     },
@@ -230,7 +230,28 @@
       "regulatory": 64,
       "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [],
+      "headlines": [
+        {
+          "title": "DR Congo World Cup exploits encourage more players to join their cause",
+          "url": "https://cyprus-mail.com/2026/09/12/dr-congos-world-cup-exploits-encourage-more-players-to-join-their-cause",
+          "domain": "cyprus-mail.com"
+        },
+        {
+          "title": "DR Congo worst Ebola epidemic ever passes 7 , 000 cases",
+          "url": "https://arynews.tv/dr-congos-worst-ebola-epidemic-passes-7000-cases",
+          "domain": "arynews.tv"
+        },
+        {
+          "title": "Feature : DR Congo Bukavu grapples with grief after fire kills 29 students - Xinhua",
+          "url": "https://english.news.cn/20260912/85d43bd26dbb4c2cbe41f5758266f913/c.html",
+          "domain": "english.news.cn"
+        },
+        {
+          "title": "Africa Intelligence Brief Saturday , September 12 , 2026",
+          "url": "https://www.riotimesonline.com/africa-intelligence-brief-saturday-september-12-2026/",
+          "domain": "riotimesonline.com"
+        }
+      ],
       "toneReading": "No recent coverage found.",
       "volumeReading": null
     },
@@ -243,28 +264,7 @@
       "regulatory": 13,
       "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [
-        {
-          "title": "South Korea reaches U - 20 Women World Cup round of 16",
-          "url": "https://www.koreaherald.com/article/10871549",
-          "domain": "koreaherald.com"
-        },
-        {
-          "title": "Ecuador Noboa Praises Trump - Rubio Cartel Crackdown Strategy",
-          "url": "https://www.breitbart.com/border/2026/09/11/ecuadors-noboa-praises-trump-rubio-cartel-crackdown-strategy/",
-          "domain": "breitbart.com"
-        },
-        {
-          "title": "List of countries offering eVisa to Nigerians in 2026",
-          "url": "https://www.vanguardngr.com/2026/09/list-of-countries-offering-evisa-to-nigerians-in-2026/",
-          "domain": "vanguardngr.com"
-        },
-        {
-          "title": "Moises Caicedo might not handle this Chelsea burden as well as Enzo Fern\u00e1ndez did",
-          "url": "https://theprideoflondon.com/moises-caicedo-might-not-handle-chelsea-burden-well-enzo-fernandez-did",
-          "domain": "theprideoflondon.com"
-        }
-      ],
+      "headlines": [],
       "toneReading": "No recent coverage found.",
       "volumeReading": null
     },
@@ -315,14 +315,14 @@
           "domain": "aol.co.uk"
         },
         {
-          "title": "Zidane names Lens defender Ganiou in France preliminary squad",
-          "url": "https://dailypost.ng/2026/09/12/zidane-names-lens-defender-ganiou-in-france-preliminary-squad/",
-          "domain": "dailypost.ng"
-        },
-        {
           "title": "Train derailment in France injures 44 , police suspect sabotage",
           "url": "https://www.cbsnews.com/news/france-normandy-train-derailment-sabotage/",
           "domain": "cbsnews.com"
+        },
+        {
+          "title": "France apologizes for UN diplomatic spat with Washington",
+          "url": "https://www.thedailystar.net/news/world/news/france-apologizes-un-diplomatic-spat-washington-4271546",
+          "domain": "thedailystar.net"
         }
       ],
       "toneReading": "No recent coverage found.",
@@ -350,28 +350,7 @@
       "regulatory": 16,
       "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [
-        {
-          "title": "Mass protests erupt in Germany as AfD eyes breakthrough in eastern states",
-          "url": "https://timesofindia.indiatimes.com/world/europe/mass-protests-erupt-in-germany-as-afd-eyes-breakthrough-in-eastern-states/articleshow/134171697.cms",
-          "domain": "timesofindia.indiatimes.com"
-        },
-        {
-          "title": "Thousands protest far right in Germany",
-          "url": "https://tribune.com.pk/story/2628998/thousands-protest-far-right-in-germany",
-          "domain": "tribune.com.pk"
-        },
-        {
-          "title": "Germany : Lower Saxony local polls in focus after AfD win",
-          "url": "https://www.dw.com/en/germany-lower-saxony-local-polls-in-focus-after-afd-win/live-79223427",
-          "domain": "dw.com"
-        },
-        {
-          "title": "Valkyrie Gabby Williams leads France past Germany 86 - 64 to reach women FIBA World Cup final",
-          "url": "https://www.mercurynews.com/2026/09/12/france-tops-host-germany-86-64-to-reach-womens-fiba-world-cup-final-against-us-or-spain/",
-          "domain": "mercurynews.com"
-        }
-      ],
+      "headlines": [],
       "toneReading": "No recent coverage found.",
       "volumeReading": null
     },
@@ -412,23 +391,23 @@
       "note": "No fresh coverage this cycle; showing baseline.",
       "headlines": [
         {
-          "title": "Indonesia , India elevate global roles through BRICS partnership : Envoy",
-          "url": "https://en.antaranews.com/news/431084/indonesia-india-elevate-global-roles-through-brics-partnership-envoy",
-          "domain": "en.antaranews.com"
-        },
-        {
           "title": "Indonesia must not become a platform for Israeli business",
           "url": "https://www.middleeastmonitor.com/20260912-indonesia-must-not-become-a-platform-for-israeli-business/",
           "domain": "middleeastmonitor.com"
         },
         {
-          "title": "Bank Indonesia promotes local currency use among BRICS nations",
-          "url": "https://en.antaranews.com/news/431080/bank-indonesia-promotes-local-currency-use-among-brics-nations",
+          "title": "Prabowo affirms Indonesia role at 18th BRICS Summit in New Delhi",
+          "url": "https://en.antaranews.com/news/431125/prabowo-affirms-indonesias-role-at-18th-brics-summit-in-new-delhi",
           "domain": "en.antaranews.com"
         },
         {
-          "title": "Prabowo affirms Indonesia role at 18th BRICS Summit in New Delhi",
-          "url": "https://en.antaranews.com/news/431125/prabowo-affirms-indonesias-role-at-18th-brics-summit-in-new-delhi",
+          "title": "Green SM officially launches in Palembang , strengthening SUMATRA green mobility ecosystem",
+          "url": "https://theeagleonline.com.ng/media-outreach/2026/09/12/487041/green-sm-officially-launches-in-palembang-strengthening-sumatras-green-mobility-ecosystem/",
+          "domain": "theeagleonline.com.ng"
+        },
+        {
+          "title": "Indonesia arrests 5 foreigners suspected in online gambling syndicate",
+          "url": "https://en.antaranews.com/news/431116/indonesia-arrests-5-foreigners-suspected-in-online-gambling-syndicate",
           "domain": "en.antaranews.com"
         }
       ],
@@ -522,28 +501,7 @@
       "regulatory": 34,
       "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [
-        {
-          "title": "Foreign nationals can work , invest in Kenya if they obey our laws - Ruto - Latest News In Nigeria , Nigeria News Today , Your Online Nigerian Newspaper",
-          "url": "https://www.nigerianeye.com/2026/09/foreign-nationals-can-work-invest-in.html",
-          "domain": "nigerianeye.com"
-        },
-        {
-          "title": "Wamboka , Natembeya warn Museveni against meddling in 2027 elections",
-          "url": "https://www.standardmedia.co.ke/politics/article/2001557614/wamboka-natembeya-warn-museveni-against-meddling-in-2027-elections",
-          "domain": "standardmedia.co.ke"
-        },
-        {
-          "title": "KANYADUDI : Crackdown on Burundian refugee - traders in Kenya national interest",
-          "url": "https://www.the-star.co.ke/siasa/2026-09-13-kanyadudi-burundian-crisis-tests-east-africas-integration-agenda",
-          "domain": "the-star.co.ke"
-        },
-        {
-          "title": "The CEO who tells women to think twice before being  nice",
-          "url": "https://www.businessdailyafrica.com/bd/lifestyle/weekend-with-the-ceo/ceo-jacqueline-waihenya-5591954",
-          "domain": "businessdailyafrica.com"
-        }
-      ],
+      "headlines": [],
       "toneReading": "No recent coverage found.",
       "volumeReading": null
     },
@@ -608,28 +566,7 @@
       "regulatory": 46,
       "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [
-        {
-          "title": "CM Punk goes full John Cena after losing the WWE championship to Sami Zayn",
-          "url": "https://www.cagesideseats.com/wwe/475355/cm-punk-goes-full-john-cena-after-losing-the-wwe-championship-to-sami-zayn",
-          "domain": "cagesideseats.com"
-        },
-        {
-          "title": "El Grito : Phoenix celebrates Mexican independence with fifth annual event",
-          "url": "https://www.fox10phoenix.com/news/el-grito-phoenix-celebrates-mexican-independence-fifth-annual-event",
-          "domain": "fox10phoenix.com"
-        },
-        {
-          "title": "Talk of the Town : New Mexico reading , film incentives and library closures",
-          "url": "https://www.abqjournal.com/opinion/opinion-talk-of-the-town/3117119",
-          "domain": "abqjournal.com"
-        },
-        {
-          "title": "The Roundhouse Report : Pro - Hull PAC makes big boo - boo in first campaign ad",
-          "url": "https://www.santafenewmexican.com/news/roundhouse_report/the-roundhouse-report-pro-hull-pac-makes-big-boo-boo-in-first-campaign-ad/article_dc00dc7e-68d8-4ded-8e07-bcf6862bf081.html",
-          "domain": "santafenewmexican.com"
-        }
-      ],
+      "headlines": [],
       "toneReading": "No recent coverage found.",
       "volumeReading": null
     },
@@ -642,7 +579,28 @@
       "regulatory": 18,
       "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [],
+      "headlines": [
+        {
+          "title": "Morocco Receives Five Chinese CRRC Ziyang Diesel Locomotives",
+          "url": "https://www.moroccoworldnews.com/2026/09/338036/morocco-receives-five-chinese-crrc-ziyang-diesel-locomotives/",
+          "domain": "moroccoworldnews.com"
+        },
+        {
+          "title": "Falcon Energy Materials Raises C$30 Million to Advance Morocco Anode Plant",
+          "url": "https://www.moroccoworldnews.com/2026/09/338061/falcon-energy-materials-raises-c30-million-to-advance-morocco-anode-plant/",
+          "domain": "moroccoworldnews.com"
+        },
+        {
+          "title": "Why Spain new Sahrawi citizenship law matters to Morocco | News",
+          "url": "https://www.aljazeera.com/news/2026/9/13/why-spains-new-sahrawi-citizenship-law-matters-to-morocco",
+          "domain": "aljazeera.com"
+        },
+        {
+          "title": "When Morocco Says  Enough : What Comes Next ?",
+          "url": "https://www.moroccoworldnews.com/2026/09/338074/when-morocco-says-enough-what-comes-next/",
+          "domain": "moroccoworldnews.com"
+        }
+      ],
       "toneReading": "No recent coverage found.",
       "volumeReading": null
     },
@@ -655,7 +613,28 @@
       "regulatory": 70,
       "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [],
+      "headlines": [
+        {
+          "title": "Myanmar says UN envoy illegitimate ahead of credentials decision",
+          "url": "https://www.freemalaysiatoday.com/category/world/2026/09/13/myanmar-says-un-envoy-illegitimate-ahead-of-credentials-decision",
+          "domain": "freemalaysiatoday.com"
+        },
+        {
+          "title": "Arab News | Myanmar says UN envoy illegitimate ahead of credentials decision",
+          "url": "https://www.arabnews.com/world/myanmar-says-un-envoy-illegitimate-ahead-of-credentials-decision-3001534",
+          "domain": "arabnews.com"
+        },
+        {
+          "title": "Myanmar government revokes status and seeks action against UN envoy Kyaw Moe Tun",
+          "url": "https://www.asiaone.com:443/asia/myanmar-government-revokes-status-and-seeks-action-against-un-envoy-kyaw-moe-tun",
+          "domain": "asiaone.com"
+        },
+        {
+          "title": "Methamphetamine tablets and heroin seized in Mizoram , 3 arrested",
+          "url": "https://morungexpress.com/methamphetamine-tablets-and-heroin-seized-in-mizoram-3-arrested",
+          "domain": "morungexpress.com"
+        }
+      ],
       "toneReading": "No recent coverage found.",
       "volumeReading": null
     },
@@ -681,28 +660,7 @@
       "regulatory": 92,
       "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [
-        {
-          "title": "UN chief message to North Korea Kim signals cautious bid to revive engagement : expert",
-          "url": "https://www.koreaherald.com/article/10871622",
-          "domain": "koreaherald.com"
-        },
-        {
-          "title": "North Korea fires missiles after US - South Korea drills",
-          "url": "https://www.dw.com/en/north-korea-fires-multiple-ballistic-missiles-day-after-trilateral-drills-end/a-79242070",
-          "domain": "dw.com"
-        },
-        {
-          "title": "North Korea fires ballistic missiles toward sea after rival military drill it sees as provocation",
-          "url": "https://www.newindianexpress.com/world/2026/Sep/12/north-korea-fires-ballistic-missiles-toward-sea-after-rivals-military-drill-it-sees-as-provocation-2",
-          "domain": "newindianexpress.com"
-        },
-        {
-          "title": "North Korea Launches Multiple Ballistic Missiles , Raises Fresh Tensions in Korean Peninsula",
-          "url": "https://www.oneindia.com/international/north-korea-launches-multiple-ballistic-missiles-raises-fresh-tensions-in-korean-peninsula-8203199.html",
-          "domain": "oneindia.com"
-        }
-      ],
+      "headlines": [],
       "toneReading": "No recent coverage found.",
       "volumeReading": null
     },
@@ -754,28 +712,7 @@
       "regulatory": 20,
       "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [
-        {
-          "title": "NATO military aircraft scrambled over Europe as urgent warning issued in Poland",
-          "url": "https://www.mirror.co.uk/news/world-news/nato-russia-ukraine-poland-war-37655860",
-          "domain": "mirror.co.uk"
-        },
-        {
-          "title": "Poland Warns Russia Likely to Intensify European Border Provocations",
-          "url": "https://www.breitbart.com/europe/2026/09/12/poland-warns-russia-likely-to-intensify-european-border-provocations/",
-          "domain": "breitbart.com"
-        },
-        {
-          "title": "Middle powers guarding Europe eastern flank \u2013 opinion",
-          "url": "https://www.lrt.lt/en/news-in-english/19/3047171/middle-powers-guarding-europe-s-eastern-flank-opinion",
-          "domain": "lrt.lt"
-        },
-        {
-          "title": "NATO jets scrambled as Russia launches horror attack - WW3 fears explode",
-          "url": "https://www.aol.co.uk/articles/nato-jets-scrambled-russia-launches-131100000.html",
-          "domain": "aol.co.uk"
-        }
-      ],
+      "headlines": [],
       "toneReading": "No recent coverage found.",
       "volumeReading": null
     },
@@ -866,7 +803,28 @@
       "regulatory": 40,
       "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [],
+      "headlines": [
+        {
+          "title": "WEATHER : Cut - off low to bring storms , hail and dramatic temperature drop",
+          "url": "https://www.thesouthafrican.com/news/weather/weather-forecasting-cut-off-low-to-bring-storms-hail-and-dramatic-temperature-drop/",
+          "domain": "thesouthafrican.com"
+        },
+        {
+          "title": "Again , two Nigerians killed in South Africa xenophobic crisis",
+          "url": "https://www.vanguardngr.com/2026/09/again-two-nigerians-killed-in-south-africas-xenophobic-crisis/",
+          "domain": "vanguardngr.com"
+        },
+        {
+          "title": "Again , two Nigerians confirmed killed in South Africa xenophobic crisis",
+          "url": "https://theeagleonline.com.ng/again-two-nigerians-confirmed-killed-in-south-africas-xenophobic-crisis/",
+          "domain": "theeagleonline.com.ng"
+        },
+        {
+          "title": "FG condemns killing of two Nigerians in South Africa , demands probe",
+          "url": "https://dailypost.ng/2026/09/12/fg-condemns-killing-of-two-nigerians-in-south-africa-demands-probe/",
+          "domain": "dailypost.ng"
+        }
+      ],
       "toneReading": "No recent coverage found.",
       "volumeReading": null
     },
@@ -879,28 +837,7 @@
       "regulatory": 18,
       "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [
-        {
-          "title": "North Korea fires ballistic missiles toward sea after rival military drill it sees as provocation",
-          "url": "https://www.newindianexpress.com/world/2026/Sep/12/north-korea-fires-ballistic-missiles-toward-sea-after-rivals-military-drill-it-sees-as-provocation-2",
-          "domain": "newindianexpress.com"
-        },
-        {
-          "title": "North Korea fires missiles after US - South Korea drills",
-          "url": "https://www.dw.com/en/north-korea-fires-multiple-ballistic-missiles-day-after-trilateral-drills-end/a-79242070",
-          "domain": "dw.com"
-        },
-        {
-          "title": "North Korea fires several short - range ballistic missiles",
-          "url": "https://www.pakistantoday.com.pk/2026/09/12/north-korea-fires-several-short-range-ballistic-missiles-toward-sea-south-korea-says",
-          "domain": "pakistantoday.com.pk"
-        },
-        {
-          "title": "North Korea fires several short - range ballistic missiles toward sea , South Korea says",
-          "url": "https://dunyanews.tv/en/World/972527-north-korea-fires-several-shortrange-ballistic-missiles-toward-sea-s",
-          "domain": "dunyanews.tv"
-        }
-      ],
+      "headlines": [],
       "toneReading": "No recent coverage found.",
       "volumeReading": null
     },
@@ -959,11 +896,6 @@
           "domain": "aol.com"
         },
         {
-          "title": "Taiwan temple culture showcased in Poland",
-          "url": "https://focustaiwan.tw:443/culture/202609120010",
-          "domain": "focustaiwan.tw"
-        },
-        {
           "title": "China threatens to cancel Xi - Trump summit",
           "url": "https://www.aol.com/articles/china-threatens-cancel-xi-trump-154203000.html",
           "domain": "aol.com"
@@ -972,6 +904,11 @@
           "title": "China threatens to cancel summit if US approves new arms sales to Taiwan",
           "url": "https://www.straitstimes.com/world/china-threatens-to-cancel-summit-if-us-approves-new-arms-sales-to-taiwan",
           "domain": "straitstimes.com"
+        },
+        {
+          "title": "Taiwan rejects Beijings interference in Vice President Hsiaos Italy visit , defends European Parliament engagement",
+          "url": "https://news.webindia123.com/news/Articles/World/20260912/4497867.html",
+          "domain": "news.webindia123.com"
         }
       ],
       "toneReading": "No recent coverage found.",
@@ -986,28 +923,7 @@
       "regulatory": 34,
       "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [
-        {
-          "title": "Chinese Golden Week expected to bring 250 , 000 visitors and 11 . 5bn baht to Thailand",
-          "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/09/12/chinese-golden-week-expected-to-bring-250000-visitors-and-115bn-baht-to-thailand",
-          "domain": "thestar.com.my"
-        },
-        {
-          "title": "I quit the united kingdom for Thailand at 28 - Britain has no freedom",
-          "url": "https://www.birminghammail.co.uk/news/midlands-news/i-quit-uk-thailand-28-34579774",
-          "domain": "birminghammail.co.uk"
-        },
-        {
-          "title": "Indian woman spends Rs 1 lakh a month living in Thailand , netizens say  cheaper than Mumbai",
-          "url": "https://www.moneycontrol.com/news/trends/indian-woman-spends-rs-1-lakh-a-month-living-in-thailand-netizens-say-cheaper-than-mumbai-14028609.html",
-          "domain": "moneycontrol.com"
-        },
-        {
-          "title": "India car leasing market poised for growth as SMEs , corporates embrace employee mobility",
-          "url": "https://www.thehindu.com/business/Industry/indias-car-leasing-market-poised-for-growth-as-smes-corporates-embrace-employee-mobility/article71460107.ece",
-          "domain": "thehindu.com"
-        }
-      ],
+      "headlines": [],
       "toneReading": "No recent coverage found.",
       "volumeReading": null
     },
@@ -1020,7 +936,28 @@
       "regulatory": 48,
       "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [],
+      "headlines": [
+        {
+          "title": "Jamie Oliver 20 - Minute Chicken Recipe Is My Favorite",
+          "url": "https://www.aol.com/articles/jamie-oliver-20-minute-chicken-172000000.html",
+          "domain": "aol.com"
+        },
+        {
+          "title": "Israel will not defend Greek Aegean against Turkey as Achilles Shield highlights strategic gaps",
+          "url": "https://www.bankingnews.gr/amyna-diplomatia/articles/898945/israel-will-not-defend-greek-aegean-against-turkey-as-achilles-shield-highlights-strategic-gaps",
+          "domain": "bankingnews.gr"
+        },
+        {
+          "title": "Turkey unearths 2 , 000 - year - old statues of Roman Emperor Hadrian , Empress Sabina",
+          "url": "https://www.jpost.com/archaeology/article-908381",
+          "domain": "jpost.com"
+        },
+        {
+          "title": "Food Fables \u2013 How Turkey shows that Indian tea future might be black",
+          "url": "https://economictimes.indiatimes.com/magazines/panache/food-fables-how-turkey-shows-that-indian-teas-future-might-be-black/articleshow/134148777.cms",
+          "domain": "economictimes.indiatimes.com"
+        }
+      ],
       "toneReading": "No recent coverage found.",
       "volumeReading": null
     },
@@ -1046,28 +983,7 @@
       "regulatory": 58,
       "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [
-        {
-          "title": "8 killed , dozens wounded in Russian strikes on Ukraine as Putin warns Europe against sending troops",
-          "url": "https://nypost.com/2026/09/12/world-news/8-killed-dozens-wounded-in-russian-strikes-on-ukraine-as-putin-warns-europe-against-sending-troops/",
-          "domain": "nypost.com"
-        },
-        {
-          "title": "3 killed in Russian strikes on Ukraine as Putin warns Europe against sending troops",
-          "url": "https://www.independent.co.uk/news/world/europe/ukraine-vladimir-putin-europe-kyiv-moscow-b3049032.html",
-          "domain": "independent.co.uk"
-        },
-        {
-          "title": "8 killed in Russian strikes on Ukraine as Putin warns Europe against sending troops",
-          "url": "https://www.aol.com/articles/3-killed-russian-strikes-ukraine-091438000.html",
-          "domain": "aol.com"
-        },
-        {
-          "title": "Poroshenko calls on EU to boost financial aid to cover Ukraine budget deficit",
-          "url": "https://en.interfax.com.ua/news/general/1203091.html",
-          "domain": "en.interfax.com.ua"
-        }
-      ],
+      "headlines": [],
       "toneReading": "No recent coverage found.",
       "volumeReading": null
     },
@@ -1080,28 +996,7 @@
       "regulatory": 22,
       "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [
-        {
-          "title": "Northern Ireland is part of united kingdom : Nigel Farage rejects Trump call for united Ireland",
-          "url": "https://timesofindia.indiatimes.com/world/uk/northern-ireland-is-part-of-uk-nigel-farage-rejects-trumps-call-for-united-ireland/articleshow/134149044.cms",
-          "domain": "timesofindia.indiatimes.com"
-        },
-        {
-          "title": "Russia issues horror WW3 threat to strike 34 united kingdom towns - map shows Putin targets",
-          "url": "https://www.aol.co.uk/articles/russia-issues-horror-ww3-threat-083600000.html",
-          "domain": "aol.co.uk"
-        },
-        {
-          "title": "Russia WW3 threat to strike 34 united kingdom RAF bases \u2013 map shows Putin  secret  targets",
-          "url": "https://www.dailystar.co.uk/news/latest-news/russias-ww3-threat-strike-34-37655423",
-          "domain": "dailystar.co.uk"
-        },
-        {
-          "title": "UK Student Visa Applications Fall 16 %: How Immigration Rule Changes Are Affecting Foreign Students",
-          "url": "https://www.jagranjosh.com/news/uk-student-visa-applications-fall-16-percent-how-immigration-rule-changes-are-affecting-foreign-students-187357",
-          "domain": "jagranjosh.com"
-        }
-      ],
+      "headlines": [],
       "toneReading": "No recent coverage found.",
       "volumeReading": null
     },
@@ -1114,28 +1009,7 @@
       "regulatory": 28,
       "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [
-        {
-          "title": "Should You Ignore MP Materials and Buy This Rare - Earth Stock Instead ?",
-          "url": "https://www.fool.com/investing/2026/09/12/ignore-mp-materials-buy-rare-earth-stock/",
-          "domain": "fool.com"
-        },
-        {
-          "title": "France apologizes for UN diplomatic spat with Washington",
-          "url": "https://www.thedailystar.net/news/world/news/france-apologizes-un-diplomatic-spat-washington-4271546",
-          "domain": "thedailystar.net"
-        },
-        {
-          "title": "Federal Register :: Waiver of Specified Statutory Requirements for Commercial Space Launch and Reentry Actions",
-          "url": "https://www.federalregister.gov/documents/2026/07/30/2026-15415/waiver-of-specified-statutory-requirements-for-commercial-space-launch-and-reentry-actions",
-          "domain": "federalregister.gov"
-        },
-        {
-          "title": "Trump Says He Open to Chinese Automakers Building Cars in US",
-          "url": "https://www.theepochtimes.com/us/trump-says-hes-open-to-chinese-automakers-building-cars-in-us-6086636",
-          "domain": "theepochtimes.com"
-        }
-      ],
+      "headlines": [],
       "toneReading": "No recent coverage found.",
       "volumeReading": null
     },
@@ -1174,7 +1048,28 @@
       "regulatory": 74,
       "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [],
+      "headlines": [
+        {
+          "title": "The Houthis vs Saudi Arabia | The new lords of the Red Sea",
+          "url": "https://www.thehindu.com/news/international/the-houthis-vs-saudi-arabia-the-new-lords-of-the-red-sea/article71461151.ece",
+          "domain": "thehindu.com"
+        },
+        {
+          "title": "Divine triumph : Iran celebrates Houthi capture of Yemen Red Sea coast | Houthis News",
+          "url": "https://www.aljazeera.com/news/2026/9/12/divine-triumph-iran-celebrates-houthis-capture-of-yemens-red-sea-coast",
+          "domain": "aljazeera.com"
+        },
+        {
+          "title": "Houthis claim  Saudi aircraft  launched 129 airstrikes in Yemen over past 48 hours",
+          "url": "https://aa.com.tr/en/middle-east/houthis-claim-saudi-aircraft-launched-129-airstrikes-in-yemen-over-past-48-hours/4055473",
+          "domain": "aa.com.tr"
+        },
+        {
+          "title": "Houthi advance in Yemen puts US in a new bind",
+          "url": "https://nypost.com/2026/09/12/world-news/houthi-advance-in-yemen-puts-us-in-a-new-bind/",
+          "domain": "nypost.com"
+        }
+      ],
       "toneReading": "No recent coverage found.",
       "volumeReading": null
     },
