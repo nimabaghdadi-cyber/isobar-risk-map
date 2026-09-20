@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-20T00:14:10.819489+00:00",
+  "generatedAt": "2026-09-20T10:38:59.856182+00:00",
   "source": "GDELT (news tone/volume, 3-day window) blended 50/50 with baseline",
   "countries": [
     {
@@ -50,28 +50,7 @@
       "regulatory": 20,
       "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [
-        {
-          "title": "T\u00fcrkiye , Azerbaijan seek deeper cooperation , says energy minister",
-          "url": "https://www.hurriyetdailynews.com/turkiye-azerbaijan-seek-deeper-cooperation-says-energy-minister-226810",
-          "domain": "hurriyetdailynews.com"
-        },
-        {
-          "title": "Weekly review of Azerbaijan precious metals market",
-          "url": "https://www.trend.az/azerbaijan/4223254.html",
-          "domain": "trend.az"
-        },
-        {
-          "title": "Weekly review of Azerbaijan foreign exchange market",
-          "url": "https://www.trend.az/azerbaijan/4223216.html",
-          "domain": "trend.az"
-        },
-        {
-          "title": "Judo : Middleweights light up Day Two of the Hungary Grand Slam",
-          "url": "https://www.aol.co.uk/articles/judo-middleweights-light-day-two-074016000.html",
-          "domain": "aol.co.uk"
-        }
-      ],
+      "headlines": [],
       "toneReading": "No recent coverage found.",
       "volumeReading": null
     },
@@ -84,28 +63,7 @@
       "regulatory": 42,
       "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [
-        {
-          "title": "Bangladesh draws closer to China in  political chessboard  to balance India ties",
-          "url": "https://www.scmp.com/week-asia/politics/article/3367248/bangladesh-draws-closer-china-political-chessboard-balance-india-ties",
-          "domain": "scmp.com"
-        },
-        {
-          "title": "Karnaphuli EPZ : From a defunct steel mill to an export hub",
-          "url": "https://www.thedailystar.net/business/economy/news/karnaphuli-epz-defunct-steel-mill-export-hub-4271221",
-          "domain": "thedailystar.net"
-        },
-        {
-          "title": "Bangladesh Essential Medicines List | Fixing Bangladesh Broken Medicine Policy",
-          "url": "https://www.thedailystar.net/slow-reads/big-picture/news/how-make-essential-medicines-affordable-and-accessible-bangladesh-4270456",
-          "domain": "thedailystar.net"
-        },
-        {
-          "title": "Pakistan to expand regional trade",
-          "url": "https://tribune.com.pk/story/2628959/pakistan-to-expand-regional-trade",
-          "domain": "tribune.com.pk"
-        }
-      ],
+      "headlines": [],
       "toneReading": "No recent coverage found.",
       "volumeReading": null
     },
@@ -157,28 +115,7 @@
       "regulatory": 22,
       "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [
-        {
-          "title": "Chile arrests 284 in protests condemning Pinochet dictatorship",
-          "url": "https://www.newindianexpress.com/world/2026/Sep/13/chile-arrests-284-in-protests-condemning-pinochet-dictatorship",
-          "domain": "newindianexpress.com"
-        },
-        {
-          "title": "Fire at nursing home in Chile kills 16 elderly residents",
-          "url": "https://www.aljazeera.com/news/2026/9/12/fire-at-nursing-home-in-chile-kills-16-elderly-residents",
-          "domain": "aljazeera.com"
-        },
-        {
-          "title": "16 Killed in Blaze at Chilean Nursing Home , Authorities Report",
-          "url": "https://jowhar.com/16-killed-in-blaze-at-chilean-nursing-home-authorities-report/",
-          "domain": "jowhar.com"
-        },
-        {
-          "title": "6th Annual Mija Market brings lowriders , music and community together in El Paso",
-          "url": "https://kvia.com/lifestyle/2026/09/12/6th-annual-mija-market-brings-lowriders-music-and-community-together-in-el-paso/",
-          "domain": "kvia.com"
-        }
-      ],
+      "headlines": [],
       "toneReading": "No recent coverage found.",
       "volumeReading": null
     },
@@ -204,28 +141,7 @@
       "regulatory": 40,
       "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [
-        {
-          "title": "Warren Buffett old favorite bank enters stablecoin business",
-          "url": "https://www.aol.com/articles/warren-buffetts-old-favorite-bank-005307000.html",
-          "domain": "aol.com"
-        },
-        {
-          "title": "South Korea reaches U - 20 Women World Cup round of 16",
-          "url": "https://www.koreaherald.com/article/10871549",
-          "domain": "koreaherald.com"
-        },
-        {
-          "title": "Is Nu Holdings Stock a Buy , Sell , or Hold With Shares 20 % Below Their 52 - Week High ?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/nu-holdings-stock-buy-sell-002500727.html",
-          "domain": "finance.yahoo.com"
-        },
-        {
-          "title": "An ambassador in Ljubljana , but not in London : Israel foreign policy shifts away from longstanding allies",
-          "url": "https://krdo.com/news/national-world/cnn-world/2026/09/12/an-ambassador-in-ljubljana-but-not-in-london-israels-foreign-policy-shifts-away-from-longstanding-allies/",
-          "domain": "krdo.com"
-        }
-      ],
+      "headlines": [],
       "toneReading": "No recent coverage found.",
       "volumeReading": null
     },
@@ -414,15 +330,15 @@
     {
       "name": "Japan",
       "region": "East Asia",
-      "political": 16,
+      "political": 34,
       "conflict": 10,
       "economic": 22,
       "regulatory": 14,
-      "trend": "flat",
-      "note": "No fresh coverage this cycle; showing baseline.",
+      "trend": "up",
+      "note": "Live-updated from recent news coverage.",
       "headlines": [],
-      "toneReading": "No recent coverage found.",
-      "volumeReading": null
+      "toneReading": "Coverage over the last 3 days has been mixed or neutral.",
+      "volumeReading": "Coverage volume has been unusually high this week."
     },
     {
       "name": "Jordan",
@@ -433,7 +349,28 @@
       "regulatory": 20,
       "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [],
+      "headlines": [
+        {
+          "title": "DC First Green Lantern TV Series Is Streaming For Free",
+          "url": "https://www.bgr.com/2263240/green-lantern-the-animated-series-dc-streaming-free/",
+          "domain": "bgr.com"
+        },
+        {
+          "title": "Thousands attend Fallen Firefighter Memorial Service",
+          "url": "https://gazette.com/2026/09/19/thousands-attend-firefighter-memorial-service-to-honor-those-who-died-in-the-line-of-duty/",
+          "domain": "gazette.com"
+        },
+        {
+          "title": "This Week in Texas : Fuel prices , Senate race , social media firestorm",
+          "url": "https://abc13.com/post/week-texas-fuel-prices-senate-race-social-media-firestorm/19850306/",
+          "domain": "abc13.com"
+        },
+        {
+          "title": "What to expect as UN General Assembly convenes amid Iran war",
+          "url": "https://www.al-monitor.com/originals/2026/09/what-expect-un-general-assembly-convenes-amid-iran-war",
+          "domain": "al-monitor.com"
+        }
+      ],
       "toneReading": "No recent coverage found.",
       "volumeReading": null
     },
@@ -485,7 +422,28 @@
       "regulatory": 42,
       "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [],
+      "headlines": [
+        {
+          "title": "Voluntary Return or Pushed Out Against their Will ? Migrants in Tunisia Go Home",
+          "url": "https://english.aawsat.com/features/5320317-voluntary-return-or-pushed-out-against-their-will-migrants-tunisia-go-home",
+          "domain": "english.aawsat.com"
+        },
+        {
+          "title": "Libya asks ICC to support probe into attacks on civilian facilities - Xinhua",
+          "url": "https://english.news.cn/20260920/fbe8c328f35248f6acb13ac0d4ef865a/c.html",
+          "domain": "english.news.cn"
+        },
+        {
+          "title": "Russia State Duma polling underway : Ambassador Alipov casts vote , says five stations open across India",
+          "url": "https://aninews.in/news/world/asia/russia-state-duma-polling-underway-ambassador-alipov-casts-vote-says-five-stations-open-across-india20260920091803/",
+          "domain": "aninews.in"
+        },
+        {
+          "title": "RIGHT SPEAK : Just Another Muslim Migrant Scarring a British Woman for Life : Just Another Day in the united kingdom ; Migrant with Pants Around Ankles Let Go by Police Tried to Kill Woman with Broken Bottle",
+          "url": "http://www.rightspeak.net/2026/09/just-another-muslim-migrant-scarring.html",
+          "domain": "rightspeak.net"
+        }
+      ],
       "toneReading": "No recent coverage found.",
       "volumeReading": null
     },
@@ -498,28 +456,7 @@
       "regulatory": 18,
       "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [
-        {
-          "title": "Listen to all the diverse voices",
-          "url": "https://www.thestar.com.my/opinion/columnists/the-star-says/2026/09/13/listen-to-all-the-diverse-voices",
-          "domain": "thestar.com.my"
-        },
-        {
-          "title": "Anwar Ibrahim calls Israel Gaza actions  state terrorism , declines same label for Pakistan over Pahalgam",
-          "url": "https://www.moneycontrol.com/news/india/anwar-ibrahim-calls-israel-s-gaza-actions-state-terrorism-declines-same-label-for-pakistan-over-pahalgam-14028826.html",
-          "domain": "moneycontrol.com"
-        },
-        {
-          "title": "Making Pisa gains count",
-          "url": "https://www.thestar.com.my/news/education/2026/09/13/making-pisa-gains-count",
-          "domain": "thestar.com.my"
-        },
-        {
-          "title": "An anthology of 15 notebooks traces the fleeting moments of Malaysian life",
-          "url": "https://www.thestar.com.my/lifestyle/culture/2026/09/13/an-anthology-of-15-notebooks-captures-the-fleeting-moments-of-malaysian-life",
-          "domain": "thestar.com.my"
-        }
-      ],
+      "headlines": [],
       "toneReading": "No recent coverage found.",
       "volumeReading": null
     },
@@ -558,7 +495,28 @@
       "regulatory": 18,
       "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [],
+      "headlines": [
+        {
+          "title": "Morocco PJD : what has the party learned from its dramatic fall | Elections News",
+          "url": "https://www.aljazeera.com/news/2026/9/20/moroccos-pjd-what-has-the-party-learned-from-its-dramatic-fall",
+          "domain": "aljazeera.com"
+        },
+        {
+          "title": "Egypt , Nigeria Lead Africa 2025 Remittance Inflows",
+          "url": "https://www.africa.com/top-10-news/egypt-nigeria-lead-africas-2025-remittance-inflows",
+          "domain": "africa.com"
+        },
+        {
+          "title": "Lookman sets AFCON qualifiers target for Super Eagles",
+          "url": "https://punchng.com/lookman-sets-afcon-qualifiers-target-for-eagles/",
+          "domain": "punchng.com"
+        },
+        {
+          "title": "Al - Qaida - linked JNIM claims a deadly Mali army camp attack",
+          "url": "https://economictimes.indiatimes.com/news/defence/al-qaida-linked-jnim-claims-a-deadly-mali-army-camp-attack/articleshow/134362675.cms",
+          "domain": "economictimes.indiatimes.com"
+        }
+      ],
       "toneReading": "No recent coverage found.",
       "volumeReading": null
     },
@@ -571,7 +529,28 @@
       "regulatory": 70,
       "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [],
+      "headlines": [
+        {
+          "title": "Modern day slavery : Myanmar military swells ranks through corruption and deceit \u2013 Radio Free Asia",
+          "url": "https://www.rfa.org:443/english/myanmar/2026/09/20/burma-forced-conscription-human-trafficking/",
+          "domain": "rfa.org"
+        },
+        {
+          "title": "Myanmar Military Murders Pastor and Fulani Muslims Kill 11 Nigerians",
+          "url": "https://pjmedia.com/catherinesalgado/2026/09/19/myanmar-military-murders-pastor-and-fulani-muslims-kill-11-nigerians-n4957434",
+          "domain": "pjmedia.com"
+        },
+        {
+          "title": "China - ASEAN Expo draws crowds with regional specialties",
+          "url": "http://www.china.org.cn/2026-09/20/content_118704709.shtml",
+          "domain": "china.org.cn"
+        },
+        {
+          "title": "Baptist pastor killed in Myanmar ; US urged to take action",
+          "url": "https://www.christianpost.com/news/baptist-pastor-killed-in-myanmar-us-urged-to-take-action.html",
+          "domain": "christianpost.com"
+        }
+      ],
       "toneReading": "No recent coverage found.",
       "volumeReading": null
     },
@@ -597,28 +576,7 @@
       "regulatory": 92,
       "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [
-        {
-          "title": "UN chief message to North Korea Kim signals cautious bid to revive engagement : expert",
-          "url": "https://www.koreaherald.com/article/10871622",
-          "domain": "koreaherald.com"
-        },
-        {
-          "title": "North Korea fires short - range missiles toward sea",
-          "url": "https://tribune.com.pk/story/2628999/north-korea-fires-short-range-missiles-toward-sea",
-          "domain": "tribune.com.pk"
-        },
-        {
-          "title": "Korea nuclear - powered submarines could take on broader Indo - Pacific role",
-          "url": "https://www.koreatimes.co.kr/southkorea/defense/20260913/koreas-nuclear-powered-submarines-could-take-on-broader-indo-pacific-role",
-          "domain": "koreatimes.co.kr"
-        },
-        {
-          "title": "Questions raised following Cheonan announcement",
-          "url": "https://english.hani.co.kr/arti/english_edition/e_national/421856.html",
-          "domain": "english.hani.co.kr"
-        }
-      ],
+      "headlines": [],
       "toneReading": "No recent coverage found.",
       "volumeReading": null
     },
@@ -651,36 +609,15 @@
     {
       "name": "Philippines",
       "region": "Southeast Asia",
-      "political": 34,
+      "political": 44,
       "conflict": 30,
       "economic": 32,
       "regulatory": 30,
-      "trend": "flat",
-      "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [
-        {
-          "title": "Why was Martin Romualdez transferred to PGH ?",
-          "url": "https://www.rappler.com/philippines/martin-romualdez-hospital-transfer-general-hospital/",
-          "domain": "rappler.com"
-        },
-        {
-          "title": "Oscars : Philippines Selects Rafael Manuel  Filipi\u00f1ana",
-          "url": "https://variety.com/2026/film/awards/oscars-philippines-selects-rafael-manuels-filipinana-international-feature-1236860043/",
-          "domain": "variety.com"
-        },
-        {
-          "title": "John Bonifacio bags Philippine 1st Mister Cosmopolitan title",
-          "url": "https://www.philstar.com/lifestyle/fashion-and-beauty/2026/09/13/2555997/john-bonifacio-bags-philippines-1st-mister-cosmopolitan-title",
-          "domain": "philstar.com"
-        },
-        {
-          "title": "Death toll in Philippine ferry fire rises to 76",
-          "url": "https://tribune.com.pk/story/2628996/death-toll-in-philippine-ferry-fire-rises-to-76",
-          "domain": "tribune.com.pk"
-        }
-      ],
-      "toneReading": "No recent coverage found.",
-      "volumeReading": null
+      "trend": "up",
+      "note": "Live-updated from recent news coverage.",
+      "headlines": [],
+      "toneReading": "Coverage over the last 3 days has been mixed or neutral.",
+      "volumeReading": "Coverage volume has been unusually high this week."
     },
     {
       "name": "Poland",
@@ -737,28 +674,49 @@
     {
       "name": "Serbia",
       "region": "Europe",
-      "political": 39,
+      "political": 46,
       "conflict": 34,
       "economic": 43,
       "regulatory": 40,
-      "trend": "flat",
-      "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [],
-      "toneReading": "No recent coverage found.",
-      "volumeReading": null
+      "trend": "up",
+      "note": "Live-updated from recent news coverage.",
+      "headlines": [
+        {
+          "title": "From the streets to the ballot box : What Hungary can teach Serbia",
+          "url": "https://globalvoices.org/2026/09/20/from-the-streets-to-the-ballot-box-what-hungary-can-teach-serbia/",
+          "domain": "globalvoices.org"
+        },
+        {
+          "title": "Were not playing with genocide , were playing against genocide : Ireland boss on facing Israel",
+          "url": "https://www.the42.ie/heimir-hallgrimsson-israel-ireland-7167573-Sep2026/",
+          "domain": "the42.ie"
+        },
+        {
+          "title": "Letters to the Editor : Sept . 19 , 2026",
+          "url": "https://www.kelownadailycourier.ca/opinion/letters_to_editor/article_c9618e61-0a94-46ff-b532-e4769c1946c3.html",
+          "domain": "kelownadailycourier.ca"
+        },
+        {
+          "title": "Analyzing Enterprise Financial Services ( NASDAQ : EFSC ) & Erste Group Bank ( OTCMKTS : EBKDY )",
+          "url": "https://www.dailypolitical.com/2026/09/19/analyzing-enterprise-financial-services-nasdaqefsc-erste-group-bank-otcmktsebkdy.html",
+          "domain": "dailypolitical.com"
+        }
+      ],
+      "toneReading": "Coverage over the last 3 days has been mixed or neutral.",
+      "volumeReading": "Coverage volume has been light this week."
     },
     {
       "name": "Singapore",
       "region": "Southeast Asia",
-      "political": 8,
+      "political": 29,
       "conflict": 4,
       "economic": 10,
       "regulatory": 8,
-      "trend": "flat",
-      "note": "No fresh coverage this cycle; showing baseline.",
+      "trend": "up",
+      "note": "Live-updated from recent news coverage.",
       "headlines": [],
-      "toneReading": "No recent coverage found.",
-      "volumeReading": null
+      "toneReading": "Coverage over the last 3 days has been mixed or neutral.",
+      "volumeReading": "Coverage volume has been unusually high this week."
     },
     {
       "name": "Somalia",
@@ -802,14 +760,35 @@
     {
       "name": "Sri Lanka",
       "region": "South Asia",
-      "political": 40,
+      "political": 47,
       "conflict": 18,
       "economic": 52,
       "regulatory": 38,
-      "trend": "flat",
-      "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [],
-      "toneReading": "No recent coverage found.",
+      "trend": "up",
+      "note": "Live-updated from recent news coverage.",
+      "headlines": [
+        {
+          "title": "Sri Lanka chase 178 to defeat Pakistan in Asian Games semi - final",
+          "url": "https://www.geo.tv/latest/682854-asian-games-semi-final-ayesha-shawaal-power-pakistan-to-177-4-against-sri-lanka",
+          "domain": "geo.tv"
+        },
+        {
+          "title": "Lanka NDB accession delay threatens development financing | Print Edition",
+          "url": "https://www.sundaytimes.lk/260920/business-times/lankas-ndb-accession-delay-threatens-development-financing-657071.html",
+          "domain": "sundaytimes.lk"
+        },
+        {
+          "title": "Vishva Mali lives on : A lasting bond between two nations",
+          "url": "https://www.sundaytimes.lk/260920/plus/vishva-mali-lives-on-a-lasting-bond-between-two-nations-657164.html",
+          "domain": "sundaytimes.lk"
+        },
+        {
+          "title": "Sri Lanka Post issues stamp to commemorate London Buddhist Vihara centenary",
+          "url": "https://www.sundaytimes.lk/260920/sunday-times-2/sri-lanka-post-issues-stamp-to-commemorate-london-buddhist-vihara-centenary-657608.html",
+          "domain": "sundaytimes.lk"
+        }
+      ],
+      "toneReading": "Coverage over the last 3 days has been mixed or neutral.",
       "volumeReading": null
     },
     {
@@ -964,7 +943,28 @@
       "regulatory": 74,
       "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [],
+      "headlines": [
+        {
+          "title": "Saudi Arabia says Houthis tried to attack its capital",
+          "url": "https://www.npr.org/2026/09/19/nx-s1-5974980/saudi-arabia-houthis-attempted-attack-capital",
+          "domain": "npr.org"
+        },
+        {
+          "title": "Yemen Houthi rebels tried to attack with a ballistic missile",
+          "url": "https://www.wcvb.com/article/saudi-arabia-yemen-houthi-rebels-ballistic-missile/73804217",
+          "domain": "wcvb.com"
+        },
+        {
+          "title": "Time for MBS to Finish Off the Houthis",
+          "url": "https://hotair.com/headlines/2026/09/19/time-for-mbs-to-finish-off-the-houthis-n3819117",
+          "domain": "hotair.com"
+        },
+        {
+          "title": "Houthis threaten  decisive  response if Pakistan , T\u00fcrkiye intervene in Yemen",
+          "url": "https://tribune.com.pk/story/2630242/houthis-threaten-decisive-response-if-pakistan-turkiye-intervene-in-yemen",
+          "domain": "tribune.com.pk"
+        }
+      ],
       "toneReading": "No recent coverage found.",
       "volumeReading": null
     },
@@ -976,34 +976,19 @@
       "economic": 65,
       "regulatory": 64,
       "trend": "flat",
-      "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [
-        {
-          "title": "Mnangagwa Vows To Transform Economy Despite Years Of Zanu PF Failure",
-          "url": "https://www.zimeye.net/2026/09/13/mnangagwa-vows-to-transform-economy-despite-years-of-zanu-pf-failure/",
-          "domain": "zimeye.net"
-        },
-        {
-          "title": "Alarm As Killer Zivhu Indicates Mnangagwa Likely To Rule Beyond 2035",
-          "url": "https://www.zimeye.net/2026/09/12/alarm-as-killer-zivhu-indicates-mnangagwa-likely-to-rule-beyond-2035/",
-          "domain": "zimeye.net"
-        },
-        {
-          "title": "ED Fires Top CIO Boss",
-          "url": "https://www.zimeye.net/2026/09/12/ed-fires-top-cio-boss/",
-          "domain": "zimeye.net"
-        },
-        {
-          "title": "Second Republic Less Tolerant Than Mugabe Era , Says Wafawarova",
-          "url": "https://www.zimeye.net/2026/09/13/second-republic-less-tolerant-than-mugabe-era-says-wafawarova/",
-          "domain": "zimeye.net"
-        }
-      ],
-      "toneReading": "No recent coverage found.",
+      "note": "Live-updated from recent news coverage.",
+      "headlines": [],
+      "toneReading": "Coverage over the last 3 days has leaned negative.",
       "volumeReading": null
     }
   ],
   "alerts": [
+    {
+      "name": "Sri Lanka",
+      "from": "LOW",
+      "to": "GUARDED",
+      "at": "2026-09-20T10:38:59.856182+00:00"
+    },
     {
       "name": "Myanmar",
       "from": "HIGH",
@@ -1177,12 +1162,6 @@
       "from": "LOW",
       "to": "GUARDED",
       "at": "2026-09-15T00:14:09.654196+00:00"
-    },
-    {
-      "name": "Poland",
-      "from": "LOW",
-      "to": "GUARDED",
-      "at": "2026-09-14T18:11:13.186327+00:00"
     }
   ]
 }
