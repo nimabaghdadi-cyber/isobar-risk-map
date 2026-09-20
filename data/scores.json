@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-19T18:10:30.571300+00:00",
+  "generatedAt": "2026-09-20T00:14:10.819489+00:00",
   "source": "GDELT (news tone/volume, 3-day window) blended 50/50 with baseline",
   "countries": [
     {
@@ -11,28 +11,7 @@
       "regulatory": 84,
       "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [
-        {
-          "title": "UNSC expresses concerns over Afghanistan \u2013 Shafaqna English | International Shia News & Fatwas",
-          "url": "https://en.shafaqna.com/476589/unsc-expresses-concerns-over-afghanistan/",
-          "domain": "en.shafaqna.com"
-        },
-        {
-          "title": "Pakistan tells UN Afghanistan - based militants killed over 4 , 700 Pakistanis",
-          "url": "https://dunyanews.tv/en/Pakistan/972641-pakistan-tells-un-afghanistanbased-militants-killed-over-4700-pakist",
-          "domain": "dunyanews.tv"
-        },
-        {
-          "title": "Australian news live updates : Anthropic CEO calls for global AI slowdown",
-          "url": "https://www.afr.com/politics/federal/australia-live-news-updates-anthropic-ceo-calls-for-global-ai-slowdown-trump-says-he-d-love-to-see-a-united-ireland-during-visit-20260913-p60wuf",
-          "domain": "afr.com"
-        },
-        {
-          "title": "9 / 11 Mastermind Khalid Sheikh Mohammed Reveals the Jihadi Grand Strategy \u2013 PJ Media",
-          "url": "https://pjmedia.com/robert-spencer/2026/09/12/911-mastermind-khalid-sheikh-mohammed-reveals-the-jihadis-grand-strategy-n4957168",
-          "domain": "pjmedia.com"
-        }
-      ],
+      "headlines": [],
       "toneReading": "No recent coverage found.",
       "volumeReading": null
     },
@@ -71,7 +50,28 @@
       "regulatory": 20,
       "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [],
+      "headlines": [
+        {
+          "title": "T\u00fcrkiye , Azerbaijan seek deeper cooperation , says energy minister",
+          "url": "https://www.hurriyetdailynews.com/turkiye-azerbaijan-seek-deeper-cooperation-says-energy-minister-226810",
+          "domain": "hurriyetdailynews.com"
+        },
+        {
+          "title": "Weekly review of Azerbaijan precious metals market",
+          "url": "https://www.trend.az/azerbaijan/4223254.html",
+          "domain": "trend.az"
+        },
+        {
+          "title": "Weekly review of Azerbaijan foreign exchange market",
+          "url": "https://www.trend.az/azerbaijan/4223216.html",
+          "domain": "trend.az"
+        },
+        {
+          "title": "Judo : Middleweights light up Day Two of the Hungary Grand Slam",
+          "url": "https://www.aol.co.uk/articles/judo-middleweights-light-day-two-074016000.html",
+          "domain": "aol.co.uk"
+        }
+      ],
       "toneReading": "No recent coverage found.",
       "volumeReading": null
     },
@@ -84,7 +84,28 @@
       "regulatory": 42,
       "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [],
+      "headlines": [
+        {
+          "title": "Bangladesh draws closer to China in  political chessboard  to balance India ties",
+          "url": "https://www.scmp.com/week-asia/politics/article/3367248/bangladesh-draws-closer-china-political-chessboard-balance-india-ties",
+          "domain": "scmp.com"
+        },
+        {
+          "title": "Karnaphuli EPZ : From a defunct steel mill to an export hub",
+          "url": "https://www.thedailystar.net/business/economy/news/karnaphuli-epz-defunct-steel-mill-export-hub-4271221",
+          "domain": "thedailystar.net"
+        },
+        {
+          "title": "Bangladesh Essential Medicines List | Fixing Bangladesh Broken Medicine Policy",
+          "url": "https://www.thedailystar.net/slow-reads/big-picture/news/how-make-essential-medicines-affordable-and-accessible-bangladesh-4270456",
+          "domain": "thedailystar.net"
+        },
+        {
+          "title": "Pakistan to expand regional trade",
+          "url": "https://tribune.com.pk/story/2628959/pakistan-to-expand-regional-trade",
+          "domain": "tribune.com.pk"
+        }
+      ],
       "toneReading": "No recent coverage found.",
       "volumeReading": null
     },
@@ -136,7 +157,28 @@
       "regulatory": 22,
       "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [],
+      "headlines": [
+        {
+          "title": "Chile arrests 284 in protests condemning Pinochet dictatorship",
+          "url": "https://www.newindianexpress.com/world/2026/Sep/13/chile-arrests-284-in-protests-condemning-pinochet-dictatorship",
+          "domain": "newindianexpress.com"
+        },
+        {
+          "title": "Fire at nursing home in Chile kills 16 elderly residents",
+          "url": "https://www.aljazeera.com/news/2026/9/12/fire-at-nursing-home-in-chile-kills-16-elderly-residents",
+          "domain": "aljazeera.com"
+        },
+        {
+          "title": "16 Killed in Blaze at Chilean Nursing Home , Authorities Report",
+          "url": "https://jowhar.com/16-killed-in-blaze-at-chilean-nursing-home-authorities-report/",
+          "domain": "jowhar.com"
+        },
+        {
+          "title": "6th Annual Mija Market brings lowriders , music and community together in El Paso",
+          "url": "https://kvia.com/lifestyle/2026/09/12/6th-annual-mija-market-brings-lowriders-music-and-community-together-in-el-paso/",
+          "domain": "kvia.com"
+        }
+      ],
       "toneReading": "No recent coverage found.",
       "volumeReading": null
     },
@@ -179,9 +221,9 @@
           "domain": "finance.yahoo.com"
         },
         {
-          "title": "Colombian Crime Figure Killed After Plea Deal",
-          "url": "https://www.riotimesonline.com/colombian-crime-figure-la-bebecita-killed-after-plea-deal/",
-          "domain": "riotimesonline.com"
+          "title": "An ambassador in Ljubljana , but not in London : Israel foreign policy shifts away from longstanding allies",
+          "url": "https://krdo.com/news/national-world/cnn-world/2026/09/12/an-ambassador-in-ljubljana-but-not-in-london-israels-foreign-policy-shifts-away-from-longstanding-allies/",
+          "domain": "krdo.com"
         }
       ],
       "toneReading": "No recent coverage found.",
@@ -313,28 +355,7 @@
       "regulatory": 32,
       "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [
-        {
-          "title": "India Modi and China Xi seek to reset ties on BRICS sidelines",
-          "url": "https://www.newsday.com/news/nation/india-china-brics-s11193",
-          "domain": "newsday.com"
-        },
-        {
-          "title": "Hockey India President suspends DG Srivastava for dereliction of duty",
-          "url": "https://www.prokerala.com/news/articles/a1811639.html",
-          "domain": "prokerala.com"
-        },
-        {
-          "title": "Kazakh President Tokayev , Bahrain Foreign Minister Al Zayani arrive in India for 18th BRICS Summit",
-          "url": "https://news.webindia123.com/news/Articles/World/20260912/4498004.html",
-          "domain": "news.webindia123.com"
-        },
-        {
-          "title": "PM Modi , UAE Crown Prince discuss new sovereign fund LImad , strategic cooperation ; Malaysia ties reviewed",
-          "url": "https://economictimes.indiatimes.com/news/economy/foreign-trade/pm-modi-uae-crown-prince-discuss-new-sovereign-fund-limad-strategic-cooperation-malaysia-ties-reviewed/articleshow/134148366.cms",
-          "domain": "economictimes.indiatimes.com"
-        }
-      ],
+      "headlines": [],
       "toneReading": "No recent coverage found.",
       "volumeReading": null
     },
@@ -438,28 +459,7 @@
       "regulatory": 34,
       "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [
-        {
-          "title": "KANYADUDI : Crackdown on Burundian refugee - traders in Kenya national interest",
-          "url": "https://www.the-star.co.ke/siasa/2026-09-13-kanyadudi-burundian-crisis-tests-east-africas-integration-agenda",
-          "domain": "the-star.co.ke"
-        },
-        {
-          "title": "The CEO who tells women to think twice before being  nice",
-          "url": "https://www.businessdailyafrica.com/bd/lifestyle/weekend-with-the-ceo/ceo-jacqueline-waihenya-5591954",
-          "domain": "businessdailyafrica.com"
-        },
-        {
-          "title": "EDITORIAL : Kenya must get more from its minerals",
-          "url": "https://www.the-star.co.ke/opinion/leader/2026-09-13-editorial-kenya-must-get-more-from-its-minerals",
-          "domain": "the-star.co.ke"
-        },
-        {
-          "title": "MUGWE : The real Magadi question is what comes after mining",
-          "url": "https://www.the-star.co.ke/news/2026-09-13-mugwe-the-real-magadi-question-is-what-comes-after-mining",
-          "domain": "the-star.co.ke"
-        }
-      ],
+      "headlines": [],
       "toneReading": "No recent coverage found.",
       "volumeReading": null
     },
@@ -485,23 +485,7 @@
       "regulatory": 42,
       "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [
-        {
-          "title": "CAF Champions League : \u00a0Shalulile\u00a0strikes as Yanga march on",
-          "url": "https://kawowo.com/2026/09/13/caf-champions-league-shalulile-strikes-as-yanga-march-on/",
-          "domain": "kawowo.com"
-        },
-        {
-          "title": "A new Arab cold war is dividing North Africa . How did it come to this ?",
-          "url": "http://www.zimbabwestar.com/news/279304284/a-new-arab-cold-war-is-dividing-north-africa-how-did-it-come-to-this",
-          "domain": "zimbabwestar.com"
-        },
-        {
-          "title": "A new Arab cold war is dividing North Africa . How did it come to this",
-          "url": "http://www.israelherald.com/news/279304283/a-new-arab-cold-war-is-dividing-north-africa-how-did-it-come-to-this",
-          "domain": "israelherald.com"
-        }
-      ],
+      "headlines": [],
       "toneReading": "No recent coverage found.",
       "volumeReading": null
     },
@@ -514,7 +498,28 @@
       "regulatory": 18,
       "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [],
+      "headlines": [
+        {
+          "title": "Listen to all the diverse voices",
+          "url": "https://www.thestar.com.my/opinion/columnists/the-star-says/2026/09/13/listen-to-all-the-diverse-voices",
+          "domain": "thestar.com.my"
+        },
+        {
+          "title": "Anwar Ibrahim calls Israel Gaza actions  state terrorism , declines same label for Pakistan over Pahalgam",
+          "url": "https://www.moneycontrol.com/news/india/anwar-ibrahim-calls-israel-s-gaza-actions-state-terrorism-declines-same-label-for-pakistan-over-pahalgam-14028826.html",
+          "domain": "moneycontrol.com"
+        },
+        {
+          "title": "Making Pisa gains count",
+          "url": "https://www.thestar.com.my/news/education/2026/09/13/making-pisa-gains-count",
+          "domain": "thestar.com.my"
+        },
+        {
+          "title": "An anthology of 15 notebooks traces the fleeting moments of Malaysian life",
+          "url": "https://www.thestar.com.my/lifestyle/culture/2026/09/13/an-anthology-of-15-notebooks-captures-the-fleeting-moments-of-malaysian-life",
+          "domain": "thestar.com.my"
+        }
+      ],
       "toneReading": "No recent coverage found.",
       "volumeReading": null
     },
@@ -592,7 +597,28 @@
       "regulatory": 92,
       "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [],
+      "headlines": [
+        {
+          "title": "UN chief message to North Korea Kim signals cautious bid to revive engagement : expert",
+          "url": "https://www.koreaherald.com/article/10871622",
+          "domain": "koreaherald.com"
+        },
+        {
+          "title": "North Korea fires short - range missiles toward sea",
+          "url": "https://tribune.com.pk/story/2628999/north-korea-fires-short-range-missiles-toward-sea",
+          "domain": "tribune.com.pk"
+        },
+        {
+          "title": "Korea nuclear - powered submarines could take on broader Indo - Pacific role",
+          "url": "https://www.koreatimes.co.kr/southkorea/defense/20260913/koreas-nuclear-powered-submarines-could-take-on-broader-indo-pacific-role",
+          "domain": "koreatimes.co.kr"
+        },
+        {
+          "title": "Questions raised following Cheonan announcement",
+          "url": "https://english.hani.co.kr/arti/english_edition/e_national/421856.html",
+          "domain": "english.hani.co.kr"
+        }
+      ],
       "toneReading": "No recent coverage found.",
       "volumeReading": null
     },
@@ -631,7 +657,28 @@
       "regulatory": 30,
       "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [],
+      "headlines": [
+        {
+          "title": "Why was Martin Romualdez transferred to PGH ?",
+          "url": "https://www.rappler.com/philippines/martin-romualdez-hospital-transfer-general-hospital/",
+          "domain": "rappler.com"
+        },
+        {
+          "title": "Oscars : Philippines Selects Rafael Manuel  Filipi\u00f1ana",
+          "url": "https://variety.com/2026/film/awards/oscars-philippines-selects-rafael-manuels-filipinana-international-feature-1236860043/",
+          "domain": "variety.com"
+        },
+        {
+          "title": "John Bonifacio bags Philippine 1st Mister Cosmopolitan title",
+          "url": "https://www.philstar.com/lifestyle/fashion-and-beauty/2026/09/13/2555997/john-bonifacio-bags-philippines-1st-mister-cosmopolitan-title",
+          "domain": "philstar.com"
+        },
+        {
+          "title": "Death toll in Philippine ferry fire rises to 76",
+          "url": "https://tribune.com.pk/story/2628996/death-toll-in-philippine-ferry-fire-rises-to-76",
+          "domain": "tribune.com.pk"
+        }
+      ],
       "toneReading": "No recent coverage found.",
       "volumeReading": null
     },
@@ -683,28 +730,7 @@
       "regulatory": 36,
       "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [
-        {
-          "title": "T\u00fcrkiye condemns drone attacks from Iraq targeting Saudi Arabia",
-          "url": "https://aa.com.tr/en/turkiye/turkiye-condemns-drone-attacks-from-iraq-targeting-saudi-arabia/4055341",
-          "domain": "aa.com.tr"
-        },
-        {
-          "title": "Trump says Iran likely responsible for attack that shut vital Saudi oil pipeline",
-          "url": "https://www.channel3000.com/news/trump-says-iran-likely-responsible-for-attack-that-shut-vital-saudi-oil-pipeline/article_4e0e3c38-e94b-5952-b725-d3001c2fc05a.html",
-          "domain": "channel3000.com"
-        },
-        {
-          "title": "Saudi Arabia has few options as it faces mounting threats from Iran and its allies",
-          "url": "https://www.chicagotribune.com/2026/09/12/saudi-arabia-has-few-options/",
-          "domain": "chicagotribune.com"
-        },
-        {
-          "title": "Pakistan condemns drone attack on Saudi oil pipeline",
-          "url": "https://www.pakistantoday.com.pk/2026/09/12/pakistan-condemns-drone-attack-on-saudi-oil-pipeline",
-          "domain": "pakistantoday.com.pk"
-        }
-      ],
+      "headlines": [],
       "toneReading": "No recent coverage found.",
       "volumeReading": null
     },
@@ -717,28 +743,7 @@
       "regulatory": 40,
       "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [
-        {
-          "title": "Serbian president inspects expressway being constructed by Chinese company",
-          "url": "http://www.china.org.cn/2026-09/13/content_118693353.shtml",
-          "domain": "china.org.cn"
-        },
-        {
-          "title": "Empowered Bulgaria celebrate as Balkan U16 men champions \u2013 FIVB",
-          "url": "https://www.fivb.com/empowered-bulgaria-celebrate-as-balkan-u16-mens-champions/",
-          "domain": "fivb.com"
-        },
-        {
-          "title": "Revealed : Why Ireland are playing Israel behind closed doors in Serbia",
-          "url": "https://www.the42.ie/ireland-israel-serbia-nations-league-7160524-Sep2026/",
-          "domain": "the42.ie"
-        },
-        {
-          "title": "Serbian president inspects expressway constructed by Chinese company",
-          "url": "http://www.japanherald.com/news/279303523/serbian-president-inspects-expressway-constructed-by-chinese-company",
-          "domain": "japanherald.com"
-        }
-      ],
+      "headlines": [],
       "toneReading": "No recent coverage found.",
       "volumeReading": null
     },
@@ -777,28 +782,7 @@
       "regulatory": 40,
       "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [
-        {
-          "title": "WEATHER : Cut - off low to bring storms , hail and dramatic temperature drop",
-          "url": "https://www.thesouthafrican.com/news/weather/weather-forecasting-cut-off-low-to-bring-storms-hail-and-dramatic-temperature-drop/",
-          "domain": "thesouthafrican.com"
-        },
-        {
-          "title": "Xenophobia : South Africa should pay R1bn for each Nigerian killed , business destroyed \u2013 Group",
-          "url": "https://dailypost.ng/2026/09/13/xenophobia-south-africa-should-pay-r1bn-for-each-nigerian-killed-business-destroyed-group/",
-          "domain": "dailypost.ng"
-        },
-        {
-          "title": "Xenophobia : Over 30 Nigerians killed by South African police since 2022",
-          "url": "https://www.premiumtimesng.com/news/headlines/909082-xenophobia-over-30-nigerians-killed-by-south-african-police-since-2022-ambassador.html",
-          "domain": "premiumtimesng.com"
-        },
-        {
-          "title": "Springboks eye Series win against much - changed All Blacks",
-          "url": "https://www.fijivillage.com/news/springboks-eye-series-win-against-much-changed-all-blacks-9efdb7/",
-          "domain": "fijivillage.com"
-        }
-      ],
+      "headlines": [],
       "toneReading": "No recent coverage found.",
       "volumeReading": null
     },
@@ -837,28 +821,7 @@
       "regulatory": 80,
       "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [
-        {
-          "title": "Anthropic says UAE - linked AI op targeted UN staff over Sudan",
-          "url": "https://timesofindia.indiatimes.com/world/rest-of-world/anthropic-says-uae-linked-ai-op-targeted-un-staff-over-sudan/articleshow/134167044.cms",
-          "domain": "timesofindia.indiatimes.com"
-        },
-        {
-          "title": "Arab News | Sudan war is now a regional crisis",
-          "url": "https://www.arabnews.com/opinion/sudans-war-is-now-a-regional-crisis-3001319",
-          "domain": "arabnews.com"
-        },
-        {
-          "title": "Sudan Launches First Voluntary Return Flight From Morocco with Moroccan Support",
-          "url": "https://www.moroccoworldnews.com/2026/09/338088/sudan-launches-first-voluntary-return-flight-from-morocco-with-moroccan-support/",
-          "domain": "moroccoworldnews.com"
-        },
-        {
-          "title": "From Gaza to Middle East , Ukraine , Sudan and beyond , our world needs peace , says UN chief at BRICS Summit",
-          "url": "https://www.prokerala.com/news/articles/a1811689.html",
-          "domain": "prokerala.com"
-        }
-      ],
+      "headlines": [],
       "toneReading": "No recent coverage found.",
       "volumeReading": null
     },
@@ -871,28 +834,7 @@
       "regulatory": 67,
       "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [
-        {
-          "title": "Syria Rejects Sovereignty Violations , Netanyahu Entry into Its Territory",
-          "url": "https://english.aawsat.com/arab-world/5317693-syria-rejects-sovereignty-violations-netanyahu%E2%80%99s-entry-its-territory",
-          "domain": "english.aawsat.com"
-        },
-        {
-          "title": "Arab News | Turkiye , the Arab world , and a shared lesson",
-          "url": "https://www.arabnews.com/opinion/turkiye-the-arab-world-and-a-shared-lesson-3001341",
-          "domain": "arabnews.com"
-        },
-        {
-          "title": "Iraq Seizes Drones , Projectiles in Western Desert",
-          "url": "https://english.aawsat.com/arab-world/5317677-iraq-seizes-drones-projectiles-western-desert",
-          "domain": "english.aawsat.com"
-        },
-        {
-          "title": "No Cat Left Behind  Approach Brings Baghdad Stray to Wisconsin Home",
-          "url": "https://www.yahoo.com/lifestyle/articles/no-cat-left-behind-approach-213300842.html",
-          "domain": "yahoo.com"
-        }
-      ],
+      "headlines": [],
       "toneReading": "No recent coverage found.",
       "volumeReading": null
     },
@@ -1035,7 +977,28 @@
       "regulatory": 64,
       "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [],
+      "headlines": [
+        {
+          "title": "Mnangagwa Vows To Transform Economy Despite Years Of Zanu PF Failure",
+          "url": "https://www.zimeye.net/2026/09/13/mnangagwa-vows-to-transform-economy-despite-years-of-zanu-pf-failure/",
+          "domain": "zimeye.net"
+        },
+        {
+          "title": "Alarm As Killer Zivhu Indicates Mnangagwa Likely To Rule Beyond 2035",
+          "url": "https://www.zimeye.net/2026/09/12/alarm-as-killer-zivhu-indicates-mnangagwa-likely-to-rule-beyond-2035/",
+          "domain": "zimeye.net"
+        },
+        {
+          "title": "ED Fires Top CIO Boss",
+          "url": "https://www.zimeye.net/2026/09/12/ed-fires-top-cio-boss/",
+          "domain": "zimeye.net"
+        },
+        {
+          "title": "Second Republic Less Tolerant Than Mugabe Era , Says Wafawarova",
+          "url": "https://www.zimeye.net/2026/09/13/second-republic-less-tolerant-than-mugabe-era-says-wafawarova/",
+          "domain": "zimeye.net"
+        }
+      ],
       "toneReading": "No recent coverage found.",
       "volumeReading": null
     }

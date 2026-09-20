@@ -1,5 +1,570 @@
 {
   "country": "Australia",
-  "generatedAt": "2026-09-19T18:10:30.571300+00:00",
-  "headlines": []
+  "generatedAt": "2026-09-20T00:14:10.819489+00:00",
+  "headlines": [
+    {
+      "title": "Some migrants open to voting for One Nation if Pauline Hanson passes important test",
+      "url": "https://www.abc.net.au/news/2026-09-13/migrants-open-to-supporting-one-nation/107122926",
+      "domain": "abc.net.au",
+      "date": "Sep 13, 2026"
+    },
+    {
+      "title": "First H5 bird flu death of endangered Australian sea lion recorded amid fears for small population",
+      "url": "https://www.theguardian.com/australia-news/2026/sep/13/first-h5-bird-flu-death-of-endangered-australian-sea-lion-kangaroo-island",
+      "domain": "theguardian.com",
+      "date": "Sep 13, 2026"
+    },
+    {
+      "title": "Pacific drugs highway : Australia new plan to target cocaine traffickers moving through islands",
+      "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/09/13/pacific-drugs-highway-australias-new-plan-to-target-cocaine-traffickers-moving-through-islands",
+      "domain": "thestar.com.my",
+      "date": "Sep 13, 2026"
+    },
+    {
+      "title": "ABC talks immigration in an economic vacuum",
+      "url": "https://www.macrobusiness.com.au/2026/09/abc-talks-immigration-in-an-economic-vacuum/",
+      "domain": "macrobusiness.com.au",
+      "date": "Sep 13, 2026"
+    },
+    {
+      "title": "Tayla Meath Death News :  The Dog House Australia  star , Tayla Meath , passes away at 30 after battling cancer",
+      "url": "https://timesofindia.indiatimes.com/tv/news/english/the-dog-house-australia-star-tayla-meat/articleshow/134126408.cms",
+      "domain": "timesofindia.indiatimes.com",
+      "date": "Sep 12, 2026"
+    },
+    {
+      "title": "The number that could trip up Australia if we dont get it right",
+      "url": "https://www.sbs.com.au/news/article/australias-debate-over-net-overseas-migration/kobvomk3g",
+      "domain": "sbs.com.au",
+      "date": "Sep 11, 2026"
+    },
+    {
+      "title": "The Indian Cowboy rides again : Australia - India feature film inspired by Bobby Cash announced",
+      "url": "https://timesofindia.indiatimes.com/world/rest-of-world/the-indian-cowboy-rides-again-australia-india-feature-film-inspired-by-bobby-cash-announced/articleshow/134063084.cms",
+      "domain": "timesofindia.indiatimes.com",
+      "date": "Sep 11, 2026"
+    },
+    {
+      "title": "RFAs : Activator Fund for Defence Technology Development ( Australia )",
+      "url": "https://www2.fundsforngos.org/innovation/rfas-activator-fund-for-defence-technology-development-australia/",
+      "domain": "fundsforngos.org",
+      "date": "Sep 11, 2026"
+    },
+    {
+      "title": "Listless Rams fall to 49ers in season opener in Australia",
+      "url": "https://www.ocregister.com/2026/09/10/listless-rams-fall-to-49ers-in-season-opener-in-australia/",
+      "domain": "ocregister.com",
+      "date": "Sep 11, 2026"
+    },
+    {
+      "title": "Indian Navy chief meets Australian counterpart in Canberra , discusses deepening maritime cooperation",
+      "url": "https://www.prokerala.com/news/articles/a1810990.html",
+      "domain": "prokerala.com",
+      "date": "Sep 11, 2026"
+    },
+    {
+      "title": "DP World prices \u20ac750mln green notes , $750mln conventional bonds",
+      "url": "https://www.zawya.com/en/capital-markets/dp-world-prices-750mln-green-notes-750mln-conventional-bonds-521818",
+      "domain": "zawya.com",
+      "date": "Sep 11, 2026"
+    },
+    {
+      "title": "John Howard on 9 / 11 , geopolitics and Australia security | Australian National University",
+      "url": "https://www.anu.edu.au/news/all-news/john-howard-on-911-geopolitics-and-australias-security",
+      "domain": "anu.edu.au",
+      "date": "Sep 11, 2026"
+    },
+    {
+      "title": "25 years since 9 / 11 , has AUKUS made Australia stronger ?",
+      "url": "https://www.abc.net.au/listen/programs/global-roaming/25-years-since-9-11-has-aukus-made-australia-stronger-/107068042",
+      "domain": "abc.net.au",
+      "date": "Sep 11, 2026"
+    },
+    {
+      "title": "What time is the NFL Australia game ? Kickoff scheduling defeats the entire purpose",
+      "url": "https://fansided.com/nfl/what-time-is-the-nfl-australia-game-kickoff-scheduling-defeats-the-entire-purpose-01m26gv4gr0j",
+      "domain": "fansided.com",
+      "date": "Sep 10, 2026"
+    },
+    {
+      "title": "The Latest : Rams take on 49ers in NFL first game in Australia | National news coverage",
+      "url": "http://www.thegazette.com/news/national/the-latest-rams-take-on-49ers-in-nfl-s-first-game-in-australia/article_3a17006a-1954-50c2-a3cf-3663b20e098b.html",
+      "domain": "thegazette.com",
+      "date": "Sep 10, 2026"
+    },
+    {
+      "title": "US turning Australia into military base - Guardian",
+      "url": "https://www.sott.net/article/508329-US-turning-Australia-into-military-base-Guardian",
+      "domain": "sott.net",
+      "date": "Sep 10, 2026"
+    },
+    {
+      "title": "Coalition Pushes Laws to Protect Australian Flag , War Memorials and Australia Day",
+      "url": "https://www.theepochtimes.com/world/coalition-pushes-laws-to-protect-australian-flag-war-memorials-and-australia-day-6084192",
+      "domain": "theepochtimes.com",
+      "date": "Sep 10, 2026"
+    },
+    {
+      "title": "Australia Warned It Needs to Prepare for a New Battlefront : Space",
+      "url": "https://www.theepochtimes.com/world/australia-warned-it-needs-to-prepare-for-a-new-battlefront-space-6085563",
+      "domain": "theepochtimes.com",
+      "date": "Sep 10, 2026"
+    },
+    {
+      "title": "Labor friends of Palestine criticise Australia decision not to join sanctions on Israeli settlements in West Bank | Australia news",
+      "url": "https://www.theguardian.com/australia-news/2026/sep/10/labor-palestine-criticise-australias-decision-sanctions-israeli-settlements-in-west-bank-ntwnfb",
+      "domain": "theguardian.com",
+      "date": "Sep 10, 2026"
+    },
+    {
+      "title": "Australia regional communities , migrants at higher drowning risk",
+      "url": "https://www.sbs.com.au/news/podcast-episode/australias-regional-communities-migrants-at-higher-drowning-risk/tnazi2710",
+      "domain": "sbs.com.au",
+      "date": "Sep 10, 2026"
+    },
+    {
+      "title": "Nvidia plans major expansion of data centre capacity in Australia to meet AI demand",
+      "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-plans-major-expansion-data-032949319.html",
+      "domain": "finance.yahoo.com",
+      "date": "Sep 10, 2026"
+    },
+    {
+      "title": "Australia : 25 Years of Abusive Offshore Detention",
+      "url": "https://www.hrw.org/news/2026/09/09/australia-25-years-of-abusive-offshore-detention",
+      "domain": "hrw.org",
+      "date": "Sep 10, 2026"
+    },
+    {
+      "title": "Australia , Pakistan eye $3b trade",
+      "url": "https://tribune.com.pk/story/2628414/australia-pakistan-eye-3b-trade",
+      "domain": "tribune.com.pk",
+      "date": "Sep 09, 2026"
+    },
+    {
+      "title": "Pakistan , Australia Aim to Update Bilateral Investment Treaty by December",
+      "url": "https://pakobserver.net/pakistan-australia-aim-to-update-bilateral-investment-treaty-by-december/",
+      "domain": "pakobserver.net",
+      "date": "Sep 09, 2026"
+    },
+    {
+      "title": "Australia Post surprise delivery fees are  silently killing  some small businesses",
+      "url": "https://www.abc.net.au/news/2026-09-10/small-businesses-hit-australia-post-underpaid-postage-fees/107093290",
+      "domain": "abc.net.au",
+      "date": "Sep 09, 2026"
+    },
+    {
+      "title": "Lockheed Martin secures $950M Australian air battle management contract",
+      "url": "https://breakingdefense.com/2026/09/lockheed-martin-secures-950m-australian-air-battle-management-contract/",
+      "domain": "breakingdefense.com",
+      "date": "Sep 09, 2026"
+    },
+    {
+      "title": "Regional Australia capable of easing nation population growth by 6 . 2 million people",
+      "url": "https://www.realestate.com.au/news/regional-australia-capable-of-easing-nations-population-growth-by-62-million-people/",
+      "domain": "realestate.com.au",
+      "date": "Sep 09, 2026"
+    },
+    {
+      "title": "Haryana looks to Australia for global jobs , skills push",
+      "url": "https://timesofindia.indiatimes.com/city/chandigarh/haryana-looks-to-australia-for-global-jobs-skills-push/articleshow/133976412.cms",
+      "domain": "timesofindia.indiatimes.com",
+      "date": "Sep 09, 2026"
+    },
+    {
+      "title": "IC Markets Australia Wins People Choice Forex Broker Innovation Award at the 2026 Finder Innovation Awards | Company Announcement",
+      "url": "https://www.investegate.co.uk/announcement/fnw/financewire-news--fnews/ic-markets-australia-wins-people-s-choice-for-/9763700",
+      "domain": "investegate.co.uk",
+      "date": "Sep 09, 2026"
+    },
+    {
+      "title": "Australians question US commitment to Aukus submarine deal in crowdfunded inquiry",
+      "url": "https://www.scmp.com/week-asia/economics/article/3366900/australians-question-us-commitment-aukus-submarine-deal-crowdfunded-inquiry",
+      "domain": "scmp.com",
+      "date": "Sep 09, 2026"
+    },
+    {
+      "title": "CA insists on Tests priority amid BBL privatisation",
+      "url": "https://theshillongtimes.com/2026/09/09/ca-insists-on-tests-priority-amid-bbl-privatisation/",
+      "domain": "theshillongtimes.com",
+      "date": "Sep 09, 2026"
+    },
+    {
+      "title": "Australia taking  safe  approach on Israeli goods ban",
+      "url": "https://www.standard.net.au/story/9347041/australia-taking-safe-approach-on-israeli-goods-ban/",
+      "domain": "standard.net.au",
+      "date": "Sep 09, 2026"
+    },
+    {
+      "title": "Australia sees no threat to US ties after White House criticism of social media reforms",
+      "url": "https://www.internazionale.it/ultime-notizie-reuters/2026/09/09/australia-sees-no-threat-to-us-ties-after-white-house-criticism-of-social-media-reforms",
+      "domain": "internazionale.it",
+      "date": "Sep 09, 2026"
+    },
+    {
+      "title": "Australia considers new Israel sanctions but wont join united kingdom in banning trade with  settler terrorist | Australian politics",
+      "url": "https://www.theguardian.com/australia-news/2026/sep/09/australia-considers-new-israel-sanctions-but-wont-join-uk-in-banning-trade-with-settler-terrorists-ntwnfb",
+      "domain": "theguardian.com",
+      "date": "Sep 09, 2026"
+    },
+    {
+      "title": "Australia regional filmmaking prowess",
+      "url": "https://www.abc.net.au/listen/programs/am/australia-s-regional-filmmaking-prowess/107131846",
+      "domain": "abc.net.au",
+      "date": "Sep 09, 2026"
+    },
+    {
+      "title": "WA news LIVE : WA Gen Z records lowest reading and maths report card in decades",
+      "url": "https://www.smh.com.au/national/western-australia/wa-news-live-wa-s-gen-z-records-lowest-reading-and-maths-report-card-in-decades-20260909-p60vov.html",
+      "domain": "smh.com.au",
+      "date": "Sep 09, 2026"
+    },
+    {
+      "title": "Australia targets social media algorithms in its crackdown on Big Tech",
+      "url": "https://www.business-standard.com/world-news/australia-targets-social-media-algorithms-in-its-crackdown-on-big-tech-126090801670_1.html",
+      "domain": "business-standard.com",
+      "date": "Sep 08, 2026"
+    },
+    {
+      "title": "Migration fuelling almost half of regional growth",
+      "url": "https://www.perthnow.com.au/news/politics/migration-fuelling-almost-half-of-regional-growth-c-22843031",
+      "domain": "perthnow.com.au",
+      "date": "Sep 08, 2026"
+    },
+    {
+      "title": "Solomon Islands treaty puts Australia motives in Pacific  contest  with China on show",
+      "url": "https://www.abc.net.au/news/2026-09-08/solomon-islands-australia-china-pacific-contest/107127740",
+      "domain": "abc.net.au",
+      "date": "Sep 08, 2026"
+    },
+    {
+      "title": "2026 / 27 Community Champions Grant Program ( Australia )",
+      "url": "https://www2.fundsforngos.org/individuals/2026-27-community-champions-grant-program-australia/",
+      "domain": "fundsforngos.org",
+      "date": "Sep 08, 2026"
+    },
+    {
+      "title": "Packed courtroom for Neo - Nazi group White Australia appeal against hate speech laws",
+      "url": "https://www.abc.net.au/news/2026-09-08/white-australia-opens-arguments-appeal-against-hate-speech-laws/107129404",
+      "domain": "abc.net.au",
+      "date": "Sep 08, 2026"
+    },
+    {
+      "title": "Why Australia Is Offering the Solomon Islands Nearly $1 Billion in Aid ?",
+      "url": "https://www.theepochtimes.com/world/why-australia-is-offering-solomon-islands-nearly-1-billion-in-aid-6084456",
+      "domain": "theepochtimes.com",
+      "date": "Sep 08, 2026"
+    },
+    {
+      "title": "Concession card call for all Aussie uni students",
+      "url": "https://www.canberratimes.com.au/story/9345676/concession-card-call-for-all-aussie-uni-students/",
+      "domain": "canberratimes.com.au",
+      "date": "Sep 07, 2026"
+    },
+    {
+      "title": "Australia , India deepen space partnership at Bengaluru Space Expo",
+      "url": "https://www.thehindubusinessline.com/news/science/australia-india-deepen-space-partnership-says-high-commissioner-philip-green/article71437749.ece",
+      "domain": "thehindubusinessline.com",
+      "date": "Sep 07, 2026"
+    },
+    {
+      "title": "India , Australia explore opportunities for greater collaboration",
+      "url": "https://www.prokerala.com/news/articles/a1809364.html",
+      "domain": "prokerala.com",
+      "date": "Sep 07, 2026"
+    },
+    {
+      "title": "Washington - Canberra defense ties threaten regional stability : Experts",
+      "url": "http://global.chinadaily.com.cn/a/202609/07/WS6a9e0ed5e4b06d4aa055ca9b.html",
+      "domain": "global.chinadaily.com.cn",
+      "date": "Sep 07, 2026"
+    },
+    {
+      "title": "The US now has access to more than half Australia military bases \u2013 could it drag the country unwillingly into war ? | Australian military",
+      "url": "https://www.theguardian.com/australia-news/ng-interactive/2026/sep/07/us-military-bases-in-australia-map-list-spy-satellite-pine-gap",
+      "domain": "theguardian.com",
+      "date": "Sep 06, 2026"
+    },
+    {
+      "title": "Small asteroid to create fireball over ocean near Australia today : What to know",
+      "url": "https://www.thenews.com.pk/latest/1415138-small-asteroid-to-create-fireball-over-ocean-near-australia-today-what-to-know",
+      "domain": "thenews.com.pk",
+      "date": "Sep 06, 2026"
+    },
+    {
+      "title": "Small asteroid impact today over the ocean near Australia",
+      "url": "https://earthsky.org/space/small-asteroid-impact-australia-sep-6-2026/",
+      "domain": "earthsky.org",
+      "date": "Sep 06, 2026"
+    },
+    {
+      "title": "Late penalty try for Australia clinches 28 - 28 draw against Argentina and a 1 - 0 series win \u2013 Winnipeg Free Press",
+      "url": "https://www.winnipegfreepress.com/uncategorized/2026/09/05/late-penalty-try-for-australia-clinches-28-28-draw-against-argentina-and-a-1-0-series-win",
+      "domain": "winnipegfreepress.com",
+      "date": "Sep 06, 2026"
+    },
+    {
+      "title": "Kiss winning run ends as Argentina hold Australia to draw",
+      "url": "https://www.the42.ie/argentina-australia-2-7154107-Sep2026/",
+      "domain": "the42.ie",
+      "date": "Sep 06, 2026"
+    },
+    {
+      "title": "Sydney set to hit 33C in warmest start to spring since mid - 1800s , while snow forecast in southern NSW",
+      "url": "https://www.theguardian.com/australia-news/2026/sep/05/sydney-set-to-hit-33c-in-warmest-start-to-spring-since-mid-1800s-while-snow-forecast-in-southern-nsw",
+      "domain": "theguardian.com",
+      "date": "Sep 05, 2026"
+    },
+    {
+      "title": "The climate question following Albanese from Palau to New York",
+      "url": "https://www.sbs.com.au/news/article/the-climate-question-following-albanese-from-palau-to-new-york/ww4jwee5o",
+      "domain": "sbs.com.au",
+      "date": "Sep 05, 2026"
+    },
+    {
+      "title": "The Best Time to Visit Australia Might Be Winter Here Why According to a Travel Expert",
+      "url": "https://www.aol.com/articles/best-time-visit-australia-might-214000000.html",
+      "domain": "aol.com",
+      "date": "Sep 05, 2026"
+    },
+    {
+      "title": "The problem Albanese will have to solve to win friends in New York",
+      "url": "https://www.sbs.com.au/news/article/albanese-australia-pacific-island-forum-climate-change-talks/ww4jwee5o",
+      "domain": "sbs.com.au",
+      "date": "Sep 04, 2026"
+    },
+    {
+      "title": "Steve Irwin death : 20 years later , his legacy lives on",
+      "url": "https://www.fox10phoenix.com/news/twenty-years-since-steve-irwins-death-crocodile-hunter-still-inspires-world",
+      "domain": "fox10phoenix.com",
+      "date": "Sep 04, 2026"
+    },
+    {
+      "title": "MAFS Australia introduces major new rule change for 2027 cast",
+      "url": "https://www.capitalfm.com/news/tv-film/married-at-first-sight/australia-mafs-2027-alcohol-rule-limit/",
+      "domain": "capitalfm.com",
+      "date": "Sep 04, 2026"
+    },
+    {
+      "title": "Australian EV sales hit new record high amid surging demand for Chinese vehicles",
+      "url": "https://www.globaltimes.cn/page/202609/1369801.shtml",
+      "domain": "globaltimes.cn",
+      "date": "Sep 04, 2026"
+    },
+    {
+      "title": "Heyy Babyy 2 Announced : Sajid Nadiadwala Confirms Sequel to Akshay Kumar Starrer",
+      "url": "https://www.filmfare.com/news/bollywood/heyy-babyy-2-announced-sajid-nadiadwala-confirms-sequel-to-akshay-kumar-starrer-85732.html",
+      "domain": "filmfare.com",
+      "date": "Sep 03, 2026"
+    },
+    {
+      "title": "First target to is play 2027 World Cup for Australia : Nikhil Chaudhary eyes ODI debut",
+      "url": "https://www.prokerala.com/news/articles/a1808051.html",
+      "domain": "prokerala.com",
+      "date": "Sep 03, 2026"
+    },
+    {
+      "title": "Why is Australia drifting faster than ever ? Why is this movement a concern for experts ?",
+      "url": "https://timesofindia.indiatimes.com/etimes/trending/why-is-australia-drifting-faster-than-ever-why-is-this-movement-a-concern-for-experts/articleshow/133730228.cms",
+      "domain": "timesofindia.indiatimes.com",
+      "date": "Sep 03, 2026"
+    },
+    {
+      "title": "Australia , US to boost defence ties as China Pacific influence grows",
+      "url": "https://www.asiaone.com:443/world/australia-us-boost-defence-ties-chinas-pacific-influence-grows",
+      "domain": "asiaone.com",
+      "date": "Sep 03, 2026"
+    },
+    {
+      "title": "Karan Aujla receives warm welcome in Australia after visa delay , tour set to continue",
+      "url": "https://aninews.in/news/entertainment/bollywood/karan-aujla-receives-warm-welcome-in-australia-after-visa-delay-tour-set-to-continue20260903104336/",
+      "domain": "aninews.in",
+      "date": "Sep 03, 2026"
+    },
+    {
+      "title": "Defence chiefs back boosting US military presence in Australia",
+      "url": "https://www.nzherald.co.nz/world/defence-chiefs-back-boosting-us-military-presence-in-australia/7YWDQ63DOFEPZB4UWOAR6LQ7AY/",
+      "domain": "nzherald.co.nz",
+      "date": "Sep 03, 2026"
+    },
+    {
+      "title": "AI to be  greatest change since electricity : Keating",
+      "url": "https://www.canberratimes.com.au/story/9342793/ai-to-be-greatest-change-since-electricity-keating/",
+      "domain": "canberratimes.com.au",
+      "date": "Sep 02, 2026"
+    },
+    {
+      "title": "AI data centres in Australia : Tech giants promise remote locations to avoid US - style public backlash",
+      "url": "https://www.brisbanetimes.com.au/politics/federal/australia-s-massive-data-centres-to-be-built-away-from-homes-as-trump-attacks-ai-critics-20260902-p60tse.html",
+      "domain": "brisbanetimes.com.au",
+      "date": "Sep 02, 2026"
+    },
+    {
+      "title": "POSCO chief calls for stronger Australia - Korea resource supply chain",
+      "url": "https://www.koreatimes.co.kr/business/20260902/posco-chief-calls-for-stronger-australia-korea-resource-supply-chain",
+      "domain": "koreatimes.co.kr",
+      "date": "Sep 02, 2026"
+    },
+    {
+      "title": "Korean Youth Migration to Australia",
+      "url": "https://link.springer.com/book/10.1007/978-981-92-1150-0",
+      "domain": "link.springer.com",
+      "date": "Sep 02, 2026"
+    },
+    {
+      "title": "Chemonics Australia Expands Public Sector Advisory , Infrastructure , and Development Delivery Capabilities with Acquisitions of 35 South and JID",
+      "url": "https://www.manilatimes.net/2026/09/02/tmt-newswire/pr-newswire/chemonics-australia-expands-public-sector-advisory-infrastructure-and-development-delivery-capabilities-with-acquisitions-of-35-south-and-jid/2416640",
+      "domain": "manilatimes.net",
+      "date": "Sep 02, 2026"
+    },
+    {
+      "title": "Australia has spent 25 years  stopping the boat , but that not the same as controlling migration",
+      "url": "https://theconversation.com/australia-has-spent-25-years-stopping-the-boats-but-thats-not-the-same-as-controlling-migration-290532",
+      "domain": "theconversation.com",
+      "date": "Aug 31, 2026"
+    },
+    {
+      "title": "Some of Australia biggest companies are planning for an unbearable climate future",
+      "url": "https://theconversation.com/some-of-australias-biggest-companies-are-planning-for-an-unbearable-climate-future-290234",
+      "domain": "theconversation.com",
+      "date": "Aug 31, 2026"
+    },
+    {
+      "title": "Pacific summit no shows wont impact Albanese visit",
+      "url": "https://www.canberratimes.com.au/story/9340017/pacific-summit-no-shows-wont-impact-albanese-visit/",
+      "domain": "canberratimes.com.au",
+      "date": "Aug 30, 2026"
+    },
+    {
+      "title": "Pacific wants climate , development focus at summit",
+      "url": "https://www.perthnow.com.au/news/politics/pacific-wants-climate-development-focus-at-summit-c-22795787",
+      "domain": "perthnow.com.au",
+      "date": "Aug 29, 2026"
+    },
+    {
+      "title": "PCG , Australia eye stronger cybersecurity cooperation",
+      "url": "https://www.philstar.com/nation/2026/08/30/2552684/pcg-australia-eyestronger-cybersecurity-cooperation",
+      "domain": "philstar.com",
+      "date": "Aug 29, 2026"
+    },
+    {
+      "title": "Australia in a  sliding door moment to determine who reaps rewards of AI boom",
+      "url": "https://www.abc.net.au/news/2026-08-28/ai-companies-want-to-leverage-australian-data-centres/107086534",
+      "domain": "abc.net.au",
+      "date": "Aug 28, 2026"
+    },
+    {
+      "title": "The Ford Ranger Super Duty Is Already A Huge Hit In Australia , Potentially Outselling The Land Cruiser 70 Series",
+      "url": "https://www.motor1.com:443/news/806304/ford-ranger-super-duty-sales-australia/",
+      "domain": "motor1.com",
+      "date": "Aug 27, 2026"
+    },
+    {
+      "title": "Japan finance minister calls for investment from Australia",
+      "url": "https://asia.nikkei.com/spotlight/nikkei-asia-forum/japan-finance-minister-calls-for-investment-from-australia",
+      "domain": "asia.nikkei.com",
+      "date": "Aug 27, 2026"
+    },
+    {
+      "title": "Five Eye intel alliance weighs using AI to combat terrorism",
+      "url": "https://www.dailysabah.com/world/five-eyes-intel-alliance-weighs-using-ai-to-combat-terrorism/news",
+      "domain": "dailysabah.com",
+      "date": "Aug 26, 2026"
+    },
+    {
+      "title": "Jakarta Treaty 2026 to shape future Indonesia - Australia ties",
+      "url": "https://en.antaranews.com/news/428496/jakarta-treaty-2026-to-shape-future-indonesia-australia-ties",
+      "domain": "en.antaranews.com",
+      "date": "Aug 26, 2026"
+    },
+    {
+      "title": "Indian envoy Nagesh Singh discusses bilateral ties with ex - Australian PM Scott Morrison",
+      "url": "https://www.prokerala.com/news/articles/a1804395.html",
+      "domain": "prokerala.com",
+      "date": "Aug 25, 2026"
+    },
+    {
+      "title": "New commodities report shows Pacific Agricultural exports to Australia more than triple in five years",
+      "url": "https://www.postcourier.com.pg/new-commodities-report-shows-pacific-agricultural-exports-to-australia-more-than-triple-in-five-years/",
+      "domain": "postcourier.com.pg",
+      "date": "Aug 25, 2026"
+    },
+    {
+      "title": "PM pushes major AI and data centre plan to win global investment",
+      "url": "https://www.perthnow.com.au/news/technology/pm-pushes-major-ai-and-data-centre-plan-to-win-global-investment-c-22771270",
+      "domain": "perthnow.com.au",
+      "date": "Aug 24, 2026"
+    },
+    {
+      "title": "Pat Cummins eyes ODI return ahead of South Africa Test series",
+      "url": "https://arynews.tv/pat-cummins-eyes-odi-return-ahead-of-south-africa-test-series",
+      "domain": "arynews.tv",
+      "date": "Aug 24, 2026"
+    },
+    {
+      "title": "KPMG Australia to cut 5 % of workforce amid scandal , weak growth outlook",
+      "url": "https://timesofindia.indiatimes.com/business/international-business/kpmg-australia-to-cut-5-of-workforce-amid-scandal-weak-growth-outlook/articleshow/133450506.cms",
+      "domain": "timesofindia.indiatimes.com",
+      "date": "Aug 24, 2026"
+    },
+    {
+      "title": "Australia bounce back to crush Bangladesh by innings and 51 runs",
+      "url": "https://www.samaa.tv/2087355655-australia-bounce-back-to-crush-bangladesh-by-innings-and-51-runs",
+      "domain": "samaa.tv",
+      "date": "Aug 23, 2026"
+    },
+    {
+      "title": "2nd Test : Langer slams  unacceptable  two - day Tests after Australia level series against Bangladesh",
+      "url": "https://www.prokerala.com/news/articles/a1803677.html",
+      "domain": "prokerala.com",
+      "date": "Aug 23, 2026"
+    },
+    {
+      "title": "Canberra to join Australia gun buyback after Bondi attack",
+      "url": "https://www.rte.ie/news/2026/0822/1588847-australia-gun-buyback/",
+      "domain": "rte.ie",
+      "date": "Aug 22, 2026"
+    },
+    {
+      "title": "FIH Hockey WC : Women team semis dreams hinge on luck and a must - win game against Australia",
+      "url": "https://www.prokerala.com/news/articles/a1803435.html",
+      "domain": "prokerala.com",
+      "date": "Aug 22, 2026"
+    },
+    {
+      "title": "Australians to battle record heat after the country wettest El Nino year",
+      "url": "https://www.perthnow.com.au/news/australians-to-battle-record-heat-after-the-countrys-wettest-el-nino-year-c-22763390",
+      "domain": "perthnow.com.au",
+      "date": "Aug 22, 2026"
+    },
+    {
+      "title": "Yahoo Australia Editorial Policy",
+      "url": "https://legal.yahoo.com/au/en/yahoo/editorial-policy/",
+      "domain": "legal.yahoo.com",
+      "date": "Aug 22, 2026"
+    },
+    {
+      "title": "Simmons warns of Australia backlash in second Test",
+      "url": "https://www.pakistantoday.com.pk/2026/08/21/simmons-warns-bangladesh-to-expect-stronger-australia-response-in-second-test",
+      "domain": "pakistantoday.com.pk",
+      "date": "Aug 21, 2026"
+    },
+    {
+      "title": "Australia charges man with trying to pass Ukraine military intelligence to Russia",
+      "url": "https://tribune.com.pk/story/2625126/australia-charges-man-with-trying-to-pass-ukraine-military-intelligence-to-russia",
+      "domain": "tribune.com.pk",
+      "date": "Aug 21, 2026"
+    },
+    {
+      "title": "Yves announces second Asia and Australia tour for November",
+      "url": "https://www.allkpop.com/article/2026/08/yves-announces-second-asia-and-australia-tour-for-november",
+      "domain": "allkpop.com",
+      "date": "Aug 21, 2026"
+    },
+    {
+      "title": "Australia Charges Man with Trying to Pass Ukraine Military Intel to Russia",
+      "url": "https://english.aawsat.com/world/5309403-australia-charges-man-trying-pass-ukraine-military-intel-russia",
+      "domain": "english.aawsat.com",
+      "date": "Aug 21, 2026"
+    }
+  ]
 }
