@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-20T10:38:59.856182+00:00",
+  "generatedAt": "2026-09-20T15:28:07.348136+00:00",
   "source": "GDELT (news tone/volume, 3-day window) blended 50/50 with baseline",
   "countries": [
     {
@@ -167,7 +167,23 @@
       "regulatory": 64,
       "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [],
+      "headlines": [
+        {
+          "title": "Lookman sets AFCON qualifiers target for Super Eagles",
+          "url": "https://punchng.com/lookman-sets-afcon-qualifiers-target-for-eagles/",
+          "domain": "punchng.com"
+        },
+        {
+          "title": "Lookman sets AFCON qualifiers target for Eagles",
+          "url": "https://theeagleonline.com.ng/lookman-sets-afcon-qualifiers-target-for-eagles/",
+          "domain": "theeagleonline.com.ng"
+        },
+        {
+          "title": "Ebola outbreak : DR Congo starts vaccinating health workers",
+          "url": "https://news.az/news/ebola-outbreak-dr-congo-starts-vaccinating-health-workers",
+          "domain": "news.az"
+        }
+      ],
       "toneReading": "No recent coverage found.",
       "volumeReading": null
     },
@@ -304,15 +320,36 @@
     {
       "name": "Israel",
       "region": "MENA",
-      "political": 58,
+      "political": 61,
       "conflict": 66,
       "economic": 34,
       "regulatory": 30,
       "trend": "flat",
-      "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [],
-      "toneReading": "No recent coverage found.",
-      "volumeReading": null
+      "note": "Live-updated from recent news coverage.",
+      "headlines": [
+        {
+          "title": "Gen Z considers India - Israel defence ties above US , France : Survey",
+          "url": "https://www.business-standard.com/external-affairs-defence-security/news/gen-z-considers-india-israel-defence-ties-above-us-france-survey-126092000309_1.html",
+          "domain": "business-standard.com"
+        },
+        {
+          "title": "Gen Z considers India defence ties with Israel to be better than US , France : India Israel Centre",
+          "url": "https://www.hindustantimes.com/india-news/gen-z-considers-india-s-defence-ties-with-israel-to-be-better-than-us-france-india-israel-centre-101789892153156.html",
+          "domain": "hindustantimes.com"
+        },
+        {
+          "title": "Unlike Zohran Mamdani , Dinkins supported Israel",
+          "url": "https://www.nydailynews.com/2026/09/20/unlike-zohran-mamdani-dinkins-supported-israel/",
+          "domain": "nydailynews.com"
+        },
+        {
+          "title": "Gaza GenoLIE : The campaign fighting  a modern blood libel",
+          "url": "http://www.jpost.com/diaspora/antisemitism/article-908304",
+          "domain": "jpost.com"
+        }
+      ],
+      "toneReading": "Coverage over the last 3 days has leaned negative.",
+      "volumeReading": "Coverage volume has been unusually high this week."
     },
     {
       "name": "Italy",
@@ -330,15 +367,15 @@
     {
       "name": "Japan",
       "region": "East Asia",
-      "political": 34,
+      "political": 16,
       "conflict": 10,
       "economic": 22,
       "regulatory": 14,
-      "trend": "up",
-      "note": "Live-updated from recent news coverage.",
+      "trend": "down",
+      "note": "No fresh coverage this cycle; showing baseline.",
       "headlines": [],
-      "toneReading": "Coverage over the last 3 days has been mixed or neutral.",
-      "volumeReading": "Coverage volume has been unusually high this week."
+      "toneReading": "No recent coverage found.",
+      "volumeReading": null
     },
     {
       "name": "Jordan",
@@ -361,14 +398,14 @@
           "domain": "gazette.com"
         },
         {
-          "title": "This Week in Texas : Fuel prices , Senate race , social media firestorm",
-          "url": "https://abc13.com/post/week-texas-fuel-prices-senate-race-social-media-firestorm/19850306/",
-          "domain": "abc13.com"
+          "title": "I Taught My Daughter to Prioritize Purpose . Now I Question the Cost .",
+          "url": "https://www.businessinsider.com/taught-child-prioritize-purpose-making-difference-life-lesson-might-regret-2026-9",
+          "domain": "businessinsider.com"
         },
         {
-          "title": "What to expect as UN General Assembly convenes amid Iran war",
-          "url": "https://www.al-monitor.com/originals/2026/09/what-expect-un-general-assembly-convenes-amid-iran-war",
-          "domain": "al-monitor.com"
+          "title": "Israeli man critically wounded in West Bank shooting , and other Mideast developments",
+          "url": "https://www.ksat.com/news/world/2026/09/20/israeli-man-critically-wounded-in-west-bank-shooting-and-other-mideast-developments/",
+          "domain": "ksat.com"
         }
       ],
       "toneReading": "No recent coverage found.",
@@ -409,7 +446,28 @@
       "regulatory": 20,
       "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [],
+      "headlines": [
+        {
+          "title": "Israel Links Southern Lebanon Withdrawal to Stronger Lebanese Army",
+          "url": "https://english.aawsat.com/arab-world/5320324-israel-links-southern-lebanon-withdrawal-stronger-lebanese-army",
+          "domain": "english.aawsat.com"
+        },
+        {
+          "title": "Lebanon care facility closure will force residents to seek new housing",
+          "url": "https://www.wgal.com/article/lebanon-care-facility-closure-forces-residents-to-seek-new-housing/73806212",
+          "domain": "wgal.com"
+        },
+        {
+          "title": "Lebanon slams  barbaric  act after Israel burns Mays al - Jabal hospital",
+          "url": "https://www.naharnet.com/stories/en/322590-lebanon-slams-barbaric-act-after-israel-burns-mays-al-jabal-hospital",
+          "domain": "naharnet.com"
+        },
+        {
+          "title": "Israel attacks south after 2 troops hurt by  Hezbollah bomb",
+          "url": "https://www.naharnet.com/stories/en/322591-israel-attacks-south-after-2-troops-hurt-by-hezbollah-bomb",
+          "domain": "naharnet.com"
+        }
+      ],
       "toneReading": "No recent coverage found.",
       "volumeReading": null
     },
@@ -434,14 +492,14 @@
           "domain": "english.news.cn"
         },
         {
+          "title": "Libya asks ICC to support probe into attacks on civilian facilities",
+          "url": "https://sundayworld.co.za/africa/libya-asks-icc-to-support-probe-into-attacks-on-civilian-facilities/",
+          "domain": "sundayworld.co.za"
+        },
+        {
           "title": "Russia State Duma polling underway : Ambassador Alipov casts vote , says five stations open across India",
           "url": "https://aninews.in/news/world/asia/russia-state-duma-polling-underway-ambassador-alipov-casts-vote-says-five-stations-open-across-india20260920091803/",
           "domain": "aninews.in"
-        },
-        {
-          "title": "RIGHT SPEAK : Just Another Muslim Migrant Scarring a British Woman for Life : Just Another Day in the united kingdom ; Migrant with Pants Around Ankles Let Go by Police Tried to Kill Woman with Broken Bottle",
-          "url": "http://www.rightspeak.net/2026/09/just-another-muslim-migrant-scarring.html",
-          "domain": "rightspeak.net"
         }
       ],
       "toneReading": "No recent coverage found.",
@@ -495,28 +553,7 @@
       "regulatory": 18,
       "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [
-        {
-          "title": "Morocco PJD : what has the party learned from its dramatic fall | Elections News",
-          "url": "https://www.aljazeera.com/news/2026/9/20/moroccos-pjd-what-has-the-party-learned-from-its-dramatic-fall",
-          "domain": "aljazeera.com"
-        },
-        {
-          "title": "Egypt , Nigeria Lead Africa 2025 Remittance Inflows",
-          "url": "https://www.africa.com/top-10-news/egypt-nigeria-lead-africas-2025-remittance-inflows",
-          "domain": "africa.com"
-        },
-        {
-          "title": "Lookman sets AFCON qualifiers target for Super Eagles",
-          "url": "https://punchng.com/lookman-sets-afcon-qualifiers-target-for-eagles/",
-          "domain": "punchng.com"
-        },
-        {
-          "title": "Al - Qaida - linked JNIM claims a deadly Mali army camp attack",
-          "url": "https://economictimes.indiatimes.com/news/defence/al-qaida-linked-jnim-claims-a-deadly-mali-army-camp-attack/articleshow/134362675.cms",
-          "domain": "economictimes.indiatimes.com"
-        }
-      ],
+      "headlines": [],
       "toneReading": "No recent coverage found.",
       "volumeReading": null
     },
@@ -529,56 +566,35 @@
       "regulatory": 70,
       "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [
-        {
-          "title": "Modern day slavery : Myanmar military swells ranks through corruption and deceit \u2013 Radio Free Asia",
-          "url": "https://www.rfa.org:443/english/myanmar/2026/09/20/burma-forced-conscription-human-trafficking/",
-          "domain": "rfa.org"
-        },
-        {
-          "title": "Myanmar Military Murders Pastor and Fulani Muslims Kill 11 Nigerians",
-          "url": "https://pjmedia.com/catherinesalgado/2026/09/19/myanmar-military-murders-pastor-and-fulani-muslims-kill-11-nigerians-n4957434",
-          "domain": "pjmedia.com"
-        },
-        {
-          "title": "China - ASEAN Expo draws crowds with regional specialties",
-          "url": "http://www.china.org.cn/2026-09/20/content_118704709.shtml",
-          "domain": "china.org.cn"
-        },
-        {
-          "title": "Baptist pastor killed in Myanmar ; US urged to take action",
-          "url": "https://www.christianpost.com/news/baptist-pastor-killed-in-myanmar-us-urged-to-take-action.html",
-          "domain": "christianpost.com"
-        }
-      ],
+      "headlines": [],
       "toneReading": "No recent coverage found.",
       "volumeReading": null
     },
     {
       "name": "Nigeria",
       "region": "Sub-Saharan Africa",
-      "political": 52,
+      "political": 55,
       "conflict": 60,
       "economic": 54,
       "regulatory": 50,
       "trend": "flat",
-      "note": "No fresh coverage this cycle; showing baseline.",
+      "note": "Live-updated from recent news coverage.",
       "headlines": [],
-      "toneReading": "No recent coverage found.",
-      "volumeReading": null
+      "toneReading": "Coverage over the last 3 days has been mixed or neutral.",
+      "volumeReading": "Coverage volume has been unusually high this week."
     },
     {
       "name": "North Korea",
       "region": "East Asia",
-      "political": 86,
+      "political": 75,
       "conflict": 60,
       "economic": 84,
       "regulatory": 92,
-      "trend": "flat",
-      "note": "No fresh coverage this cycle; showing baseline.",
+      "trend": "down",
+      "note": "Live-updated from recent news coverage.",
       "headlines": [],
-      "toneReading": "No recent coverage found.",
-      "volumeReading": null
+      "toneReading": "Coverage over the last 3 days has leaned negative.",
+      "volumeReading": "Coverage volume has been unusually high this week."
     },
     {
       "name": "Pakistan",
@@ -609,15 +625,15 @@
     {
       "name": "Philippines",
       "region": "Southeast Asia",
-      "political": 44,
+      "political": 34,
       "conflict": 30,
       "economic": 32,
       "regulatory": 30,
-      "trend": "up",
-      "note": "Live-updated from recent news coverage.",
+      "trend": "down",
+      "note": "No fresh coverage this cycle; showing baseline.",
       "headlines": [],
-      "toneReading": "Coverage over the last 3 days has been mixed or neutral.",
-      "volumeReading": "Coverage volume has been unusually high this week."
+      "toneReading": "No recent coverage found.",
+      "volumeReading": null
     },
     {
       "name": "Poland",
@@ -628,7 +644,28 @@
       "regulatory": 20,
       "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [],
+      "headlines": [
+        {
+          "title": "Weak Ukraine Air Defense Threatens Poland , Defense Chief Warns",
+          "url": "https://www.kyivpost.com/post/84928",
+          "domain": "kyivpost.com"
+        },
+        {
+          "title": "German , French , united kingdom Military Flights Near Russian Border Rise , Kremlin - Linked Reports Say \u2013 NaturalNews . com",
+          "url": "https://www.naturalnews.com/2026-09-20-german-french-uk-military-flights-russian-border.html",
+          "domain": "naturalnews.com"
+        },
+        {
+          "title": "Falconets target first U - 20 Women World Cup semi - final\u00a0 in 12 Years",
+          "url": "https://theeagleonline.com.ng/falconets-target-first-u-20-womens-world-cup-semi-final-in-12-years/",
+          "domain": "theeagleonline.com.ng"
+        },
+        {
+          "title": "When the Numbers Enter the Negotiation",
+          "url": "https://freerepublic.com/focus/f-bloggers/4396183/posts",
+          "domain": "freerepublic.com"
+        }
+      ],
       "toneReading": "No recent coverage found.",
       "volumeReading": null
     },
@@ -674,49 +711,49 @@
     {
       "name": "Serbia",
       "region": "Europe",
-      "political": 46,
+      "political": 39,
       "conflict": 34,
       "economic": 43,
       "regulatory": 40,
-      "trend": "up",
-      "note": "Live-updated from recent news coverage.",
-      "headlines": [
-        {
-          "title": "From the streets to the ballot box : What Hungary can teach Serbia",
-          "url": "https://globalvoices.org/2026/09/20/from-the-streets-to-the-ballot-box-what-hungary-can-teach-serbia/",
-          "domain": "globalvoices.org"
-        },
-        {
-          "title": "Were not playing with genocide , were playing against genocide : Ireland boss on facing Israel",
-          "url": "https://www.the42.ie/heimir-hallgrimsson-israel-ireland-7167573-Sep2026/",
-          "domain": "the42.ie"
-        },
-        {
-          "title": "Letters to the Editor : Sept . 19 , 2026",
-          "url": "https://www.kelownadailycourier.ca/opinion/letters_to_editor/article_c9618e61-0a94-46ff-b532-e4769c1946c3.html",
-          "domain": "kelownadailycourier.ca"
-        },
-        {
-          "title": "Analyzing Enterprise Financial Services ( NASDAQ : EFSC ) & Erste Group Bank ( OTCMKTS : EBKDY )",
-          "url": "https://www.dailypolitical.com/2026/09/19/analyzing-enterprise-financial-services-nasdaqefsc-erste-group-bank-otcmktsebkdy.html",
-          "domain": "dailypolitical.com"
-        }
-      ],
-      "toneReading": "Coverage over the last 3 days has been mixed or neutral.",
-      "volumeReading": "Coverage volume has been light this week."
+      "trend": "down",
+      "note": "No fresh coverage this cycle; showing baseline.",
+      "headlines": [],
+      "toneReading": "No recent coverage found.",
+      "volumeReading": null
     },
     {
       "name": "Singapore",
       "region": "Southeast Asia",
-      "political": 29,
+      "political": 8,
       "conflict": 4,
       "economic": 10,
       "regulatory": 8,
-      "trend": "up",
-      "note": "Live-updated from recent news coverage.",
-      "headlines": [],
-      "toneReading": "Coverage over the last 3 days has been mixed or neutral.",
-      "volumeReading": "Coverage volume has been unusually high this week."
+      "trend": "down",
+      "note": "No fresh coverage this cycle; showing baseline.",
+      "headlines": [
+        {
+          "title": "Anthropic to set up fifth APAC office in Singapore , hiring for multiple roles",
+          "url": "https://www.asiaone.com/singapore/anthropic-singapore-office-hiring",
+          "domain": "asiaone.com"
+        },
+        {
+          "title": "This country is paying people to read books for 15 minutes : Here how the scheme works and why it was launched",
+          "url": "https://timesofindia.indiatimes.com/life-style/books/this-country-is-paying-people-to-read-books-for-15-minutes-heres-how-the-scheme-works-and-why-it-was-launched/articleshow/134369563.cms",
+          "domain": "timesofindia.indiatimes.com"
+        },
+        {
+          "title": "More interest in ETFs , low - cost funds but Singapore still lacks pressure to further lower fund fees",
+          "url": "https://www.businesstimes.com.sg/companies-markets/more-interest-etfs-low-cost-funds-singapore-still-lacks-pressure-further-lower-fund-fees",
+          "domain": "businesstimes.com.sg"
+        },
+        {
+          "title": "Thundery showers over northern , eastern Singapore on Sept 20 afternoon",
+          "url": "https://www.asiaone.com/singapore/singapore-weather-20-september-moderate-heavy-thundery-showers",
+          "domain": "asiaone.com"
+        }
+      ],
+      "toneReading": "No recent coverage found.",
+      "volumeReading": null
     },
     {
       "name": "Somalia",
@@ -727,7 +764,28 @@
       "regulatory": 42,
       "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [],
+      "headlines": [
+        {
+          "title": "SOMALIA : Opposition Warns of Arms Diversion , Demands UN Embargo and International Dialogue",
+          "url": "https://raxanreeb.com/somalia-opposition-warns-of-arms-diversion-demands-un-embargo-and-international-dialogue/",
+          "domain": "raxanreeb.com"
+        },
+        {
+          "title": "Inside Somaliland : How Berbera Port is central to the Red Sea power struggle",
+          "url": "https://www.middleeasteye.net/news/inside-berbera-port-center-scramble-red-sea",
+          "domain": "middleeasteye.net"
+        },
+        {
+          "title": "12 Charged in $10M San Diego Daycare Fraud Scheme Targeting Low - Income Childcare Funds",
+          "url": "https://townhall.com/news/scott-mcclallen/2026/09/19/12-charged-in-10m-san-diego-daycare-fraud-scheme-targeting-low-income-childcare-funds-n2683248",
+          "domain": "townhall.com"
+        },
+        {
+          "title": "September 20 , 2026 - Raxanreeb Online",
+          "url": "https://raxanreeb.com/2026/09/20/",
+          "domain": "raxanreeb.com"
+        }
+      ],
       "toneReading": "No recent coverage found.",
       "volumeReading": null
     },
@@ -760,35 +818,14 @@
     {
       "name": "Sri Lanka",
       "region": "South Asia",
-      "political": 47,
+      "political": 40,
       "conflict": 18,
       "economic": 52,
       "regulatory": 38,
-      "trend": "up",
-      "note": "Live-updated from recent news coverage.",
-      "headlines": [
-        {
-          "title": "Sri Lanka chase 178 to defeat Pakistan in Asian Games semi - final",
-          "url": "https://www.geo.tv/latest/682854-asian-games-semi-final-ayesha-shawaal-power-pakistan-to-177-4-against-sri-lanka",
-          "domain": "geo.tv"
-        },
-        {
-          "title": "Lanka NDB accession delay threatens development financing | Print Edition",
-          "url": "https://www.sundaytimes.lk/260920/business-times/lankas-ndb-accession-delay-threatens-development-financing-657071.html",
-          "domain": "sundaytimes.lk"
-        },
-        {
-          "title": "Vishva Mali lives on : A lasting bond between two nations",
-          "url": "https://www.sundaytimes.lk/260920/plus/vishva-mali-lives-on-a-lasting-bond-between-two-nations-657164.html",
-          "domain": "sundaytimes.lk"
-        },
-        {
-          "title": "Sri Lanka Post issues stamp to commemorate London Buddhist Vihara centenary",
-          "url": "https://www.sundaytimes.lk/260920/sunday-times-2/sri-lanka-post-issues-stamp-to-commemorate-london-buddhist-vihara-centenary-657608.html",
-          "domain": "sundaytimes.lk"
-        }
-      ],
-      "toneReading": "Coverage over the last 3 days has been mixed or neutral.",
+      "trend": "down",
+      "note": "No fresh coverage this cycle; showing baseline.",
+      "headlines": [],
+      "toneReading": "No recent coverage found.",
       "volumeReading": null
     },
     {
@@ -826,7 +863,28 @@
       "regulatory": 20,
       "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [],
+      "headlines": [
+        {
+          "title": "Taiwan minister makes rare trip to China for APEC event",
+          "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/09/20/taiwan-minister-makes-rare-trip-to-china-for-apec-event",
+          "domain": "thestar.com.my"
+        },
+        {
+          "title": "Taiwan minister makes rare China visit for APEC amid tensions with Beijing",
+          "url": "https://timesofindia.indiatimes.com/world/rest-of-world/taiwan-minister-makes-rare-china-visit-for-apec-amid-tensions-with-beijing/articleshow/134366475.cms",
+          "domain": "timesofindia.indiatimes.com"
+        },
+        {
+          "title": "US defense firm Anduril says Taiwan arms sale delay affects business",
+          "url": "https://www.koreaherald.com/article/10879531",
+          "domain": "koreaherald.com"
+        },
+        {
+          "title": "Taiwan headline news - Focus Taiwan",
+          "url": "https://focustaiwan.tw:443/society/202609200002",
+          "domain": "focustaiwan.tw"
+        }
+      ],
       "toneReading": "No recent coverage found.",
       "volumeReading": null
     },
@@ -937,12 +995,12 @@
     {
       "name": "Yemen",
       "region": "MENA",
-      "political": 84,
-      "conflict": 88,
+      "political": 80,
+      "conflict": 92,
       "economic": 82,
       "regulatory": 74,
       "trend": "flat",
-      "note": "No fresh coverage this cycle; showing baseline.",
+      "note": "Live-updated from recent news coverage.",
       "headlines": [
         {
           "title": "Saudi Arabia says Houthis tried to attack its capital",
@@ -965,8 +1023,8 @@
           "domain": "tribune.com.pk"
         }
       ],
-      "toneReading": "No recent coverage found.",
-      "volumeReading": null
+      "toneReading": "Coverage over the last 3 days has been notably negative.",
+      "volumeReading": "Coverage volume has been unusually high this week."
     },
     {
       "name": "Zimbabwe",
@@ -976,13 +1034,40 @@
       "economic": 65,
       "regulatory": 64,
       "trend": "flat",
-      "note": "Live-updated from recent news coverage.",
-      "headlines": [],
-      "toneReading": "Coverage over the last 3 days has leaned negative.",
+      "note": "No fresh coverage this cycle; showing baseline.",
+      "headlines": [
+        {
+          "title": "Zimbabwe oppossition is in crippling crisis",
+          "url": "https://bulawayo24.com/index-id-opinion-sc-columnist-byo-267476.html",
+          "domain": "bulawayo24.com"
+        },
+        {
+          "title": "Zimbabwe batter retires hurt with injury",
+          "url": "https://www.theage.com.au/national/zimbabwe-batter-retires-hurt-with-injury-20260920-p60yze.html",
+          "domain": "theage.com.au"
+        },
+        {
+          "title": "Govt targets teaching transformation \u2013 DailyNews",
+          "url": "https://dailynews.co.zw/govt-targets-teaching-transformation/",
+          "domain": "dailynews.co.zw"
+        },
+        {
+          "title": "Musasa demands early GBV action \u2013 DailyNews",
+          "url": "https://dailynews.co.zw/musasa-demands-early-gbv-action/",
+          "domain": "dailynews.co.zw"
+        }
+      ],
+      "toneReading": "No recent coverage found.",
       "volumeReading": null
     }
   ],
   "alerts": [
+    {
+      "name": "Sri Lanka",
+      "from": "GUARDED",
+      "to": "LOW",
+      "at": "2026-09-20T15:28:07.348136+00:00"
+    },
     {
       "name": "Sri Lanka",
       "from": "LOW",
@@ -1155,12 +1240,6 @@
       "name": "Qatar",
       "from": "GUARDED",
       "to": "LOW",
-      "at": "2026-09-15T00:14:09.654196+00:00"
-    },
-    {
-      "name": "Sri Lanka",
-      "from": "LOW",
-      "to": "GUARDED",
       "at": "2026-09-15T00:14:09.654196+00:00"
     }
   ]
