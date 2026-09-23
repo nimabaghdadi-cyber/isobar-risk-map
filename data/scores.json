@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-22T20:54:03.996082+00:00",
+  "generatedAt": "2026-09-23T03:23:38.537216+00:00",
   "source": "GDELT (news tone/volume, 3-day window) blended 50/50 with baseline",
   "countries": [
     {
@@ -44,15 +44,15 @@
     {
       "name": "Azerbaijan",
       "region": "Eurasia",
-      "political": 31,
+      "political": 42,
       "conflict": 31,
       "economic": 39,
       "regulatory": 20,
-      "trend": "flat",
-      "note": "No fresh coverage this cycle; showing baseline.",
+      "trend": "up",
+      "note": "Live-updated from recent news coverage.",
       "headlines": [],
-      "toneReading": "No recent coverage found.",
-      "volumeReading": null
+      "toneReading": "Coverage over the last 3 days has been mixed or neutral.",
+      "volumeReading": "Coverage volume has been unusually high this week."
     },
     {
       "name": "Bangladesh",
@@ -135,15 +135,15 @@
     {
       "name": "Colombia",
       "region": "Latin America",
-      "political": 48,
+      "political": 55,
       "conflict": 56,
       "economic": 38,
       "regulatory": 40,
-      "trend": "flat",
-      "note": "No fresh coverage this cycle; showing baseline.",
+      "trend": "up",
+      "note": "Live-updated from recent news coverage.",
       "headlines": [],
-      "toneReading": "No recent coverage found.",
-      "volumeReading": null
+      "toneReading": "Coverage over the last 3 days has leaned negative.",
+      "volumeReading": "Coverage volume has been unusually high this week."
     },
     {
       "name": "Cuba",
@@ -174,6 +174,11 @@
           "domain": "leadership.ng"
         },
         {
+          "title": "Belgium , Rwanda resume diplomatic relations after DRC conflict dispute",
+          "url": "https://www.straitstimes.com/world/europe/belgium-rwanda-resume-diplomatic-relations-after-drc-conflict-dispute",
+          "domain": "straitstimes.com"
+        },
+        {
           "title": "Ebola vaccine being tested in DR Congo outbreak zone",
           "url": "https://www.thehindu.com/news/international/ebola-vaccine-being-tested-in-dr-congo-outbreak-zone/article71488850.ece",
           "domain": "thehindu.com"
@@ -182,11 +187,6 @@
           "title": "Lookman sets AFCON qualifiers target for Super Eagles",
           "url": "https://punchng.com/lookman-sets-afcon-qualifiers-target-for-eagles/",
           "domain": "punchng.com"
-        },
-        {
-          "title": "Lookman sets AFCON qualifiers target for Eagles",
-          "url": "https://theeagleonline.com.ng/lookman-sets-afcon-qualifiers-target-for-eagles/",
-          "domain": "theeagleonline.com.ng"
         }
       ],
       "toneReading": "No recent coverage found.",
@@ -214,35 +214,56 @@
       "regulatory": 44,
       "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [],
+      "headlines": [
+        {
+          "title": "Why Egypt Is Looking Beyond Its Trade Deficit With China",
+          "url": "https://thediplomat.com/2026/09/why-egypt-is-looking-beyond-its-trade-deficit-with-china/",
+          "domain": "thediplomat.com"
+        },
+        {
+          "title": "Egypt says it agreed to South Sudan Fula dam",
+          "url": "https://www.radiotamazuj.org/en/news/article/egypt-says-it-agreed-to-south-sudans-fula-dam",
+          "domain": "radiotamazuj.org"
+        },
+        {
+          "title": "India , Egypt discuss deepening cooperation in communications , information technology",
+          "url": "https://www.prokerala.com/news/articles/a1814767.html",
+          "domain": "prokerala.com"
+        },
+        {
+          "title": "INS Trishul concludes Alexandria port call after PASSEX with Egyptian Navy",
+          "url": "https://aninews.in/news/world/others/ins-trishul-concludes-alexandria-port-call-after-passex-with-egyptian-navy20260920145229/",
+          "domain": "aninews.in"
+        }
+      ],
       "toneReading": "No recent coverage found.",
       "volumeReading": null
     },
     {
       "name": "Ethiopia",
       "region": "Sub-Saharan Africa",
-      "political": 58,
+      "political": 60,
       "conflict": 62,
       "economic": 58,
       "regulatory": 52,
-      "trend": "flat",
-      "note": "Live-updated from recent news coverage.",
-      "headlines": [],
-      "toneReading": "Coverage over the last 3 days has been mixed or neutral.",
-      "volumeReading": "Coverage volume has been unusually high this week."
-    },
-    {
-      "name": "France",
-      "region": "Europe",
-      "political": 34,
-      "conflict": 16,
-      "economic": 28,
-      "regulatory": 24,
       "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
       "headlines": [],
       "toneReading": "No recent coverage found.",
       "volumeReading": null
+    },
+    {
+      "name": "France",
+      "region": "Europe",
+      "political": 44,
+      "conflict": 16,
+      "economic": 28,
+      "regulatory": 24,
+      "trend": "up",
+      "note": "Live-updated from recent news coverage.",
+      "headlines": [],
+      "toneReading": "Coverage over the last 3 days has been mixed or neutral.",
+      "volumeReading": "Coverage volume has been unusually high this week."
     },
     {
       "name": "Georgia",
@@ -292,28 +313,7 @@
       "regulatory": 32,
       "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [
-        {
-          "title": "Asian Games 2026 Day 1 India Results : Check Medal Winners and All Key Highlights",
-          "url": "https://www.jagranjosh.com/general-knowledge/asian-games-2026-day-1-india-results-check-medal-winners-and-all-key-highlights-1820012384-1",
-          "domain": "jagranjosh.com"
-        },
-        {
-          "title": "Nongshim Brings Shin Ramyun to India K - Culture Fans at HYBE INDIA Pop - Up Parks Across 4 Indian Cities",
-          "url": "https://www.thehindu.com/brandhub/pr-release/nongshim-brings-shin-ramyun-to-indias-k-culture-fans-at-hybe-india-pop-up-parks-across-4-indian-cities/article71489970.ece",
-          "domain": "thehindu.com"
-        },
-        {
-          "title": "Indian founders have built 205 unicorns abroad , creating $560 billion in value : Prosus",
-          "url": "https://www.moneycontrol.com/news/business/startup/indian-founders-have-built-205-unicorns-abroad-creating-560-billion-in-value-prosus-14034600.html",
-          "domain": "moneycontrol.com"
-        },
-        {
-          "title": "Which Is the Only Country in the World With Lions , Tigers and Leopards ?",
-          "url": "https://www.jagranjosh.com/general-knowledge/which-is-the-only-country-in-the-world-with-lions-tigers-and-leopards-1820012428-1",
-          "domain": "jagranjosh.com"
-        }
-      ],
+      "headlines": [],
       "toneReading": "No recent coverage found.",
       "volumeReading": null
     },
@@ -350,30 +350,9 @@
       "conflict": 66,
       "economic": 34,
       "regulatory": 30,
-      "trend": "down",
+      "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [
-        {
-          "title": "Gen Z considers India - Israel defence ties above US , France : Survey",
-          "url": "https://www.business-standard.com/external-affairs-defence-security/news/gen-z-considers-india-israel-defence-ties-above-us-france-survey-126092000309_1.html",
-          "domain": "business-standard.com"
-        },
-        {
-          "title": "Gen Z considers India defence ties with Israel to be better than US , France : India Israel Centre",
-          "url": "https://www.hindustantimes.com/india-news/gen-z-considers-india-s-defence-ties-with-israel-to-be-better-than-us-france-india-israel-centre-101789892153156.html",
-          "domain": "hindustantimes.com"
-        },
-        {
-          "title": "Unlike Zohran Mamdani , Dinkins supported Israel",
-          "url": "https://www.nydailynews.com/2026/09/20/unlike-zohran-mamdani-dinkins-supported-israel/",
-          "domain": "nydailynews.com"
-        },
-        {
-          "title": "Gaza GenoLIE : The campaign fighting  a modern blood libel",
-          "url": "http://www.jpost.com/diaspora/antisemitism/article-908304",
-          "domain": "jpost.com"
-        }
-      ],
+      "headlines": [],
       "toneReading": "No recent coverage found.",
       "volumeReading": null
     },
@@ -397,45 +376,45 @@
       "conflict": 10,
       "economic": 22,
       "regulatory": 14,
-      "trend": "down",
+      "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [],
+      "headlines": [
+        {
+          "title": "Meet Bihar - born IITian Abhishek Anand , whose love for cricket took him to Japan",
+          "url": "https://www.prokerala.com/news/articles/a1814717.html",
+          "domain": "prokerala.com"
+        },
+        {
+          "title": "A slice of Japan is coming to Hyderabad once again : All details",
+          "url": "https://www.siasat.com/a-slice-of-japan-is-coming-to-hyderabad-once-again-all-details-3544873/",
+          "domain": "siasat.com"
+        },
+        {
+          "title": "The Philippines stages provocations against China \u2013 what business does it have to do with Japan ?: Global Times editorial",
+          "url": "https://www.globaltimes.cn/page/202609/1370993.shtml",
+          "domain": "globaltimes.cn"
+        },
+        {
+          "title": "Japanese lawmakers visit IISc , ISRO and BEL in Bengaluru to deepen India - Japan cooperation",
+          "url": "https://www.ibtimes.co.in/japanese-lawmakers-visit-iisc-isro-bel-bengaluru-deepen-india-japan-cooperation-906194",
+          "domain": "ibtimes.co.in"
+        }
+      ],
       "toneReading": "No recent coverage found.",
       "volumeReading": null
     },
     {
       "name": "Jordan",
       "region": "MENA",
-      "political": 36,
+      "political": 47,
       "conflict": 11,
       "economic": 40,
       "regulatory": 20,
-      "trend": "down",
-      "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [
-        {
-          "title": "Hal Jordan Lanterns Murderer Is the Last Person Fans Suspect - Comic Book Movies and Superhero Movie News",
-          "url": "https://www.superherohype.com/features/694342-hal-jordan-lanterns-murderer-last-person-fans-suspect",
-          "domain": "superherohype.com"
-        },
-        {
-          "title": "UFO Researcher Becomes Christian , Claiming 700 Abductions Were  Demonic  Entities Stopped by Jesus Christ",
-          "url": "https://www.ibtimes.co.uk/joe-jordan-ufo-abductions-demonic-explanation-1820939",
-          "domain": "ibtimes.co.uk"
-        },
-        {
-          "title": "Sunset  Air Jordan 5 ,  Orca  Nike Kobe 3 , and Other Sneakers Releasing This Week",
-          "url": "https://www.complex.com/sneakers/a/victor-deng/sneaker-release-guide-9-22-26-air-jordan-5-sunset",
-          "domain": "complex.com"
-        },
-        {
-          "title": "Lanterns Episode 7 Trailer Shows Hal Jordan Solving Who Killed Hal Jordan",
-          "url": "https://www.comingsoon.net/tv/news/2194096-lanterns-episode-7-trailer-who-killed-hal-jordan",
-          "domain": "comingsoon.net"
-        }
-      ],
-      "toneReading": "No recent coverage found.",
-      "volumeReading": null
+      "trend": "up",
+      "note": "Live-updated from recent news coverage.",
+      "headlines": [],
+      "toneReading": "Coverage over the last 3 days has been mixed or neutral.",
+      "volumeReading": "Coverage volume has been unusually high this week."
     },
     {
       "name": "Kazakhstan",
@@ -444,7 +423,7 @@
       "conflict": 20,
       "economic": 34,
       "regulatory": 36,
-      "trend": "down",
+      "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
       "headlines": [],
       "toneReading": "No recent coverage found.",
@@ -453,28 +432,28 @@
     {
       "name": "Kenya",
       "region": "Sub-Saharan Africa",
-      "political": 36,
+      "political": 45,
       "conflict": 28,
       "economic": 38,
       "regulatory": 34,
-      "trend": "flat",
-      "note": "No fresh coverage this cycle; showing baseline.",
+      "trend": "up",
+      "note": "Live-updated from recent news coverage.",
       "headlines": [],
-      "toneReading": "No recent coverage found.",
-      "volumeReading": null
+      "toneReading": "Coverage over the last 3 days has been mixed or neutral.",
+      "volumeReading": "Coverage volume has been unusually high this week."
     },
     {
       "name": "Lebanon",
       "region": "MENA",
-      "political": 65,
-      "conflict": 34,
+      "political": 66,
+      "conflict": 39,
       "economic": 64,
       "regulatory": 20,
-      "trend": "down",
-      "note": "No fresh coverage this cycle; showing baseline.",
+      "trend": "up",
+      "note": "Live-updated from recent news coverage.",
       "headlines": [],
-      "toneReading": "No recent coverage found.",
-      "volumeReading": null
+      "toneReading": "Coverage over the last 3 days has leaned negative.",
+      "volumeReading": "Coverage volume has been unusually high this week."
     },
     {
       "name": "Libya",
@@ -485,7 +464,28 @@
       "regulatory": 42,
       "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [],
+      "headlines": [
+        {
+          "title": "Armed group shuts Libya pipeline valve at key oil field",
+          "url": "https://arynews.tv/armed-group-shuts-libya-pipeline-valve-key-oil-field",
+          "domain": "arynews.tv"
+        },
+        {
+          "title": "Libya Largest Oilfield Hit By New Armed Group Blockade",
+          "url": "https://www.zerohedge.com/energy/libyas-largest-oilfield-hit-new-armed-group-blockade",
+          "domain": "zerohedge.com"
+        },
+        {
+          "title": "Libya NOC Says Sharara Crude Pipeline Closure Losses at 130 , 000 bpd",
+          "url": "https://english.aawsat.com/business/5321237-libyas-noc-says-sharara-crude-pipeline-closure-losses-130000-bpd",
+          "domain": "english.aawsat.com"
+        },
+        {
+          "title": "Nigeria seek bounce - back at 46th FIDE Chess Olympiad",
+          "url": "https://punchng.com/nigeria-seek-bounce-back-at-chess-olympiad/",
+          "domain": "punchng.com"
+        }
+      ],
       "toneReading": "No recent coverage found.",
       "volumeReading": null
     },
@@ -537,28 +537,7 @@
       "regulatory": 18,
       "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [
-        {
-          "title": "US Congressman Joe Wilson Reaffirms Support for Morocco Sovereignty Over Western Sahara",
-          "url": "https://www.moroccoworldnews.com/2026/09/339181/us-congressman-joe-wilson-reaffirms-support-for-moroccos-sovereignty-over-western-sahara/",
-          "domain": "moroccoworldnews.com"
-        },
-        {
-          "title": "Cabo Verde Reaffirms Support for Morocco Sovereignty Over Western Sahara",
-          "url": "https://www.moroccoworldnews.com/2026/09/339200/cabo-verde-reaffirms-support-for-moroccos-sovereignty-over-western-sahara/",
-          "domain": "moroccoworldnews.com"
-        },
-        {
-          "title": "African Men Volleyball Championship : Nigeria Face Morocco In Quarter - Final Test",
-          "url": "https://leadership.ng/african-mens-volleyball-championship-nigeria-face-morocco-in-quarter-final-test/",
-          "domain": "leadership.ng"
-        },
-        {
-          "title": "Sierra Leone Reaffirms Support for Morocco Sovereignty Over Western Sahara",
-          "url": "https://www.moroccoworldnews.com/2026/09/339207/sierra-leone-reaffirms-support-for-moroccos-sovereignty-over-western-sahara/",
-          "domain": "moroccoworldnews.com"
-        }
-      ],
+      "headlines": [],
       "toneReading": "No recent coverage found.",
       "volumeReading": null
     },
@@ -578,36 +557,15 @@
     {
       "name": "Nigeria",
       "region": "Sub-Saharan Africa",
-      "political": 52,
+      "political": 55,
       "conflict": 60,
       "economic": 54,
       "regulatory": 50,
       "trend": "flat",
-      "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [
-        {
-          "title": "2027 AFCON Qualifiers : Osimhen ruled out of G . Bissau , Madagas",
-          "url": "https://pmnewsnigeria.com/2026/09/20/2027-afcon-qualifiers-osimhen-ruled-out-of-g-bissau-madagascar-matches/",
-          "domain": "pmnewsnigeria.com"
-        },
-        {
-          "title": "Nigeria unveils $300m fund for off - grid power",
-          "url": "https://punchng.com/nigeria-unveils-300m-fund-for-off-grid-power/",
-          "domain": "punchng.com"
-        },
-        {
-          "title": "Nigeria secure double victory in NCF T20 tourney",
-          "url": "https://punchng.com/nigeria-secure-double-victory-in-ncf-quadrangular-t20-tourney/",
-          "domain": "punchng.com"
-        },
-        {
-          "title": "OECD Report : Nigeria Failing to Reflect Foreign Aid in National Budgets \u2013 THISDAYLIVE",
-          "url": "https://www.thisdaylive.com/2026/09/21/oecd-report-nigeria-failing-to-reflect-foreign-aid-in-national-budgets/",
-          "domain": "thisdaylive.com"
-        }
-      ],
-      "toneReading": "No recent coverage found.",
-      "volumeReading": null
+      "note": "Live-updated from recent news coverage.",
+      "headlines": [],
+      "toneReading": "Coverage over the last 3 days has been mixed or neutral.",
+      "volumeReading": "Coverage volume has been unusually high this week."
     },
     {
       "name": "North Korea",
@@ -618,28 +576,7 @@
       "regulatory": 92,
       "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [
-        {
-          "title": "Trump wants a new meeting with Kim Jong Un . North Korea says not so fast",
-          "url": "https://www.moneycontrol.com/world/trump-wants-a-new-meeting-with-kim-jong-un-north-korea-says-not-so-fast-article-14033707.html",
-          "domain": "moneycontrol.com"
-        },
-        {
-          "title": "N . Korea launches SRBM toward East Sea again , 2 weeks after last launch",
-          "url": "https://www.koreaherald.com/article/10879664",
-          "domain": "koreaherald.com"
-        },
-        {
-          "title": "South Korea Lee tells AP he wants step - by - step approach to North Korea nuclear dismantlement",
-          "url": "https://www.wral.com/news/ap/2c12c-south-koreas-lee-plans-to-call-for-phased-denuclearization-of-north-korea-at-un/",
-          "domain": "wral.com"
-        },
-        {
-          "title": "Mark Shields Discusses Kim Jong Il Male Enhancement And Hints US Should Invade",
-          "url": "https://www.newsbusters.org/blogs/nb/michael-rule/2006/07/10/mark-shields-discusses-kim-jong-ils-male-enhancement-and-hints-us",
-          "domain": "newsbusters.org"
-        }
-      ],
+      "headlines": [],
       "toneReading": "No recent coverage found.",
       "volumeReading": null
     },
@@ -676,7 +613,7 @@
       "conflict": 30,
       "economic": 32,
       "regulatory": 30,
-      "trend": "down",
+      "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
       "headlines": [],
       "toneReading": "No recent coverage found.",
@@ -691,43 +628,22 @@
       "regulatory": 20,
       "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [
-        {
-          "title": "Polish Military Duty Officer Follows Policy , Calls Civilian Police to Handle Off - Base No - Fly Violator",
-          "url": "https://www.kyivpost.com/post/85143",
-          "domain": "kyivpost.com"
-        },
-        {
-          "title": "Samarkand R5 ( women ): Setback for India",
-          "url": "https://en.chessbase.com/post/chess-olympiad-2026-5-women",
-          "domain": "en.chessbase.com"
-        },
-        {
-          "title": "Weak Ukraine Air Defense Threatens Poland , Defense Chief Warns",
-          "url": "https://www.kyivpost.com/post/84928",
-          "domain": "kyivpost.com"
-        },
-        {
-          "title": "US troop rotations heading back to Lithuania amid high tension in Europe , Baltic leader says",
-          "url": "https://www.stripes.com/branches/army/2026-09-22/rotation-lithuania-nato-europe-22928848.html",
-          "domain": "stripes.com"
-        }
-      ],
+      "headlines": [],
       "toneReading": "No recent coverage found.",
       "volumeReading": null
     },
     {
       "name": "Qatar",
       "region": "MENA",
-      "political": 47,
+      "political": 34,
       "conflict": 14,
       "economic": 22,
       "regulatory": 16,
-      "trend": "up",
-      "note": "Live-updated from recent news coverage.",
+      "trend": "down",
+      "note": "No fresh coverage this cycle; showing baseline.",
       "headlines": [],
-      "toneReading": "Coverage over the last 3 days has leaned negative.",
-      "volumeReading": "Coverage volume has been unusually high this week."
+      "toneReading": "No recent coverage found.",
+      "volumeReading": null
     },
     {
       "name": "Russia",
@@ -751,43 +667,43 @@
       "regulatory": 36,
       "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [
-        {
-          "title": "Religious leaders condemn Houthi attacks , pledge support for Saudi Arabia",
-          "url": "https://dunyanews.tv/en/Pakistan/973752-religious-leaders-condemn-houthi-attacks-pledge-support-for-saudi-ara",
-          "domain": "dunyanews.tv"
-        },
-        {
-          "title": "Houthis threaten  decisive  response if Pakistan , T\u00fcrkiye intervene in Yemen",
-          "url": "https://tribune.com.pk/story/2630242/houthis-threaten-decisive-response-if-pakistan-turkiye-intervene-in-yemen",
-          "domain": "tribune.com.pk"
-        },
-        {
-          "title": "HRH the Crown Prince Launches CEER Flagship Vehicles Further Strengthening Saudi Arabia Position in the Global Automotive Industry",
-          "url": "https://portal.sina.com.hk/finance/finance-prnewswire/prnasia/2026/09/22/1932343/hrh-the-crown-prince-launches-ceers-flagship-vehicles-further-strengthening-saudi-arabias-position-in-the-global-automotive-industry/",
-          "domain": "portal.sina.com.hk"
-        },
-        {
-          "title": "IDF Arrests Two West Bank Palestinians Accused of Planning Imminent Terror Attack",
-          "url": "https://www.haaretz.com/israel-news/israel-security/2026-09-22/ty-article-live/idf-arrests-two-palestinians-accused-of-planning-imminent-terror-attack/000001a0-c6bf-df75-a7a7-feff28640000",
-          "domain": "haaretz.com"
-        }
-      ],
+      "headlines": [],
       "toneReading": "No recent coverage found.",
       "volumeReading": null
     },
     {
       "name": "Serbia",
       "region": "Europe",
-      "political": 46,
+      "political": 39,
       "conflict": 34,
       "economic": 43,
       "regulatory": 40,
-      "trend": "up",
-      "note": "Live-updated from recent news coverage.",
-      "headlines": [],
-      "toneReading": "Coverage over the last 3 days has been mixed or neutral.",
-      "volumeReading": "Coverage volume has been unusually high this week."
+      "trend": "down",
+      "note": "No fresh coverage this cycle; showing baseline.",
+      "headlines": [
+        {
+          "title": "Masdar Raises Its Gross Renewables Capacity in Serbia to Over 300MW",
+          "url": "https://www.rigzone.com/news/masdar_raises_its_gross_renewables_capacity_in_serbia_to_over_300mw-21-sep-2026-184665-article/",
+          "domain": "rigzone.com"
+        },
+        {
+          "title": "Magyar states Hungary hasnt joined Carpathian Eight \u2013 media",
+          "url": "https://en.interfax.com.ua/news/general/1207664.html",
+          "domain": "en.interfax.com.ua"
+        },
+        {
+          "title": "Procurement Notices - UNDP - SRB - 01513 - IC Strategic Communications and Digital Engagement Consultant",
+          "url": "https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=49882",
+          "domain": "procurement-notices.undp.org"
+        },
+        {
+          "title": "From the streets to the ballot box : What Hungary can teach Serbia",
+          "url": "https://globalvoices.org/2026/09/20/from-the-streets-to-the-ballot-box-what-hungary-can-teach-serbia/",
+          "domain": "globalvoices.org"
+        }
+      ],
+      "toneReading": "No recent coverage found.",
+      "volumeReading": null
     },
     {
       "name": "Singapore",
@@ -824,28 +740,7 @@
       "regulatory": 40,
       "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [
-        {
-          "title": "WEATHER : Severe storms with heavy rain to batter South Africa",
-          "url": "https://www.thesouthafrican.com/news/weather/weather-severe-storms-with-heavy-rain-to-batter-south-africa/",
-          "domain": "thesouthafrican.com"
-        },
-        {
-          "title": "Nissan launches Tekton SUV in South Africa after plant closure",
-          "url": "https://www.asiaone.com:443/lifestyle/nissan-launches-tekton-suv-south-africa-after-plant-closure",
-          "domain": "asiaone.com"
-        },
-        {
-          "title": "All Blacks captain Ardie Savea set for shoulder surgery , likely out for 2026 \u2013 Winnipeg Free Press",
-          "url": "https://www.winnipegfreepress.com/uncategorized/2026/09/21/all-blacks-captain-ardie-savea-set-for-shoulder-surgery-likely-out-for-2026",
-          "domain": "winnipegfreepress.com"
-        },
-        {
-          "title": "South Africa : Looming El Ni\u00f1o Threatens to Shatter SA Summer Harvest Triumph",
-          "url": "https://allafrica.com/stories/202609210816.html",
-          "domain": "allafrica.com"
-        }
-      ],
+      "headlines": [],
       "toneReading": "No recent coverage found.",
       "volumeReading": null
     },
@@ -882,7 +777,7 @@
       "conflict": 94,
       "economic": 86,
       "regulatory": 80,
-      "trend": "up",
+      "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
       "headlines": [],
       "toneReading": "No recent coverage found.",
@@ -891,36 +786,15 @@
     {
       "name": "Syria",
       "region": "MENA",
-      "political": 65,
-      "conflict": 86,
+      "political": 66,
+      "conflict": 89,
       "economic": 69,
       "regulatory": 67,
       "trend": "flat",
-      "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [
-        {
-          "title": "US interests in Syria challenge Moscow - Damascus ties",
-          "url": "http://www.jpost.com/middle-east/article-909188",
-          "domain": "jpost.com"
-        },
-        {
-          "title": "Suspicious explosions increasingly concern Damascus",
-          "url": "http://www.jpost.com/middle-east/article-909204",
-          "domain": "jpost.com"
-        },
-        {
-          "title": "Transport , shipping companies showcase services at CargoSyr 2026",
-          "url": "https://sana.sy/en/economic/2344730/",
-          "domain": "sana.sy"
-        },
-        {
-          "title": "Ukraine Signs Deal to Help Syria Clear Landmines and Other Post - War Perils",
-          "url": "https://www.breitbart.com/middle-east/2026/09/21/ukraine-signs-deal-to-help-syria-clear-landmines-and-other-post-war-perils/",
-          "domain": "breitbart.com"
-        }
-      ],
-      "toneReading": "No recent coverage found.",
-      "volumeReading": null
+      "note": "Live-updated from recent news coverage.",
+      "headlines": [],
+      "toneReading": "Coverage over the last 3 days has leaned negative.",
+      "volumeReading": "Coverage volume has been unusually high this week."
     },
     {
       "name": "Taiwan",
@@ -931,28 +805,7 @@
       "regulatory": 20,
       "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [
-        {
-          "title": "Why Taiwan remains a key issue in China - US ties | Explained",
-          "url": "https://economictimes.indiatimes.com/news/international/world-news/the-taiwan-tension-navigating-the-thorny-path-of-china-us-relations/articleshow/134405729.cms",
-          "domain": "economictimes.indiatimes.com"
-        },
-        {
-          "title": "China , Taiwan and the US : The Taiwan issue explained - The HinduBusinessLine",
-          "url": "https://www.thehindubusinessline.com/news/world/china-taiwan-and-the-us-why-taiwan-is-a-key-issue-in-xi-jinping-trump-talks/article71494371.ece",
-          "domain": "thehindubusinessline.com"
-        },
-        {
-          "title": "The Battle for Taiwan East : Taipei Western Pacific Strategy \u2013 The Diplomat",
-          "url": "https://thediplomat.com/2026/09/the-battle-for-taiwans-east-taipeis-western-pacific-strategy/",
-          "domain": "thediplomat.com"
-        },
-        {
-          "title": "Xi expected to press Trump to halt Taiwan arms sales under 1982 agreement , sources say",
-          "url": "https://www.asiaone.com:443/world/chinas-xi-expected-press-trump-halt-taiwan-arms-sales-under-1982-agreement-sources-say",
-          "domain": "asiaone.com"
-        }
-      ],
+      "headlines": [],
       "toneReading": "No recent coverage found.",
       "volumeReading": null
     },
@@ -1002,7 +855,7 @@
       "conflict": 92,
       "economic": 70,
       "regulatory": 58,
-      "trend": "down",
+      "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
       "headlines": [],
       "toneReading": "No recent coverage found.",
@@ -1015,7 +868,7 @@
       "conflict": 10,
       "economic": 24,
       "regulatory": 22,
-      "trend": "down",
+      "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
       "headlines": [],
       "toneReading": "No recent coverage found.",
@@ -1041,7 +894,7 @@
       "conflict": 48,
       "economic": 88,
       "regulatory": 80,
-      "trend": "up",
+      "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
       "headlines": [],
       "toneReading": "No recent coverage found.",
@@ -1050,15 +903,15 @@
     {
       "name": "Vietnam",
       "region": "Southeast Asia",
-      "political": 22,
+      "political": 37,
       "conflict": 12,
       "economic": 24,
       "regulatory": 30,
-      "trend": "flat",
-      "note": "No fresh coverage this cycle; showing baseline.",
+      "trend": "up",
+      "note": "Live-updated from recent news coverage.",
       "headlines": [],
-      "toneReading": "No recent coverage found.",
-      "volumeReading": null
+      "toneReading": "Coverage over the last 3 days has been mixed or neutral.",
+      "volumeReading": "Coverage volume has been unusually high this week."
     },
     {
       "name": "Yemen",
@@ -1088,6 +941,18 @@
     }
   ],
   "alerts": [
+    {
+      "name": "France",
+      "from": "LOW",
+      "to": "GUARDED",
+      "at": "2026-09-23T03:23:38.537216+00:00"
+    },
+    {
+      "name": "Qatar",
+      "from": "GUARDED",
+      "to": "LOW",
+      "at": "2026-09-23T03:23:38.537216+00:00"
+    },
     {
       "name": "Kazakhstan",
       "from": "GUARDED",
@@ -1255,18 +1120,6 @@
       "from": "GUARDED",
       "to": "LOW",
       "at": "2026-09-20T15:28:07.348136+00:00"
-    },
-    {
-      "name": "Sri Lanka",
-      "from": "LOW",
-      "to": "GUARDED",
-      "at": "2026-09-20T10:38:59.856182+00:00"
-    },
-    {
-      "name": "Myanmar",
-      "from": "HIGH",
-      "to": "SEVERE",
-      "at": "2026-09-16T12:13:07.872034+00:00"
     }
   ]
 }
