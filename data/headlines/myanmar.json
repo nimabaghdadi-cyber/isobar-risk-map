@@ -1,5 +1,480 @@
 {
   "country": "Myanmar",
-  "generatedAt": "2026-09-23T21:05:36.197498+00:00",
-  "headlines": []
+  "generatedAt": "2026-09-24T03:12:40.481429+00:00",
+  "headlines": [
+    {
+      "title": "COMMENT | Msia must halt planned return of 1 , 476 Myanmar refugees to danger",
+      "url": "https://www.malaysiakini.com/columns/885585-comment-msia-must-halt-planned-return-of-1476-myanmar-refugees-to-danger",
+      "domain": "malaysiakini.com",
+      "date": "Sep 24, 2026"
+    },
+    {
+      "title": "Delhi court grants default bail to 6 Ukrainians in Myanmar drone case",
+      "url": "https://dailypioneer.com/news/delhi-court-default-bail-six-ukrainians-myanmar-drone-training-case",
+      "domain": "dailypioneer.com",
+      "date": "Sep 23, 2026"
+    },
+    {
+      "title": "Joint efforts urged to fight scam networks",
+      "url": "http://global.chinadaily.com.cn/a/202609/23/WS6ab325c0e4b06d4aa055fa5f.html",
+      "domain": "global.chinadaily.com.cn",
+      "date": "Sep 23, 2026"
+    },
+    {
+      "title": "What Malaysia Rohingya Repatriation Plan Means for Bangladesh",
+      "url": "https://www.thedailystar.net/slow-reads/geopolitical-insights/news/what-malaysias-rohingya-repatriation-plan-means-bangladesh-4280141",
+      "domain": "thedailystar.net",
+      "date": "Sep 22, 2026"
+    },
+    {
+      "title": "POGOs and Online Scams , From the Philippines to Myanmar",
+      "url": "https://thediplomat.com/2026/09/pogos-and-online-scams-from-the-philippines-to-myanmar/",
+      "domain": "thediplomat.com",
+      "date": "Sep 22, 2026"
+    },
+    {
+      "title": "Myanmar says UN envoy illegitimate ahead of credentials decision",
+      "url": "https://www.freemalaysiatoday.com/category/world/2026/09/13/myanmar-says-un-envoy-illegitimate-ahead-of-credentials-decision",
+      "domain": "freemalaysiatoday.com",
+      "date": "Sep 13, 2026"
+    },
+    {
+      "title": "Arab News | Myanmar says UN envoy illegitimate ahead of credentials decision",
+      "url": "https://www.arabnews.com/world/myanmar-says-un-envoy-illegitimate-ahead-of-credentials-decision-3001534",
+      "domain": "arabnews.com",
+      "date": "Sep 13, 2026"
+    },
+    {
+      "title": "Myanmar government revokes status and seeks action against UN envoy Kyaw Moe Tun",
+      "url": "https://www.asiaone.com:443/asia/myanmar-government-revokes-status-and-seeks-action-against-un-envoy-kyaw-moe-tun",
+      "domain": "asiaone.com",
+      "date": "Sep 13, 2026"
+    },
+    {
+      "title": "Myanmar head visits Cambodia for meeting | The Arkansas Democrat - Gazette",
+      "url": "https://www.arkansasonline.com/news/2026/sep/12/myanmars-head-visits-cambodia-for-meeting/",
+      "domain": "arkansasonline.com",
+      "date": "Sep 12, 2026"
+    },
+    {
+      "title": "Poverty and barriers to education driving child labour in rural Myanmar , new ILO study finds",
+      "url": "https://www.ilo.org/resource/article/poverty-and-barriers-education-driving-child-labour-rural-myanmar-new-ilo",
+      "domain": "ilo.org",
+      "date": "Sep 11, 2026"
+    },
+    {
+      "title": "2 Assam residents held with 576g heroin in Mizoram Champhai town | Guwahati News",
+      "url": "https://timesofindia.indiatimes.com/city/guwahati/2-assam-residents-held-with-576g-heroin-in-mizorams-champhai-town/articleshow/134080860.cms",
+      "domain": "timesofindia.indiatimes.com",
+      "date": "Sep 11, 2026"
+    },
+    {
+      "title": "How Myanmar civil war is reshaping its mineral economy",
+      "url": "https://www.mining-technology.com/analysis/how-myanmars-civil-war-is-reshaping-its-mineral-economy/",
+      "domain": "mining-technology.com",
+      "date": "Sep 11, 2026"
+    },
+    {
+      "title": "Myanmar airport shut after rebel drone attack : security sources",
+      "url": "https://www.thehindu.com/news/international/myanmar-airport-shut-after-rebel-drone-attack-security-sources/article71455106.ece",
+      "domain": "thehindu.com",
+      "date": "Sep 11, 2026"
+    },
+    {
+      "title": "Myanmar Min Aung Hlaing visits Cambodia as he seeks to restore ASEAN engagement",
+      "url": "https://www.therecord.com/news/world/asia/myanmar-s-min-aung-hlaing-visits-cambodia-as-he-seeks-to-restore-asean-engagement/article_fdbf1225-7a71-5b98-8821-3b54dbcd4931.html",
+      "domain": "therecord.com",
+      "date": "Sep 11, 2026"
+    },
+    {
+      "title": "Rs 14 . 47cr drugs seized in Mizoram in 4 days , six held",
+      "url": "https://timesofindia.indiatimes.com/city/guwahati/rs-14-47cr-drugs-seized-in-mizoram-in-4-days-six-held/articleshow/134025628.cms",
+      "domain": "timesofindia.indiatimes.com",
+      "date": "Sep 10, 2026"
+    },
+    {
+      "title": "Bangladesh Rohingya Crisis Latest Update 2026 | Bangladesh to hold talks with China , Myanmar over Rohingya crisis : State minister",
+      "url": "https://www.thedailystar.net/news/bangladesh/diplomacy/news/bangladesh-hold-talks-china-myanmar-over-rohingya-crisis-state-minister-4269376",
+      "domain": "thedailystar.net",
+      "date": "Sep 10, 2026"
+    },
+    {
+      "title": "Agriculture Minister Shivraj Chouhan holds bilateral talks with counterparts from Malaysia , Timor - Leste , Myanmar to deepen ties",
+      "url": "https://aninews.in/news/national/general-news/agriculture-minister-shivraj-chouhan-holds-bilateral-talks-with-counterparts-from-malaysia-timor-leste-myanmar-to-deepen-ties20260910124658/",
+      "domain": "aninews.in",
+      "date": "Sep 10, 2026"
+    },
+    {
+      "title": "Ministry of Agriculture holds bilateral talks with Malaysia , Timor - Leste , and Myanmar on cooperation",
+      "url": "https://economictimes.indiatimes.com/news/india/ministry-of-agriculture-holds-bilateral-talks-with-malaysia-timor-leste-and-myanmar-on-cooperation/articleshow/133998845.cms",
+      "domain": "economictimes.indiatimes.com",
+      "date": "Sep 10, 2026"
+    },
+    {
+      "title": "As Myanmar civil war intensifies , Rohingya Muslims face violence once again",
+      "url": "https://www.abc.net.au/listen/programs/global-roaming/rohingya-muslims-face-violence-once-again/107066410",
+      "domain": "abc.net.au",
+      "date": "Sep 10, 2026"
+    },
+    {
+      "title": "NIA files chargesheet against Van Dyke , others ; does not invoke UAPA , seeks further probe",
+      "url": "https://idrw.org/nia-files-chargesheet-against-van-dyke-others-does-not-invoke-uapa-seeks-further-probe/",
+      "domain": "idrw.org",
+      "date": "Sep 09, 2026"
+    },
+    {
+      "title": "Myanmar digital ID strategy comes amid a fraught landscape",
+      "url": "https://www.biometricupdate.com/202609/myanmars-digital-id-strategy-comes-amid-a-fraught-landscape",
+      "domain": "biometricupdate.com",
+      "date": "Sep 08, 2026"
+    },
+    {
+      "title": "NIA Drops Terror Charges Against US Mercenary Matthew VanDyke & 6 Ukrainians",
+      "url": "https://www.freepressjournal.in/india/nia-drops-terror-charges-against-us-mercenary-matthew-vandyke-6-ukrainians",
+      "domain": "freepressjournal.in",
+      "date": "Sep 08, 2026"
+    },
+    {
+      "title": "Three Taiwanese face fraud charges in Myanmar : MOFA",
+      "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/09/09/2003863942",
+      "domain": "taipeitimes.com",
+      "date": "Sep 08, 2026"
+    },
+    {
+      "title": "NIA files chargesheet against Van Dyke , others ; does not invoke UAPA ,",
+      "url": "https://dailypioneer.com/news/nia-files-chargesheet-against-van-dyke-others-does-not-invoke",
+      "domain": "dailypioneer.com",
+      "date": "Sep 08, 2026"
+    },
+    {
+      "title": "24 , 475 Illegal Myanmar immigrants detected in Manipur ; 14 , 992 pushed back",
+      "url": "https://www.newindianexpress.com/india/2026/Sep/07/24475-illegal-myanmar-immigrants-detected-in-manipur-14992-pushed-back",
+      "domain": "newindianexpress.com",
+      "date": "Sep 07, 2026"
+    },
+    {
+      "title": "Manipur Police probing attack on three border villages in Kamjong : Home Minister",
+      "url": "https://theshillongtimes.com/2026/09/07/manipur-police-probing-attack-on-three-border-villages-in-kamjong-home-minister/",
+      "domain": "theshillongtimes.com",
+      "date": "Sep 07, 2026"
+    },
+    {
+      "title": "Jailed Ukrainians launched drone attack on Myanmar passenger plane - Delhi",
+      "url": "https://www.sott.net/article/508267-Jailed-Ukrainians-launched-drone-attack-on-Myanmar-passenger-plane-Delhi",
+      "domain": "sott.net",
+      "date": "Sep 06, 2026"
+    },
+    {
+      "title": "Three held with 20 , 000 yaba tablets , medicines in Teknaf",
+      "url": "https://www.bssnews.net/others/421700",
+      "domain": "bssnews.net",
+      "date": "Sep 06, 2026"
+    },
+    {
+      "title": "Vietnam , Myanmar deepen defense ties | The Arkansas Democrat - Gazette",
+      "url": "https://www.arkansasonline.com/news/2026/sep/06/vietnam-myanmar-deepen-defense-ties/",
+      "domain": "arkansasonline.com",
+      "date": "Sep 06, 2026"
+    },
+    {
+      "title": "Vietnam , Myanmar agree to deepen defence ties during Min Aung Hlaing visit",
+      "url": "https://www.asiaone.com/asia/vietnam-myanmar-agree-deepen-defence-ties-during-min-aung-hlaing-visit",
+      "domain": "asiaone.com",
+      "date": "Sep 06, 2026"
+    },
+    {
+      "title": "Vietnam , Myanmar agree to deepen defence ties",
+      "url": "https://www.freemalaysiatoday.com/category/world/2026/09/05/vietnam-myanmar-agree-to-deepen-defence-ties",
+      "domain": "freemalaysiatoday.com",
+      "date": "Sep 05, 2026"
+    },
+    {
+      "title": "India advances rare earths collaboration with Myanmar : Report",
+      "url": "https://www.prokerala.com/news/articles/a1808823.html",
+      "domain": "prokerala.com",
+      "date": "Sep 05, 2026"
+    },
+    {
+      "title": "India turns to Myanmar for supply of critical minerals",
+      "url": "https://timesofoman.com/article/176478-india-turns-to-myanmar-for-supply-of-critical-minerals",
+      "domain": "timesofoman.com",
+      "date": "Sep 05, 2026"
+    },
+    {
+      "title": "President Of Myanmar Visits VinFast Manufacturing Complex In Hai Phong",
+      "url": "https://www.manilatimes.net/2026/09/05/tmt-newswire/media-outreach-newswire/president-of-myanmar-visits-vinfast-manufacturing-complex-in-hai-phong/2419110",
+      "domain": "manilatimes.net",
+      "date": "Sep 05, 2026"
+    },
+    {
+      "title": "NIA links foreign nationals arrested in India to Myanmar drone attack",
+      "url": "https://www.newindianexpress.com/cities/delhi/2026/Sep/04/nia-links-foreign-nationals-arrested-in-india-to-myanmar-drone-attack",
+      "domain": "newindianexpress.com",
+      "date": "Sep 04, 2026"
+    },
+    {
+      "title": "Myanmar military head visits Vietnam to normalize relations",
+      "url": "https://knpr.org/npr/2026-09-04/myanmar-military-head-visits-vietnam-to-normalize-relations",
+      "domain": "knpr.org",
+      "date": "Sep 04, 2026"
+    },
+    {
+      "title": "Head of Myanmar military - backed government visits Vietnam in bid to normalize ties",
+      "url": "https://www.newsday.com/news/nation/myanmar-min-aung-hlaing-vietnam-to-lam-w11998",
+      "domain": "newsday.com",
+      "date": "Sep 04, 2026"
+    },
+    {
+      "title": "Myanmar leader visits Vietnam on diplomatic comeback tour",
+      "url": "https://www.freemalaysiatoday.com/category/world/2026/09/04/myanmar-leader-visits-vietnam-on-diplomatic-comeback-tour",
+      "domain": "freemalaysiatoday.com",
+      "date": "Sep 04, 2026"
+    },
+    {
+      "title": "Myanmar Min Aung Hlaing visiting Vietnam as he seeks to normalize relations with ASEAN",
+      "url": "https://www.wral.com/news/ap/f97f4-myanmars-min-aung-hlaing-visiting-vietnam-as-he-seeks-to-normalize-relations-with-asean/",
+      "domain": "wral.com",
+      "date": "Sep 04, 2026"
+    },
+    {
+      "title": "Myanmar Min Aung Hlaing visiting Vietnam as he seeks to normalize relations with ASEAN \u2013 Winnipeg Free Press",
+      "url": "https://www.winnipegfreepress.com/business/2026/09/04/myanmars-min-aung-hlaing-visiting-vietnam-as-he-seeks-to-normalize-relations-with-asean",
+      "domain": "winnipegfreepress.com",
+      "date": "Sep 04, 2026"
+    },
+    {
+      "title": "NIA Tells Delhi Court 7 Foreign Nationals Arrested In Terror Case Linked To Myanmar Drone Attack",
+      "url": "https://www.outlookindia.com/national/nia-tells-delhi-court-7-foreign-nationals-arrested-in-terror-case-linked-to-myanmar-drone-attack",
+      "domain": "outlookindia.com",
+      "date": "Sep 04, 2026"
+    },
+    {
+      "title": "Chinese embassy donates educational equipment to Myanmar school",
+      "url": "http://www.china.org.cn/2026-09/04/content_118680140.shtml",
+      "domain": "china.org.cn",
+      "date": "Sep 04, 2026"
+    },
+    {
+      "title": "Myanmar vows  safe  returns ahead of Malaysia repatriations",
+      "url": "https://www.freemalaysiatoday.com/category/highlight/2026/09/03/myanmar-vows-safe-returns-ahead-of-malaysia-repatriations",
+      "domain": "freemalaysiatoday.com",
+      "date": "Sep 03, 2026"
+    },
+    {
+      "title": "Brown sugar worth Rs 80 crore seized in Manipur , one held",
+      "url": "https://www.prokerala.com/news/articles/a1807871.html",
+      "domain": "prokerala.com",
+      "date": "Sep 02, 2026"
+    },
+    {
+      "title": "Nine years into crisis , over one million Rohingya refugees remain in Bangladesh \u2013 Shafaqna English",
+      "url": "https://en.shafaqna.com/474833/nine-years-into-crisis-over-one-million-rohingya-refugees-remain-in-bangladesh/",
+      "domain": "en.shafaqna.com",
+      "date": "Sep 02, 2026"
+    },
+    {
+      "title": "2 nabbed after baby found in bin at Penang airport toilet",
+      "url": "https://www.freemalaysiatoday.com/category/nation/2026/09/02/2-nabbed-after-baby-found-in-bin-at-penang-airport-toilet",
+      "domain": "freemalaysiatoday.com",
+      "date": "Sep 02, 2026"
+    },
+    {
+      "title": "Arab News | OPINION : Genocide does not end when the killing stops",
+      "url": "https://www.arabnews.com/opinion/opinion-genocide-does-not-end-when-the-killing-stops-3000160",
+      "domain": "arabnews.com",
+      "date": "Sep 02, 2026"
+    },
+    {
+      "title": "Myanmar youth working abroad harms national development and depletes resources : President",
+      "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/09/02/myanmar-youth-working-abroad-harms-national-development-and-depletes-resources-president",
+      "domain": "thestar.com.my",
+      "date": "Sep 02, 2026"
+    },
+    {
+      "title": "Rohingya Crisis : Why Bangladesh is Running Out of Options",
+      "url": "https://www.thedailystar.net/slow-reads/unheard-voices/news/bangladesh-running-out-options-rohingya-crisis-there-way-out-4262311",
+      "domain": "thedailystar.net",
+      "date": "Sep 01, 2026"
+    },
+    {
+      "title": "30 - member Parliament delegation from Myanmar set to begin India visit",
+      "url": "https://www.prokerala.com/news/articles/a1807290.html",
+      "domain": "prokerala.com",
+      "date": "Sep 01, 2026"
+    },
+    {
+      "title": "Myanmar Min Aung Hlaing to visit Vietnam this week , continuing push for re - engagement - Asia & Pacific",
+      "url": "http://www.thejakartapost.com/world/2026/09/01/myanmars-min-aung-hlaing-to-visit-vietnam-this-week-continuing-push-for-re-engagement",
+      "domain": "thejakartapost.com",
+      "date": "Sep 01, 2026"
+    },
+    {
+      "title": "Singapore diplomat , Myanmar activist and Bangladeshi aid giver win Magsaysay awards",
+      "url": "https://isp.netscape.com:443/news/world/story/0001/20260831/3a7721dba8ca0cbe1440423bc82b37b1",
+      "domain": "isp.netscape.com",
+      "date": "Aug 31, 2026"
+    },
+    {
+      "title": "Singapore diplomat , Myanmar activist and Bangladeshi aid giver win Magsaysay awards \u2013 Winnipeg Free Press",
+      "url": "https://www.winnipegfreepress.com/world/2026/08/31/singapore-diplomat-myanmar-activist-and-bangladeshi-aid-giver-win-magsaysay-awards",
+      "domain": "winnipegfreepress.com",
+      "date": "Aug 31, 2026"
+    },
+    {
+      "title": "Huasun Expands Southeast Asia Footprint with 13 . 7MW Himalaya PLUS Module Supply for Myanmar Project",
+      "url": "https://en.antaranews.com/news/429115/huasun-expands-southeast-asia-footprint-with-137mw-himalaya-plus-module-supply-for-myanmar-project",
+      "domain": "en.antaranews.com",
+      "date": "Aug 31, 2026"
+    },
+    {
+      "title": "Sri Lanka ranks third globally for most public holidays - Breaking News",
+      "url": "https://www.dailymirror.lk/breaking-news/Sri-Lanka-ranks-third-globally-for-most-public-holidays/108-349124",
+      "domain": "dailymirror.lk",
+      "date": "Aug 31, 2026"
+    },
+    {
+      "title": "\u0647\u0628\u0648\u0637 \u0645\u0631\u0639\u0628 \u0628\u06406 , 000 \u0642\u062f\u0645 .. \u0633\u064a\u062f\u0629 \u062a\u0642\u0627\u0636\u064a \u0634\u0631\u0643\u0629 \u0637\u064a\u0631\u0627\u0646 \u0628\u0639\u062f \u0648\u0641\u0627\u0629 \u0632\u0648\u062c\u0647\u0627 !",
+      "url": "https://www.okaz.com.sa/variety/na/2263440",
+      "domain": "okaz.com.sa",
+      "date": "Aug 30, 2026"
+    },
+    {
+      "title": "3 held in Guwahati with Rs3 . 5cr heroin | Guwahati News",
+      "url": "https://timesofindia.indiatimes.com/city/guwahati/3-held-in-guwahati-with-rs3-5cr-heroin/articleshow/133598164.cms",
+      "domain": "timesofindia.indiatimes.com",
+      "date": "Aug 28, 2026"
+    },
+    {
+      "title": "Shafaqna English | International Shia News & Fatwas",
+      "url": "https://en.shafaqna.com/474020/474020/",
+      "domain": "en.shafaqna.com",
+      "date": "Aug 28, 2026"
+    },
+    {
+      "title": "Earthquake fault irregularities control rupture speed and influence ground motion \u2013 Physics World",
+      "url": "https://physicsworld.com/a/earthquake-fault-irregularities-control-rupture-speed-and-influence-ground-motion/",
+      "domain": "physicsworld.com",
+      "date": "Aug 28, 2026"
+    },
+    {
+      "title": "Myanmar Civil War Hasnt Prevented Critical Mineral Extraction",
+      "url": "https://foreignpolicy.com/2026/08/27/myanmar-china-critical-minerals/",
+      "domain": "foreignpolicy.com",
+      "date": "Aug 27, 2026"
+    },
+    {
+      "title": "Malaysia says first Myanmar repatriations will start on Sept . 29",
+      "url": "https://www.straitstimes.com/asia/malaysia-says-first-myanmar-repatriations-will-start-on-sept-29",
+      "domain": "straitstimes.com",
+      "date": "Aug 27, 2026"
+    },
+    {
+      "title": "Over 1 , 400 Myanmar nationals to be repatriated on Sept 29 , says Home Ministry",
+      "url": "https://www.thestar.com.my/news/nation/2026/08/27/over-1400-myanmar-nationals-to-be-repatriated-on-sept-29-says-home-ministry",
+      "domain": "thestar.com.my",
+      "date": "Aug 27, 2026"
+    },
+    {
+      "title": "Belarusian \u2013 Myanmar co - operation yields results",
+      "url": "https://www.sb.by/en/belarusian-myanmar-co-operation-yields-results.html",
+      "domain": "sb.by",
+      "date": "Aug 27, 2026"
+    },
+    {
+      "title": "The Rohingya need political power , not just protection",
+      "url": "https://www.arabnews.com/node/2655953",
+      "domain": "arabnews.com",
+      "date": "Aug 26, 2026"
+    },
+    {
+      "title": "A Thai woman suspected in Myanmar death of US diplomat gets 1 - year prison term on immigration charge",
+      "url": "https://www.news4jax.com/news/world/2026/08/26/a-thai-woman-suspected-in-myanmar-death-of-us-diplomat-gets-1-year-prison-term-on-immigration-charge/",
+      "domain": "news4jax.com",
+      "date": "Aug 26, 2026"
+    },
+    {
+      "title": "Human rights in Myanmar fall to  new low  \u2013 UN",
+      "url": "https://www.manilatimes.net/2026/08/27/world/asia-oceania/human-rights-in-myanmar-fall-to-new-low-un/2412500",
+      "domain": "manilatimes.net",
+      "date": "Aug 26, 2026"
+    },
+    {
+      "title": "A Thai woman suspected in Myanmar death of US diplomat gets 1 - year jail term on immigration charge \u2013 Winnipeg Free Press",
+      "url": "https://www.winnipegfreepress.com/world/2026/08/26/a-thai-woman-suspected-in-myanmar-death-of-us-diplomat-gets-1-year-jail-term-on-immigration-charge",
+      "domain": "winnipegfreepress.com",
+      "date": "Aug 26, 2026"
+    },
+    {
+      "title": "Rohingyas in Myanmar suffering  heartbreaking  misery and cruelty Global Issues",
+      "url": "https://www.globalissues.org/news/2026/08/25/43896",
+      "domain": "globalissues.org",
+      "date": "Aug 26, 2026"
+    },
+    {
+      "title": "Human rights in Myanmar hit  new low , fuelled by illegal mining and scam centres , UN warns",
+      "url": "https://www.euronews.com/2026/08/26/human-rights-in-myanmar-hit-new-low-fuelled-by-illegal-mining-and-scam-centres-un-warns",
+      "domain": "euronews.com",
+      "date": "Aug 26, 2026"
+    },
+    {
+      "title": "Bangladesh Rohingya Repatriation | Rohingya return in a quagmire",
+      "url": "https://www.thedailystar.net/news/bangladesh/news/rohingya-return-quagmire-4257081",
+      "domain": "thedailystar.net",
+      "date": "Aug 26, 2026"
+    },
+    {
+      "title": "Myanmar : Why Rohingya refugees cant return",
+      "url": "https://www.malaysiakini.com/news/782963",
+      "domain": "malaysiakini.com",
+      "date": "Aug 26, 2026"
+    },
+    {
+      "title": "What next for the Rohingya people in the U . S .?",
+      "url": "https://www.wbur.org/hereandnow/2026/08/25/rohingya-rememberance-tps",
+      "domain": "wbur.org",
+      "date": "Aug 26, 2026"
+    },
+    {
+      "title": "Human rights in Myanmar hitting a  new low : UN",
+      "url": "https://www.bssnews.net/international/418115",
+      "domain": "bssnews.net",
+      "date": "Aug 25, 2026"
+    },
+    {
+      "title": "Rohingya refugees rally in Bangladesh camps to demand safe return to Myanmar",
+      "url": "https://www.thehindu.com/news/international/rohingya-refugees-rally-in-bangladesh-camps-to-demand-safe-return-to-myanmar/article71389989.ece",
+      "domain": "thehindu.com",
+      "date": "Aug 25, 2026"
+    },
+    {
+      "title": "Nine years in limbo , Rohingya hold on to memories of life before displacement",
+      "url": "https://www.arabnews.com/node/2655811/world",
+      "domain": "arabnews.com",
+      "date": "Aug 25, 2026"
+    },
+    {
+      "title": "What would justice look like if there were no Rohingya left in Myanmar ?",
+      "url": "https://www.aljazeera.com/opinions/2026/8/25/what-would-justice-look-like-if-there-were-no-rohingya-left-in-myanmar",
+      "domain": "aljazeera.com",
+      "date": "Aug 25, 2026"
+    },
+    {
+      "title": "Vietnam says its foreign minister will visit Myanmar on Wednesday",
+      "url": "https://www.freemalaysiatoday.com/category/world/2026/08/25/vietnam-says-its-foreign-minister-will-visit-myanmar-on-wednesday",
+      "domain": "freemalaysiatoday.com",
+      "date": "Aug 25, 2026"
+    },
+    {
+      "title": "UK , EU missions in Dhaka stress Rohingya right to return to Myanmar",
+      "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/08/25/uk-eu-missions-in-dhaka-stress-rohingya-right-to-return-to-myanmar",
+      "domain": "thestar.com.my",
+      "date": "Aug 25, 2026"
+    },
+    {
+      "title": "Veteran Myanmar singer Kaiser laid to rest at Yayway Cemetery",
+      "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/08/25/veteran-myanmar-singer-kaiser-laid-to-rest-at-yayway-cemetery",
+      "domain": "thestar.com.my",
+      "date": "Aug 25, 2026"
+    }
+  ]
 }
