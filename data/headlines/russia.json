@@ -1,5 +1,576 @@
 {
   "country": "Russia",
-  "generatedAt": "2026-09-25T11:10:49.309423+00:00",
-  "headlines": []
+  "generatedAt": "2026-09-25T16:34:06.036242+00:00",
+  "headlines": [
+    {
+      "title": "Why India wants peace in Ukraine and China doesnt",
+      "url": "https://www.freemalaysiatoday.com/category/opinion/2026/09/25/why-india-wants-peace-in-ukraine-and-china-doesn-t",
+      "domain": "freemalaysiatoday.com",
+      "date": "Sep 25, 2026"
+    },
+    {
+      "title": "Russia will escalate hybrid attacks against NATO , West , says Denmark",
+      "url": "http://www.jpost.com/international/internationalrussia-ukraine-war/article-909570",
+      "domain": "jpost.com",
+      "date": "Sep 24, 2026"
+    },
+    {
+      "title": "Dont let Putin drag you into this war : Zelenskyy to India , others",
+      "url": "https://www.rediff.com/news/report/dont-let-putin-drag-you-into-this-war-zelenskyy-to-india-others/20260924.htm",
+      "domain": "rediff.com",
+      "date": "Sep 24, 2026"
+    },
+    {
+      "title": "Do not let Putin drag you into this war : Zelenskyy urges India , 46 other nations at UN to  limit  Russia war capabilities",
+      "url": "https://economictimes.indiatimes.com/news/defence/do-not-let-putin-drag-you-into-this-war-zelenskyy-urges-india-46-other-nations-at-un-to-limit-russias-war-capabilities/articleshow/134450520.cms",
+      "domain": "economictimes.indiatimes.com",
+      "date": "Sep 24, 2026"
+    },
+    {
+      "title": "Zelenskyy warns Indians against joining war by Russia :  Dont let Putin drag you in",
+      "url": "https://www.moneycontrol.com/news/india/zelenskyy-warns-indians-against-joining-war-by-russia-don-t-let-putin-drag-you-in-14036868.html",
+      "domain": "moneycontrol.com",
+      "date": "Sep 24, 2026"
+    },
+    {
+      "title": "Zelensky says Russia tricking Indians into joining war :  Dont let Putin drag you in",
+      "url": "https://www.hindustantimes.com/india-news/zelensky-says-russia-tricking-indians-into-joining-ukraine-war-don-t-let-putin-drag-you-in-at-unga-101790211686923.html",
+      "domain": "hindustantimes.com",
+      "date": "Sep 24, 2026"
+    },
+    {
+      "title": "Dont Let Putin Drag You into This War : Zelenskyy Warns India , 46 Nations at UN",
+      "url": "https://www.deccanchronicle.com/world/europe/dont-let-putin-drag-you-into-this-war-zelenskyy-warns-india-46-nations-at-un-1990091",
+      "domain": "deccanchronicle.com",
+      "date": "Sep 24, 2026"
+    },
+    {
+      "title": "Zelenskyy , at UN , urges leaders to keep choking Russia revenues and impede its war efforts",
+      "url": "https://www.newindianexpress.com/world/2026/Sep/23/zelenskyy-at-un-urges-leaders-to-keep-choking-russias-revenues-and-impede-its-war-efforts",
+      "domain": "newindianexpress.com",
+      "date": "Sep 23, 2026"
+    },
+    {
+      "title": "Russia is basing its economy on India : Zelenskyy calls for end to oil trade",
+      "url": "https://www.moneycontrol.com/world/russia-is-basing-its-economy-on-india-zelenskyy-calls-for-end-to-oil-trade-article-14036161.html",
+      "domain": "moneycontrol.com",
+      "date": "Sep 23, 2026"
+    },
+    {
+      "title": "Russia ruling party takes early lead , on course for constitutional majority",
+      "url": "https://aa.com.tr/en/eurasia/russias-ruling-party-takes-early-lead-on-course-for-constitutional-majority/4062944",
+      "domain": "aa.com.tr",
+      "date": "Sep 21, 2026"
+    },
+    {
+      "title": "United Russia dominates Russia first parliamentary election since Ukraine war began",
+      "url": "https://www.dailystar.co.uk/news/world-news/united-russia-dominates-russias-first-37683379",
+      "domain": "dailystar.co.uk",
+      "date": "Sep 21, 2026"
+    },
+    {
+      "title": "Putin maintains grip on Russia as party leads wartime parliamentary elections",
+      "url": "https://www.hindustantimes.com/world-news/vladimir-putin-maintains-grip-on-russia-as-party-leads-wartime-parliamentary-polls-state-duma-elections-101789952033064.html",
+      "domain": "hindustantimes.com",
+      "date": "Sep 21, 2026"
+    },
+    {
+      "title": "Russia wraps up first wartime parliamentary election , Kremlin set to retain control",
+      "url": "https://timesofindia.indiatimes.com/world/europe/russia-wraps-up-first-wartime-parliamentary-election-kremlin-set-to-retain-control/articleshow/134374935.cms",
+      "domain": "timesofindia.indiatimes.com",
+      "date": "Sep 20, 2026"
+    },
+    {
+      "title": "Russia imports record fuel from India as Ukraine strikes hit refineries - Moneycontrol . com",
+      "url": "https://www.moneycontrol.com/news/india/russia-imports-record-fuel-from-india-as-ukraine-strikes-hit-refineries-14028864.html",
+      "domain": "moneycontrol.com",
+      "date": "Sep 13, 2026"
+    },
+    {
+      "title": "US House of Representatives to vote on Russia sanctions bill that could hit India with tariffs",
+      "url": "https://www.moneycontrol.com/world/us-house-of-representatives-to-vote-on-russia-sanctions-bill-that-could-hit-india-with-tariffs-article-14028262.html",
+      "domain": "moneycontrol.com",
+      "date": "Sep 12, 2026"
+    },
+    {
+      "title": "Putin warns Europe against troops in Ukraine , says it would mean  war against Russia",
+      "url": "https://www.moneycontrol.com/world/putin-warns-europe-against-troops-in-ukraine-says-it-would-mean-war-against-russia-article-14028272.html",
+      "domain": "moneycontrol.com",
+      "date": "Sep 12, 2026"
+    },
+    {
+      "title": "Russian president discusses ties , trade with South African , Egyptian , Malaysian leaders",
+      "url": "https://aa.com.tr/en/world/russian-president-discusses-ties-trade-with-south-african-egyptian-malaysian-leaders/4054707",
+      "domain": "aa.com.tr",
+      "date": "Sep 11, 2026"
+    },
+    {
+      "title": "Russian president discusses bilateral ties with South African , Egyptian counterparts",
+      "url": "https://aa.com.tr/en/asia-pacific/russian-president-discusses-bilateral-ties-with-south-african-egyptian-counterparts/4054707",
+      "domain": "aa.com.tr",
+      "date": "Sep 11, 2026"
+    },
+    {
+      "title": "Russia suffers troops loss horror and plunging economy but Putin wont give up",
+      "url": "https://www.aol.co.uk/articles/russia-suffers-troops-loss-horror-120626000.html",
+      "domain": "aol.co.uk",
+      "date": "Sep 11, 2026"
+    },
+    {
+      "title": "Russia loses troops and suffers plunging economy but Putin wont give up",
+      "url": "https://www.mirror.co.uk/news/world-news/putin-zelensky-russia-ukraine-troops-37652015",
+      "domain": "mirror.co.uk",
+      "date": "Sep 11, 2026"
+    },
+    {
+      "title": "Humiliated Putin Nightmare Deepens After  Overwhelming  Attacks",
+      "url": "https://www.thedailybeast.com/humiliated-putins-nightmare-deepens-after-overwhelming-attacks/",
+      "domain": "thedailybeast.com",
+      "date": "Sep 11, 2026"
+    },
+    {
+      "title": "Indo Russia  Innopraktika  Technology Hub seals four agreements at Innoprom India 2026",
+      "url": "https://economictimes.indiatimes.com/news/india/indo-russia-innopraktika-technology-hub-seals-four-agreements-at-innoprom-india-2026/articleshow/134047324.cms",
+      "domain": "economictimes.indiatimes.com",
+      "date": "Sep 11, 2026"
+    },
+    {
+      "title": "Ukraine battlefield optimism is ebbing as Russia threatens its  fortress belt",
+      "url": "https://freerepublic.com/focus/f-news/4395039/posts",
+      "domain": "freerepublic.com",
+      "date": "Sep 11, 2026"
+    },
+    {
+      "title": "India seeks long - term trade , investment commitment from Russia",
+      "url": "https://www.newindianexpress.com/business/2026/Sep/10/india-seeks-long-term-trade-investment-commitment-from-russia",
+      "domain": "newindianexpress.com",
+      "date": "Sep 10, 2026"
+    },
+    {
+      "title": "Russians about Goethe - Institut :  Hostage to politics",
+      "url": "https://www.dw.com/en/russians-about-goethe-institut-hostage-to-politics/a-79218936",
+      "domain": "dw.com",
+      "date": "Sep 10, 2026"
+    },
+    {
+      "title": "India fast - tracks new BIT with Russia , seeks early conclusion of EAEU FTA : Piyush Goyal",
+      "url": "https://www.moneycontrol.com/news/business/india-fast-tracks-new-bit-with-russia-seeks-early-conclusion-of-eaeu-fta-piyush-goyal-14027323.html",
+      "domain": "moneycontrol.com",
+      "date": "Sep 10, 2026"
+    },
+    {
+      "title": "Russia to open more cultural centres in Africa as it seeks to broaden influence",
+      "url": "https://www.bbc.co.uk/news/articles/c17j90jg0peo",
+      "domain": "bbc.co.uk",
+      "date": "Sep 10, 2026"
+    },
+    {
+      "title": "Russia working to ease visa rules with countries in Asia , Africa , Middle East , Latin America",
+      "url": "https://aa.com.tr/en/world/russia-working-to-ease-visa-rules-with-countries-in-asia-africa-middle-east-latin-america/4052439",
+      "domain": "aa.com.tr",
+      "date": "Sep 09, 2026"
+    },
+    {
+      "title": "Who will stand up to Russia ?",
+      "url": "https://www.dailysabah.com/opinion/columns/who-will-stand-up-to-russia",
+      "domain": "dailysabah.com",
+      "date": "Sep 08, 2026"
+    },
+    {
+      "title": "N Korea hails road bridge to Russia",
+      "url": "https://www.taipeitimes.com/News/world/archives/2026/09/09/2003863958",
+      "domain": "taipeitimes.com",
+      "date": "Sep 08, 2026"
+    },
+    {
+      "title": "Hungary orders 10 Russian diplomats to leave the country over activities deemed unacceptable",
+      "url": "https://www.ksat.com/news/world/2026/09/08/hungary-orders-10-russian-diplomats-to-leave-the-country-over-activities-deemed-unacceptable/",
+      "domain": "ksat.com",
+      "date": "Sep 08, 2026"
+    },
+    {
+      "title": "Finnish President Just Made Some Surprisingly Frank Comments About Russia",
+      "url": "https://www.zerohedge.com/geopolitical/finnish-president-just-made-some-surprisingly-frank-comments-about-russia",
+      "domain": "zerohedge.com",
+      "date": "Sep 04, 2026"
+    },
+    {
+      "title": "Decoding Russia reliance on Indian petroleum products",
+      "url": "https://www.thehindu.com/data/decoding-russias-reliance-on-indian-petroleum-products/article71423743.ece",
+      "domain": "thehindu.com",
+      "date": "Sep 03, 2026"
+    },
+    {
+      "title": "Prabowo says Pacific must be bridge between Indonesia and Russia",
+      "url": "https://en.antaranews.com/news/429720/prabowo-says-pacific-must-be-bridge-between-indonesia-and-russia",
+      "domain": "en.antaranews.com",
+      "date": "Sep 03, 2026"
+    },
+    {
+      "title": "Prabowo seeks to double Indonesia - Russia trade via I - EAEU FTA",
+      "url": "https://en.antaranews.com/news/429727/prabowo-seeks-to-double-indonesia-russia-trade-via-i-eaeu-fta",
+      "domain": "en.antaranews.com",
+      "date": "Sep 03, 2026"
+    },
+    {
+      "title": "Finally ! Germany Blames Russia for Leipzig Airport Attack",
+      "url": "https://hotair.com/john-s-2/2026/09/01/finally-germany-blames-russia-for-leipzig-airport-attack-n3818593",
+      "domain": "hotair.com",
+      "date": "Sep 02, 2026"
+    },
+    {
+      "title": "Do not gamble : On the Russia - Ukraine conflict",
+      "url": "https://www.thehindu.com/opinion/editorial/do-not-gamble-on-the-russia-ukraine-conflict/article71415822.ece",
+      "domain": "thehindu.com",
+      "date": "Sep 01, 2026"
+    },
+    {
+      "title": "Aughinish Alumina exports to Russia continue to rise \u2013 The Irish Times",
+      "url": "https://www.irishtimes.com/ireland/2026/09/01/aughinish-aluminas-exports-to-russia-continue-to-rise/",
+      "domain": "irishtimes.com",
+      "date": "Sep 01, 2026"
+    },
+    {
+      "title": "NATO Arctic Moves Pose  Direct Threat  to Russia , Says Lavrov",
+      "url": "https://english.aawsat.com/world/5312942-nato%E2%80%99s-arctic-moves-pose-%E2%80%98direct-threat%E2%80%99-russia-says-lavrov",
+      "domain": "english.aawsat.com",
+      "date": "Aug 31, 2026"
+    },
+    {
+      "title": "NATO Arctic moves pose  direct threat  to Russia , foreign minister Lavrov says",
+      "url": "https://www.jpost.com/international/article-907096",
+      "domain": "jpost.com",
+      "date": "Aug 31, 2026"
+    },
+    {
+      "title": "NATO Arctic moves pose  direct threat  to Russia",
+      "url": "https://www.rte.ie/news/world/2026/0831/1589751-russia-nato-world/",
+      "domain": "rte.ie",
+      "date": "Aug 31, 2026"
+    },
+    {
+      "title": "From crude exporter to fuel importer : How Russia turned to India amid Ukrainian attacks on its refineries",
+      "url": "https://www.livemint.com/news/world/from-crude-exporter-to-fuel-importer-how-russia-turned-to-india-amid-ukrainian-attacks-on-its-refineries-11788088852854.html",
+      "domain": "livemint.com",
+      "date": "Aug 30, 2026"
+    },
+    {
+      "title": "India emerges as key petrol supplier to Russia following Ukrainian refinery attacks",
+      "url": "https://www.rediff.com/business/report/india-emerges-as-key-petrol-supplier-to-russia-following-ukrainian-refinery-attacks/20260830.htm",
+      "domain": "rediff.com",
+      "date": "Aug 30, 2026"
+    },
+    {
+      "title": "India emerges as key petrol supplier to Russia amid refinery disruptions",
+      "url": "https://www.moneycontrol.com/world/india-sends-nearly-1-million-barrels-of-petrol-to-russia-as-drone-strikes-hit-refineries-article-14018282.html",
+      "domain": "moneycontrol.com",
+      "date": "Aug 30, 2026"
+    },
+    {
+      "title": "India emerges as key petrol supplier to Russia as refinery attacks disrupt fuel supplies",
+      "url": "https://www.thehindu.com/news/international/india-emerges-as-key-petrol-supplier-to-russia-as-refinery-attacks-disrupt-fuel-supplies/article71407088.ece",
+      "domain": "thehindu.com",
+      "date": "Aug 30, 2026"
+    },
+    {
+      "title": "India becomes key petrol supplier to Russia as refinery attacks bite",
+      "url": "https://economictimes.indiatimes.com/news/economy/foreign-trade/india-becomes-key-petrol-supplier-to-russia-as-refinery-attacks-bite/articleshow/133623634.cms",
+      "domain": "economictimes.indiatimes.com",
+      "date": "Aug 30, 2026"
+    },
+    {
+      "title": "Japan resumes student exchange trips to Russia after 7 - year hiatus",
+      "url": "https://japantoday.com/category/national/update1-japan-resumes-student-exchange-trips-to-russia-after-7-year-hiatus",
+      "domain": "japantoday.com",
+      "date": "Aug 29, 2026"
+    },
+    {
+      "title": "How Should Bangladesh Respond to the Emerging Anti - West Network ?",
+      "url": "https://www.thedailystar.net/slow-reads/geopolitical-insights/news/anti-west-network-emerging-how-should-bangladesh-respond-4259526",
+      "domain": "thedailystar.net",
+      "date": "Aug 29, 2026"
+    },
+    {
+      "title": "Russian Foreign Ministry Accuses West of Blackmailing Armenia to Push Moscow Out of South Caucasus \u2013 NaturalNews . com",
+      "url": "https://www.naturalnews.com/2026-08-29-russian-foreign-ministry-accuses-west-blackmailing-armenia.html",
+      "domain": "naturalnews.com",
+      "date": "Aug 29, 2026"
+    },
+    {
+      "title": "Russia strikes nine Ukrainian cities in massive overnight barrage , targeting critical infrastructure \u2013 NaturalNews . com",
+      "url": "https://www.naturalnews.com/2026-08-28-russia-strikes-nine-ukrainian-cities-targeting-critical-infrastructure.html",
+      "domain": "naturalnews.com",
+      "date": "Aug 29, 2026"
+    },
+    {
+      "title": "Russia ramps up rhetoric but wants to avoid war with Nato - Western officials tell BBC",
+      "url": "https://www.bbc.co.uk/news/articles/cz0zm2j7ld1o",
+      "domain": "bbc.co.uk",
+      "date": "Aug 28, 2026"
+    },
+    {
+      "title": "Vladimir Putin  not seeking direct confrontation with Nato  despite Russia dire warnings",
+      "url": "https://www.mirror.co.uk/news/politics/russia-ukraine-putin-cia-burnham-37604384",
+      "domain": "mirror.co.uk",
+      "date": "Aug 28, 2026"
+    },
+    {
+      "title": "Trump trashed for undermining his own policy to protect his friends",
+      "url": "https://www.alternet.org/trump-russia-2677791098/",
+      "domain": "alternet.org",
+      "date": "Aug 28, 2026"
+    },
+    {
+      "title": "Iskander - 1000 explained : Russia new 550 - km missile strikes Kyiv for first time",
+      "url": "https://timesofindia.indiatimes.com/defence/news/iskander-1000-explained-russias-new-550-km-missile-strikes-kyiv-for-first-time/articleshow/133587053.cms",
+      "domain": "timesofindia.indiatimes.com",
+      "date": "Aug 28, 2026"
+    },
+    {
+      "title": "Ukraine - Russia war latest : Moscow warns united kingdom  playing with fire  over plans to help Kyiv produce missiles",
+      "url": "https://www.independent.co.uk/news/world/europe/ukraine-russia-war-live-trump-putin-burnham-missiles-nato-b3040764.html",
+      "domain": "independent.co.uk",
+      "date": "Aug 28, 2026"
+    },
+    {
+      "title": "Russia threatens strikes on united kingdom military targets ,  catastrophic consequence over Ukraine",
+      "url": "https://www.yahoo.com/news/world/articles/russia-threatens-strikes-uk-military-233807064.html",
+      "domain": "yahoo.com",
+      "date": "Aug 28, 2026"
+    },
+    {
+      "title": "Russian Airforce Lt Col Killed in St Petersburg Car Bomb Attack",
+      "url": "https://theconservativetreehouse.com/blog/2026/08/27/russian-airforce-lt-col-killed-in-st-petersburg-car-bomb-attack/",
+      "domain": "theconservativetreehouse.com",
+      "date": "Aug 28, 2026"
+    },
+    {
+      "title": "Trump says Putin will not attack NATO territory , downplays Ratcliffe trip",
+      "url": "https://freerepublic.com/focus/f-news/4393362/posts",
+      "domain": "freerepublic.com",
+      "date": "Aug 27, 2026"
+    },
+    {
+      "title": "Trump dismisses fears Putin could attack Nato territory",
+      "url": "https://www.freemalaysiatoday.com/category/highlight/2026/08/28/trump-says-putin-won-t-attack-nato-territory",
+      "domain": "freemalaysiatoday.com",
+      "date": "Aug 27, 2026"
+    },
+    {
+      "title": "RUSSIA THREATENS Britain With Military Strikes Over Ukraine Missile Plans",
+      "url": "https://www.theyeshivaworld.com/news/general/2590439/russia-threatens-britain-with-military-strikes-over-ukraine-missile-plans.html",
+      "domain": "theyeshivaworld.com",
+      "date": "Aug 27, 2026"
+    },
+    {
+      "title": "Trump says  Putin wont attack NATO ; Kremlin calls reports of possible Russian strike  scare stories",
+      "url": "https://www.livemint.com/news/us-news/trump-says-putin-won-t-attack-nato-kremlin-calls-reports-of-possible-russian-strike-scare-stories-11787857724105.html",
+      "domain": "livemint.com",
+      "date": "Aug 27, 2026"
+    },
+    {
+      "title": "Trump says Putin wont attack NATO territory",
+      "url": "https://www.arabnews.com/node/2656074/world",
+      "domain": "arabnews.com",
+      "date": "Aug 27, 2026"
+    },
+    {
+      "title": "Kremlin , Trump and EU dismiss NATO attack reports after CIA chief rare Moscow visit",
+      "url": "https://www.news24.com/world/kremlin-trump-and-eu-dismiss-nato-attack-reports-after-cia-chiefs-rare-moscow-visit-20260827-1091",
+      "domain": "news24.com",
+      "date": "Aug 27, 2026"
+    },
+    {
+      "title": "Trump says he had  good talk with Putin , Russia is  not going to attack  NATO territory",
+      "url": "https://www.euronews.com/my-europe/2026/08/27/trump-says-he-had-good-talks-with-putin-russia-is-not-going-to-attack-nato-territory",
+      "domain": "euronews.com",
+      "date": "Aug 27, 2026"
+    },
+    {
+      "title": "WSJ : CIA Director Went to Moscow to Issue a Warning",
+      "url": "https://hotair.com/john-s-2/2026/08/27/wsj-cia-director-went-to-moscow-to-issue-a-warning-n3818429",
+      "domain": "hotair.com",
+      "date": "Aug 27, 2026"
+    },
+    {
+      "title": "Kremlin labels possible attack on NATO as  scare stories",
+      "url": "https://www.rte.ie/news/world/2026/0827/1589498-russia-comments-nato/",
+      "domain": "rte.ie",
+      "date": "Aug 27, 2026"
+    },
+    {
+      "title": "Trump says Putin will not attack NATO territory",
+      "url": "https://aa.com.tr/en/americas/trump-says-putin-will-not-attack-nato-territory/4039591",
+      "domain": "aa.com.tr",
+      "date": "Aug 27, 2026"
+    },
+    {
+      "title": "Ukraine says Russia used its upgraded , longer - range  Iskander - 1000  missile in a bombardment of Kyiv",
+      "url": "https://www.yahoo.com/news/world/articles/ukraine-says-russia-used-upgraded-172231586.html",
+      "domain": "yahoo.com",
+      "date": "Aug 27, 2026"
+    },
+    {
+      "title": "What we should make of CIA boss John Ratcliffe secret trip to Moscow",
+      "url": "https://www.bbc.co.uk/news/articles/cx2z8l8xdg2o",
+      "domain": "bbc.co.uk",
+      "date": "Aug 27, 2026"
+    },
+    {
+      "title": "Ukraine Says Russia Fired New , Longer - Range Iskander - 1000 Missile",
+      "url": "https://www.businessinsider.com/ukraine-says-russia-fired-longer-range-iskander-1000-missile-2026-8",
+      "domain": "businessinsider.com",
+      "date": "Aug 27, 2026"
+    },
+    {
+      "title": "No signs Russia prepping military attack on NATO countries , says EU official",
+      "url": "https://www.straitstimes.com/world/europe/no-signs-russia-prepping-military-attack-on-nato-countries-says-eu-official",
+      "domain": "straitstimes.com",
+      "date": "Aug 27, 2026"
+    },
+    {
+      "title": "A step away from warpath ? Russia and united kingdom can just stumble into war",
+      "url": "https://economictimes.indiatimes.com/news/defence/russia-uk-war-a-step-away-from-warpath-russia-and-britain-can-just-stumble-into-war/articleshow/133573009.cms",
+      "domain": "economictimes.indiatimes.com",
+      "date": "Aug 27, 2026"
+    },
+    {
+      "title": "CIA Director John Ratcliffe was in Moscow to warn Russia against attacking NATO and encourage cutting off Iran",
+      "url": "https://us.cnn.com/2026/08/27/politics/john-ratcliffe-cia-moscow-visit",
+      "domain": "us.cnn.com",
+      "date": "Aug 27, 2026"
+    },
+    {
+      "title": "The Russia - Ukraine Air War Has Entered a New , Deadlier Phase",
+      "url": "https://www.hindustantimes.com/world-news/the-russia-ukraine-air-war-has-entered-a-new-deadlier-phase-101787823696463.html",
+      "domain": "hindustantimes.com",
+      "date": "Aug 27, 2026"
+    },
+    {
+      "title": "Russia says united kingdom  playing with fire  amid reports CIA chief has warned Kremlin not to attack Nato | Russia",
+      "url": "https://www.theguardian.com/world/2026/aug/27/britain-ukraine-war-russia",
+      "domain": "theguardian.com",
+      "date": "Aug 27, 2026"
+    },
+    {
+      "title": "Vladimir Putin own officials worried Russian leader could be about to use nuclear weapons on Ukraine",
+      "url": "https://www.mirror.co.uk/news/world-news/ukraine-russia-cia-director-nuclear-37598273",
+      "domain": "mirror.co.uk",
+      "date": "Aug 27, 2026"
+    },
+    {
+      "title": "Russia warns Britain is  playing with fire  over its support of Ukraine",
+      "url": "https://www.aol.co.uk/articles/russia-warns-britain-playing-fire-113433000.html",
+      "domain": "aol.co.uk",
+      "date": "Aug 27, 2026"
+    },
+    {
+      "title": "Russia threatens united kingdom military targets while Kremlin denies intent to attack NATO",
+      "url": "https://www.jpost.com/international/internationalrussia-ukraine-war/article-906758",
+      "domain": "jpost.com",
+      "date": "Aug 27, 2026"
+    },
+    {
+      "title": "Drone Strike Sets Wildberries Facility Ablaze in Russia Tambov Region",
+      "url": "https://www.khaama.com/drone-strike-sets-wildberries-facility-ablaze-in-russias-tambov-region/",
+      "domain": "khaama.com",
+      "date": "Aug 27, 2026"
+    },
+    {
+      "title": "Russia threatens to bomb united kingdom military bases over support for Ukraine",
+      "url": "https://www.independent.co.uk/news/uk/politics/russia-uk-threat-ukraine-war-b3040189.html",
+      "domain": "independent.co.uk",
+      "date": "Aug 27, 2026"
+    },
+    {
+      "title": "Did CIA chief warn Russia against attacking NATO member ? Kremlin dismisses  scare - story",
+      "url": "https://www.hindustantimes.com/world-news/did-cia-chief-warn-russia-against-attacking-nato-member-kremlin-dismisses-scarestory-101787824931357.html",
+      "domain": "hindustantimes.com",
+      "date": "Aug 27, 2026"
+    },
+    {
+      "title": "Russia threatens united kingdom military targets as Kremlin says Britain  playing with fire  over Ukraine support",
+      "url": "https://www.lbc.co.uk/article/russia-uk-ukraine-military-5HjdgZk_2/",
+      "domain": "lbc.co.uk",
+      "date": "Aug 27, 2026"
+    },
+    {
+      "title": "Russia plans to mobilize additional 300 , 000 in 2026 , 300 , 000 in 2027",
+      "url": "https://en.interfax.com.ua/news/general/1196413.html",
+      "domain": "en.interfax.com.ua",
+      "date": "Aug 27, 2026"
+    },
+    {
+      "title": "CIA chief made surprise Moscow trip to deliver  warning  to Russia : Report",
+      "url": "https://www.moneycontrol.com/world/cia-chief-made-surprise-moscow-trip-to-deliver-warning-to-russia-report-article-14016747.html",
+      "domain": "moneycontrol.com",
+      "date": "Aug 27, 2026"
+    },
+    {
+      "title": "CIA Chief Moscow Trip Meant To Warn Russia Off Baltic Attack , Sources Say",
+      "url": "https://www.rferl.org/a/cia-chief-s-moscow-visit-to-warn-russia-against-attacking-baltic-states/33841067.html",
+      "domain": "rferl.org",
+      "date": "Aug 27, 2026"
+    },
+    {
+      "title": "CIA sends Putin chilling message as fears grow of horror Russian attack on NATO | World | News",
+      "url": "https://www.express.co.uk/news/world/2242916/cia-sends-putin-chilling-message-moscow-nato",
+      "domain": "express.co.uk",
+      "date": "Aug 27, 2026"
+    },
+    {
+      "title": "Ukraine drone attacks have left Russia desperately scrambling for oil imports",
+      "url": "https://www.aol.co.uk/articles/ukraine-drone-attacks-left-russia-080008000.html",
+      "domain": "aol.co.uk",
+      "date": "Aug 27, 2026"
+    },
+    {
+      "title": "CIA chief warns Russia against NATO attack",
+      "url": "https://www.samaa.tv/2087355831-cia-chief-ratcliffe-warned-russia-against-attacking-nato-reports",
+      "domain": "samaa.tv",
+      "date": "Aug 27, 2026"
+    },
+    {
+      "title": "CIA Director Ratcliffe warned Moscow not to attack NATO members during visit .",
+      "url": "https://www.jpost.com/international/article-906713",
+      "domain": "jpost.com",
+      "date": "Aug 27, 2026"
+    },
+    {
+      "title": "Wildberries depot destroyed , Russia mulls Kyiv strikes",
+      "url": "https://www.canberratimes.com.au/story/9338377/wildberries-depot-destroyed-russia-mulls-kyiv-strikes/",
+      "domain": "canberratimes.com.au",
+      "date": "Aug 27, 2026"
+    },
+    {
+      "title": "Kim , Putin Near Completion Of First - Ever Road Link As Military Partnership Grows",
+      "url": "https://dailycaller.com/2026/08/26/russia-north-korea-road-bridge-trade-kim-jong-un-vladimir-putin/",
+      "domain": "dailycaller.com",
+      "date": "Aug 27, 2026"
+    },
+    {
+      "title": "CIA director visits Putin in Moscow in talks that Trump calls  sort of semi - routine",
+      "url": "https://fortune.com/2026/08/26/cia-director-mysterious-visit-moscow-trump-putin/",
+      "domain": "fortune.com",
+      "date": "Aug 26, 2026"
+    },
+    {
+      "title": "Russia 4th Largest Refinery Is Burning",
+      "url": "https://hotair.com/john-s-2/2026/08/26/russias-4th-largest-refinery-is-burning-n3818386",
+      "domain": "hotair.com",
+      "date": "Aug 26, 2026"
+    },
+    {
+      "title": "Why Did CIA Chief John Ratcliffe Fly to Moscow ? US Issues Stark Warning Amid Ukraine War ; What Is Putin Planning ?",
+      "url": "https://www.newsx.com/world/cia-chief-rushes-to-moscow-amid-ukraine-war-escalation-fears-what-is-putin-planning-265177/",
+      "domain": "newsx.com",
+      "date": "Aug 26, 2026"
+    },
+    {
+      "title": "Kremlin says CIA director held talks in Moscow with counterparts",
+      "url": "https://www.orlandosentinel.com/2026/08/26/kremlin-cia-director-talks-moscow/",
+      "domain": "orlandosentinel.com",
+      "date": "Aug 26, 2026"
+    }
+  ]
 }
