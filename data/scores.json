@@ -1,19 +1,19 @@
 {
-  "generatedAt": "2026-09-25T21:06:20.055932+00:00",
+  "generatedAt": "2026-09-26T03:35:34.018871+00:00",
   "source": "GDELT (news tone/volume, 3-day window) blended 50/50 with baseline",
   "countries": [
     {
       "name": "Afghanistan",
       "region": "South Asia",
-      "political": 78,
-      "conflict": 70,
+      "political": 74,
+      "conflict": 77,
       "economic": 80,
       "regulatory": 84,
       "trend": "flat",
-      "note": "No fresh coverage this cycle; showing baseline.",
+      "note": "Live-updated from recent news coverage.",
       "headlines": [],
-      "toneReading": "No recent coverage found.",
-      "volumeReading": null
+      "toneReading": "Coverage over the last 3 days has leaned negative.",
+      "volumeReading": "Coverage volume has been unusually high this week."
     },
     {
       "name": "Argentina",
@@ -35,7 +35,7 @@
       "conflict": 8,
       "economic": 13,
       "regulatory": 10,
-      "trend": "down",
+      "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
       "headlines": [],
       "toneReading": "No recent coverage found.",
@@ -44,49 +44,28 @@
     {
       "name": "Azerbaijan",
       "region": "Eurasia",
-      "political": 31,
+      "political": 43,
       "conflict": 31,
       "economic": 39,
       "regulatory": 20,
-      "trend": "flat",
-      "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [
-        {
-          "title": "Embassy of Ukraine congratulates Azerbaijan on State Sovereignty Day",
-          "url": "https://www.trend.az/azerbaijan/4225988.html",
-          "domain": "trend.az"
-        },
-        {
-          "title": "Azerbaijan to facilitate land return of citizens stranded in Iran",
-          "url": "https://www.trend.az/azerbaijan/society/4226763.html",
-          "domain": "trend.az"
-        },
-        {
-          "title": "2nd Azerbaijan International Investment Forum hosts signing of multiple documents ( PHOTO )",
-          "url": "https://www.trend.az/azerbaijan/4227804.html",
-          "domain": "trend.az"
-        },
-        {
-          "title": "Restoration of Azerbaijan state sovereignty creates new political reality in region - MFA",
-          "url": "https://www.trend.az/azerbaijan/politics/4225926.html",
-          "domain": "trend.az"
-        }
-      ],
-      "toneReading": "No recent coverage found.",
-      "volumeReading": null
+      "trend": "up",
+      "note": "Live-updated from recent news coverage.",
+      "headlines": [],
+      "toneReading": "Coverage over the last 3 days has been mixed or neutral.",
+      "volumeReading": "Coverage volume has been unusually high this week."
     },
     {
       "name": "Bangladesh",
       "region": "South Asia",
-      "political": 48,
+      "political": 52,
       "conflict": 34,
       "economic": 44,
       "regulatory": 42,
       "trend": "flat",
-      "note": "No fresh coverage this cycle; showing baseline.",
+      "note": "Live-updated from recent news coverage.",
       "headlines": [],
-      "toneReading": "No recent coverage found.",
-      "volumeReading": null
+      "toneReading": "Coverage over the last 3 days has been mixed or neutral.",
+      "volumeReading": "Coverage volume has been unusually high this week."
     },
     {
       "name": "Belarus",
@@ -97,7 +76,28 @@
       "regulatory": 72,
       "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [],
+      "headlines": [
+        {
+          "title": "Belarus seeks stronger economicties and cooperation with Indonesia",
+          "url": "https://en.antaranews.com/news/432353/belarus-seeks-stronger-economicties-and-cooperation-with-indonesia",
+          "domain": "en.antaranews.com"
+        },
+        {
+          "title": "Albania vs Belarus Predictions , Picks & Odds",
+          "url": "https://www.toffeeweb.com/albania-vs-belarus-predictions-picks-odds-26-09-2026/",
+          "domain": "toffeeweb.com"
+        },
+        {
+          "title": "UPDATED . Trump Belarus Potash Gambit Looks More Like Leverage on Canada Than a Real Deal . \u2013 RedState",
+          "url": "https://redstate.com/streiff/2026/09/21/trumps-belarus-potash-gambit-looks-more-like-leverage-on-canada-than-a-real-deal-n2207203",
+          "domain": "redstate.com"
+        },
+        {
+          "title": "Gilani and Belarus President Lukashenko reaffirm Pakistan - Be",
+          "url": "https://www.pakistantoday.com.pk/2026/09/24/gilani-lukashenko-reaffirm-pakistan-belarus-ties-push-wider-economic-cooperation",
+          "domain": "pakistantoday.com.pk"
+        }
+      ],
       "toneReading": "No recent coverage found.",
       "volumeReading": null
     },
@@ -156,15 +156,15 @@
     {
       "name": "Colombia",
       "region": "Latin America",
-      "political": 48,
+      "political": 54,
       "conflict": 56,
       "economic": 38,
       "regulatory": 40,
-      "trend": "down",
-      "note": "No fresh coverage this cycle; showing baseline.",
+      "trend": "up",
+      "note": "Live-updated from recent news coverage.",
       "headlines": [],
-      "toneReading": "No recent coverage found.",
-      "volumeReading": null
+      "toneReading": "Coverage over the last 3 days has been mixed or neutral.",
+      "volumeReading": "Coverage volume has been unusually high this week."
     },
     {
       "name": "Cuba",
@@ -182,28 +182,28 @@
     {
       "name": "DR Congo",
       "region": "Sub-Saharan Africa",
-      "political": 68,
+      "political": 72,
       "conflict": 80,
       "economic": 68,
       "regulatory": 64,
-      "trend": "flat",
-      "note": "Live-updated from recent news coverage.",
-      "headlines": [],
-      "toneReading": "Coverage over the last 3 days has leaned negative.",
-      "volumeReading": null
-    },
-    {
-      "name": "Ecuador",
-      "region": "Latin America",
-      "political": 38,
-      "conflict": 57,
-      "economic": 36,
-      "regulatory": 13,
       "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
       "headlines": [],
       "toneReading": "No recent coverage found.",
       "volumeReading": null
+    },
+    {
+      "name": "Ecuador",
+      "region": "Latin America",
+      "political": 45,
+      "conflict": 57,
+      "economic": 36,
+      "regulatory": 13,
+      "trend": "up",
+      "note": "Live-updated from recent news coverage.",
+      "headlines": [],
+      "toneReading": "Coverage over the last 3 days has been mixed or neutral.",
+      "volumeReading": "Coverage volume has been unusually high this week."
     },
     {
       "name": "Egypt",
@@ -300,28 +300,7 @@
       "regulatory": 82,
       "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [
-        {
-          "title": "Amid looming election questions , silence on TPS , Haiti hires Trump operative Roger Stone to lobby",
-          "url": "https://www.sun-sentinel.com/2026/09/22/amid-looming-election-questions-silence-on-tps-haiti-hires-trump-operative-roger-stone-to-lobby/",
-          "domain": "sun-sentinel.com"
-        },
-        {
-          "title": "18 suspects in the killing of Haiti president extradited from Haiti to US",
-          "url": "https://www.wyff4.com/article/haitian-president-jovenel-moise-killing-suspects-extradited/73811513",
-          "domain": "wyff4.com"
-        },
-        {
-          "title": "Dominican leader urges UN to step up backing for Haiti mission",
-          "url": "https://www.hindustantimes.com/world-news/dominican-leader-urges-un-to-step-up-backing-for-haiti-mission-101790188867199.html",
-          "domain": "hindustantimes.com"
-        },
-        {
-          "title": "18 suspects in Haitian president assassination face extradition to US for Florida trial",
-          "url": "https://www.fox10phoenix.com/news/haitian-presidents-assassination-face-extradition-us-florida-trial",
-          "domain": "fox10phoenix.com"
-        }
-      ],
+      "headlines": [],
       "toneReading": "No recent coverage found.",
       "volumeReading": null
     },
@@ -345,7 +324,7 @@
       "conflict": 20,
       "economic": 30,
       "regulatory": 32,
-      "trend": "down",
+      "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
       "headlines": [],
       "toneReading": "No recent coverage found.",
@@ -367,15 +346,15 @@
     {
       "name": "Israel",
       "region": "MENA",
-      "political": 58,
-      "conflict": 66,
+      "political": 63,
+      "conflict": 74,
       "economic": 34,
       "regulatory": 30,
-      "trend": "flat",
-      "note": "No fresh coverage this cycle; showing baseline.",
+      "trend": "up",
+      "note": "Live-updated from recent news coverage.",
       "headlines": [],
-      "toneReading": "No recent coverage found.",
-      "volumeReading": null
+      "toneReading": "Coverage over the last 3 days has leaned negative.",
+      "volumeReading": "Coverage volume has been unusually high this week."
     },
     {
       "name": "Italy",
@@ -399,22 +378,43 @@
       "regulatory": 14,
       "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [],
+      "headlines": [
+        {
+          "title": "JCB\u00e2\u20ac\u2122s 30th anniversary set to bring the Japan experience closer to Filipinos",
+          "url": "https://www.philstar.com/lifestyle/travel-and-tourism/2026/09/24/2558391/jcbs-30th-anniversary-set-bring-japan-experience-closer-filipinos",
+          "domain": "philstar.com"
+        },
+        {
+          "title": "Japan moves to tighten rules for foreigners , throwing futures into doubt",
+          "url": "https://www.aljazeera.com/economy/2026/9/25/japan-moves-to-tighten-rules-for-foreigners-throwing-futures-into-doubt",
+          "domain": "aljazeera.com"
+        },
+        {
+          "title": "Meet Bihar - born IITian Abhishek Anand , whose love for cricket took him to Japan",
+          "url": "https://www.prokerala.com/news/articles/a1814717.html",
+          "domain": "prokerala.com"
+        },
+        {
+          "title": "A slice of Japan is coming to Hyderabad once again : All details",
+          "url": "https://www.siasat.com/a-slice-of-japan-is-coming-to-hyderabad-once-again-all-details-3544873/",
+          "domain": "siasat.com"
+        }
+      ],
       "toneReading": "No recent coverage found.",
       "volumeReading": null
     },
     {
       "name": "Jordan",
       "region": "MENA",
-      "political": 36,
+      "political": 45,
       "conflict": 11,
       "economic": 40,
       "regulatory": 20,
-      "trend": "flat",
-      "note": "No fresh coverage this cycle; showing baseline.",
+      "trend": "up",
+      "note": "Live-updated from recent news coverage.",
       "headlines": [],
-      "toneReading": "No recent coverage found.",
-      "volumeReading": null
+      "toneReading": "Coverage over the last 3 days has been mixed or neutral.",
+      "volumeReading": "Coverage volume has been unusually high this week."
     },
     {
       "name": "Kazakhstan",
@@ -425,28 +425,7 @@
       "regulatory": 36,
       "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [
-        {
-          "title": "Kazakhstan Tokayev appoints members of Supreme Audit Chamber",
-          "url": "https://www.trend.az/casia/kazakhstan/4226837.html",
-          "domain": "trend.az"
-        },
-        {
-          "title": "Kazakhstan starts FAA aviation safety assessment for direct flights to US",
-          "url": "https://www.trend.az/casia/kazakhstan/4226034.html",
-          "domain": "trend.az"
-        },
-        {
-          "title": "Kazakhstan names Teniz Capital as lead manager for new sovereign eurobond issue",
-          "url": "https://www.trend.az/casia/kazakhstan/4227078.html",
-          "domain": "trend.az"
-        },
-        {
-          "title": "Kazakhstan GDP grows 29 % to $306B over seven years",
-          "url": "https://www.trend.az/casia/kazakhstan/4227327.html",
-          "domain": "trend.az"
-        }
-      ],
+      "headlines": [],
       "toneReading": "No recent coverage found.",
       "volumeReading": null
     },
@@ -513,36 +492,15 @@
     {
       "name": "Malaysia",
       "region": "Southeast Asia",
-      "political": 31,
+      "political": 40,
       "conflict": 13,
       "economic": 14,
       "regulatory": 18,
-      "trend": "flat",
-      "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [
-        {
-          "title": "ADB Strengthens Regional Cooperation with New Malaysia Office",
-          "url": "https://www.adb.org/news/adb-strengthens-regional-cooperation-new-malaysia-office",
-          "domain": "adb.org"
-        },
-        {
-          "title": "India warns citizens travelling to Malaysia against misusing 30 - day visa - free entry for jobs",
-          "url": "https://www.moneycontrol.com/news/india/india-warns-citizens-travelling-to-malaysia-against-misusing-30-day-visa-free-entry-for-jobs-14034944.html",
-          "domain": "moneycontrol.com"
-        },
-        {
-          "title": "Lion Parcel Officially Expands to Malaysia , Marking Its First Step into International Expansion",
-          "url": "https://www.manilatimes.net/2026/09/24/tmt-newswire/pr-newswire/lion-parcel-officially-expands-to-malaysia-marking-its-first-step-into-international-expansion/2431845",
-          "domain": "manilatimes.net"
-        },
-        {
-          "title": "Sri Lanka vs Malaysia : Which is better for your holiday ? 7 things to consider before booking your trip",
-          "url": "https://www.moneycontrol.com/lifestyle/sri-lanka-vs-malaysia-which-is-better-for-your-holiday-7-things-to-consider-before-booking-your-trip-article-14034134.html",
-          "domain": "moneycontrol.com"
-        }
-      ],
-      "toneReading": "No recent coverage found.",
-      "volumeReading": null
+      "trend": "up",
+      "note": "Live-updated from recent news coverage.",
+      "headlines": [],
+      "toneReading": "Coverage over the last 3 days has been mixed or neutral.",
+      "volumeReading": "Coverage volume has been unusually high this week."
     },
     {
       "name": "Mali",
@@ -592,43 +550,22 @@
       "regulatory": 70,
       "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [
-        {
-          "title": "Min Zin : Trump urged to raise detention of US scholar with Xi",
-          "url": "https://www.timeshighereducation.com/news/trump-urged-raise-detention-us-scholar-xi",
-          "domain": "timeshighereducation.com"
-        },
-        {
-          "title": "What Malaysia Rohingya Repatriation Plan Means for Bangladesh",
-          "url": "https://www.thedailystar.net/slow-reads/geopolitical-insights/news/what-malaysias-rohingya-repatriation-plan-means-bangladesh-4280141",
-          "domain": "thedailystar.net"
-        },
-        {
-          "title": "Alleged Myanmar - based extremists kill four Nagas in Manipur",
-          "url": "https://www.thehindu.com/news/national/manipur/alleged-myanmar-based-extremists-kill-four-nagas-in-manipur/article71507746.ece",
-          "domain": "thehindu.com"
-        },
-        {
-          "title": "Rohingya who fled Myanmar chaos now dread return from Malaysia",
-          "url": "https://www.scmp.com/news/asia/southeast-asia/article/3368618/rohingya-who-fled-myanmar-chaos-now-dread-return-malaysia",
-          "domain": "scmp.com"
-        }
-      ],
+      "headlines": [],
       "toneReading": "No recent coverage found.",
       "volumeReading": null
     },
     {
       "name": "Nigeria",
       "region": "Sub-Saharan Africa",
-      "political": 52,
+      "political": 53,
       "conflict": 60,
       "economic": 54,
       "regulatory": 50,
       "trend": "flat",
-      "note": "No fresh coverage this cycle; showing baseline.",
+      "note": "Live-updated from recent news coverage.",
       "headlines": [],
-      "toneReading": "No recent coverage found.",
-      "volumeReading": null
+      "toneReading": "Coverage over the last 3 days has been mixed or neutral.",
+      "volumeReading": "Coverage volume has been unusually high this week."
     },
     {
       "name": "North Korea",
@@ -639,22 +576,64 @@
       "regulatory": 92,
       "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [],
+      "headlines": [
+        {
+          "title": "Lee approach runs risk of normalizing North Korea as a nuclear power",
+          "url": "http://english.hani.co.kr/arti/english_edition/e_international/1279273.html",
+          "domain": "english.hani.co.kr"
+        },
+        {
+          "title": "Unrealistic delusion : North Korea rejects denuclearisation ; weapons will stay  forever",
+          "url": "https://timesofindia.indiatimes.com/world/rest-of-world/unrealistic-delusion-north-korea-rejects-denuclearisation-weapons-will-stay-forever/articleshow/134451771.cms",
+          "domain": "timesofindia.indiatimes.com"
+        },
+        {
+          "title": "Trump wants a new meeting with Kim Jong Un . North Korea says not so fast",
+          "url": "https://www.moneycontrol.com/world/trump-wants-a-new-meeting-with-kim-jong-un-north-korea-says-not-so-fast-article-14033707.html",
+          "domain": "moneycontrol.com"
+        },
+        {
+          "title": "N . Korea launches SRBM toward East Sea again , 2 weeks after last launch",
+          "url": "https://www.koreaherald.com/article/10879664",
+          "domain": "koreaherald.com"
+        }
+      ],
       "toneReading": "No recent coverage found.",
       "volumeReading": null
     },
     {
       "name": "Pakistan",
       "region": "South Asia",
-      "political": 58,
+      "political": 61,
       "conflict": 54,
       "economic": 62,
       "regulatory": 50,
       "trend": "flat",
-      "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [],
-      "toneReading": "No recent coverage found.",
-      "volumeReading": null
+      "note": "Live-updated from recent news coverage.",
+      "headlines": [
+        {
+          "title": "Pakistan struck sites in Afghanistan in response to recent drone intrusion : Minister",
+          "url": "https://www.thehindu.com/news/international/pakistan-struck-sites-in-afghanistan-in-response-to-recent-drone-intrusion-minister/article71502890.ece",
+          "domain": "thehindu.com"
+        },
+        {
+          "title": "Pakistan hits 10 Afghan locations in response to recent drone intrusion by Taliban regime : minister",
+          "url": "https://www.geo.tv/latest/683425-pakistan-hits-10-afghan-locations-in-response-to-recent-drone-intrusion-by-taliban-regime-minister",
+          "domain": "geo.tv"
+        },
+        {
+          "title": "Shehbaz reaffirms Pakistan commitment to GSP Plus framework",
+          "url": "https://www.samaa.tv/2087357326-pm-shehbaz-reaffirms-pakistan-s-commitment-to-gsp-plus-framework",
+          "domain": "samaa.tv"
+        },
+        {
+          "title": "Pakistan airstrikes on Afghanistan kill 3 , Taliban says",
+          "url": "https://www.dw.com/en/taliban-says-three-killed-in-new-pakistan-airstrikes-on-afghanistan/a-79350604",
+          "domain": "dw.com"
+        }
+      ],
+      "toneReading": "Coverage over the last 3 days has leaned negative.",
+      "volumeReading": "Coverage volume has been unusually high this week."
     },
     {
       "name": "Peru",
@@ -672,15 +651,15 @@
     {
       "name": "Philippines",
       "region": "Southeast Asia",
-      "political": 34,
+      "political": 44,
       "conflict": 30,
       "economic": 32,
       "regulatory": 30,
-      "trend": "flat",
-      "note": "No fresh coverage this cycle; showing baseline.",
+      "trend": "up",
+      "note": "Live-updated from recent news coverage.",
       "headlines": [],
-      "toneReading": "No recent coverage found.",
-      "volumeReading": null
+      "toneReading": "Coverage over the last 3 days has been mixed or neutral.",
+      "volumeReading": "Coverage volume has been unusually high this week."
     },
     {
       "name": "Poland",
@@ -698,15 +677,15 @@
     {
       "name": "Qatar",
       "region": "MENA",
-      "political": 34,
+      "political": 49,
       "conflict": 14,
       "economic": 22,
       "regulatory": 16,
-      "trend": "flat",
-      "note": "No fresh coverage this cycle; showing baseline.",
+      "trend": "up",
+      "note": "Live-updated from recent news coverage.",
       "headlines": [],
-      "toneReading": "No recent coverage found.",
-      "volumeReading": null
+      "toneReading": "Coverage over the last 3 days has leaned negative.",
+      "volumeReading": "Coverage volume has been unusually high this week."
     },
     {
       "name": "Russia",
@@ -808,28 +787,7 @@
       "regulatory": 38,
       "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [
-        {
-          "title": "Sri Lanka vs Malaysia : Which is better for your holiday ? 7 things to consider before booking your trip",
-          "url": "https://www.moneycontrol.com/lifestyle/sri-lanka-vs-malaysia-which-is-better-for-your-holiday-7-things-to-consider-before-booking-your-trip-article-14034134.html",
-          "domain": "moneycontrol.com"
-        },
-        {
-          "title": "Sri Lanka chase 178 to defeat Pakistan in Asian Games semi - final",
-          "url": "https://www.geo.tv/latest/682854-asian-games-semi-final-ayesha-shawaal-power-pakistan-to-177-4-against-sri-lanka",
-          "domain": "geo.tv"
-        },
-        {
-          "title": "Asian Games : India Women face Sri Lanka in rematch of Hangzhou gold - medal clash ( preview )",
-          "url": "https://www.prokerala.com/news/articles/a1814762.html",
-          "domain": "prokerala.com"
-        },
-        {
-          "title": "EDB organises Sri Lanka first - ever national pavilion at Fine Food Australia 2026",
-          "url": "https://www.ft.lk/business/EDB-organises-Sri-Lanka-s-first-ever-national-pavilion-at-Fine-Food-Australia-2026/34-797569",
-          "domain": "ft.lk"
-        }
-      ],
+      "headlines": [],
       "toneReading": "No recent coverage found.",
       "volumeReading": null
     },
@@ -855,7 +813,28 @@
       "regulatory": 67,
       "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [],
+      "headlines": [
+        {
+          "title": "Jordan slam of Israel over Syria actions showcases regional tensions",
+          "url": "https://www.jpost.com/middle-east/article-909391",
+          "domain": "jpost.com"
+        },
+        {
+          "title": "US interests in Syria challenge Moscow - Damascus ties",
+          "url": "http://www.jpost.com/middle-east/article-909188",
+          "domain": "jpost.com"
+        },
+        {
+          "title": "EU von der Leyen says EU will be  reliable partner  for Syria",
+          "url": "https://www.middleeasteye.net/live-blog/live-blog-update/eus-von-der-leyen-says-eu-will-be-reliable-partner-syria",
+          "domain": "middleeasteye.net"
+        },
+        {
+          "title": "Sharaa says Israeli attacks on Syria at odds with  joy  of global community towards his country",
+          "url": "https://www.middleeasteye.net/news/sharaa-says-israeli-attacks-syria-odds-joy-global-community-towards-his-country",
+          "domain": "middleeasteye.net"
+        }
+      ],
       "toneReading": "No recent coverage found.",
       "volumeReading": null
     },
@@ -875,15 +854,15 @@
     {
       "name": "Thailand",
       "region": "Southeast Asia",
-      "political": 40,
+      "political": 46,
       "conflict": 26,
       "economic": 32,
       "regulatory": 34,
-      "trend": "down",
-      "note": "No fresh coverage this cycle; showing baseline.",
+      "trend": "up",
+      "note": "Live-updated from recent news coverage.",
       "headlines": [],
-      "toneReading": "No recent coverage found.",
-      "volumeReading": null
+      "toneReading": "Coverage over the last 3 days has been mixed or neutral.",
+      "volumeReading": "Coverage volume has been unusually high this week."
     },
     {
       "name": "Turkey",
@@ -914,15 +893,36 @@
     {
       "name": "Ukraine",
       "region": "Europe",
-      "political": 62,
+      "political": 63,
       "conflict": 92,
       "economic": 70,
       "regulatory": 58,
       "trend": "flat",
-      "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [],
-      "toneReading": "No recent coverage found.",
-      "volumeReading": null
+      "note": "Live-updated from recent news coverage.",
+      "headlines": [
+        {
+          "title": "EU decision on EUR 3 bln for Ukraine signals reform progress \u2013 Finance Minister Marchenko",
+          "url": "https://en.interfax.com.ua/news/general/1209635.html",
+          "domain": "en.interfax.com.ua"
+        },
+        {
+          "title": "Australia slaps sanctions on Russia , inks security pact with  brave  Ukraine",
+          "url": "https://www.perthnow.com.au/news/australia-slaps-sanctions-on-russia-inks-security-pact-with-brave-ukraine-c-22920949",
+          "domain": "perthnow.com.au"
+        },
+        {
+          "title": "Will Ukraine Turn to Russia After the War ?",
+          "url": "https://www.theamericanconservative.com/will-ukraine-turn-to-russia-after-the-war/",
+          "domain": "theamericanconservative.com"
+        },
+        {
+          "title": "2 dead , 23 injured as Russia attacks Kyiv with drones hours before Zelensky UN address",
+          "url": "https://nypost.com/2026/09/23/world-news/2-dead-23-injured-as-russia-attacks-kyiv-with-drones-hours-before-zelenskys-un-address/",
+          "domain": "nypost.com"
+        }
+      ],
+      "toneReading": "Coverage over the last 3 days has leaned negative.",
+      "volumeReading": "Coverage volume has been unusually high this week."
     },
     {
       "name": "United Kingdom",
@@ -959,56 +959,35 @@
       "regulatory": 80,
       "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [
-        {
-          "title": "Trump meets Venezuela interim leader Delcy Rodriguez on UNGA sidelines",
-          "url": "https://www.moneycontrol.com/world/trump-meets-venezuela-s-interim-leader-delcy-rodriguez-on-unga-sidelines-article-14035863.html",
-          "domain": "moneycontrol.com"
-        },
-        {
-          "title": "Venezuelan delegation in New York seeks debt , energy deals",
-          "url": "https://www.freemalaysiatoday.com/category/business/2026/09/22/venezuelan-delegation-in-new-york-seeks-debt-energy-deals",
-          "domain": "freemalaysiatoday.com"
-        },
-        {
-          "title": "Full democracy : Venezuela Rodriguez promises poll",
-          "url": "https://www.canberratimes.com.au/story/9356769/full-democracy-venezuelas-rodriguez-promises-poll/",
-          "domain": "canberratimes.com.au"
-        },
-        {
-          "title": "Venezuelan delegation in NY seeks debt , energy deals",
-          "url": "https://www.internazionale.it/ultime-notizie-reuters/2026/09/22/venezuelan-delegation-led-by-rodriguez-in-us-discussing-debt-energy",
-          "domain": "internazionale.it"
-        }
-      ],
+      "headlines": [],
       "toneReading": "No recent coverage found.",
       "volumeReading": null
     },
     {
       "name": "Vietnam",
       "region": "Southeast Asia",
-      "political": 22,
+      "political": 38,
       "conflict": 12,
       "economic": 24,
       "regulatory": 30,
-      "trend": "flat",
-      "note": "No fresh coverage this cycle; showing baseline.",
+      "trend": "up",
+      "note": "Live-updated from recent news coverage.",
       "headlines": [],
-      "toneReading": "No recent coverage found.",
-      "volumeReading": null
+      "toneReading": "Coverage over the last 3 days has been mixed or neutral.",
+      "volumeReading": "Coverage volume has been unusually high this week."
     },
     {
       "name": "Yemen",
       "region": "MENA",
-      "political": 84,
-      "conflict": 88,
+      "political": 77,
+      "conflict": 96,
       "economic": 82,
       "regulatory": 74,
       "trend": "flat",
-      "note": "No fresh coverage this cycle; showing baseline.",
+      "note": "Live-updated from recent news coverage.",
       "headlines": [],
-      "toneReading": "No recent coverage found.",
-      "volumeReading": null
+      "toneReading": "Coverage over the last 3 days has leaned negative.",
+      "volumeReading": "Coverage volume has been unusually high this week."
     },
     {
       "name": "Zimbabwe",
@@ -1025,6 +1004,24 @@
     }
   ],
   "alerts": [
+    {
+      "name": "DR Congo",
+      "from": "HIGH",
+      "to": "SEVERE",
+      "at": "2026-09-26T03:35:34.018871+00:00"
+    },
+    {
+      "name": "Afghanistan",
+      "from": "HIGH",
+      "to": "SEVERE",
+      "at": "2026-09-26T03:35:34.018871+00:00"
+    },
+    {
+      "name": "Qatar",
+      "from": "LOW",
+      "to": "GUARDED",
+      "at": "2026-09-26T03:35:34.018871+00:00"
+    },
     {
       "name": "Indonesia",
       "from": "GUARDED",
@@ -1186,24 +1183,6 @@
       "from": "LOW",
       "to": "GUARDED",
       "at": "2026-09-23T21:05:36.197498+00:00"
-    },
-    {
-      "name": "Sri Lanka",
-      "from": "LOW",
-      "to": "GUARDED",
-      "at": "2026-09-23T21:05:36.197498+00:00"
-    },
-    {
-      "name": "France",
-      "from": "GUARDED",
-      "to": "LOW",
-      "at": "2026-09-23T16:07:36.082036+00:00"
-    },
-    {
-      "name": "Indonesia",
-      "from": "GUARDED",
-      "to": "LOW",
-      "at": "2026-09-23T16:07:36.082036+00:00"
     }
   ]
 }
