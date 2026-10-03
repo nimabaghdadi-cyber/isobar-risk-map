@@ -1,19 +1,19 @@
 {
-  "generatedAt": "2026-10-03T15:43:55.602110+00:00",
+  "generatedAt": "2026-10-03T20:36:10.483967+00:00",
   "source": "GDELT (news tone/volume, 3-day window) blended 50/50 with baseline",
   "countries": [
     {
       "name": "Afghanistan",
       "region": "South Asia",
-      "political": 78,
+      "political": 71,
       "conflict": 70,
       "economic": 80,
       "regulatory": 84,
-      "trend": "flat",
-      "note": "No fresh coverage this cycle; showing baseline.",
+      "trend": "down",
+      "note": "Live-updated from recent news coverage.",
       "headlines": [],
-      "toneReading": "No recent coverage found.",
-      "volumeReading": null
+      "toneReading": "Coverage over the last 3 days has leaned negative.",
+      "volumeReading": "Coverage volume has been unusually high this week."
     },
     {
       "name": "Argentina",
@@ -44,15 +44,15 @@
     {
       "name": "Azerbaijan",
       "region": "Eurasia",
-      "political": 41,
+      "political": 31,
       "conflict": 31,
       "economic": 39,
       "regulatory": 20,
-      "trend": "up",
-      "note": "Live-updated from recent news coverage.",
+      "trend": "down",
+      "note": "No fresh coverage this cycle; showing baseline.",
       "headlines": [],
-      "toneReading": "Coverage over the last 3 days has been mixed or neutral.",
-      "volumeReading": "Coverage volume has been unusually high this week."
+      "toneReading": "No recent coverage found.",
+      "volumeReading": null
     },
     {
       "name": "Bangladesh",
@@ -122,28 +122,28 @@
     {
       "name": "China",
       "region": "East Asia",
-      "political": 38,
+      "political": 46,
       "conflict": 22,
       "economic": 36,
       "regulatory": 54,
-      "trend": "down",
-      "note": "No fresh coverage this cycle; showing baseline.",
+      "trend": "up",
+      "note": "Live-updated from recent news coverage.",
       "headlines": [],
-      "toneReading": "No recent coverage found.",
-      "volumeReading": null
+      "toneReading": "Coverage over the last 3 days has been mixed or neutral.",
+      "volumeReading": "Coverage volume has been unusually high this week."
     },
     {
       "name": "Colombia",
       "region": "Latin America",
-      "political": 48,
+      "political": 53,
       "conflict": 56,
       "economic": 38,
       "regulatory": 40,
-      "trend": "flat",
-      "note": "No fresh coverage this cycle; showing baseline.",
+      "trend": "up",
+      "note": "Live-updated from recent news coverage.",
       "headlines": [],
-      "toneReading": "No recent coverage found.",
-      "volumeReading": null
+      "toneReading": "Coverage over the last 3 days has been mixed or neutral.",
+      "volumeReading": "Coverage volume has been unusually high this week."
     },
     {
       "name": "Cuba",
@@ -161,28 +161,28 @@
     {
       "name": "DR Congo",
       "region": "Sub-Saharan Africa",
-      "political": 72,
+      "political": 76,
       "conflict": 80,
       "economic": 68,
       "regulatory": 64,
       "trend": "flat",
-      "note": "No fresh coverage this cycle; showing baseline.",
+      "note": "Live-updated from recent news coverage.",
       "headlines": [],
-      "toneReading": "No recent coverage found.",
+      "toneReading": "Coverage over the last 3 days has been notably negative.",
       "volumeReading": null
     },
     {
       "name": "Ecuador",
       "region": "Latin America",
-      "political": 52,
-      "conflict": 59,
+      "political": 38,
+      "conflict": 57,
       "economic": 36,
       "regulatory": 13,
-      "trend": "up",
-      "note": "Live-updated from recent news coverage.",
+      "trend": "down",
+      "note": "No fresh coverage this cycle; showing baseline.",
       "headlines": [],
-      "toneReading": "Coverage over the last 3 days has leaned negative.",
-      "volumeReading": "Coverage volume has been unusually high this week."
+      "toneReading": "No recent coverage found.",
+      "volumeReading": null
     },
     {
       "name": "Egypt",
@@ -232,7 +232,28 @@
       "regulatory": 38,
       "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [],
+      "headlines": [
+        {
+          "title": "Georgia leaf watch : First fall colors peek through the green",
+          "url": "https://www.fox5atlanta.com/news/georgia-leaf-watch-first-fall-colors-peek-through-green",
+          "domain": "fox5atlanta.com"
+        },
+        {
+          "title": "Georgia crews fight invasive yellow - legged hornet spread",
+          "url": "https://www.fox5atlanta.com/news/georgia-crews-fight-invasive-yellow-legged-hornet-spread",
+          "domain": "fox5atlanta.com"
+        },
+        {
+          "title": "Opinion : AJC readers write",
+          "url": "https://www.ajc.com/opinion/2026/09/opinion-ajc-readers-write-2/",
+          "domain": "ajc.com"
+        },
+        {
+          "title": "Federal judge dismisses DOJ lawsuit against Raffensperger over voter rolls",
+          "url": "https://www.fox5atlanta.com/news/federal-judge-dismisses-doj-lawsuit-against-raffensperger-over-voter-rolls",
+          "domain": "fox5atlanta.com"
+        }
+      ],
       "toneReading": "No recent coverage found.",
       "volumeReading": null
     },
@@ -258,43 +279,43 @@
       "regulatory": 82,
       "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [
-        {
-          "title": "Haiti struggles with rise in kidnappings as general election looms",
-          "url": "https://jamaica-gleaner.com/article/world-news/20261001/haiti-struggles-rise-kidnappings-general-election-looms",
-          "domain": "jamaica-gleaner.com"
-        },
-        {
-          "title": "Haiti struggles with rise in kidnappings as general election looms \u2013 Winnipeg Free Press",
-          "url": "https://www.winnipegfreepress.com/world/2026/10/01/haiti-struggles-with-rise-in-kidnappings-as-general-election-looms",
-          "domain": "winnipegfreepress.com"
-        },
-        {
-          "title": "How a Miami Pastor Allegedly Hired Mercenaries to Seize Haiti \u2013 The Root",
-          "url": "https://www.theroot.com/how-a-miami-pastor-allegedly-hired-mercenaries-to-seize-2000128366",
-          "domain": "theroot.com"
-        },
-        {
-          "title": "Haiti Prime Minister Tells U . N . the World Has a  Shared Responsibility  to Prevent Crises",
-          "url": "https://www.breitbart.com/latin-america/2026/09/26/haiti-prime-minister-tells-u-n-the-world-has-a-shared-responsibility-to-prevent-crises/",
-          "domain": "breitbart.com"
-        }
-      ],
+      "headlines": [],
       "toneReading": "No recent coverage found.",
       "volumeReading": null
     },
     {
       "name": "India",
       "region": "South Asia",
-      "political": 30,
+      "political": 41,
       "conflict": 26,
       "economic": 24,
       "regulatory": 32,
-      "trend": "down",
-      "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [],
-      "toneReading": "No recent coverage found.",
-      "volumeReading": null
+      "trend": "up",
+      "note": "Live-updated from recent news coverage.",
+      "headlines": [
+        {
+          "title": "Canada and Mexico can absorb nearly 63 % of India exports headed to the US",
+          "url": "https://www.moneycontrol.com/news/business/economy/canada-and-mexico-can-absorb-nearly-63-of-india-s-exports-headed-to-the-us-14040152.html",
+          "domain": "moneycontrol.com"
+        },
+        {
+          "title": "28 BLACK to Showcase Growth Ambitions at Anuga Select India 2026",
+          "url": "https://www.thehindu.com/brandhub/pr-release/28-black-to-showcase-growth-ambitions-at-anuga-select-india-2026/article71523491.ece",
+          "domain": "thehindu.com"
+        },
+        {
+          "title": "India explores bigger UAE role in LPG , LNG supplies ; subsea gas pipeline under study",
+          "url": "https://www.moneycontrol.com/news/business/economy/india-explores-bigger-uae-role-in-lpg-lng-supplies-subsea-gas-pipeline-under-study-14040042.html",
+          "domain": "moneycontrol.com"
+        },
+        {
+          "title": "India ready for  every kind of strike  against terrorism : Defence minister Rajnath Singh warns Pakistan",
+          "url": "https://www.hindustantimes.com/india-news/rajnath-singh-warns-pakistan-india-ready-for-every-kind-of-strike-against-terrorism-101790494466240.html",
+          "domain": "hindustantimes.com"
+        }
+      ],
+      "toneReading": "Coverage over the last 3 days has been mixed or neutral.",
+      "volumeReading": "Coverage volume has been unusually high this week."
     },
     {
       "name": "Indonesia",
@@ -338,15 +359,15 @@
     {
       "name": "Italy",
       "region": "Europe",
-      "political": 18,
+      "political": 34,
       "conflict": 11,
       "economic": 44,
       "regulatory": 17,
-      "trend": "down",
-      "note": "No fresh coverage this cycle; showing baseline.",
+      "trend": "up",
+      "note": "Live-updated from recent news coverage.",
       "headlines": [],
-      "toneReading": "No recent coverage found.",
-      "volumeReading": null
+      "toneReading": "Coverage over the last 3 days has been mixed or neutral.",
+      "volumeReading": "Coverage volume has been unusually high this week."
     },
     {
       "name": "Japan",
@@ -355,9 +376,30 @@
       "conflict": 10,
       "economic": 22,
       "regulatory": 14,
-      "trend": "down",
+      "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [],
+      "headlines": [
+        {
+          "title": "The Diverse Appeal of Tourism and Cuisine in Japan Showcased at U . S . Event",
+          "url": "http://www.prnewswire.com/news-releases/the-diverse-appeal-of-tourism-and-cuisine-in-japan-showcased-at-us-event-302895207.html",
+          "domain": "prnewswire.com"
+        },
+        {
+          "title": "India and Japan discuss potential for strengthening cooperation in communications , AI",
+          "url": "https://www.prokerala.com/news/articles/a1818198.html",
+          "domain": "prokerala.com"
+        },
+        {
+          "title": "Japan forms first national intelligence agency , eyes its own CIA",
+          "url": "https://www.thehindu.com/news/international/japan-forms-first-national-intelligence-agency-eyes-its-own-cia/article71529027.ece",
+          "domain": "thehindu.com"
+        },
+        {
+          "title": "Bangladesh renews bid for Japan $25bn garment market . Will it work this time ?",
+          "url": "https://bdnews24.com/business/k2vkuurs58",
+          "domain": "bdnews24.com"
+        }
+      ],
       "toneReading": "No recent coverage found.",
       "volumeReading": null
     },
@@ -383,28 +425,7 @@
       "regulatory": 36,
       "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [
-        {
-          "title": "Kazakhstan multivector foreign policy in figures and projects : Tokayev approach in action",
-          "url": "https://www.trend.az/casia/kazakhstan/4228313.html",
-          "domain": "trend.az"
-        },
-        {
-          "title": "Slovakia vs Kazakhstan Predictions , Picks & Odds",
-          "url": "https://www.toffeeweb.com/slovakia-vs-kazakhstan-predictions-picks-odds-29-09-2026/",
-          "domain": "toffeeweb.com"
-        },
-        {
-          "title": "Starlink Satellite - to - Mobile Service Launched in Kazakhstan",
-          "url": "http://www.prnewswire.com/news-releases/starlink-satellite-to-mobile-service-launched-in-kazakhstan-302896187.html",
-          "domain": "prnewswire.com"
-        },
-        {
-          "title": "Tokayev appoints Aidos Myrzakhmetov as Kazakhstan Defense Minister",
-          "url": "https://www.trend.az/casia/kazakhstan/4228556.html",
-          "domain": "trend.az"
-        }
-      ],
+      "headlines": [],
       "toneReading": "No recent coverage found.",
       "volumeReading": null
     },
@@ -430,43 +451,22 @@
       "regulatory": 20,
       "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [
-        {
-          "title": "Best VPN for Lebanon in 2026 : Tested on Beirut Servers",
-          "url": "https://gizmodo.com/best-vpn/lebanon",
-          "domain": "gizmodo.com"
-        },
-        {
-          "title": "UN Worried about Impact of Latest Lebanon War on Agriculture",
-          "url": "https://english.aawsat.com/arab-world/5324983-un-worried-about-impact-latest-lebanon-war-agriculture",
-          "domain": "english.aawsat.com"
-        },
-        {
-          "title": "Malaysia wants stronger military ties with Lebanon as Malbatt mission ends",
-          "url": "https://www.freemalaysiatoday.com/category/nation/2026/10/02/malaysia-wants-stronger-military-ties-with-lebanon-as-malbatt-mission-ends",
-          "domain": "freemalaysiatoday.com"
-        },
-        {
-          "title": "Arab News | Israeli drones and fighter jets violate Lebanese airspace 143 times in 3 days , UN peacekeepers say",
-          "url": "https://www.arabnews.com/middle-east/israeli-drones-and-fighter-jets-violate-lebanese-airspace-143-times-in-3-days-un-peacekeepers-say-3003617",
-          "domain": "arabnews.com"
-        }
-      ],
+      "headlines": [],
       "toneReading": "No recent coverage found.",
       "volumeReading": null
     },
     {
       "name": "Libya",
       "region": "MENA",
-      "political": 64,
-      "conflict": 56,
+      "political": 62,
+      "conflict": 55,
       "economic": 71,
       "regulatory": 42,
       "trend": "flat",
-      "note": "Live-updated from recent news coverage.",
+      "note": "No fresh coverage this cycle; showing baseline.",
       "headlines": [],
-      "toneReading": "Coverage over the last 3 days has leaned negative.",
-      "volumeReading": "Coverage volume has been unusually high this week."
+      "toneReading": "No recent coverage found.",
+      "volumeReading": null
     },
     {
       "name": "Malaysia",
@@ -477,7 +477,28 @@
       "regulatory": 18,
       "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [],
+      "headlines": [
+        {
+          "title": "Malaysia , Kazakhstan to revive higher education cooperation , says Zambry",
+          "url": "https://www.thestar.com.my/news/nation/2026/09/27/malaysia-kazakhstan-to-revive-higher-education-cooperation-says-zambry",
+          "domain": "thestar.com.my"
+        },
+        {
+          "title": "MSIG Malaysia Reinforces Long - Term Commitment to Community Resilience Through Partnership with Epic Homes",
+          "url": "https://portal.sina.com.hk/finance/finance-mediaoutreachnewswire/media-outreach/2026/10/02/1943607/msig-malaysia-reinforces-long-term-commitment-to-community-resilience-through-partnership-with-epic-homes/",
+          "domain": "portal.sina.com.hk"
+        },
+        {
+          "title": "MDEC MDX Forum 2026 Explores Malaysia Next Chapter in AI",
+          "url": "https://www.malaysiakini.com/announcement/886144-mdecs-mdx-forum-2026-explores-malaysias-next-chapter-in-ai",
+          "domain": "malaysiakini.com"
+        },
+        {
+          "title": "Malaysia set to secure RM92mil worth of international film , TV productions , says Economy Minister",
+          "url": "https://www.thestar.com.my/news/nation/2026/09/29/malaysia-set-to-secure-rm92mil-worth-of-international-film-tv-productions-says-economy-minister",
+          "domain": "thestar.com.my"
+        }
+      ],
       "toneReading": "No recent coverage found.",
       "volumeReading": null
     },
@@ -510,15 +531,15 @@
     {
       "name": "Morocco",
       "region": "MENA",
-      "political": 32,
+      "political": 43,
       "conflict": 20,
       "economic": 38,
       "regulatory": 18,
-      "trend": "flat",
-      "note": "No fresh coverage this cycle; showing baseline.",
+      "trend": "up",
+      "note": "Live-updated from recent news coverage.",
       "headlines": [],
-      "toneReading": "No recent coverage found.",
-      "volumeReading": null
+      "toneReading": "Coverage over the last 3 days has been mixed or neutral.",
+      "volumeReading": "Coverage volume has been unusually high this week."
     },
     {
       "name": "Myanmar",
@@ -527,7 +548,7 @@
       "conflict": 78,
       "economic": 72,
       "regulatory": 70,
-      "trend": "up",
+      "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
       "headlines": [
         {
@@ -576,28 +597,7 @@
       "regulatory": 92,
       "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [
-        {
-          "title": "North Korea bridges to Russia and China signal  disconcerting  new threat",
-          "url": "https://www.abc.net.au/news/2026-09-29/whats-behind-north-korea-bridges-with-china-and-russia/107158160",
-          "domain": "abc.net.au"
-        },
-        {
-          "title": "Trump Says  Friend  Kim Jong Un Sets North Korea Apart From Iran on Nukes",
-          "url": "https://www.newsweek.com/trump-says-friend-kim-jong-un-sets-north-korea-apart-from-iran-on-nukes-12503982",
-          "domain": "newsweek.com"
-        },
-        {
-          "title": "POW transfer , DMZ blast complicate Lee peace initiative",
-          "url": "https://www.koreatimes.co.kr/foreignaffairs/20260927/pow-transfer-dmz-blast-complicate-lees-peace-initiative",
-          "domain": "koreatimes.co.kr"
-        },
-        {
-          "title": "Experts caution against N . Korean POW speculation",
-          "url": "https://www.koreaherald.com/article/10886458",
-          "domain": "koreaherald.com"
-        }
-      ],
+      "headlines": [],
       "toneReading": "No recent coverage found.",
       "volumeReading": null
     },
@@ -643,67 +643,67 @@
     {
       "name": "Poland",
       "region": "Europe",
-      "political": 24,
+      "political": 44,
       "conflict": 20,
       "economic": 22,
       "regulatory": 20,
-      "trend": "flat",
+      "trend": "up",
+      "note": "Live-updated from recent news coverage.",
+      "headlines": [],
+      "toneReading": "Coverage over the last 3 days has leaned negative.",
+      "volumeReading": "Coverage volume has been unusually high this week."
+    },
+    {
+      "name": "Qatar",
+      "region": "MENA",
+      "political": 34,
+      "conflict": 14,
+      "economic": 22,
+      "regulatory": 16,
+      "trend": "down",
       "note": "No fresh coverage this cycle; showing baseline.",
       "headlines": [],
       "toneReading": "No recent coverage found.",
       "volumeReading": null
     },
     {
-      "name": "Qatar",
+      "name": "Russia",
+      "region": "Europe",
+      "political": 61,
+      "conflict": 74,
+      "economic": 64,
+      "regulatory": 76,
+      "trend": "flat",
+      "note": "Live-updated from recent news coverage.",
+      "headlines": [],
+      "toneReading": "Coverage over the last 3 days has leaned negative.",
+      "volumeReading": "Coverage volume has been unusually high this week."
+    },
+    {
+      "name": "Saudi Arabia",
       "region": "MENA",
-      "political": 44,
-      "conflict": 14,
-      "economic": 22,
-      "regulatory": 16,
+      "political": 48,
+      "conflict": 26,
+      "economic": 30,
+      "regulatory": 36,
+      "trend": "up",
+      "note": "Live-updated from recent news coverage.",
+      "headlines": [],
+      "toneReading": "Coverage over the last 3 days has leaned negative.",
+      "volumeReading": "Coverage volume has been unusually high this week."
+    },
+    {
+      "name": "Serbia",
+      "region": "Europe",
+      "political": 48,
+      "conflict": 34,
+      "economic": 43,
+      "regulatory": 40,
       "trend": "up",
       "note": "Live-updated from recent news coverage.",
       "headlines": [],
       "toneReading": "Coverage over the last 3 days has been mixed or neutral.",
       "volumeReading": "Coverage volume has been unusually high this week."
-    },
-    {
-      "name": "Russia",
-      "region": "Europe",
-      "political": 58,
-      "conflict": 74,
-      "economic": 64,
-      "regulatory": 76,
-      "trend": "down",
-      "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [],
-      "toneReading": "No recent coverage found.",
-      "volumeReading": null
-    },
-    {
-      "name": "Saudi Arabia",
-      "region": "MENA",
-      "political": 34,
-      "conflict": 26,
-      "economic": 30,
-      "regulatory": 36,
-      "trend": "down",
-      "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [],
-      "toneReading": "No recent coverage found.",
-      "volumeReading": null
-    },
-    {
-      "name": "Serbia",
-      "region": "Europe",
-      "political": 39,
-      "conflict": 34,
-      "economic": 43,
-      "regulatory": 40,
-      "trend": "flat",
-      "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [],
-      "toneReading": "No recent coverage found.",
-      "volumeReading": null
     },
     {
       "name": "Singapore",
@@ -721,28 +721,28 @@
     {
       "name": "Somalia",
       "region": "Sub-Saharan Africa",
-      "political": 59,
+      "political": 55,
       "conflict": 90,
       "economic": 67,
       "regulatory": 42,
       "trend": "flat",
-      "note": "Live-updated from recent news coverage.",
-      "headlines": [],
-      "toneReading": "Coverage over the last 3 days has leaned negative.",
-      "volumeReading": "Coverage volume has been unusually high this week."
-    },
-    {
-      "name": "South Africa",
-      "region": "Sub-Saharan Africa",
-      "political": 38,
-      "conflict": 30,
-      "economic": 46,
-      "regulatory": 40,
-      "trend": "down",
       "note": "No fresh coverage this cycle; showing baseline.",
       "headlines": [],
       "toneReading": "No recent coverage found.",
       "volumeReading": null
+    },
+    {
+      "name": "South Africa",
+      "region": "Sub-Saharan Africa",
+      "political": 46,
+      "conflict": 30,
+      "economic": 46,
+      "regulatory": 40,
+      "trend": "up",
+      "note": "Live-updated from recent news coverage.",
+      "headlines": [],
+      "toneReading": "Coverage over the last 3 days has been mixed or neutral.",
+      "volumeReading": "Coverage volume has been unusually high this week."
     },
     {
       "name": "South Korea",
@@ -753,7 +753,28 @@
       "regulatory": 18,
       "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [],
+      "headlines": [
+        {
+          "title": "Row between Ukraine , South Korea mounts over North Korean POWs",
+          "url": "https://www.aljazeera.com/news/2026/10/2/row-between-ukraine-south-korea-mounts-over-north-korean-pows",
+          "domain": "aljazeera.com"
+        },
+        {
+          "title": "Seoul demands an apology after Zelenskyy unilaterally reveals North Korean prisoners of war transfer",
+          "url": "http://www.thegazette.com/news/world/seoul-demands-an-apology-after-zelenskyy-unilaterally-reveals-north-korean-prisoners-of-war-transfer/article_a7c9b09e-94b7-511b-9a20-368b66f02d59.html",
+          "domain": "thegazette.com"
+        },
+        {
+          "title": "Seoul summons Ukraine envoy , demands apology after Zelenskyy reveals North Korean POW transfer",
+          "url": "https://timesofindia.indiatimes.com/world/europe/seoul-summons-ukraine-envoy-demands-apology-after-zelenskyy-reveals-north-korean-pow-transfer/articleshow/134542484.cms",
+          "domain": "timesofindia.indiatimes.com"
+        },
+        {
+          "title": "Seoul demands an apology after Zelenskyy unilaterally reveals North Korean prisoners of war transfer \u2013 Winnipeg Free Press",
+          "url": "https://www.winnipegfreepress.com/world/2026/09/28/seoul-demands-an-apology-after-zelenskyy-unilaterally-reveals-north-korean-prisoners-of-war-transfer",
+          "domain": "winnipegfreepress.com"
+        }
+      ],
       "toneReading": "No recent coverage found.",
       "volumeReading": null
     },
@@ -777,30 +798,9 @@
       "conflict": 94,
       "economic": 86,
       "regulatory": 80,
-      "trend": "up",
+      "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [
-        {
-          "title": "South Sudan :  Ballot Must Replace the Bullet , South Sudan Tells General Assembly Ahead of Elections",
-          "url": "https://allafrica.com/stories/202609290097.html",
-          "domain": "allafrica.com"
-        },
-        {
-          "title": "Ballot must replace the bullet , South Sudan tells General Assembly ahead of elections",
-          "url": "https://www.globalsecurity.org/military/library/news/2026/09/mil-260928-unnews01.htm",
-          "domain": "globalsecurity.org"
-        },
-        {
-          "title": "The battle for Kordofan : The corridor linking Sudan east and west | Sudan war News",
-          "url": "https://www.aljazeera.com/news/2026/10/1/the-battle-for-kordofan-the-corridor-linking-sudans-east-and-west",
-          "domain": "aljazeera.com"
-        },
-        {
-          "title": "South Africa : Ramaphosa Urges Caution As AU Supports South Sudan Elections",
-          "url": "https://allafrica.com/stories/202609300755.html",
-          "domain": "allafrica.com"
-        }
-      ],
+      "headlines": [],
       "toneReading": "No recent coverage found.",
       "volumeReading": null
     },
@@ -813,28 +813,7 @@
       "regulatory": 67,
       "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [
-        {
-          "title": "Syria , Jordan hold defense talks to bolster border security cooperation",
-          "url": "http://www.jpost.com/middle-east/article-910212",
-          "domain": "jpost.com"
-        },
-        {
-          "title": "Syria , Romania discuss parliamentary ties and medical cooperation",
-          "url": "https://sana.sy/en/health/2346326/",
-          "domain": "sana.sy"
-        },
-        {
-          "title": "SECRET TURKEY TALKS : Syria And Hezbollah Held Face - To - Face Meeting To Ease Tensions",
-          "url": "https://www.theyeshivaworld.com/news/israel-news/2604599/secret-turkey-talks-syria-and-hezbollah-held-face-to-face-meeting-to-ease-tensions.html",
-          "domain": "theyeshivaworld.com"
-        },
-        {
-          "title": "US removes Syria from arms export ban",
-          "url": "https://www.hurriyetdailynews.com/us-removes-syria-from-arms-export-ban-227601",
-          "domain": "hurriyetdailynews.com"
-        }
-      ],
+      "headlines": [],
       "toneReading": "No recent coverage found.",
       "volumeReading": null
     },
@@ -847,28 +826,7 @@
       "regulatory": 20,
       "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [
-        {
-          "title": "Wicker Calls for US to Uphold Taiwan Security Commitments After Trump \u2013 Xi Meeting",
-          "url": "https://www.theepochtimes.com/china/wicker-calls-for-us-to-uphold-taiwan-security-commitments-after-trump-xi-meeting-6096817",
-          "domain": "theepochtimes.com"
-        },
-        {
-          "title": "Trump and Xi didnt  talk much  about Taiwan . What does that say about where it stands ?",
-          "url": "https://www.straitstimes.com/asia/trump-and-xi-didnt-talk-much-about-taiwan-what-does-that-say-about-where-it-stands",
-          "domain": "straitstimes.com"
-        },
-        {
-          "title": "The Trump - Xi Summit Is Over , But Taiwan Is Still Bracing for the Fallout",
-          "url": "https://thediplomat.com/2026/09/the-trump-xi-summit-is-over-but-taiwan-is-still-bracing-for-the-fallout/",
-          "domain": "thediplomat.com"
-        },
-        {
-          "title": "Republican Senator Wicker says US security commitments to Taiwan must be upheld",
-          "url": "https://www.asiaone.com/asia/republican-senator-wicker-says-us-security-commitments-taiwan-must-be-upheld",
-          "domain": "asiaone.com"
-        }
-      ],
+      "headlines": [],
       "toneReading": "No recent coverage found.",
       "volumeReading": null
     },
@@ -888,15 +846,15 @@
     {
       "name": "Turkey",
       "region": "Europe",
-      "political": 52,
+      "political": 54,
       "conflict": 38,
       "economic": 60,
       "regulatory": 48,
       "trend": "flat",
-      "note": "No fresh coverage this cycle; showing baseline.",
+      "note": "Live-updated from recent news coverage.",
       "headlines": [],
-      "toneReading": "No recent coverage found.",
-      "volumeReading": null
+      "toneReading": "Coverage over the last 3 days has been mixed or neutral.",
+      "volumeReading": "Coverage volume has been unusually high this week."
     },
     {
       "name": "UAE",
@@ -959,28 +917,7 @@
       "regulatory": 80,
       "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [
-        {
-          "title": "Venezuela Oil Revival Accelerates as Foreign Companies Return",
-          "url": "https://oilprice.com/Energy/Energy-General/Venezuelas-Oil-Revival-Accelerates-as-Foreign-Companies-Return.html",
-          "domain": "oilprice.com"
-        },
-        {
-          "title": "Venezuelans demand opposition leader Machado return and elections",
-          "url": "https://www.latimes.com/world-nation/story/2026-09-27/venezuelans-demand-opposition-leader-machados-return-elections",
-          "domain": "latimes.com"
-        },
-        {
-          "title": "Venezuelans demand opposition leader safe return",
-          "url": "https://www.koreaherald.com/article/10886193",
-          "domain": "koreaherald.com"
-        },
-        {
-          "title": "Venezuelans rally to demand opposition leader safe return and presidential elections \u2013 Winnipeg Free Press",
-          "url": "https://www.winnipegfreepress.com/world/2026/09/27/venezuelans-rally-to-demand-opposition-leaders-safe-return-and-presidential-elections",
-          "domain": "winnipegfreepress.com"
-        }
-      ],
+      "headlines": [],
       "toneReading": "No recent coverage found.",
       "volumeReading": null
     },
@@ -993,7 +930,28 @@
       "regulatory": 30,
       "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [],
+      "headlines": [
+        {
+          "title": "How to Watch Vietnamese TV Abroad in 2026 ( VTVgo , FPT Play )",
+          "url": "https://gizmodo.com/best-vpn/watch-vietnamese-tv-abroad",
+          "domain": "gizmodo.com"
+        },
+        {
+          "title": "Vietnamese activists  abducted  in Cambodia , says campaign group",
+          "url": "https://www.freemalaysiatoday.com/category/world/2026/09/29/vietnamese-activists-abducted-in-cambodia-says-campaign-group",
+          "domain": "freemalaysiatoday.com"
+        },
+        {
+          "title": "Canada approves Vietnam flights , possibly linking Vancouver to Ho Chi Minh in 2027 | Daily Hive",
+          "url": "https://dailyhive.com/vancouver/air-canada-vietnam-flights-agreement-vancouver-ho-chi-minh",
+          "domain": "dailyhive.com"
+        },
+        {
+          "title": "NZ Vietnam veterans march in Taup\u014d to remember their fallen",
+          "url": "https://www.nzherald.co.nz/waikato-news/news/nz-vietnam-veterans-march-in-taupo-to-remember-their-fallen/PF77KS2A5JAQHNNXETAVZILFLM/",
+          "domain": "nzherald.co.nz"
+        }
+      ],
       "toneReading": "No recent coverage found.",
       "volumeReading": null
     },
@@ -1025,6 +983,30 @@
     }
   ],
   "alerts": [
+    {
+      "name": "India",
+      "from": "LOW",
+      "to": "GUARDED",
+      "at": "2026-10-03T20:36:10.483967+00:00"
+    },
+    {
+      "name": "Libya",
+      "from": "HIGH",
+      "to": "ELEVATED",
+      "at": "2026-10-03T20:36:10.483967+00:00"
+    },
+    {
+      "name": "Poland",
+      "from": "LOW",
+      "to": "GUARDED",
+      "at": "2026-10-03T20:36:10.483967+00:00"
+    },
+    {
+      "name": "Morocco",
+      "from": "LOW",
+      "to": "GUARDED",
+      "at": "2026-10-03T20:36:10.483967+00:00"
+    },
     {
       "name": "India",
       "from": "GUARDED",
@@ -1180,30 +1162,6 @@
       "from": "GUARDED",
       "to": "LOW",
       "at": "2026-10-01T12:27:59.925651+00:00"
-    },
-    {
-      "name": "Somalia",
-      "from": "SEVERE",
-      "to": "HIGH",
-      "at": "2026-10-01T12:27:59.925651+00:00"
-    },
-    {
-      "name": "Morocco",
-      "from": "GUARDED",
-      "to": "LOW",
-      "at": "2026-10-01T12:27:59.925651+00:00"
-    },
-    {
-      "name": "Qatar",
-      "from": "GUARDED",
-      "to": "LOW",
-      "at": "2026-10-01T12:27:59.925651+00:00"
-    },
-    {
-      "name": "India",
-      "from": "LOW",
-      "to": "GUARDED",
-      "at": "2026-10-01T04:14:06.256753+00:00"
     }
   ]
 }
