@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-05T13:38:14.655020+00:00",
+  "generatedAt": "2026-10-05T23:45:05.872529+00:00",
   "source": "GDELT (news tone/volume, 3-day window) blended 50/50 with baseline",
   "countries": [
     {
@@ -48,7 +48,7 @@
       "conflict": 31,
       "economic": 39,
       "regulatory": 20,
-      "trend": "down",
+      "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
       "headlines": [],
       "toneReading": "No recent coverage found.",
@@ -61,7 +61,7 @@
       "conflict": 34,
       "economic": 44,
       "regulatory": 42,
-      "trend": "down",
+      "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
       "headlines": [],
       "toneReading": "No recent coverage found.",
@@ -76,7 +76,28 @@
       "regulatory": 72,
       "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [],
+      "headlines": [
+        {
+          "title": "Nooruddin Azizi attends Belarus industry week conference",
+          "url": "https://pajhwok.com/2026/10/02/nooruddin-azizi-attends-belarus-industry-week-conference/",
+          "domain": "pajhwok.com"
+        },
+        {
+          "title": "Lukashenko met with Kazakhstan PM : a friendly country for us , with no closed topics",
+          "url": "https://www.sb.by/en/lukashenko-met-with-kazakhstan-s-pm-friendly-country-for-us-with-no-closed-topics.html",
+          "domain": "sb.by"
+        },
+        {
+          "title": "Iran trade turnover with Belarus reaches $76M in 2025",
+          "url": "https://www.trend.az/iran/4229258.html",
+          "domain": "trend.az"
+        },
+        {
+          "title": "US hopes Belarus will force Canadian firms to lower prices",
+          "url": "https://cen.acs.org/business/agriculture/US-hopes-Belarus-force-Canadian/104/web/2026/10",
+          "domain": "cen.acs.org"
+        }
+      ],
       "toneReading": "No recent coverage found.",
       "volumeReading": null
     },
@@ -102,7 +123,28 @@
       "regulatory": 20,
       "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [],
+      "headlines": [
+        {
+          "title": "Ban On Some Canadian Products In Effect | News Radio 570 WWNC",
+          "url": "https://wwnc.iheart.com/content/2026-09-29-ban-on-some-canadian-products-in-effect/",
+          "domain": "wwnc.iheart.com"
+        },
+        {
+          "title": "Ban On Some Canadian Products In Effect",
+          "url": "https://kprcradio.iheart.com/content/2026-09-29-ban-on-some-canadian-products-in-effect/",
+          "domain": "kprcradio.iheart.com"
+        },
+        {
+          "title": "Ban On Some Canadian Products In Effect | NewsRadio 800 WVHU",
+          "url": "https://800wvhu.iheart.com/content/2026-09-29-ban-on-some-canadian-products-in-effect/",
+          "domain": "800wvhu.iheart.com"
+        },
+        {
+          "title": "Ban On Some Canadian Products In Effect | NewsRadio 630 WLAP",
+          "url": "https://wlap.iheart.com/content/2026-09-29-ban-on-some-canadian-products-in-effect/",
+          "domain": "wlap.iheart.com"
+        }
+      ],
       "toneReading": "No recent coverage found.",
       "volumeReading": null
     },
@@ -126,9 +168,30 @@
       "conflict": 22,
       "economic": 36,
       "regulatory": 54,
-      "trend": "down",
+      "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [],
+      "headlines": [
+        {
+          "title": "Japanese delegation sees trip as eye - opener",
+          "url": "http://global.chinadaily.com.cn/a/202609/29/WS6abb0a8ce4b06d4aa0560abe.html",
+          "domain": "global.chinadaily.com.cn"
+        },
+        {
+          "title": "Iraqi correspondent : Thank you China , happy birthday !",
+          "url": "http://global.chinadaily.com.cn/a/202609/29/WS6abb09cbe4b06d4aa0560abb.html",
+          "domain": "global.chinadaily.com.cn"
+        },
+        {
+          "title": "Take firm action to curb the Philippine egregious conduct disrupting the South China Sea",
+          "url": "https://www.globalsecurity.org/military/library/news/2026/09/mil-260928-prc-mnd01.htm",
+          "domain": "globalsecurity.org"
+        },
+        {
+          "title": "Japanese delegation highlights China ties",
+          "url": "http://europe.chinadaily.com.cn/a/202610/01/WS6abdb00ee4b06d4aa05611a6.html",
+          "domain": "europe.chinadaily.com.cn"
+        }
+      ],
       "toneReading": "No recent coverage found.",
       "volumeReading": null
     },
@@ -139,7 +202,7 @@
       "conflict": 56,
       "economic": 38,
       "regulatory": 40,
-      "trend": "down",
+      "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
       "headlines": [],
       "toneReading": "No recent coverage found.",
@@ -232,7 +295,28 @@
       "regulatory": 38,
       "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [],
+      "headlines": [
+        {
+          "title": "Georgia leaf watch : First fall colors peek through the green",
+          "url": "https://www.fox5atlanta.com/news/georgia-leaf-watch-first-fall-colors-peek-through-green",
+          "domain": "fox5atlanta.com"
+        },
+        {
+          "title": "Georgia crews fight invasive yellow - legged hornet spread",
+          "url": "https://www.fox5atlanta.com/news/georgia-crews-fight-invasive-yellow-legged-hornet-spread",
+          "domain": "fox5atlanta.com"
+        },
+        {
+          "title": "Opinion : AJC readers write",
+          "url": "https://www.ajc.com/opinion/2026/09/opinion-ajc-readers-write-2/",
+          "domain": "ajc.com"
+        },
+        {
+          "title": "Federal judge dismisses DOJ lawsuit against Raffensperger over voter rolls",
+          "url": "https://www.fox5atlanta.com/news/federal-judge-dismisses-doj-lawsuit-against-raffensperger-over-voter-rolls",
+          "domain": "fox5atlanta.com"
+        }
+      ],
       "toneReading": "No recent coverage found.",
       "volumeReading": null
     },
@@ -269,9 +353,30 @@
       "conflict": 26,
       "economic": 24,
       "regulatory": 32,
-      "trend": "down",
+      "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [],
+      "headlines": [
+        {
+          "title": "28 BLACK to Showcase Growth Ambitions at Anuga Select India 2026",
+          "url": "https://www.thehindu.com/brandhub/pr-release/28-black-to-showcase-growth-ambitions-at-anuga-select-india-2026/article71523491.ece",
+          "domain": "thehindu.com"
+        },
+        {
+          "title": "Uruguay eyes Indian edible oil market , aiming to emulate Argentina export success",
+          "url": "https://www.livemint.com/industry/agriculture/uruguay-edible-oil-exports-india-soybean-sunflower-oil-11790664425597.html",
+          "domain": "livemint.com"
+        },
+        {
+          "title": "JMGO N3 Ultimate Brings a New Way of Projection to India with the World First 3 - in - 1 Optical System as JMGO and SPRODE INDIA Mark 10 Years",
+          "url": "https://www.business-standard.com/content/press-releases-ani/jmgo-n3-ultimate-brings-a-new-way-of-projection-to-india-with-the-world-s-first-3-in-1-optical-system-as-jmgo-and-sprode-india-mark-10-years-126100101157_1.html",
+          "domain": "business-standard.com"
+        },
+        {
+          "title": "Monsoon deficit at 13 %, officially a drought year",
+          "url": "https://timesofindia.indiatimes.com/india/monsoon-deficit-at-13-officially-a-drought-year/articleshow/134602606.cms",
+          "domain": "timesofindia.indiatimes.com"
+        }
+      ],
       "toneReading": "No recent coverage found.",
       "volumeReading": null
     },
@@ -282,9 +387,30 @@
       "conflict": 20,
       "economic": 30,
       "regulatory": 32,
-      "trend": "down",
+      "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [],
+      "headlines": [
+        {
+          "title": "Expert says RI support for Palestine consistent since Bung Karno era",
+          "url": "https://en.antaranews.com/news/433831/expert-says-ris-support-for-palestine-consistent-since-bung-karno-era",
+          "domain": "en.antaranews.com"
+        },
+        {
+          "title": "Arab News | Indonesia courts Saudi support to speed up negotiations of GCC trade deal",
+          "url": "https://www.arabnews.com/world/indonesia-courts-saudi-support-to-speed-up-negotiations-of-gcc-trade-deal-3004060",
+          "domain": "arabnews.com"
+        },
+        {
+          "title": "RI backs blue carbon to balance growth , sustainability",
+          "url": "https://en.antaranews.com/news/433371/ri-backs-blue-carbon-to-balance-growth-sustainability",
+          "domain": "en.antaranews.com"
+        },
+        {
+          "title": "Indonesia trade minister heads to US for G20 meeting",
+          "url": "https://en.antaranews.com/news/433344/indonesias-trade-minister-heads-to-us-for-g20-meeting",
+          "domain": "en.antaranews.com"
+        }
+      ],
       "toneReading": "No recent coverage found.",
       "volumeReading": null
     },
@@ -310,7 +436,28 @@
       "regulatory": 30,
       "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [],
+      "headlines": [
+        {
+          "title": "Three years since October 7 IDSF - Habithonistim to hold conference",
+          "url": "https://www.jpost.com/israel-news/politics-and-diplomacy/article-910172",
+          "domain": "jpost.com"
+        },
+        {
+          "title": "Arab News | Israel courts Europe far right , finding friends but also unease",
+          "url": "https://www.arabnews.com/world/israel-courts-europes-far-right-finding-friends-but-also-unease-3004194",
+          "domain": "arabnews.com"
+        },
+        {
+          "title": "Democratic group offers a new framework for the US - Israel relationship as party rifts deepen",
+          "url": "https://www.ksat.com/news/politics/2026/10/01/democratic-group-offers-a-new-framework-for-the-us-israel-relationship-as-party-rifts-deepen/",
+          "domain": "ksat.com"
+        },
+        {
+          "title": "Flydubai pilot tried to crash plane after stabbing co - pilot : Netanyahu",
+          "url": "https://www.rediff.com/news/report/flydubai-pilot-tried-to-crash-plane-after-stabbing-co-pilot-netanyahu/20260930.htm",
+          "domain": "rediff.com"
+        }
+      ],
       "toneReading": "No recent coverage found.",
       "volumeReading": null
     },
@@ -321,9 +468,30 @@
       "conflict": 11,
       "economic": 44,
       "regulatory": 17,
-      "trend": "down",
+      "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [],
+      "headlines": [
+        {
+          "title": "Mediterranean AI momentum surges as GITEX launches in Italy US$92B digital economy",
+          "url": "https://www.manilatimes.net/2026/09/29/tmt-newswire/globenewswire/mediterraneans-ai-momentum-surges-as-gitex-launches-in-italys-us92b-digital-economy/2434752",
+          "domain": "manilatimes.net"
+        },
+        {
+          "title": "India , Italy agree to strengthen tourism ties",
+          "url": "https://www.prokerala.com/news/articles/a1818348.html",
+          "domain": "prokerala.com"
+        },
+        {
+          "title": "Italy Approves School Burqa Ban and Classroom Language Cap \u2013 NaturalNews . com",
+          "url": "https://www.naturalnews.com/2026-09-29-italy-approves-school-burqa-ban-language-cap.html",
+          "domain": "naturalnews.com"
+        },
+        {
+          "title": "Super Eagles : Brentford Michael Kayode will no longer play for Nigeria",
+          "url": "https://dailypost.ng/2026/09/29/super-eagles-brentfords-michael-kayode-will-no-longer-play-for-nigeria/",
+          "domain": "dailypost.ng"
+        }
+      ],
       "toneReading": "No recent coverage found.",
       "volumeReading": null
     },
@@ -347,9 +515,30 @@
       "conflict": 11,
       "economic": 40,
       "regulatory": 20,
-      "trend": "down",
+      "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [],
+      "headlines": [
+        {
+          "title": "Michael Jordan sold this Ferrari in 2002 ; it vanished for 24 years until a partial chassis number in an old forum helped in tracing it",
+          "url": "https://timesofindia.indiatimes.com/world/us/michael-jordan-sold-this-ferrari-in-2002-it-vanished-for-24-years-until-a-partial-chassis-number-in-an-old-forum-helped-in-tracing-it/articleshow/134626359.cms",
+          "domain": "timesofindia.indiatimes.com"
+        },
+        {
+          "title": "Michael Jordan  Last Dance  jersey sells for record $12 . 26 million",
+          "url": "https://chicago.suntimes.com/bulls/2026/09/30/michael-jordans-last-dance-jersey-sells-for-record-12-26-million",
+          "domain": "chicago.suntimes.com"
+        },
+        {
+          "title": "Wike son denies collecting $2 . 1m from businessman over Abuja land deal - Latest News In Nigeria , Nigeria News Today , Your Online Nigerian Newspaper",
+          "url": "https://www.nigerianeye.com/2026/10/wikes-son-denies-collecting-21m-from.html",
+          "domain": "nigerianeye.com"
+        },
+        {
+          "title": "I did not receive money from anybody , Wike son denies $2 . 1m land deal , alleges forgery",
+          "url": "https://theeagleonline.com.ng/i-did-not-receive-money-from-anybody-wikes-son-denies-2-1m-land-deal-alleges-forgery/",
+          "domain": "theeagleonline.com.ng"
+        }
+      ],
       "toneReading": "No recent coverage found.",
       "volumeReading": null
     },
@@ -362,28 +551,7 @@
       "regulatory": 36,
       "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [
-        {
-          "title": "Starlink Satellite - to - Mobile Service Launched in Kazakhstan",
-          "url": "http://www.prnewswire.com/news-releases/starlink-satellite-to-mobile-service-launched-in-kazakhstan-302896187.html",
-          "domain": "prnewswire.com"
-        },
-        {
-          "title": "Kazakhstan , Aurubis discuss joint projects in copper processing , recycling",
-          "url": "https://www.trend.az/casia/kazakhstan/4229753.html",
-          "domain": "trend.az"
-        },
-        {
-          "title": "Kazakhstan signs 418 - million - euro deal to develop Satimola potash deposit",
-          "url": "https://www.trend.az/casia/kazakhstan/4229509.html",
-          "domain": "trend.az"
-        },
-        {
-          "title": "Herat , Kazakh traders sign trade contracts worth $20m",
-          "url": "https://pajhwok.com/2026/09/29/herat-kazakh-traders-sign-trade-contracts-worth-20m/",
-          "domain": "pajhwok.com"
-        }
-      ],
+      "headlines": [],
       "toneReading": "No recent coverage found.",
       "volumeReading": null
     },
@@ -433,7 +601,7 @@
       "conflict": 13,
       "economic": 14,
       "regulatory": 18,
-      "trend": "down",
+      "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
       "headlines": [],
       "toneReading": "No recent coverage found.",
@@ -487,7 +655,28 @@
       "regulatory": 70,
       "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [],
+      "headlines": [
+        {
+          "title": "Chinese enterprises eye growing role in Myanmar economic , social development",
+          "url": "https://www.globaltimes.cn/page/202610/1371639.shtml",
+          "domain": "globaltimes.cn"
+        },
+        {
+          "title": "Rohingya genocide case : ICJ will soon issue ruling on Myanmar actions",
+          "url": "https://scroll.in/article/1096091/rohingya-genocide-icj-will-soon-issue-ruling-on-case-against-myanmar",
+          "domain": "scroll.in"
+        },
+        {
+          "title": "Malaysia begins sending home Myanmar refugees despite safety concerns",
+          "url": "https://www.asiaone.com/malaysia/malaysia-begins-sending-home-myanmar-refugees-despite-safety-concerns",
+          "domain": "asiaone.com"
+        },
+        {
+          "title": "Malaysia begins Myanmar repatriations despite safety warnings by UN and rights groups",
+          "url": "https://www.ksat.com/news/world/2026/09/29/malaysia-begins-myanmar-repatriations-despite-safety-warnings-by-un-and-rights-groups/",
+          "domain": "ksat.com"
+        }
+      ],
       "toneReading": "No recent coverage found.",
       "volumeReading": null
     },
@@ -550,9 +739,30 @@
       "conflict": 30,
       "economic": 32,
       "regulatory": 30,
-      "trend": "down",
+      "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [],
+      "headlines": [
+        {
+          "title": "PackPrintPlas Philippines 2026 leads to addressing the industry\u00e2\u20ac\u2122s evolving demands",
+          "url": "https://www.philstar.com/lifestyle/on-the-radar/2026/09/29/2559512/packprintplas-philippines-2026-leads-addressing-industrys-evolving-demands",
+          "domain": "philstar.com"
+        },
+        {
+          "title": "Polish president to make first - ever visit to PH",
+          "url": "https://www.philstar.com/headlines/2026/10/02/2560484/polish-president-make-first-ever-visit-ph",
+          "domain": "philstar.com"
+        },
+        {
+          "title": "Pakistan fight back to secure draw with Philippines",
+          "url": "https://arynews.tv/pakistan-fight-back-to-secure-draw-with-philippines",
+          "domain": "arynews.tv"
+        },
+        {
+          "title": "Ang ganda : Aspin lands on Vogue Philippine first - ever Dogue cover",
+          "url": "https://interaksyon.philstar.com/trends-spotlights/2026/09/29/319873/aspin-lands-vogue-philippines-first-ever-dogue-cover/",
+          "domain": "interaksyon.philstar.com"
+        }
+      ],
       "toneReading": "No recent coverage found.",
       "volumeReading": null
     },
@@ -576,9 +786,30 @@
       "conflict": 14,
       "economic": 22,
       "regulatory": 16,
-      "trend": "down",
+      "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [],
+      "headlines": [
+        {
+          "title": "Qatar Prix de lArc de Triomphe Meeting Begins in Paris",
+          "url": "https://www.qatarliving.com/en/article/qatar-prix-de-larc-de-triomphe-meeting-begins-in-paris-tomorrow",
+          "domain": "qatarliving.com"
+        },
+        {
+          "title": "22 officers graduate from Qatar Second - Line Leadership Program",
+          "url": "https://www.qatarliving.com/en/article/22-officers-graduate-from-qatar-s-second-line-leadership-program",
+          "domain": "qatarliving.com"
+        },
+        {
+          "title": "National Museum of Qatar to showcase over 1 , 000 years of Chinese ceramics",
+          "url": "https://www.qatarliving.com/en/article/national-museum-of-qatar-to-showcase-over-1-000-years-of-chinese-ceramics",
+          "domain": "qatarliving.com"
+        },
+        {
+          "title": "Qatar advance to Asian Games padel semifinals after 2 - 0 UAE win",
+          "url": "https://www.qatarliving.com/en/article/qatar-advance-to-asian-games-padel-semifinals-after-2-0-uae-win",
+          "domain": "qatarliving.com"
+        }
+      ],
       "toneReading": "No recent coverage found.",
       "volumeReading": null
     },
@@ -591,7 +822,28 @@
       "regulatory": 76,
       "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [],
+      "headlines": [
+        {
+          "title": "Trade irony amid Trump threat : Why Russia is buying its own oil as fuel from India",
+          "url": "https://timesofindia.indiatimes.com/business/india-business/trade-irony-amid-trump-threat-why-russia-is-buying-its-own-oil-as-fuel-from-india/articleshow/134563758.cms",
+          "domain": "timesofindia.indiatimes.com"
+        },
+        {
+          "title": "Russia will  go nuclear  leaving  little left  of Europe as WW3 threat looms",
+          "url": "https://www.dailystar.co.uk/news/latest-news/russia-go-nuclear-leaving-little-37726032",
+          "domain": "dailystar.co.uk"
+        },
+        {
+          "title": "Putin warns West Russia will use  all weapon if Kaliningrad threatened",
+          "url": "https://www.abc.net.au/news/2026-10-02/putin-kaliningrad-threat-nuclear-weapons/107219366",
+          "domain": "abc.net.au"
+        },
+        {
+          "title": "Putin says world is living through dangerous moment",
+          "url": "https://www.canberratimes.com.au/story/9361301/putin-says-world-is-living-through-dangerous-moment/",
+          "domain": "canberratimes.com.au"
+        }
+      ],
       "toneReading": "No recent coverage found.",
       "volumeReading": null
     },
@@ -602,9 +854,30 @@
       "conflict": 26,
       "economic": 30,
       "regulatory": 36,
-      "trend": "down",
+      "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [],
+      "headlines": [
+        {
+          "title": "India , Saudi Arabia discuss strengthening parliamentary cooperation",
+          "url": "https://www.prokerala.com/news/articles/a1818572.html",
+          "domain": "prokerala.com"
+        },
+        {
+          "title": "Pakistan to provide all resources to defend Saudi Arabia : Khawaja Asif",
+          "url": "https://en.dailypakistan.com.pk/30-Sep-2026/pakistan-to-provide-all-resources-to-defend-saudi-arabia-khawaja-asif",
+          "domain": "en.dailypakistan.com.pk"
+        },
+        {
+          "title": "Asif vows Pakistan will defend Saudi Arabia",
+          "url": "https://www.pakistantoday.com.pk/2026/09/30/asif-vows-pakistan-will-defend-saudi-arabia",
+          "domain": "pakistantoday.com.pk"
+        },
+        {
+          "title": "Pakistan will use  whatever means available  to defend Saudi",
+          "url": "https://www.pakistantoday.com.pk/2026/09/30/pakistan-to-use-whatever-means-available-to-defend-saudi-arabia-asif",
+          "domain": "pakistantoday.com.pk"
+        }
+      ],
       "toneReading": "No recent coverage found.",
       "volumeReading": null
     },
@@ -654,9 +927,30 @@
       "conflict": 30,
       "economic": 46,
       "regulatory": 40,
-      "trend": "down",
+      "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [],
+      "headlines": [
+        {
+          "title": "WEATHER : Rain expected to hit FIVE provinces",
+          "url": "https://www.thesouthafrican.com/news/weather/weather-rain-expected-to-hit-five-provinces/",
+          "domain": "thesouthafrican.com"
+        },
+        {
+          "title": "FAO - China workshop on agricultural heritage systems opens in South Africa",
+          "url": "https://www.globaltimes.cn/page/202609/1371541.shtml",
+          "domain": "globaltimes.cn"
+        },
+        {
+          "title": "Dwindling Nigeria - South Africa Flight Operations \u2013 THISDAYLIVE",
+          "url": "https://www.thisdaylive.com/2026/10/02/dwindling-nigeria-south-africa-flight-operations/",
+          "domain": "thisdaylive.com"
+        },
+        {
+          "title": "WEATHER : Thunderstorms , hail and freezing conditions to sweep across SA TODAY",
+          "url": "https://www.thesouthafrican.com/news/weather/weather-thunderstorms-hail-and-freezing-conditions-to-sweep-across-south-africa-provinces-today/",
+          "domain": "thesouthafrican.com"
+        }
+      ],
       "toneReading": "No recent coverage found.",
       "volumeReading": null
     },
@@ -669,7 +963,28 @@
       "regulatory": 18,
       "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [],
+      "headlines": [
+        {
+          "title": "Row between Ukraine , South Korea mounts over North Korean POWs",
+          "url": "https://www.aljazeera.com/news/2026/10/2/row-between-ukraine-south-korea-mounts-over-north-korean-pows",
+          "domain": "aljazeera.com"
+        },
+        {
+          "title": "Evening Review - Will the Cornell rape case change anything ?",
+          "url": "https://theweek.com/edition/theweekus-evening-review-2026-10-01-212329",
+          "domain": "theweek.com"
+        },
+        {
+          "title": "Why South Korea is the Missing Piece in Bangladesh Foreign Policy",
+          "url": "https://www.thedailystar.net/slow-reads/geopolitical-insights/news/the-south-korea-opportunity-bangladesh-overlooking-4287166",
+          "domain": "thedailystar.net"
+        },
+        {
+          "title": "South Korea Lee threatens action against Ukraine over transfer of North Korean soldiers",
+          "url": "https://www.aol.com/articles/south-koreas-lee-threatens-action-030040000.html",
+          "domain": "aol.com"
+        }
+      ],
       "toneReading": "No recent coverage found.",
       "volumeReading": null
     },
@@ -734,7 +1049,28 @@
       "regulatory": 34,
       "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [],
+      "headlines": [
+        {
+          "title": "Infineon Opens $1 . 4 Billion Thailand Plant as Country Ramps Up Semiconductor Push",
+          "url": "https://english.aawsat.com/technology/5324670-infineon-opens-14-billion-thailand-plant-country-ramps-semiconductor-push",
+          "domain": "english.aawsat.com"
+        },
+        {
+          "title": "Director - General of Thailand International Cooperation Agency meets with Ambassador of the Republic of the Guinea to Thailand ( with residence in Kuala Lumpur ) and the Honorary Consul of the Republic of the Guinea",
+          "url": "https://www.africa.com/apo/directorgeneral-of-thailand-international-cooperation-agency-meets-with-ambassador-of-the-republic-of-the-guinea-to-thailand-with-residence-in-kuala-lumpur-and-the-honorary-consul-of-the-republic-of-the-guinea",
+          "domain": "africa.com"
+        },
+        {
+          "title": "Myanmar polluting mines selling to China through Thai companies",
+          "url": "https://news.mongabay.com/2026/10/myanmars-polluting-mines-selling-to-china-through-thai-companies/",
+          "domain": "news.mongabay.com"
+        },
+        {
+          "title": "Countdown to 2037 : Strategic Public - Private Agenda Unleashes Blueprint to Double Thailand Economic Growth",
+          "url": "https://www.manilatimes.net/2026/09/29/tmt-newswire/media-outreach-newswire/countdown-to-2037-strategic-public-private-agenda-unleashes-blueprint-to-double-thailands-economic-growth/2435006",
+          "domain": "manilatimes.net"
+        }
+      ],
       "toneReading": "No recent coverage found.",
       "volumeReading": null
     },
@@ -747,7 +1083,28 @@
       "regulatory": 48,
       "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [],
+      "headlines": [
+        {
+          "title": "Turkish police detain CHP opposition mayor of Mersin in corruption probe",
+          "url": "https://www.jpost.com/middle-east/article-910321",
+          "domain": "jpost.com"
+        },
+        {
+          "title": "Where have you spotted a wild turkey in Greater Boston ? Send us your photos .",
+          "url": "https://www.boston.com/community/tell-us/wild-turkey-sightings-photos-location-2026/",
+          "domain": "boston.com"
+        },
+        {
+          "title": "Kremlin says in talks on moving Russian missile systems from Turkey",
+          "url": "https://www.freemalaysiatoday.com/category/world/2026/09/30/kremlin-says-in-talks-on-moving-russian-missile-systems-from-turkey",
+          "domain": "freemalaysiatoday.com"
+        },
+        {
+          "title": "Turkey Detains Suspect in 2013 Syria Border Attack : Report",
+          "url": "https://www.deccanchronicle.com/world/turkey-detains-suspect-in-2013-syria-border-attack-report-1992327",
+          "domain": "deccanchronicle.com"
+        }
+      ],
       "toneReading": "No recent coverage found.",
       "volumeReading": null
     },
@@ -825,7 +1182,28 @@
       "regulatory": 30,
       "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [],
+      "headlines": [
+        {
+          "title": "How to Watch Vietnamese TV Abroad in 2026 ( VTVgo , FPT Play )",
+          "url": "https://gizmodo.com/best-vpn/watch-vietnamese-tv-abroad",
+          "domain": "gizmodo.com"
+        },
+        {
+          "title": "Vietnamese activists  abducted  in Cambodia , says campaign group",
+          "url": "https://www.freemalaysiatoday.com/category/world/2026/09/29/vietnamese-activists-abducted-in-cambodia-says-campaign-group",
+          "domain": "freemalaysiatoday.com"
+        },
+        {
+          "title": "NZ Vietnam veterans march in Taup\u014d to remember their fallen",
+          "url": "https://www.nzherald.co.nz/waikato-news/news/nz-vietnam-veterans-march-in-taupo-to-remember-their-fallen/PF77KS2A5JAQHNNXETAVZILFLM/",
+          "domain": "nzherald.co.nz"
+        },
+        {
+          "title": "Minister McGuinty meets with the Deputy Prime Minister and Minister of National Defence of Vietnam",
+          "url": "https://www.globalsecurity.org/wmd/library/news/canada/2026/canada-260928-canada01.htm",
+          "domain": "globalsecurity.org"
+        }
+      ],
       "toneReading": "No recent coverage found.",
       "volumeReading": null
     },
@@ -836,7 +1214,7 @@
       "conflict": 88,
       "economic": 82,
       "regulatory": 74,
-      "trend": "up",
+      "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
       "headlines": [],
       "toneReading": "No recent coverage found.",
