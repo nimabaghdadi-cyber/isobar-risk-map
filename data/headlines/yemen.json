@@ -1,5 +1,486 @@
 {
   "country": "Yemen",
-  "generatedAt": "2026-10-08T04:34:31.441866+00:00",
-  "headlines": []
+  "generatedAt": "2026-10-08T12:50:06.717033+00:00",
+  "headlines": [
+    {
+      "title": "Fresh Yemen escalation as government forces hit Sanaa",
+      "url": "https://pmnewsnigeria.com/2026/10/02/fresh-yemen-escalation-as-government-forces-hit-sanaa/",
+      "domain": "pmnewsnigeria.com",
+      "date": "Oct 02, 2026"
+    },
+    {
+      "title": "Energy Department employee Ashton Hamed Ellaboudy arrested for supporting Iran Houthis",
+      "url": "https://nypost.com/2026/10/02/us-news/energy-department-employee-ashton-hamed-ellaboudy-arrested-for-supporting-iran-houthis/",
+      "domain": "nypost.com",
+      "date": "Oct 02, 2026"
+    },
+    {
+      "title": "Yemen carried out 20 strikes on Houthi targets in Taiz province , spokesperson says",
+      "url": "https://www.internazionale.it/ultime-notizie-reuters/2026/10/02/yemen-carried-out-20-strikes-on-houthi-targets-in-taiz-province-spokesperson-says",
+      "domain": "internazionale.it",
+      "date": "Oct 02, 2026"
+    },
+    {
+      "title": "Arab News | Yemeni Air Force carried out raids on Houthi targets in Taiz and Sanaa",
+      "url": "https://www.arabnews.com/saudi-arabia/yemeni-air-force-carried-out-raids-on-houthi-targets-in-taiz-and-sanaa-3004192",
+      "domain": "arabnews.com",
+      "date": "Oct 02, 2026"
+    },
+    {
+      "title": "Saudi coalition says intercepted Houthi missiles , drones",
+      "url": "https://arynews.tv/news/liveblog/iran-war-2026-live-updates-trump-us-israel?update=02-Oct-2026-08-32-00",
+      "domain": "arynews.tv",
+      "date": "Oct 02, 2026"
+    },
+    {
+      "title": "Houthis damage Madinah power station serving Prophet Mosque",
+      "url": "https://www.siasat.com/houthis-damage-madinah-power-station-serving-prophets-mosque-3551239/",
+      "domain": "siasat.com",
+      "date": "Oct 02, 2026"
+    },
+    {
+      "title": "Saudi coalition accuses Houthis of drone attack on Medina",
+      "url": "https://www.al-monitor.com/originals/2026/10/saudi-coalition-accuses-houthis-drone-attack-medina",
+      "domain": "al-monitor.com",
+      "date": "Oct 02, 2026"
+    },
+    {
+      "title": "Saudi - led coalition says Houthis attacked power station for Prophet Mosque in Madinah",
+      "url": "https://bdnews24.com/world/middle-east/7ov74i905k",
+      "domain": "bdnews24.com",
+      "date": "Oct 02, 2026"
+    },
+    {
+      "title": "Saudi - led coalition says Houthis attacked power station for Prophet Mosque in Medina",
+      "url": "https://bworldonline.com/world/2026/10/02/783892/saudi-led-coalition-says-houthis-attacked-power-station-for-prophets-mosque-in-medina/",
+      "domain": "bworldonline.com",
+      "date": "Oct 02, 2026"
+    },
+    {
+      "title": "Arab News | Yemen army strikes Sanaa after Houthi attack on Madinah power facility",
+      "url": "https://www.arabnews.com/saudi-arabia/yemens-army-strikes-sanaa-after-houthi-attack-on-madinah-power-facility-3004192",
+      "domain": "arabnews.com",
+      "date": "Oct 02, 2026"
+    },
+    {
+      "title": "Saudi coalition accuses Houthis of Medina power station attack",
+      "url": "https://www.geo.tv/latest/684641-saudi-coalition-accuses-houthis-of-medina-power-station-attack",
+      "domain": "geo.tv",
+      "date": "Oct 02, 2026"
+    },
+    {
+      "title": "Saudi - led coalition says Houthis attacked power station in Medina",
+      "url": "https://www.freemalaysiatoday.com/category/world/2026/10/02/saudi-led-coalition-says-houthis-attacked-power-station-in-medina",
+      "domain": "freemalaysiatoday.com",
+      "date": "Oct 02, 2026"
+    },
+    {
+      "title": "51 - year - old US Energy Dept official arrested for allegedly aiding Yemen Houthis",
+      "url": "https://aninews.in/news/world/us/51-year-old-us-energy-dept-official-arrested-for-allegedly-aiding-yemens-houthis20261002060031/",
+      "domain": "aninews.in",
+      "date": "Oct 02, 2026"
+    },
+    {
+      "title": "Coalition : 2 Ballistic Missiles , 4 Drones Destroyed in Saudi Arabia Khamis Mushait , Jazan",
+      "url": "https://english.aawsat.com/gulf/5324971-coalition-2-ballistic-missiles-4-drones-destroyed-saudi-arabia%E2%80%99s-khamis-mushait-jazan",
+      "domain": "english.aawsat.com",
+      "date": "Oct 01, 2026"
+    },
+    {
+      "title": "UN envoy calls on Houthis to halt military offensive in Yemen Taiz",
+      "url": "https://aa.com.tr/en/middle-east/un-envoy-calls-on-houthis-to-halt-military-offensive-in-yemens-taiz/4075479",
+      "domain": "aa.com.tr",
+      "date": "Oct 01, 2026"
+    },
+    {
+      "title": "Saudi - led coalition says power station attacked in Medina , blames Houthis",
+      "url": "https://www.aljazeera.com/news/2026/10/1/saudi-led-coalition-says-power-station-attacked-in-medina-blames-houthis",
+      "domain": "aljazeera.com",
+      "date": "Oct 01, 2026"
+    },
+    {
+      "title": "Saudi Arabia conducting joint investigation into Flydubai incident with UAE",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/saudi-arabia-conducting-joint-investigation-flydubai-incident-uae",
+      "domain": "middleeasteye.net",
+      "date": "Oct 01, 2026"
+    },
+    {
+      "title": "Houthi militia targets Madina power station in drone attack , coalition forces say",
+      "url": "https://arynews.tv/houthi-militia-targets-madina-power-station-in-drone-attack-coalition-forces-say",
+      "domain": "arynews.tv",
+      "date": "Oct 01, 2026"
+    },
+    {
+      "title": "MBS puts faith in Makkah pact for regional security",
+      "url": "https://www.pakistantoday.com.pk/2026/10/01/mbs-puts-faith-in-makkah-pact-for-regional-security",
+      "domain": "pakistantoday.com.pk",
+      "date": "Oct 01, 2026"
+    },
+    {
+      "title": "Houthi Militia Escalation and Playing with Fire",
+      "url": "https://english.aawsat.com/opinion/5324694-houthi-militia-escalation-and-playing-fire",
+      "domain": "english.aawsat.com",
+      "date": "Oct 01, 2026"
+    },
+    {
+      "title": "Saudi Arabia Provides 224 Million Riyals to Support Yemen Government Budget",
+      "url": "https://english.aawsat.com/gulf/5324794-saudi-arabia-provides-224-million-riyals-support-yemens-government-budget",
+      "domain": "english.aawsat.com",
+      "date": "Oct 01, 2026"
+    },
+    {
+      "title": "Arab News | Saudi Arabia provides Yemen government with nearly $60m in budget support",
+      "url": "https://www.arabnews.com/saudi-arabia/saudi-arabia-provides-yemen-government-with-nearly-60m-in-budget-support-3004086",
+      "domain": "arabnews.com",
+      "date": "Oct 01, 2026"
+    },
+    {
+      "title": "Yemen forgotten crisis deepens , but desperation opens doors for the gospel",
+      "url": "https://www.mnnonline.org/news/yemens-forgotten-crisis-deepens-but-desperation-opens-doors-for-the-gospel/",
+      "domain": "mnnonline.org",
+      "date": "Oct 01, 2026"
+    },
+    {
+      "title": "Yemeni army says it carried out 6 airstrikes on Houthi positions in Taiz",
+      "url": "https://aa.com.tr/en/middle-east/yemeni-army-says-it-carried-out-6-airstrikes-on-houthi-positions-in-taiz/4074505",
+      "domain": "aa.com.tr",
+      "date": "Oct 01, 2026"
+    },
+    {
+      "title": "MBS puts faith in Makkah pact for regional security , pledges decisive response to threats",
+      "url": "https://www.geo.tv/latest/684486-saudi-arabia-will-respond-decisively-to-any-threat-or-attack-says-crown-prince-mbs",
+      "domain": "geo.tv",
+      "date": "Oct 01, 2026"
+    },
+    {
+      "title": "Yemeni army says it carried out 468 operations against Houthis on 3 fronts",
+      "url": "https://aa.com.tr/en/middle-east/yemeni-army-says-it-carried-out-468-operations-against-houthis-on-3-fronts/4074351",
+      "domain": "aa.com.tr",
+      "date": "Oct 01, 2026"
+    },
+    {
+      "title": "Saudi Arabia , Yemen call for closer regional ties to counter Houthi attacks",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/saudi-arabia-yemen-call-closer-regional-ties-counter-houthi-attacks",
+      "domain": "middleeasteye.net",
+      "date": "Sep 30, 2026"
+    },
+    {
+      "title": "US leaves Iraq , Houthis advance : Challenges for the Middle East as it prepares for a post - American security era",
+      "url": "https://www.livemint.com/news/world/us-leaves-iraq-houthis-advance-challenges-for-the-middle-east-as-it-prepares-for-a-post-american-security-era-11790791027390.html",
+      "domain": "livemint.com",
+      "date": "Sep 30, 2026"
+    },
+    {
+      "title": "Yemen seeks deeper cooperation with T\u00fcrkiye on state rebuilding",
+      "url": "https://www.dailysabah.com/politics/diplomacy/yemen-seeks-deeper-cooperation-with-turkiye-on-state-rebuilding",
+      "domain": "dailysabah.com",
+      "date": "Sep 30, 2026"
+    },
+    {
+      "title": "Yemeni foreign minister says Houthis expanding  Red Sea Axis",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/yemeni-foreign-minister-says-houthis-expanding-red-sea-axis",
+      "domain": "middleeasteye.net",
+      "date": "Sep 30, 2026"
+    },
+    {
+      "title": "We no longer eat three meal : Yemen displaced face daily fight for food | Conflict News",
+      "url": "https://www.aljazeera.com/news/2026/9/30/we-no-longer-eat-three-meals-yemens-displaced-face-daily-fight-for-food",
+      "domain": "aljazeera.com",
+      "date": "Sep 30, 2026"
+    },
+    {
+      "title": "UAE vice president visits Saudi Arabia in first visit since rift",
+      "url": "https://www.samaa.tv/2087357669-uae-vice-president-visits-saudi-arabia-in-first-visit-since-rift",
+      "domain": "samaa.tv",
+      "date": "Sep 30, 2026"
+    },
+    {
+      "title": "Yemen war disrupts roads and ports , deepening humanitarian crisis | Conflict News",
+      "url": "https://www.aljazeera.com/news/2026/9/29/yemens-war-disrupts-roads-and-ports-deepening-humanitarian-crisis",
+      "domain": "aljazeera.com",
+      "date": "Sep 29, 2026"
+    },
+    {
+      "title": "UN envoy meets Houthi negotiators in a bid to halt escalating violence in Yemen",
+      "url": "https://www.newindianexpress.com/world/2026/Sep/29/un-envoy-meets-houthi-negotiators-in-a-bid-to-halt-escalating-violence-in-yemen",
+      "domain": "newindianexpress.com",
+      "date": "Sep 29, 2026"
+    },
+    {
+      "title": "Yemen health system at  breaking point : WHO",
+      "url": "https://www.al-monitor.com/originals/2026/09/yemen-health-system-breaking-point-who",
+      "domain": "al-monitor.com",
+      "date": "Sep 29, 2026"
+    },
+    {
+      "title": "UN envoy meets Houthi negotiators in a bid to halt escalating violence in Yemen \u2013 Winnipeg Free Press",
+      "url": "https://www.winnipegfreepress.com/world/2026/09/29/un-envoy-meets-houthi-negotiators-in-a-bid-to-halt-escalating-violence-in-yemen",
+      "domain": "winnipegfreepress.com",
+      "date": "Sep 29, 2026"
+    },
+    {
+      "title": "Yemeni Deputy PM : Saudi aggression serves Zionist - Western project",
+      "url": "https://www.globalsecurity.org/military/library/news/2026/09/mil-260928-presstv02.htm",
+      "domain": "globalsecurity.org",
+      "date": "Sep 29, 2026"
+    },
+    {
+      "title": "Rubio , Saudi Arabia foreign minister hold talks on Yemen , Hormuz Strait | News",
+      "url": "https://www.aljazeera.com/news/2026/9/29/rubio-saudi-arabias-foreign-minister-hold-talks-on-yemen-hormuz-strait",
+      "domain": "aljazeera.com",
+      "date": "Sep 29, 2026"
+    },
+    {
+      "title": "Fighting in Yemen displaces 16 , 000 over past week : IOM",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/fighting-yemen-displaces-16000-over-past-week-iom",
+      "domain": "middleeasteye.net",
+      "date": "Sep 29, 2026"
+    },
+    {
+      "title": "WHO : Houthi Attacks Leave More than 4 , 000 Victims in Yemen",
+      "url": "https://english.aawsat.com/arab-world/5323741-who-houthi-attacks-leave-more-4000-victims-yemen",
+      "domain": "english.aawsat.com",
+      "date": "Sep 29, 2026"
+    },
+    {
+      "title": "Riyadh invites Emirati vice president as Yemen rift gives way to signs of Saudi - UAE thaw",
+      "url": "https://dunyanews.tv/en/World/975190-riyadh-invites-emirati-vice-president-as-yemen-rift-gives-way-to-signs",
+      "domain": "dunyanews.tv",
+      "date": "Sep 29, 2026"
+    },
+    {
+      "title": "Yemen army says 476 Houthis killed or wounded in 356 operations over 24 hours",
+      "url": "https://aa.com.tr/en/middle-east/yemen-s-army-says-476-houthis-killed-or-wounded-in-356-operations-over-24-hours/4072064",
+      "domain": "aa.com.tr",
+      "date": "Sep 28, 2026"
+    },
+    {
+      "title": "Saudi Arabia issues second all - clear for Najran after brief danger alert",
+      "url": "https://aa.com.tr/en/middle-east/saudi-arabia-issues-second-all-clear-for-najran-after-brief-danger-alert/4072057",
+      "domain": "aa.com.tr",
+      "date": "Sep 28, 2026"
+    },
+    {
+      "title": "Rubio meets Saudi FM as fight against Yemen Houthis intensifies",
+      "url": "https://www.al-monitor.com/originals/2026/09/rubio-meets-saudi-fm-fight-against-yemens-houthis-intensifies",
+      "domain": "al-monitor.com",
+      "date": "Sep 28, 2026"
+    },
+    {
+      "title": "Yemen casualties rising by around 100 per day amid escalating conflict : WHO",
+      "url": "https://www.middleeastmonitor.com/20260928-yemen-casualties-rising-by-around-100-per-day-amid-escalating-conflict-who/",
+      "domain": "middleeastmonitor.com",
+      "date": "Sep 28, 2026"
+    },
+    {
+      "title": "Iran strongly condemns new deadly attacks on Yemen",
+      "url": "https://www.globalsecurity.org/military/library/news/2026/09/mil-260928-irna01.htm",
+      "domain": "globalsecurity.org",
+      "date": "Sep 28, 2026"
+    },
+    {
+      "title": "French military support to Saudi Arabia  defensive , says minister",
+      "url": "https://www.freemalaysiatoday.com/category/world/2026/09/27/french-military-support-to-saudi-arabia-defensive-says-minister",
+      "domain": "freemalaysiatoday.com",
+      "date": "Sep 27, 2026"
+    },
+    {
+      "title": "Yemen health system could collapse in some areas , minister warns | Houthis News",
+      "url": "https://www.aljazeera.com/news/2026/9/27/yemens-health-system-could-collapse-in-some-areas-minister-warns",
+      "domain": "aljazeera.com",
+      "date": "Sep 27, 2026"
+    },
+    {
+      "title": "Riyadh schools shift to remote learning for one week : AFP",
+      "url": "https://arynews.tv/saudi-authorities-shift-schools-in-riyadh-to-remote-learning-for-week-afp",
+      "domain": "arynews.tv",
+      "date": "Sep 27, 2026"
+    },
+    {
+      "title": "7 killed , 40 wounded as Saudi airstrike hits Yemen market amid fresh Houthi offensive",
+      "url": "https://timesofindia.indiatimes.com/world/middle-east/7-killed-40-wounded-as-saudi-airstrike-hits-yemen-market-amid-fresh-houthi-offensive/articleshow/134520692.cms",
+      "domain": "timesofindia.indiatimes.com",
+      "date": "Sep 27, 2026"
+    },
+    {
+      "title": "Yemen market strike kills 7 , injures 40 as fighting intensifies in Taiz",
+      "url": "https://www.moneycontrol.com/world/yemen-market-strike-kills-7-injures-40-as-fighting-intensifies-in-taiz-article-14039344.html",
+      "domain": "moneycontrol.com",
+      "date": "Sep 27, 2026"
+    },
+    {
+      "title": "Yemen government forces widen attacks against Houthis : What we know",
+      "url": "https://www.aljazeera.com/news/2026/9/27/yemen-government-forces-widen-attacks-against-houthis-what-we-know",
+      "domain": "aljazeera.com",
+      "date": "Sep 27, 2026"
+    },
+    {
+      "title": "Qatar face Yemen in second Gulf Cup 27 group - stage match",
+      "url": "https://www.qatarliving.com/en/article/qatar-face-yemen-in-second-gulf-cup-27-group-stage-match",
+      "domain": "qatarliving.com",
+      "date": "Sep 27, 2026"
+    },
+    {
+      "title": "Saudi authorities shift schools in Riyadh to remote learning",
+      "url": "https://arynews.tv/saudi-authorities-shift-schools-riyadh-remote-learning-emails-parents",
+      "domain": "arynews.tv",
+      "date": "Sep 27, 2026"
+    },
+    {
+      "title": "What is the size of Yemen ?",
+      "url": "https://theborys.substack.com/p/what-is-the-size-of-yemen",
+      "domain": "theborys.substack.com",
+      "date": "Sep 27, 2026"
+    },
+    {
+      "title": "Arab News | Saudi authorities shift schools in Riyadh to remote learning for week : AFP",
+      "url": "https://www.arabnews.com/saudi-arabia/saudi-authorities-shift-schools-in-riyadh-to-remote-learning-for-week-afp-3003343",
+      "domain": "arabnews.com",
+      "date": "Sep 27, 2026"
+    },
+    {
+      "title": "Riyadh shifts schools to remote learning for a week",
+      "url": "https://www.freemalaysiatoday.com/category/world/2026/09/27/riyadh-shifts-schools-to-remote-learning-for-week",
+      "domain": "freemalaysiatoday.com",
+      "date": "Sep 27, 2026"
+    },
+    {
+      "title": "Riyadh schools shift to remote learning for week",
+      "url": "https://www.omanobserver.om/article/1196825/world/region/riyadh-schools-shift-to-remote-learning-for-week",
+      "domain": "omanobserver.om",
+      "date": "Sep 27, 2026"
+    },
+    {
+      "title": "Saudi Arabia authorities shift schools in Riyadh to remote learning for week",
+      "url": "https://economictimes.indiatimes.com/news/international/world-news/saudi-arabia-authorities-shift-schools-in-riyadh-to-remote-learning-for-week/articleshow/134514620.cms",
+      "domain": "economictimes.indiatimes.com",
+      "date": "Sep 27, 2026"
+    },
+    {
+      "title": "Arab News | Yemen vice president urges global action to restore state , secure Bab Al - Mandab",
+      "url": "https://www.arabnews.com/middle-east/yemen-vice-president-urges-global-action-to-restore-state-secure-bab-al-mandab-3003020",
+      "domain": "arabnews.com",
+      "date": "Sep 25, 2026"
+    },
+    {
+      "title": "Yemen says protecting Bab el - Mandeb Strait shared regional , international responsibility",
+      "url": "https://aa.com.tr/en/middle-east/yemen-says-protecting-bab-el-mandeb-strait-shared-regional-international-responsibility/4068630",
+      "domain": "aa.com.tr",
+      "date": "Sep 24, 2026"
+    },
+    {
+      "title": "Yemeni rebels say they struck southwestern Saudi Arabia",
+      "url": "https://www.canberratimes.com.au/story/9357153/yemeni-rebels-say-they-struck-southwestern-saudi-arabia/",
+      "domain": "canberratimes.com.au",
+      "date": "Sep 24, 2026"
+    },
+    {
+      "title": "Suspected US Drone Strike Kills Alleged al - Qaeda Member in Southeast Yemen",
+      "url": "https://news.antiwar.com/2026/09/23/suspected-us-drone-strike-kills-alleged-al-qaeda-member-in-southeast-yemen/",
+      "domain": "news.antiwar.com",
+      "date": "Sep 24, 2026"
+    },
+    {
+      "title": "At Least 150 Killed In Yemen Within Two Days Amid Indiscriminate Saudi Air Campaign",
+      "url": "https://www.zerohedge.com/geopolitical/least-150-killed-yemen-within-two-days-amid-indiscriminate-saudi-air-campaign",
+      "domain": "zerohedge.com",
+      "date": "Sep 23, 2026"
+    },
+    {
+      "title": "U . N . Warns Fighting in Yemen Could Displace 230 , 000 People",
+      "url": "https://www.democracynow.org/2026/9/22/headlines/un_warns_fighting_in_yemen_could_displace_230_000_people",
+      "domain": "democracynow.org",
+      "date": "Sep 22, 2026"
+    },
+    {
+      "title": "READOUT : Meeks Meets Yemen Delegation on Sidelines of UN General Assembly",
+      "url": "https://www.globalsecurity.org/military/library/news/2026/09/mil-260921-housecfa-democrats01.htm",
+      "domain": "globalsecurity.org",
+      "date": "Sep 22, 2026"
+    },
+    {
+      "title": "Houthis must cease strikes against Saudi Arabia",
+      "url": "https://www.rte.ie/news/middle-east/2026/0922/1592449-middle-east/",
+      "domain": "rte.ie",
+      "date": "Sep 22, 2026"
+    },
+    {
+      "title": "Houthis say Saudi strike kills 6 in Yemen port city Mokha",
+      "url": "https://www.freemalaysiatoday.com/category/world/2026/09/22/houthis-say-saudi-strike-kills-6-in-yemen-port-city-mokha",
+      "domain": "freemalaysiatoday.com",
+      "date": "Sep 22, 2026"
+    },
+    {
+      "title": "Yemen War Intensifies as Houthi Militia Advances on Marib",
+      "url": "https://www.nytimes.com/2026/09/17/world/middleeast/yemen-houthis-marib.html",
+      "domain": "nytimes.com",
+      "date": "Sep 20, 2026"
+    },
+    {
+      "title": "Yemen calls for international action over Saudi Arabia crimes",
+      "url": "https://www.globalsecurity.org/military/library/news/2026/09/mil-260919-irna01.htm",
+      "domain": "globalsecurity.org",
+      "date": "Sep 20, 2026"
+    },
+    {
+      "title": "No military solution to conflict in Yemen , Eritrean foreign minister says",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/no-military-solution-conflict-yemen-eritrean-foreign-minister-says",
+      "domain": "middleeasteye.net",
+      "date": "Sep 11, 2026"
+    },
+    {
+      "title": "Yemen Houthi rebels seize island in Red Sea , adding pressure in Iran War",
+      "url": "https://www.wcvb.com/article/yemens-iranian-backed-houthis-seize-an-island-in-a-key-strait-opening-a-new-front-in-the-iran-war/73687393",
+      "domain": "wcvb.com",
+      "date": "Sep 11, 2026"
+    },
+    {
+      "title": "Houthis capture Red Sea island in threat to shipping , and other Mideast developments",
+      "url": "https://www.newsday.com/news/nation/mideast-yemen-iran-saudi-houthis-j91637",
+      "domain": "newsday.com",
+      "date": "Sep 11, 2026"
+    },
+    {
+      "title": "Yemen escalation risks wider regional conflict , global repercussions : UN envoy",
+      "url": "http://usa.chinadaily.com.cn/a/202609/11/WS6aa35c05e4b06d4aa055d7ec.html",
+      "domain": "usa.chinadaily.com.cn",
+      "date": "Sep 11, 2026"
+    },
+    {
+      "title": "Iran - aligned fighters capture Yemen port near vital global trade route",
+      "url": "https://wpde.com/news/nation-world/iran-aligned-fighters-capture-yemen-port-near-vital-global-trade-route-houthi-rebels-bab-el-mandeb-strait",
+      "domain": "wpde.com",
+      "date": "Sep 11, 2026"
+    },
+    {
+      "title": "Houthis take over strategic port city in Yemen , threatening shipping",
+      "url": "https://www.pilotonline.com/2026/09/10/yemen-houthi-port-city/",
+      "domain": "pilotonline.com",
+      "date": "Sep 10, 2026"
+    },
+    {
+      "title": "Yemen risks return to civil war as Houthis target vital shipping route",
+      "url": "https://www.pilotonline.com/2026/09/10/yemen-fighting-explained/",
+      "domain": "pilotonline.com",
+      "date": "Sep 10, 2026"
+    },
+    {
+      "title": "Israeli strike in Gaza kills at least 4 , other Mideast developments",
+      "url": "https://www.thetimes-tribune.com/2026/09/10/houthi-rebels-yemen-port-city-mideast-news/",
+      "domain": "thetimes-tribune.com",
+      "date": "Sep 10, 2026"
+    },
+    {
+      "title": "Houthi rebels reach strategic port city in Yemen , other Mideast news",
+      "url": "https://www.sandiegouniontribune.com/2026/09/10/houthi-rebels-yemen-port-city-mideast-news/",
+      "domain": "sandiegouniontribune.com",
+      "date": "Sep 10, 2026"
+    },
+    {
+      "title": "Houthi threat to Red Sea expands with takeover of Mocha",
+      "url": "http://www.jpost.com/middle-east/article-908231",
+      "domain": "jpost.com",
+      "date": "Sep 10, 2026"
+    }
+  ]
 }
