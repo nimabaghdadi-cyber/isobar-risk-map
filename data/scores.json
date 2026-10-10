@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-09T22:16:06.082191+00:00",
+  "generatedAt": "2026-10-10T04:23:35.326657+00:00",
   "source": "GDELT (news tone/volume, 3-day window) blended 50/50 with baseline",
   "countries": [
     {
@@ -35,7 +35,7 @@
       "conflict": 8,
       "economic": 13,
       "regulatory": 10,
-      "trend": "up",
+      "trend": "flat",
       "note": "Live-updated from recent news coverage.",
       "headlines": [],
       "toneReading": "Coverage over the last 3 days has been mixed or neutral.",
@@ -57,15 +57,36 @@
     {
       "name": "Bangladesh",
       "region": "South Asia",
-      "political": 54,
+      "political": 48,
       "conflict": 34,
       "economic": 44,
       "regulatory": 42,
-      "trend": "up",
-      "note": "Live-updated from recent news coverage.",
-      "headlines": [],
-      "toneReading": "Coverage over the last 3 days has leaned negative.",
-      "volumeReading": "Coverage volume has been light this week."
+      "trend": "down",
+      "note": "No fresh coverage this cycle; showing baseline.",
+      "headlines": [
+        {
+          "title": "Dabur India shares jump 3 % as FMCG growth accelerates ; rural demand outpaces urban",
+          "url": "https://www.moneycontrol.com/news/business/stocks/dabur-india-shares-jump-3-as-fmcg-growth-accelerates-rural-demand-outpaces-urban-14045660.html",
+          "domain": "moneycontrol.com"
+        },
+        {
+          "title": "Sri Lanka cannot resist sanctions , but can raise non - aligned policy collectively with others - Joint Opposition - Breaking News",
+          "url": "https://www.dailymirror.lk/breaking-news/Sri-Lanka-cannot-resist-sanctions-but-can-raise-non-aligned-policy-collectively-with-others-Joint-Opposition/108-351850",
+          "domain": "dailymirror.lk"
+        },
+        {
+          "title": "A Pacific island  will be swallowed  by the sea within decades . Is Ireland paying attention ? \u2013 The Irish Times",
+          "url": "https://www.irishtimes.com/environment/climate-crisis/2026/10/08/a-pacific-island-will-be-swallowed-by-the-sea-within-decades-is-ireland-paying-attention/",
+          "domain": "irishtimes.com"
+        },
+        {
+          "title": "Nepal Home Minister Sudan Gurung to visit India next week",
+          "url": "http://www.sierraleonetimes.com/news/279354287/nepal-home-minister-sudan-gurung-to-visit-india-next-week",
+          "domain": "sierraleonetimes.com"
+        }
+      ],
+      "toneReading": "No recent coverage found.",
+      "volumeReading": null
     },
     {
       "name": "Belarus",
@@ -76,13 +97,7 @@
       "regulatory": 72,
       "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [
-        {
-          "title": "US treating adversaries better than allies a recipe for disaster",
-          "url": "https://www.dailypress.net/opinion/editorial/2026/10/us-treating-adversaries-better-than-allies-a-recipe-for-disaster/",
-          "domain": "dailypress.net"
-        }
-      ],
+      "headlines": [],
       "toneReading": "No recent coverage found.",
       "volumeReading": null
     },
@@ -121,23 +136,7 @@
       "regulatory": 22,
       "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [
-        {
-          "title": "TV Azteca alum Melissa Pillow joins TelevisaUnivision for CEE , CIS sales | News",
-          "url": "https://www.c21media.net/news/tv-azteca-alum-melissa-pillow-joins-televisaunivision-for-cee-cis-sales/",
-          "domain": "c21media.net"
-        },
-        {
-          "title": "Latin America Many Trumps",
-          "url": "https://pjmedia.com/daniel-mccarthy/2026/10/05/latin-americas-many-trumps-n4958011",
-          "domain": "pjmedia.com"
-        },
-        {
-          "title": "Mirasol Resources ( CVE : MRZ ) Insider Buys C$19 , 200 . 00 in Stock",
-          "url": "https://www.tickerreport.com/banking-finance/13609679/mirasol-resources-cvemrz-insider-buys-c19200-00-in-stock.html",
-          "domain": "tickerreport.com"
-        }
-      ],
+      "headlines": [],
       "toneReading": "No recent coverage found.",
       "volumeReading": null
     },
@@ -163,28 +162,7 @@
       "regulatory": 40,
       "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [
-        {
-          "title": "Woman raised by monkeys floored after seeing her face for the first time",
-          "url": "https://www.express.co.uk/news/world/2254641/woman-raised-monkeys-floored-seeing-face",
-          "domain": "express.co.uk"
-        },
-        {
-          "title": "Aguia builds 30 , 000t phosphate stockpile in Brazil",
-          "url": "https://www.brisbanetimes.com.au/business/companies/aguia-builds-30-000t-phosphate-stockpile-in-brazil-20261008-p613z4.html",
-          "domain": "brisbanetimes.com.au"
-        },
-        {
-          "title": "Latin America Many Trumps",
-          "url": "https://pjmedia.com/daniel-mccarthy/2026/10/05/latin-americas-many-trumps-n4958011",
-          "domain": "pjmedia.com"
-        },
-        {
-          "title": "A Pacific island  will be swallowed  by the sea within decades . Is Ireland paying attention ? \u2013 The Irish Times",
-          "url": "https://www.irishtimes.com/environment/climate-crisis/2026/10/08/a-pacific-island-will-be-swallowed-by-the-sea-within-decades-is-ireland-paying-attention/",
-          "domain": "irishtimes.com"
-        }
-      ],
+      "headlines": [],
       "toneReading": "No recent coverage found.",
       "volumeReading": null
     },
@@ -223,7 +201,18 @@
       "regulatory": 13,
       "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [],
+      "headlines": [
+        {
+          "title": "Sri Lanka , India to be excluded from Israel private construction recruitment from 2027 - Breaking News",
+          "url": "https://www.dailymirror.lk/latest-news/Sri-Lanka-India-to-be-excluded-from-Israel-private-construction-recruitment-from-2027/342-351837",
+          "domain": "dailymirror.lk"
+        },
+        {
+          "title": "Latin America Many Trumps",
+          "url": "https://pjmedia.com/daniel-mccarthy/2026/10/05/latin-americas-many-trumps-n4958011",
+          "domain": "pjmedia.com"
+        }
+      ],
       "toneReading": "No recent coverage found.",
       "volumeReading": null
     },
@@ -243,36 +232,15 @@
     {
       "name": "Ethiopia",
       "region": "Sub-Saharan Africa",
-      "political": 65,
+      "political": 60,
       "conflict": 62,
       "economic": 58,
       "regulatory": 52,
-      "trend": "up",
-      "note": "Live-updated from recent news coverage.",
-      "headlines": [
-        {
-          "title": "Ethiopia Reaffirms Rights Over Nile , Red Sea As Regional Alliances Shift",
-          "url": "https://www.thereporterethiopia.com/53223/",
-          "domain": "thereporterethiopia.com"
-        },
-        {
-          "title": "US Embassy Issues Major Security Alert In Ethiopia Over Possible Long - Range Attacks , Urges Americans To Avoid Amhara , Tigray And Afar",
-          "url": "https://www.freepressjournal.in/world/us-embassy-issues-major-security-alert-in-ethiopia-over-possible-long-range-attacks-urges-americans-to-avoid-amhara-tigray-and-afar",
-          "domain": "freepressjournal.in"
-        },
-        {
-          "title": "EAM Jaishankar undertakes five - day visit to Ghana , Cote dIvoire and Ethiopia",
-          "url": "https://news.webindia123.com/news/Articles/World/20261006/4507675.html",
-          "domain": "news.webindia123.com"
-        },
-        {
-          "title": "South Africa asylum system reopens after ConCourt judgment",
-          "url": "https://www.newzimbabwe.com/south-africa-asylum-system-reopens-after-concourt-judgment/",
-          "domain": "newzimbabwe.com"
-        }
-      ],
-      "toneReading": "Coverage over the last 3 days has leaned negative.",
-      "volumeReading": "Coverage volume has been light this week."
+      "trend": "down",
+      "note": "No fresh coverage this cycle; showing baseline.",
+      "headlines": [],
+      "toneReading": "No recent coverage found.",
+      "volumeReading": null
     },
     {
       "name": "France",
@@ -294,7 +262,7 @@
       "conflict": 30,
       "economic": 36,
       "regulatory": 38,
-      "trend": "up",
+      "trend": "flat",
       "note": "Live-updated from recent news coverage.",
       "headlines": [],
       "toneReading": "Coverage over the last 3 days has leaned negative.",
@@ -322,7 +290,13 @@
       "regulatory": 82,
       "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [],
+      "headlines": [
+        {
+          "title": "In 2006 , Matt Damon built a non - profit after seeing water crisis in a Zambian village ; 20 years later , the charity mission has reached more than 95 million people",
+          "url": "https://economictimes.indiatimes.com/news/new-updates/in-2006-matt-damon-built-a-non-profit-after-seeing-water-crisis-in-a-zambian-village-20-years-later-the-charity-mission-has-reached-more-than-95-million-people/articleshow/134728008.cms",
+          "domain": "economictimes.indiatimes.com"
+        }
+      ],
       "toneReading": "No recent coverage found.",
       "volumeReading": null
     },
@@ -348,7 +322,28 @@
       "regulatory": 32,
       "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [],
+      "headlines": [
+        {
+          "title": "SE . Asia data boom faces energy squeeze",
+          "url": "http://global.chinadaily.com.cn/a/202610/06/WS6ac449dfe4b06d4aa0561728.html",
+          "domain": "global.chinadaily.com.cn"
+        },
+        {
+          "title": "Russian Plague Scare : How The World Is Responding & What Has Changed",
+          "url": "https://www.freepressjournal.in/world/russian-plague-scare-how-the-world-is-responding-what-has-changed",
+          "domain": "freepressjournal.in"
+        },
+        {
+          "title": "DayOne Files Registration Statement for Proposed Initial Public Offering",
+          "url": "http://www.mexicostar.com/news/279354307/dayone-files-registration-statement-for-proposed-initial-public-offering",
+          "domain": "mexicostar.com"
+        },
+        {
+          "title": "Vietnam climbs seven spots to 52nd in World Economic Forum tourism index",
+          "url": "https://asianews.network/vietnam-climbs-seven-spots-to-52nd-in-world-economic-forum-tourism-index/",
+          "domain": "asianews.network"
+        }
+      ],
       "toneReading": "No recent coverage found.",
       "volumeReading": null
     },
@@ -372,7 +367,7 @@
       "conflict": 66,
       "economic": 34,
       "regulatory": 30,
-      "trend": "up",
+      "trend": "flat",
       "note": "Live-updated from recent news coverage.",
       "headlines": [],
       "toneReading": "Coverage over the last 3 days has leaned negative.",
@@ -478,7 +473,28 @@
       "regulatory": 18,
       "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [],
+      "headlines": [
+        {
+          "title": "SkyeChip becomes Rapidus design associate \u22c6 Electronics Weekly",
+          "url": "https://www.electronicsweekly.com/news/business/skyechip-becomes-rapidus-design-associate-2026-10/",
+          "domain": "electronicsweekly.com"
+        },
+        {
+          "title": "\u064a\u0627\u0633\u0645\u064a\u0646 \u0635\u0628\u0631\u064a \u0644\u0640 \u00ab \u0639\u0643\u0627\u0638 \u00bb: \u0644\u0627 \u0623\u0646\u0634\u063a\u0644 \u0628\u062d\u0631\u0628 \u0627\u0644\u0625\u064a\u0631\u0627\u062f\u0627\u062a .. \u00ab \u0645\u0637\u0644\u0648\u0628 \u0639\u0627\u0626\u0644\u064a\u064b\u0627 \u00bb \u0645\u062e\u062a\u0644\u0641",
+          "url": "https://www.okaz.com.sa/culture/na/2269853",
+          "domain": "okaz.com.sa"
+        },
+        {
+          "title": "From Airport Representative to Entrepreneur : Kalaiarasan Loganathan Builds TheTourist360 into a Growing South India Travel Brand",
+          "url": "https://news.webindia123.com/news/Articles/Business/20261006/4507678.html",
+          "domain": "news.webindia123.com"
+        },
+        {
+          "title": "IOI Properties bets on Singapore CBD offices",
+          "url": "https://www.straitstimes.com/business/the-best-address-in-singapore-why-malaysias-ioi-properties-is-betting-billions-on-the-cbd",
+          "domain": "straitstimes.com"
+        }
+      ],
       "toneReading": "No recent coverage found.",
       "volumeReading": null
     },
@@ -595,7 +611,28 @@
       "regulatory": 30,
       "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [],
+      "headlines": [
+        {
+          "title": "Hontiveros : China state - owned businesses remitted funds to Sara Duterte - linked Cale88",
+          "url": "https://www.rappler.com/philippines/china-state-owned-businesses-remitted-funds-cale-88/",
+          "domain": "rappler.com"
+        },
+        {
+          "title": "MMDA Torre extends leave until Oct . 15 | The Manila Times",
+          "url": "https://www.manilatimes.net/2026/10/06/news/mmdas-torre-extends-leave-until-oct-15/2439679",
+          "domain": "manilatimes.net"
+        },
+        {
+          "title": "[ Vantage Point ] Inside the addictive architecture of the AI microdrama",
+          "url": "https://www.rappler.com/voices/newsletters/vantage-point-inside-addictive-architecture-ai-microdrama/",
+          "domain": "rappler.com"
+        },
+        {
+          "title": "Sri Lanka , India to be excluded from Israel private construction recruitment from 2027 - Breaking News",
+          "url": "https://www.dailymirror.lk/latest-news/Sri-Lanka-India-to-be-excluded-from-Israel-private-construction-recruitment-from-2027/342-351837",
+          "domain": "dailymirror.lk"
+        }
+      ],
       "toneReading": "No recent coverage found.",
       "volumeReading": null
     },
@@ -660,13 +697,7 @@
       "regulatory": 40,
       "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [
-        {
-          "title": "Gen Z reshapes political change across the world - Opinion",
-          "url": "https://www.dailymirror.lk/opinion/Gen-Z-reshapes-political-change-across-the-world/172-351877",
-          "domain": "dailymirror.lk"
-        }
-      ],
+      "headlines": [],
       "toneReading": "No recent coverage found.",
       "volumeReading": null
     },
@@ -692,7 +723,13 @@
       "regulatory": 42,
       "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [],
+      "headlines": [
+        {
+          "title": "Ethiopia Reaffirms Rights Over Nile , Red Sea As Regional Alliances Shift",
+          "url": "https://www.thereporterethiopia.com/53223/",
+          "domain": "thereporterethiopia.com"
+        }
+      ],
       "toneReading": "No recent coverage found.",
       "volumeReading": null
     },
@@ -712,12 +749,12 @@
     {
       "name": "South Korea",
       "region": "East Asia",
-      "political": 45,
+      "political": 30,
       "conflict": 24,
       "economic": 20,
       "regulatory": 18,
-      "trend": "up",
-      "note": "Live-updated from recent news coverage.",
+      "trend": "down",
+      "note": "No fresh coverage this cycle; showing baseline.",
       "headlines": [
         {
           "title": "South Korea threatens legal action if fuel shipments to Russia found to have broken law",
@@ -740,8 +777,8 @@
           "domain": "dailypress.net"
         }
       ],
-      "toneReading": "Coverage over the last 3 days has leaned negative.",
-      "volumeReading": "Coverage volume has been light this week."
+      "toneReading": "No recent coverage found.",
+      "volumeReading": null
     },
     {
       "name": "Sri Lanka",
@@ -750,7 +787,7 @@
       "conflict": 18,
       "economic": 52,
       "regulatory": 38,
-      "trend": "up",
+      "trend": "flat",
       "note": "Live-updated from recent news coverage.",
       "headlines": [],
       "toneReading": "Coverage over the last 3 days has been mixed or neutral.",
@@ -772,31 +809,15 @@
     {
       "name": "Syria",
       "region": "MENA",
-      "political": 60,
+      "political": 65,
       "conflict": 86,
       "economic": 69,
       "regulatory": 67,
-      "trend": "down",
-      "note": "Live-updated from recent news coverage.",
-      "headlines": [
-        {
-          "title": "Syrian general accused of atrocities paid and protected by US and Lebanon , BBC finds",
-          "url": "https://www.bbc.co.uk/news/articles/c81dldewl5gwo",
-          "domain": "bbc.co.uk"
-        },
-        {
-          "title": "Far - right election win leaves migrants questioning their future in eastern Germany",
-          "url": "https://www.thehindu.com/news/international/far-right-election-win-leaves-migrants-questioning-their-future-in-eastern-germany/article71550472.ece",
-          "domain": "thehindu.com"
-        },
-        {
-          "title": "Saudi - Backed Forces Strike Back After Iran Proxy Seizes Control of Bab el - Mandeb \u2013 PJ Media",
-          "url": "https://pjmedia.com/david-manney/2026/10/05/irans-proxy-grabbed-bab-el-mandeb-saudi-backed-forces-just-hit-back-hard-n4958009",
-          "domain": "pjmedia.com"
-        }
-      ],
-      "toneReading": "Coverage over the last 3 days has been mixed or neutral.",
-      "volumeReading": "Coverage volume has been light this week."
+      "trend": "up",
+      "note": "No fresh coverage this cycle; showing baseline.",
+      "headlines": [],
+      "toneReading": "No recent coverage found.",
+      "volumeReading": null
     },
     {
       "name": "Taiwan",
@@ -807,28 +828,7 @@
       "regulatory": 20,
       "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [
-        {
-          "title": "Australian Open 1 Point Slam to feature Carlos Alcaraz , Jannik Sinner , Coco Gauff and Naomi Osaka",
-          "url": "https://www.abc.net.au/news/2026-10-08/australian-open-1-point-slam-alcaraz-sinner-osaka-gauff/107243436",
-          "domain": "abc.net.au"
-        },
-        {
-          "title": "Asian shares mostly advance after Wall Street gains and oil prices fall",
-          "url": "https://www.wral.com/news/ap/e8285-asian-shares-are-mixed-after-wall-street-gains-oil-price-steadies/",
-          "domain": "wral.com"
-        },
-        {
-          "title": "Map makers worldwide strive to navigate Trump edict on Lake Ontario",
-          "url": "https://www.theglobeandmail.com/politics/article-map-makers-worldwide-strive-to-navigate-trump-edict-on-lake-ontario/",
-          "domain": "theglobeandmail.com"
-        },
-        {
-          "title": "US treating adversaries better than allies a recipe for disaster",
-          "url": "https://www.dailypress.net/opinion/editorial/2026/10/us-treating-adversaries-better-than-allies-a-recipe-for-disaster/",
-          "domain": "dailypress.net"
-        }
-      ],
+      "headlines": [],
       "toneReading": "No recent coverage found.",
       "volumeReading": null
     },
@@ -913,15 +913,15 @@
     {
       "name": "Venezuela",
       "region": "Latin America",
-      "political": 82,
+      "political": 56,
       "conflict": 48,
       "economic": 88,
       "regulatory": 80,
-      "trend": "flat",
-      "note": "No fresh coverage this cycle; showing baseline.",
+      "trend": "down",
+      "note": "Live-updated from recent news coverage.",
       "headlines": [],
-      "toneReading": "No recent coverage found.",
-      "volumeReading": null
+      "toneReading": "Coverage over the last 3 days has leaned positive.",
+      "volumeReading": "Coverage volume has been light this week."
     },
     {
       "name": "Vietnam",
@@ -932,28 +932,7 @@
       "regulatory": 30,
       "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [
-        {
-          "title": "Sri Lanka , India to be excluded from Israel private construction recruitment from 2027 - Breaking News",
-          "url": "https://www.dailymirror.lk/latest-news/Sri-Lanka-India-to-be-excluded-from-Israel-private-construction-recruitment-from-2027/342-351837",
-          "domain": "dailymirror.lk"
-        },
-        {
-          "title": "From Airport Representative to Entrepreneur : Kalaiarasan Loganathan Builds TheTourist360 into a Growing South India Travel Brand",
-          "url": "https://news.webindia123.com/news/Articles/Business/20261006/4507678.html",
-          "domain": "news.webindia123.com"
-        },
-        {
-          "title": "SE . Asia data boom faces energy squeeze",
-          "url": "http://global.chinadaily.com.cn/a/202610/06/WS6ac449dfe4b06d4aa0561728.html",
-          "domain": "global.chinadaily.com.cn"
-        },
-        {
-          "title": "A Pacific island  will be swallowed  by the sea within decades . Is Ireland paying attention ? \u2013 The Irish Times",
-          "url": "https://www.irishtimes.com/environment/climate-crisis/2026/10/08/a-pacific-island-will-be-swallowed-by-the-sea-within-decades-is-ireland-paying-attention/",
-          "domain": "irishtimes.com"
-        }
-      ],
+      "headlines": [],
       "toneReading": "No recent coverage found.",
       "volumeReading": null
     },
@@ -985,6 +964,24 @@
     }
   ],
   "alerts": [
+    {
+      "name": "South Korea",
+      "from": "GUARDED",
+      "to": "LOW",
+      "at": "2026-10-10T04:23:35.326657+00:00"
+    },
+    {
+      "name": "Syria",
+      "from": "HIGH",
+      "to": "SEVERE",
+      "at": "2026-10-10T04:23:35.326657+00:00"
+    },
+    {
+      "name": "Venezuela",
+      "from": "HIGH",
+      "to": "ELEVATED",
+      "at": "2026-10-10T04:23:35.326657+00:00"
+    },
     {
       "name": "Syria",
       "from": "SEVERE",
@@ -1146,24 +1143,6 @@
       "from": "GUARDED",
       "to": "LOW",
       "at": "2026-10-07T12:40:22.770681+00:00"
-    },
-    {
-      "name": "India",
-      "from": "LOW",
-      "to": "GUARDED",
-      "at": "2026-10-07T12:40:22.770681+00:00"
-    },
-    {
-      "name": "Sri Lanka",
-      "from": "LOW",
-      "to": "GUARDED",
-      "at": "2026-10-07T12:40:22.770681+00:00"
-    },
-    {
-      "name": "United States",
-      "from": "LOW",
-      "to": "GUARDED",
-      "at": "2026-10-07T04:23:12.782929+00:00"
     }
   ]
 }
