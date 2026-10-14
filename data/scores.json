@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-14T03:35:31.316095+00:00",
+  "generatedAt": "2026-10-14T11:12:31.661068+00:00",
   "source": "GDELT (news tone/volume, 3-day window) blended 50/50 with baseline",
   "countries": [
     {
@@ -11,13 +11,7 @@
       "regulatory": 84,
       "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [
-        {
-          "title": "US Slaps Sanctions on ICC Following Ex - Judge Nobel Prize Win - Jowhar News Leader",
-          "url": "https://jowhar.com/us-slaps-sanctions-on-icc-following-ex-judges-nobel-prize-win/",
-          "domain": "jowhar.com"
-        }
-      ],
+      "headlines": [],
       "toneReading": "No recent coverage found.",
       "volumeReading": null
     },
@@ -95,7 +89,23 @@
       "regulatory": 38,
       "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [],
+      "headlines": [
+        {
+          "title": "Aguia builds 30 , 000t phosphate stockpile in Brazil",
+          "url": "https://www.brisbanetimes.com.au/business/companies/aguia-builds-30-000t-phosphate-stockpile-in-brazil-20261008-p613z4.html",
+          "domain": "brisbanetimes.com.au"
+        },
+        {
+          "title": "When will El Ni\u00f1o peak and end ? A full timeline of the weather phenomenon taking the world by storm",
+          "url": "https://www.euronews.com/2026/10/10/when-will-el-nino-peak-and-end-a-full-timeline-of-the-weather-phenomenon-taking-the-world-",
+          "domain": "euronews.com"
+        },
+        {
+          "title": "Australia top court puts fossil fuel developers on notice",
+          "url": "https://theconversation.com/australias-top-court-puts-fossil-fuel-developers-on-notice-293680",
+          "domain": "theconversation.com"
+        }
+      ],
       "toneReading": "No recent coverage found.",
       "volumeReading": null
     },
@@ -186,23 +196,7 @@
       "regulatory": 13,
       "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [
-        {
-          "title": "Cloquet are you okay , are you okay Cloquet",
-          "url": "http://www.minnpost.com/glean/2026/10/cloquet-are-you-okay-are-you-okay-cloquet-minnesota-news/",
-          "domain": "minnpost.com"
-        },
-        {
-          "title": "7 . 6 - Magnitude Earthquake Hits Panama , Tsunami Threat Ends , Residents Report Damage And Aftershocks",
-          "url": "https://www.oneindia.com/international/7-6-magnitude-earthquake-hits-panama-tsunami-threat-ends-residents-report-damage-and-aftershocks-8230657.html",
-          "domain": "oneindia.com"
-        },
-        {
-          "title": "7 . 6 magnitude earthquake in Panama , fear in the capital : tsunami risk",
-          "url": "https://www.thevermilion.com/7-6-magnitude-earthquake-in-panama-fear-in-the-capital-tsunami-risk/article_21530/",
-          "domain": "thevermilion.com"
-        }
-      ],
+      "headlines": [],
       "toneReading": "No recent coverage found.",
       "volumeReading": null
     },
@@ -228,7 +222,18 @@
       "regulatory": 52,
       "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [],
+      "headlines": [
+        {
+          "title": "US Embassy Issues Major Security Alert In Ethiopia Over Possible Long - Range Attacks , Urges Americans To Avoid Amhara , Tigray And Afar",
+          "url": "https://www.freepressjournal.in/world/us-embassy-issues-major-security-alert-in-ethiopia-over-possible-long-range-attacks-urges-americans-to-avoid-amhara-tigray-and-afar",
+          "domain": "freepressjournal.in"
+        },
+        {
+          "title": "I should have won 8 Nobel Peace Prizes : Trump slams Nobel Committee for awarding Navi Pillay",
+          "url": "http://www.pakistantelegraph.com/news/279363161/i-should-have-won-8-nobel-peace-prizes-trump-slams-nobel-committee-for-awarding-navi-pillay",
+          "domain": "pakistantelegraph.com"
+        }
+      ],
       "toneReading": "No recent coverage found.",
       "volumeReading": null
     },
@@ -293,7 +298,28 @@
       "regulatory": 32,
       "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [],
+      "headlines": [
+        {
+          "title": "Friend U Visa Curbs Only a Gain for New India : Goyal",
+          "url": "https://economictimes.indiatimes.com/epaper/delhicapital/2026/oct/10/satet-front/friend-us-visa-curbs-only-a-gain-for-new-india-goyal/articleshow/134842801.cms",
+          "domain": "economictimes.indiatimes.com"
+        },
+        {
+          "title": "GCCs CSR spending innovation : GCCs allocate just 4 % of CSR spend to innovation : Report",
+          "url": "https://economictimes.indiatimes.com/tech/funding/gccs-allocate-just-4-of-csr-spend-to-innovation-report/articleshow/134848136.cms",
+          "domain": "economictimes.indiatimes.com"
+        },
+        {
+          "title": "Dear PM Ambani : Musk latest swipe at Reliance , BJP",
+          "url": "https://www.rediff.com/news/report/dear-pm-ambani-musks-latest-swipe-at-reliance-bjp/20261010.htm",
+          "domain": "rediff.com"
+        },
+        {
+          "title": "Attempt to destabilise nation : BJP chief Nitin Nabin on Jantar Mantar protest",
+          "url": "https://www.moneycontrol.com/news/india/attempt-to-destabilise-nation-bjp-chief-nitin-nabin-on-jantar-mantar-protest-14048986.html",
+          "domain": "moneycontrol.com"
+        }
+      ],
       "toneReading": "No recent coverage found.",
       "volumeReading": null
     },
@@ -306,28 +332,7 @@
       "regulatory": 32,
       "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [
-        {
-          "title": "Singapore ready to help Indonesia in fight against forest fires amid worsening haze : Grace Fu",
-          "url": "https://www.asiaone.com/singapore/singapore-haze-grace-fu-ready-help-indonesia",
-          "domain": "asiaone.com"
-        },
-        {
-          "title": "Logistics : Keeping the Malacca Strait Safe",
-          "url": "http://www.strategypage.com/%5Chtmw%5Chtlog%5Carticles%5C2026100875129.aspx",
-          "domain": "strategypage.com"
-        },
-        {
-          "title": "A U . S .- brokered ceasefire was supposed to end the war in Gaza . A year later , progress has stalled",
-          "url": "https://japantoday.com/category/world/a-us-brokered-ceasefire-was-supposed-to-end-the-war-in-gaza.-a-year-later-progress-has-stalled",
-          "domain": "japantoday.com"
-        },
-        {
-          "title": "When will El Ni\u00f1o peak and end ? A full timeline of the weather phenomenon taking the world by storm",
-          "url": "https://www.euronews.com/2026/10/10/when-will-el-nino-peak-and-end-a-full-timeline-of-the-weather-phenomenon-taking-the-world-",
-          "domain": "euronews.com"
-        }
-      ],
+      "headlines": [],
       "toneReading": "No recent coverage found.",
       "volumeReading": null
     },
@@ -353,28 +358,7 @@
       "regulatory": 30,
       "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [
-        {
-          "title": "Israelis feel more Middle Eastern as views of Europe sour , study finds",
-          "url": "http://www.jpost.com/israel-news/article-911006",
-          "domain": "jpost.com"
-        },
-        {
-          "title": "Every day there is killing : Gazans face Israeli strikes despite ceasefire as peace deal stalls",
-          "url": "https://www.bbc.co.uk/news/articles/cmx2qlz7qrd4o",
-          "domain": "bbc.co.uk"
-        },
-        {
-          "title": "A US - brokered ceasefire was supposed to end the war in Gaza . A year later , progress has stalled",
-          "url": "https://www.newsday.com/news/nation/israel-palestinians-hamas-war-gaza-ceasefire-explainer-p59012",
-          "domain": "newsday.com"
-        },
-        {
-          "title": "Year later , Gaza ceasefire promises mostly unfulfilled",
-          "url": "https://www.philstar.com/world/2026/10/10/2562258/year-later-gaza-ceasefire-promises-mostly-unfulfilled",
-          "domain": "philstar.com"
-        }
-      ],
+      "headlines": [],
       "toneReading": "No recent coverage found.",
       "volumeReading": null
     },
@@ -439,28 +423,7 @@
       "regulatory": 34,
       "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [
-        {
-          "title": "Kenya Re taps university students for AI - powered flood solution plan",
-          "url": "https://www.the-star.co.ke/business/2026-10-10-kenya-re-taps-university-students-for-ai-powered-flood-solution-plan",
-          "domain": "the-star.co.ke"
-        },
-        {
-          "title": "Missing herder found dead in Kwale forest in suspected snake bite",
-          "url": "https://www.the-star.co.ke/news/2026-10-10-missing-herder-found-dead-in-kwale-forest",
-          "domain": "the-star.co.ke"
-        },
-        {
-          "title": "Adopt - a - block : Diplomatic community invited to support Kenya tree - growing initiative",
-          "url": "https://www.standardmedia.co.ke/environment-climate/article/2001559832/adopt-a-block-diplomatic-community-invited-to-support-kenyas-tree-growing-initiative",
-          "domain": "standardmedia.co.ke"
-        },
-        {
-          "title": "Government targets 17 . 2m trees to mark 2026 Mazingira Day",
-          "url": "https://www.the-star.co.ke/news/2026-10-10-state-targets-172m-trees-to-mark-mazingira-day",
-          "domain": "the-star.co.ke"
-        }
-      ],
+      "headlines": [],
       "toneReading": "No recent coverage found.",
       "volumeReading": null
     },
@@ -473,7 +436,28 @@
       "regulatory": 20,
       "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [],
+      "headlines": [
+        {
+          "title": "Polly And Nacho : Two Blind Cats Rescued From Lebanon And Adopted By The Same Family",
+          "url": "https://www.boredpanda.com/polly-nacho-blind-cats-tabbys-place/?cexp_id=162665&_f=homepage_featured&cexp_var=3",
+          "domain": "boredpanda.com"
+        },
+        {
+          "title": "UK accused of giving people of Gaza false hope over new refugee safe route",
+          "url": "https://www.theguardian.com/uk-news/2026/oct/10/uk-gaza-refugee-resettlement-scheme-palestinians-home-office",
+          "domain": "theguardian.com"
+        },
+        {
+          "title": "Syrian general accused of atrocities paid and protected by US and Lebanon , BBC finds",
+          "url": "https://www.bbc.co.uk/news/articles/c81dldewl5gwo",
+          "domain": "bbc.co.uk"
+        },
+        {
+          "title": "Voices from the Arab Press : US - Iran tensions , AI dangers , and Israel vote",
+          "url": "http://www.jpost.com/middle-east/article-911021",
+          "domain": "jpost.com"
+        }
+      ],
       "toneReading": "No recent coverage found.",
       "volumeReading": null
     },
@@ -611,7 +595,28 @@
       "regulatory": 50,
       "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [],
+      "headlines": [
+        {
+          "title": "Army , Rangers Deployed in Rawalpindi ahead of Pakistan - Sri Lanka T20 Series - International",
+          "url": "https://www.dailymirror.lk/international/Army-Rangers-Deployed-in-Rawalpindi-ahead-of-Pakistan-Sri-Lanka-T20-Series/107-352022",
+          "domain": "dailymirror.lk"
+        },
+        {
+          "title": "Should have won Nobel Prize 8 times : Trump | Rediff - TV",
+          "url": "https://tv.rediff.com/news/should-have-won-nobel-prize-8-times-trump/407757",
+          "domain": "tv.rediff.com"
+        },
+        {
+          "title": "Pakistan calls for immediate de - escalation of Ukraine conflict",
+          "url": "https://www.radio.gov.pk/10-10-2026/pakistan-calls-for-immediate-de-escalation-of-ukraine-conflict",
+          "domain": "radio.gov.pk"
+        },
+        {
+          "title": "Study highlights need for smarter , locally tailored trauma - care systems",
+          "url": "https://www.news-medical.net/news/20261008/Study-highlights-need-for-smarter-locally-tailored-trauma-care-systems.aspx",
+          "domain": "news-medical.net"
+        }
+      ],
       "toneReading": "No recent coverage found.",
       "volumeReading": null
     },
@@ -650,28 +655,7 @@
       "regulatory": 20,
       "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [
-        {
-          "title": "Israelis feel more Middle Eastern as views of Europe sour , study finds",
-          "url": "http://www.jpost.com/israel-news/article-911006",
-          "domain": "jpost.com"
-        },
-        {
-          "title": "Djokovic suffers shock Shanghai Masters exit after Hurkacz defeat , turns focus to Paris",
-          "url": "https://timesofoman.com/article/177838-djokovic-suffers-shock-shanghai-masters-exit-after-hurkacz-defeat-turns-focus-to-paris",
-          "domain": "timesofoman.com"
-        },
-        {
-          "title": "Samin Nosrat celebrity chef who signed BDS pledge shares stage with Israelis",
-          "url": "http://www.jpost.com/diaspora/article-911204",
-          "domain": "jpost.com"
-        },
-        {
-          "title": "Leila Martha Kirkwood - Salem News",
-          "url": "https://www.salemnews.net/obituaries/2026/10/leila-martha-kirkwood/",
-          "domain": "salemnews.net"
-        }
-      ],
+      "headlines": [],
       "toneReading": "No recent coverage found.",
       "volumeReading": null
     },
@@ -697,28 +681,7 @@
       "regulatory": 76,
       "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [
-        {
-          "title": "Donald Trump Makes BIG Announcement , Strikes Diesel Deal With Putin , Says  Prices Will Come Down Fast",
-          "url": "https://www.oneindia.com/international/donald-trump-makes-big-announcement-strikes-diesel-deal-with-putin-says-prices-will-come-down-fas-8230651.html",
-          "domain": "oneindia.com"
-        },
-        {
-          "title": "Trump announces deal for Russian diesel as Zelensky calls it a gift to Putin",
-          "url": "https://www.the-star.co.ke/news/world/2026-10-10-trump-announces-deal-for-russian-diesel-as-zelensky-calls-it-a-gift-to-putin",
-          "domain": "the-star.co.ke"
-        },
-        {
-          "title": "Trump says Russia to supply diesel to global markets",
-          "url": "https://www.canberratimes.com.au/story/9365952/trump-says-russia-to-supply-diesel-to-global-markets/",
-          "domain": "canberratimes.com.au"
-        },
-        {
-          "title": "South Korea threatens legal action if fuel shipments to Russia found to have broken law",
-          "url": "https://www.theguardian.com/world/2026/oct/08/south-korea-fuel-shipments-to-russia-domestic-law",
-          "domain": "theguardian.com"
-        }
-      ],
+      "headlines": [],
       "toneReading": "No recent coverage found.",
       "volumeReading": null
     },
@@ -731,7 +694,28 @@
       "regulatory": 36,
       "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [],
+      "headlines": [
+        {
+          "title": "Jordan Condemns Houthi Attacks on Saudi Airports That Killed Three",
+          "url": "https://www.khaama.com/jordan-condemns-houthi-attacks-on-saudi-airports-that-killed-three/",
+          "domain": "khaama.com"
+        },
+        {
+          "title": "Attacks by Houthis on Saudi airports highlight widening fallout from Yemen conflict",
+          "url": "https://www.wjcl.com/article/deadly-attacks-houthis-saudi-airports-yemen-conflict/74070963",
+          "domain": "wjcl.com"
+        },
+        {
+          "title": "Brent commands a war premium as Middle East supply risks keep oil on edge",
+          "url": "https://economictimes.indiatimes.com/markets/commodities/news/brent-commands-a-war-premium-as-middle-east-supply-risks-keep-oil-on-edge/articleshow/134848278.cms",
+          "domain": "economictimes.indiatimes.com"
+        },
+        {
+          "title": "Hoosiers brace for more gas price changes after a 15 - cent jump in a day",
+          "url": "https://www.wishtv.com/news/local-news/hoosiers-brace-for-more-gas-price-changes-after-a-15-cent-jump-in-a-day/",
+          "domain": "wishtv.com"
+        }
+      ],
       "toneReading": "No recent coverage found.",
       "volumeReading": null
     },
@@ -770,13 +754,7 @@
       "regulatory": 42,
       "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [
-        {
-          "title": "Logistics : Keeping the Malacca Strait Safe",
-          "url": "http://www.strategypage.com/%5Chtmw%5Chtlog%5Carticles%5C2026100875129.aspx",
-          "domain": "strategypage.com"
-        }
-      ],
+      "headlines": [],
       "toneReading": "No recent coverage found.",
       "volumeReading": null
     },
@@ -789,7 +767,28 @@
       "regulatory": 40,
       "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [],
+      "headlines": [
+        {
+          "title": "South African - born jurist Navi Pillay wins Nobel Peace Prize for her work in international justice",
+          "url": "https://isp.netscape.com:443/news/world/story/0001/20261010/f60744c07df969e50e9e69786fdb7de1",
+          "domain": "isp.netscape.com"
+        },
+        {
+          "title": "Study highlights need for smarter , locally tailored trauma - care systems",
+          "url": "https://www.news-medical.net/news/20261008/Study-highlights-need-for-smarter-locally-tailored-trauma-care-systems.aspx",
+          "domain": "news-medical.net"
+        },
+        {
+          "title": "They batted really well : Iyer after West Indies chase down 250",
+          "url": "https://timesofoman.com/article/177839-they-batted-really-well-iyer-after-west-indies-chase-down-250",
+          "domain": "timesofoman.com"
+        },
+        {
+          "title": "Pezeshkian pitches  CIS + Iran  bloc at Turkmenistan summit",
+          "url": "https://www.middleeasteye.net/live-blog/live-blog-update/pezeshkian-pitches-cis-iran-bloc-turkmenistan-summit",
+          "domain": "middleeasteye.net"
+        }
+      ],
       "toneReading": "No recent coverage found.",
       "volumeReading": null
     },
@@ -802,23 +801,7 @@
       "regulatory": 18,
       "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [
-        {
-          "title": "South Korea threatens legal action if fuel shipments to Russia found to have broken law",
-          "url": "https://www.theguardian.com/world/2026/oct/08/south-korea-fuel-shipments-to-russia-domestic-law",
-          "domain": "theguardian.com"
-        },
-        {
-          "title": "Data centre operators  on board  with energy rules",
-          "url": "https://www.goulburnpost.com.au/story/9364636/data-centre-operators-on-board-with-energy-rules/",
-          "domain": "goulburnpost.com.au"
-        },
-        {
-          "title": "I should have won 8 Nobel Peace Prizes : Trump slams Nobel Committee for awarding Navi Pillay",
-          "url": "http://www.pakistantelegraph.com/news/279363161/i-should-have-won-8-nobel-peace-prizes-trump-slams-nobel-committee-for-awarding-navi-pillay",
-          "domain": "pakistantelegraph.com"
-        }
-      ],
+      "headlines": [],
       "toneReading": "No recent coverage found.",
       "volumeReading": null
     },
@@ -831,7 +814,18 @@
       "regulatory": 38,
       "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [],
+      "headlines": [
+        {
+          "title": "Army , Rangers Deployed in Rawalpindi ahead of Pakistan - Sri Lanka T20 Series - International",
+          "url": "https://www.dailymirror.lk/international/Army-Rangers-Deployed-in-Rawalpindi-ahead-of-Pakistan-Sri-Lanka-T20-Series/107-352022",
+          "domain": "dailymirror.lk"
+        },
+        {
+          "title": "Central Crime Bureau named PTA detention site - Breaking News",
+          "url": "https://www.dailymirror.lk/breaking-news/Central-Crime-Bureau-named-PTA-detention-site/108-352030",
+          "domain": "dailymirror.lk"
+        }
+      ],
       "toneReading": "No recent coverage found.",
       "volumeReading": null
     },
@@ -857,7 +851,28 @@
       "regulatory": 67,
       "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [],
+      "headlines": [
+        {
+          "title": "UN : Israeli forces made 280 incursions into Syria , detain 49 Syrians",
+          "url": "https://www.middleeasteye.net/live-blog/live-blog-update/un-israeli-forces-made-280-incursions-syria-detain-49-syrians",
+          "domain": "middleeasteye.net"
+        },
+        {
+          "title": "Syrian general accused of atrocities paid and protected by US and Lebanon , BBC finds",
+          "url": "https://www.bbc.co.uk/news/articles/c81dldewl5gwo",
+          "domain": "bbc.co.uk"
+        },
+        {
+          "title": "UK accused of giving people of Gaza false hope over new refugee safe route",
+          "url": "https://www.theguardian.com/uk-news/2026/oct/10/uk-gaza-refugee-resettlement-scheme-palestinians-home-office",
+          "domain": "theguardian.com"
+        },
+        {
+          "title": "Voices from the Arab Press : US - Iran tensions , AI dangers , and Israel vote",
+          "url": "http://www.jpost.com/middle-east/article-911021",
+          "domain": "jpost.com"
+        }
+      ],
       "toneReading": "No recent coverage found.",
       "volumeReading": null
     },
@@ -917,7 +932,28 @@
       "regulatory": 48,
       "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [],
+      "headlines": [
+        {
+          "title": "US Slaps Sanctions on ICC Following Ex - Judge Nobel Prize Win - Jowhar News Leader",
+          "url": "https://jowhar.com/us-slaps-sanctions-on-icc-following-ex-judges-nobel-prize-win/",
+          "domain": "jowhar.com"
+        },
+        {
+          "title": "Kevin Natural Foods brand Turkey Gravy recalled due to undeclared mustard",
+          "url": "https://www.stratfordbeaconherald.com/press-releases/pr-newswire/kevins-natural-foods-brand-turkey-gravy-recalled-due-to-undeclared-mustard/",
+          "domain": "stratfordbeaconherald.com"
+        },
+        {
+          "title": "Vultures , turkey buzzards damaging Lisbon high school roof",
+          "url": "https://www.salemnews.net/news/local-news/2026/10/vultures-turkey-buzzards-damaging-lisbon-high-school-roof/",
+          "domain": "salemnews.net"
+        },
+        {
+          "title": "On the calendar - Salem News",
+          "url": "https://www.salemnews.net/news/neighborhood-news/2026/10/on-the-calendar-2107/",
+          "domain": "salemnews.net"
+        }
+      ],
       "toneReading": "No recent coverage found.",
       "volumeReading": null
     },
@@ -969,7 +1005,28 @@
       "regulatory": 28,
       "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [],
+      "headlines": [
+        {
+          "title": "US says Chinese actions off Taiwan are  deeply destabilising",
+          "url": "https://www.asiaone.com/asia/us-says-chinese-actions-taiwan-are-deeply-destabilising",
+          "domain": "asiaone.com"
+        },
+        {
+          "title": "Putin says Russian oil supplies to US will",
+          "url": "https://timesofoman.com/article/177842-putin-says-russian-oil-supplies-to-us-will-positively-impact-global-economy-after-trump-call",
+          "domain": "timesofoman.com"
+        },
+        {
+          "title": "US prepares military for possible new Iran strikes , Trump yet to decide",
+          "url": "https://www.business-standard.com/world-news/us-prepares-military-for-possible-new-iran-strikes-trump-yet-to-decide-126100800105_1.html",
+          "domain": "business-standard.com"
+        },
+        {
+          "title": "AI deepfake ads grow more popular in US midterm campaigns , misleading voters - Shafaqna English",
+          "url": "https://en.shafaqna.com/483957/ai-deepfake-ads-grow-more-popular-in-us-midterm-campaigns-misleading-voters/",
+          "domain": "en.shafaqna.com"
+        }
+      ],
       "toneReading": "No recent coverage found.",
       "volumeReading": null
     },
@@ -982,28 +1039,7 @@
       "regulatory": 80,
       "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [
-        {
-          "title": "Clara Luna at Jamsheed",
-          "url": "https://www.brisbanetimes.com.au/goodfood/vic-good-food-guide/clara-luna-at-jamsheed-preston-20251006-p5n0h3.html",
-          "domain": "brisbanetimes.com.au"
-        },
-        {
-          "title": "Strong quake shakes Panama , but no major destruction",
-          "url": "https://www.canberratimes.com.au/story/9365947/strong-quake-shakes-panama-but-no-major-destruction/",
-          "domain": "canberratimes.com.au"
-        },
-        {
-          "title": "7 . 6 - Magnitude Earthquake Hits Panama , Tsunami Threat Ends , Residents Report Damage And Aftershocks",
-          "url": "https://www.oneindia.com/international/7-6-magnitude-earthquake-hits-panama-tsunami-threat-ends-residents-report-damage-and-aftershocks-8230657.html",
-          "domain": "oneindia.com"
-        },
-        {
-          "title": "Powerful earthquake shakes Panama , followed by large aftershocks",
-          "url": "https://www.kitv.com/news/national/powerful-earthquake-shakes-panama-followed-by-large-aftershocks/article_3ab3afb7-d6a9-5ca4-a996-69b1bf47f7ec.html",
-          "domain": "kitv.com"
-        }
-      ],
+      "headlines": [],
       "toneReading": "No recent coverage found.",
       "volumeReading": null
     },
@@ -1016,7 +1052,23 @@
       "regulatory": 30,
       "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [],
+      "headlines": [
+        {
+          "title": "India young return to streets as anger against election chief and Modi grows",
+          "url": "https://isp.netscape.com:443/news/world/story/0001/20261010/030b35e23279c75394b7654233c99d6b",
+          "domain": "isp.netscape.com"
+        },
+        {
+          "title": "A Pacific island  will be swallowed  by the sea within decades . Is Ireland paying attention ? \u2013 The Irish Times",
+          "url": "https://www.irishtimes.com/environment/climate-crisis/2026/10/08/a-pacific-island-will-be-swallowed-by-the-sea-within-decades-is-ireland-paying-attention/",
+          "domain": "irishtimes.com"
+        },
+        {
+          "title": "Data centre market faces energy challenges",
+          "url": "https://vietnamnews.vn/economy/1801684/data-centre-market-faces-energy-challenges.html",
+          "domain": "vietnamnews.vn"
+        }
+      ],
       "toneReading": "No recent coverage found.",
       "volumeReading": null
     },
@@ -1029,7 +1081,28 @@
       "regulatory": 74,
       "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [],
+      "headlines": [
+        {
+          "title": "Jordan Condemns Houthi Attacks on Saudi Airports That Killed Three",
+          "url": "https://www.khaama.com/jordan-condemns-houthi-attacks-on-saudi-airports-that-killed-three/",
+          "domain": "khaama.com"
+        },
+        {
+          "title": "Attacks by Houthis on Saudi airports highlight widening fallout from Yemen conflict",
+          "url": "https://www.wjcl.com/article/deadly-attacks-houthis-saudi-airports-yemen-conflict/74070963",
+          "domain": "wjcl.com"
+        },
+        {
+          "title": "Stars , socialites and political heavyweights : Who who at Syed Saddiq and Bella Astillah wedding ?",
+          "url": "https://www.asiaone.com/entertainment/stars-socialites-and-political-heavyweights-whos-who-syed-saddiq-and-bella-astillahs",
+          "domain": "asiaone.com"
+        },
+        {
+          "title": "Trump and Iran agree on one thing . The US election calendar isnt driving their decisions on the war",
+          "url": "https://economictimes.indiatimes.com/news/international/world-news/trump-and-iran-agree-on-one-thing-the-us-election-calendar-isnt-driving-their-decisions-on-the-war/articleshow/134847184.cms",
+          "domain": "economictimes.indiatimes.com"
+        }
+      ],
       "toneReading": "No recent coverage found.",
       "volumeReading": null
     },
