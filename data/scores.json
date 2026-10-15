@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-15T10:52:35.272815+00:00",
+  "generatedAt": "2026-10-15T16:19:51.715468+00:00",
   "source": "GDELT (news tone/volume, 3-day window) blended 50/50 with baseline",
   "countries": [
     {
@@ -78,24 +78,24 @@
       "note": "No fresh coverage this cycle; showing baseline.",
       "headlines": [
         {
+          "title": "Azerbaijan , Belarus discuss strategic partnership , interparliamentary ties",
+          "url": "https://www.trend.az/azerbaijan/politics/4235204.html",
+          "domain": "trend.az"
+        },
+        {
           "title": "BUCE to help Indian entrepreneurs enter Belaru market",
           "url": "https://www.sb.by/en/buce-to-help-indian-entrepreneurs-enter-belarus-market.html",
+          "domain": "sb.by"
+        },
+        {
+          "title": "Belaru Deputy FM held meetings with UN representatives in New York",
+          "url": "https://www.sb.by/en/belarus-deputy-fm-held-meetings-with-un-representatives-in-new-york.html",
           "domain": "sb.by"
         },
         {
           "title": "Lukashenko briefed on how autumn fieldwork progressing in Belarus",
           "url": "https://www.sb.by/en/lukashenko-briefed-on-how-autumn-fieldwork-progressing-in-belarus.html",
           "domain": "sb.by"
-        },
-        {
-          "title": "New global architecture",
-          "url": "https://www.sb.by/en/new-global-architecture.html",
-          "domain": "sb.by"
-        },
-        {
-          "title": "FSB Arrests Swede in Pskov Region Over Border Crossing and Sabotage Allegations",
-          "url": "https://www.themoscowtimes.com/2026/10/15/fsb-arrests-swede-in-pskov-region-over-border-crossing-and-sabotage-allegations-a93982",
-          "domain": "themoscowtimes.com"
         }
       ],
       "toneReading": "No recent coverage found.",
@@ -156,7 +156,7 @@
     {
       "name": "Colombia",
       "region": "Latin America",
-      "political": 48,
+      "political": 49,
       "conflict": 56,
       "economic": 38,
       "regulatory": 40,
@@ -164,7 +164,7 @@
       "note": "Live-updated from recent news coverage.",
       "headlines": [],
       "toneReading": "Coverage over the last 3 days has been mixed or neutral.",
-      "volumeReading": "Coverage volume has been light this week."
+      "volumeReading": null
     },
     {
       "name": "Cuba",
@@ -195,14 +195,14 @@
     {
       "name": "Ecuador",
       "region": "Latin America",
-      "political": 38,
+      "political": 43,
       "conflict": 57,
       "economic": 36,
       "regulatory": 13,
-      "trend": "flat",
-      "note": "No fresh coverage this cycle; showing baseline.",
+      "trend": "up",
+      "note": "Live-updated from recent news coverage.",
       "headlines": [],
-      "toneReading": "No recent coverage found.",
+      "toneReading": "Coverage over the last 3 days has been mixed or neutral.",
       "volumeReading": null
     },
     {
@@ -214,28 +214,7 @@
       "regulatory": 44,
       "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [
-        {
-          "title": "UK accused of giving people of Gaza false hope over new refugee safe route",
-          "url": "https://www.theguardian.com/uk-news/2026/oct/10/uk-gaza-refugee-resettlement-scheme-palestinians-home-office",
-          "domain": "theguardian.com"
-        },
-        {
-          "title": "World Oldest Shipwreck Found Off Turkey Coast",
-          "url": "https://kfyi.iheart.com/content/2026-10-15-worlds-oldest-shipwreck-found-off-turkeys-coast/",
-          "domain": "kfyi.iheart.com"
-        },
-        {
-          "title": "World Oldest Shipwreck Found Off Turkey Coast | Newsradio WOOD 1300 and 106 . 9 FM",
-          "url": "https://woodradio.iheart.com/content/2026-10-15-worlds-oldest-shipwreck-found-off-turkeys-coast/",
-          "domain": "woodradio.iheart.com"
-        },
-        {
-          "title": "World Oldest Shipwreck Found Off Turkey Coast | The Patriot KEIB AM 1150",
-          "url": "https://patriotla.iheart.com/content/2026-10-15-worlds-oldest-shipwreck-found-off-turkeys-coast/",
-          "domain": "patriotla.iheart.com"
-        }
-      ],
+      "headlines": [],
       "toneReading": "No recent coverage found.",
       "volumeReading": null
     },
@@ -346,14 +325,14 @@
     {
       "name": "Israel",
       "region": "MENA",
-      "political": 62,
+      "political": 58,
       "conflict": 66,
       "economic": 34,
       "regulatory": 30,
       "trend": "flat",
-      "note": "Live-updated from recent news coverage.",
+      "note": "No fresh coverage this cycle; showing baseline.",
       "headlines": [],
-      "toneReading": "Coverage over the last 3 days has leaned negative.",
+      "toneReading": "No recent coverage found.",
       "volumeReading": null
     },
     {
@@ -372,14 +351,14 @@
     {
       "name": "Japan",
       "region": "East Asia",
-      "political": 33,
+      "political": 16,
       "conflict": 10,
       "economic": 22,
       "regulatory": 14,
-      "trend": "up",
-      "note": "Live-updated from recent news coverage.",
+      "trend": "down",
+      "note": "No fresh coverage this cycle; showing baseline.",
       "headlines": [],
-      "toneReading": "Coverage over the last 3 days has been mixed or neutral.",
+      "toneReading": "No recent coverage found.",
       "volumeReading": null
     },
     {
@@ -391,7 +370,28 @@
       "regulatory": 20,
       "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [],
+      "headlines": [
+        {
+          "title": "Strictly star James Jordan wife Ola cryptic four - word message after marriage split",
+          "url": "https://www.aol.co.uk/articles/strictly-star-james-jordans-wife-145300000.html",
+          "domain": "aol.co.uk"
+        },
+        {
+          "title": "UK accused of giving people of Gaza false hope over new refugee safe route",
+          "url": "https://www.theguardian.com/uk-news/2026/oct/10/uk-gaza-refugee-resettlement-scheme-palestinians-home-office",
+          "domain": "theguardian.com"
+        },
+        {
+          "title": "Jordan Stephens Turned Down Star Wars Over  Ridiculou Hair Dispute",
+          "url": "https://www.huffingtonpost.co.uk/entry/jordan-stephens-star-wars-hair-dreadlocks_uk_6ad0a665e4b0bfd25654a443",
+          "domain": "huffingtonpost.co.uk"
+        },
+        {
+          "title": "Jordan Eberle October 15 Preview vs . the Lightning | Rip City Radio 620 Portland",
+          "url": "https://ripcityradio.iheart.com/content/2026-10-15-jordan-eberle-october-15-preview-vs-the-lightning/",
+          "domain": "ripcityradio.iheart.com"
+        }
+      ],
       "toneReading": "No recent coverage found.",
       "volumeReading": null
     },
@@ -404,7 +404,28 @@
       "regulatory": 36,
       "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [],
+      "headlines": [
+        {
+          "title": "Kazakhstan eyes export growth in Switzerland across 30 product categories",
+          "url": "https://www.trend.az/casia/kazakhstan/4235230.html",
+          "domain": "trend.az"
+        },
+        {
+          "title": "ING : Every $10 / bbl rise can lift Azerbaijan annual exports by 2 - 4 % of GDP",
+          "url": "https://www.trend.az/azerbaijan/4235226.html",
+          "domain": "trend.az"
+        },
+        {
+          "title": "Kazakhstan plans to increase oil shipments via Baku \u2013 Tbilisi \u2013 Ceyhan",
+          "url": "https://www.trend.az/casia/kazakhstan/4235351.html",
+          "domain": "trend.az"
+        },
+        {
+          "title": "Kazakhstan , Russia launch first e - CMR freight pilot on Astana - Moscow route",
+          "url": "https://www.trend.az/casia/kazakhstan/4235212.html",
+          "domain": "trend.az"
+        }
+      ],
       "toneReading": "No recent coverage found.",
       "volumeReading": null
     },
@@ -430,7 +451,28 @@
       "regulatory": 20,
       "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [],
+      "headlines": [
+        {
+          "title": "Hezbollah says it owned confiscated explosives , meant to attack Israel",
+          "url": "https://www.al-monitor.com/originals/2026/10/hezbollah-says-it-owned-confiscated-explosives-meant-attack-israel",
+          "domain": "al-monitor.com"
+        },
+        {
+          "title": "Arab News | Lebanon must impose a new reality in the south",
+          "url": "https://www.arabnews.com/opinion/lebanon-must-impose-a-new-reality-in-the-south-3005899",
+          "domain": "arabnews.com"
+        },
+        {
+          "title": "UN says wants Lebanon stability as end of peacekeeper mandate looms",
+          "url": "https://www.naharnet.com/stories/en/323120-un-says-wants-lebanon-stability-as-end-of-peacekeepers-mandate-looms",
+          "domain": "naharnet.com"
+        },
+        {
+          "title": "Judiciary dismisses complaint filed against Ambassador Moawad",
+          "url": "https://www.naharnet.com/stories/en/323123-judiciary-dismisses-complaint-filed-against-ambassador-moawad",
+          "domain": "naharnet.com"
+        }
+      ],
       "toneReading": "No recent coverage found.",
       "volumeReading": null
     },
@@ -489,15 +531,15 @@
     {
       "name": "Morocco",
       "region": "MENA",
-      "political": 26,
+      "political": 32,
       "conflict": 20,
       "economic": 38,
       "regulatory": 18,
-      "trend": "down",
-      "note": "Live-updated from recent news coverage.",
+      "trend": "up",
+      "note": "No fresh coverage this cycle; showing baseline.",
       "headlines": [],
-      "toneReading": "Coverage over the last 3 days has been notably positive.",
-      "volumeReading": "Coverage volume has been light this week."
+      "toneReading": "No recent coverage found.",
+      "volumeReading": null
     },
     {
       "name": "Myanmar",
@@ -508,7 +550,28 @@
       "regulatory": 70,
       "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [],
+      "headlines": [
+        {
+          "title": "Kuki woman killed , two missing after gunfight breaks out in Manipur Kamjong : Police",
+          "url": "https://www.hindustantimes.com/india-news/kuki-woman-killed-two-missing-after-gunfight-breaks-out-in-manipur-s-kamjong-police-101792078286345.html",
+          "domain": "hindustantimes.com"
+        },
+        {
+          "title": "US lifts sanctions on daughter of Myanmar military - linked businessman",
+          "url": "https://www.asiaone.com/world/us-lifts-sanctions-daughter-myanmar-military-linked-businessman",
+          "domain": "asiaone.com"
+        },
+        {
+          "title": "Chinese embassy donates funds to Myanmar sports federations - Xinhua",
+          "url": "https://english.news.cn/asiapacific/20261015/ffe7e07784884143ae711e7d87f29d83/c.html",
+          "domain": "english.news.cn"
+        },
+        {
+          "title": "UN - Habitat Highlights Housing Initiatives and sauerbruch hutton Completes Timber - Hybrid Building in Berlin : This Week Review",
+          "url": "https://www.archdaily.com/1186880/un-habitat-highlights-housing-initiatives-and-sauerbruch-hutton-completes-timber-hybrid-building-in-berlin-this-weeks-review",
+          "domain": "archdaily.com"
+        }
+      ],
       "toneReading": "No recent coverage found.",
       "volumeReading": null
     },
@@ -593,15 +656,36 @@
     {
       "name": "Qatar",
       "region": "MENA",
-      "political": 34,
+      "political": 44,
       "conflict": 14,
       "economic": 22,
       "regulatory": 16,
-      "trend": "flat",
-      "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [],
-      "toneReading": "No recent coverage found.",
-      "volumeReading": null
+      "trend": "up",
+      "note": "Live-updated from recent news coverage.",
+      "headlines": [
+        {
+          "title": "PayLater partners with Visa Cybersource on processing payments",
+          "url": "http://thepeninsulaqatar.com/article/15/10/2026/paylater-partners-with-visas-cybersource-on-processing-payments",
+          "domain": "thepeninsulaqatar.com"
+        },
+        {
+          "title": "Qatar vision of resilience , responsible leadership | The Peninsula Qatar",
+          "url": "http://thepeninsulaqatar.com/opinion/15/10/2026/qatars-vision-of-resilience-responsible-leadership",
+          "domain": "thepeninsulaqatar.com"
+        },
+        {
+          "title": "US - based Activate Capital joins Qatar Investment Authority Fund of Funds",
+          "url": "http://thepeninsulaqatar.com/article/15/10/2026/us-based-activate-capital-joins-qatar-investment-authoritys-fund-of-funds",
+          "domain": "thepeninsulaqatar.com"
+        },
+        {
+          "title": "Qatar reaffirms commitment to leveraging resources , expertise to support countries and communities affected by disasters and crises",
+          "url": "https://www.qatar-tribune.com/article/259345/latest-news/qatar-reaffirms-commitment-to-leveraging-resources-expertise-to-support-countries-and-communities-affected-by-disasters-and-crises",
+          "domain": "qatar-tribune.com"
+        }
+      ],
+      "toneReading": "Coverage over the last 3 days has been mixed or neutral.",
+      "volumeReading": "Coverage volume has been unusually high this week."
     },
     {
       "name": "Russia",
@@ -664,13 +748,7 @@
       "regulatory": 42,
       "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [
-        {
-          "title": "Logistics : Keeping the Malacca Strait Safe",
-          "url": "http://www.strategypage.com/%5Chtmw%5Chtlog%5Carticles%5C2026100875129.aspx",
-          "domain": "strategypage.com"
-        }
-      ],
+      "headlines": [],
       "toneReading": "No recent coverage found.",
       "volumeReading": null
     },
@@ -742,15 +820,15 @@
     {
       "name": "Taiwan",
       "region": "East Asia",
-      "political": 49,
+      "political": 44,
       "conflict": 48,
       "economic": 26,
       "regulatory": 20,
-      "trend": "up",
-      "note": "Live-updated from recent news coverage.",
+      "trend": "down",
+      "note": "No fresh coverage this cycle; showing baseline.",
       "headlines": [],
-      "toneReading": "Coverage over the last 3 days has been mixed or neutral.",
-      "volumeReading": "Coverage volume has been light this week."
+      "toneReading": "No recent coverage found.",
+      "volumeReading": null
     },
     {
       "name": "Thailand",
@@ -833,15 +911,15 @@
     {
       "name": "Venezuela",
       "region": "Latin America",
-      "political": 81,
+      "political": 82,
       "conflict": 48,
       "economic": 88,
       "regulatory": 80,
       "trend": "flat",
-      "note": "Live-updated from recent news coverage.",
+      "note": "No fresh coverage this cycle; showing baseline.",
       "headlines": [],
-      "toneReading": "Coverage over the last 3 days has been notably negative.",
-      "volumeReading": "Coverage volume has been light this week."
+      "toneReading": "No recent coverage found.",
+      "volumeReading": null
     },
     {
       "name": "Vietnam",
@@ -859,15 +937,36 @@
     {
       "name": "Yemen",
       "region": "MENA",
-      "political": 70,
+      "political": 84,
       "conflict": 88,
       "economic": 82,
       "regulatory": 74,
-      "trend": "down",
-      "note": "Live-updated from recent news coverage.",
-      "headlines": [],
-      "toneReading": "Coverage over the last 3 days has been mixed or neutral.",
-      "volumeReading": "Coverage volume has been light this week."
+      "trend": "up",
+      "note": "No fresh coverage this cycle; showing baseline.",
+      "headlines": [
+        {
+          "title": "A Saudi - Iran Deal May Keep the Bab al - Mandab Strait Open",
+          "url": "https://article.wn.com/view/2026/10/15/A_SaudiIran_Deal_May_Keep_the_Bab_alMandab_Strait_Open/",
+          "domain": "article.wn.com"
+        },
+        {
+          "title": "How non - state alliances are reshaping the global order",
+          "url": "https://article.wn.com/view/2026/10/15/How_nonstate_alliances_are_reshaping_the_global_order/",
+          "domain": "article.wn.com"
+        },
+        {
+          "title": "Fighting in Yemen intensifies : What the latest on the battlefield ? | Houthis News",
+          "url": "https://www.aljazeera.com/news/2026/10/15/fighting-in-yemen-intensifies-whats-the-latest-on-the-battlefield",
+          "domain": "aljazeera.com"
+        },
+        {
+          "title": "Egypt , Qatar stress need to halt hostilities against Saudi Arabia",
+          "url": "https://tribune.com.pk/story/2635009/egypt-qatar-stress-need-to-halt-hostilities-against-saudi-arabia",
+          "domain": "tribune.com.pk"
+        }
+      ],
+      "toneReading": "No recent coverage found.",
+      "volumeReading": null
     },
     {
       "name": "Zimbabwe",
