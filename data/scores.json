@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-15T03:15:44.966419+00:00",
+  "generatedAt": "2026-10-15T10:52:35.272815+00:00",
   "source": "GDELT (news tone/volume, 3-day window) blended 50/50 with baseline",
   "countries": [
     {
@@ -76,7 +76,28 @@
       "regulatory": 72,
       "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [],
+      "headlines": [
+        {
+          "title": "BUCE to help Indian entrepreneurs enter Belaru market",
+          "url": "https://www.sb.by/en/buce-to-help-indian-entrepreneurs-enter-belarus-market.html",
+          "domain": "sb.by"
+        },
+        {
+          "title": "Lukashenko briefed on how autumn fieldwork progressing in Belarus",
+          "url": "https://www.sb.by/en/lukashenko-briefed-on-how-autumn-fieldwork-progressing-in-belarus.html",
+          "domain": "sb.by"
+        },
+        {
+          "title": "New global architecture",
+          "url": "https://www.sb.by/en/new-global-architecture.html",
+          "domain": "sb.by"
+        },
+        {
+          "title": "FSB Arrests Swede in Pskov Region Over Border Crossing and Sabotage Allegations",
+          "url": "https://www.themoscowtimes.com/2026/10/15/fsb-arrests-swede-in-pskov-region-over-border-crossing-and-sabotage-allegations-a93982",
+          "domain": "themoscowtimes.com"
+        }
+      ],
       "toneReading": "No recent coverage found.",
       "volumeReading": null
     },
@@ -140,31 +161,10 @@
       "economic": 38,
       "regulatory": 40,
       "trend": "flat",
-      "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [
-        {
-          "title": "Strong quake shakes Panama , but no major destruction",
-          "url": "https://www.canberratimes.com.au/story/9365947/strong-quake-shakes-panama-but-no-major-destruction/",
-          "domain": "canberratimes.com.au"
-        },
-        {
-          "title": "7 . 6 - Magnitude Earthquake Hits Panama , Tsunami Threat Ends , Residents Report Damage And Aftershocks",
-          "url": "https://www.oneindia.com/international/7-6-magnitude-earthquake-hits-panama-tsunami-threat-ends-residents-report-damage-and-aftershocks-8230657.html",
-          "domain": "oneindia.com"
-        },
-        {
-          "title": "Aguia builds 30 , 000t phosphate stockpile in Brazil",
-          "url": "https://www.brisbanetimes.com.au/business/companies/aguia-builds-30-000t-phosphate-stockpile-in-brazil-20261008-p613z4.html",
-          "domain": "brisbanetimes.com.au"
-        },
-        {
-          "title": "Powerful earthquake shakes Panama , followed by large aftershocks",
-          "url": "https://www.kitv.com/news/national/powerful-earthquake-shakes-panama-followed-by-large-aftershocks/article_3ab3afb7-d6a9-5ca4-a996-69b1bf47f7ec.html",
-          "domain": "kitv.com"
-        }
-      ],
-      "toneReading": "No recent coverage found.",
-      "volumeReading": null
+      "note": "Live-updated from recent news coverage.",
+      "headlines": [],
+      "toneReading": "Coverage over the last 3 days has been mixed or neutral.",
+      "volumeReading": "Coverage volume has been light this week."
     },
     {
       "name": "Cuba",
@@ -214,7 +214,28 @@
       "regulatory": 44,
       "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [],
+      "headlines": [
+        {
+          "title": "UK accused of giving people of Gaza false hope over new refugee safe route",
+          "url": "https://www.theguardian.com/uk-news/2026/oct/10/uk-gaza-refugee-resettlement-scheme-palestinians-home-office",
+          "domain": "theguardian.com"
+        },
+        {
+          "title": "World Oldest Shipwreck Found Off Turkey Coast",
+          "url": "https://kfyi.iheart.com/content/2026-10-15-worlds-oldest-shipwreck-found-off-turkeys-coast/",
+          "domain": "kfyi.iheart.com"
+        },
+        {
+          "title": "World Oldest Shipwreck Found Off Turkey Coast | Newsradio WOOD 1300 and 106 . 9 FM",
+          "url": "https://woodradio.iheart.com/content/2026-10-15-worlds-oldest-shipwreck-found-off-turkeys-coast/",
+          "domain": "woodradio.iheart.com"
+        },
+        {
+          "title": "World Oldest Shipwreck Found Off Turkey Coast | The Patriot KEIB AM 1150",
+          "url": "https://patriotla.iheart.com/content/2026-10-15-worlds-oldest-shipwreck-found-off-turkeys-coast/",
+          "domain": "patriotla.iheart.com"
+        }
+      ],
       "toneReading": "No recent coverage found.",
       "volumeReading": null
     },
@@ -305,28 +326,7 @@
       "regulatory": 32,
       "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [
-        {
-          "title": "Singapore ready to help Indonesia in fight against forest fires amid worsening haze : Grace Fu",
-          "url": "https://www.asiaone.com/singapore/singapore-haze-grace-fu-ready-help-indonesia",
-          "domain": "asiaone.com"
-        },
-        {
-          "title": "Logistics : Keeping the Malacca Strait Safe",
-          "url": "http://www.strategypage.com/%5Chtmw%5Chtlog%5Carticles%5C2026100875129.aspx",
-          "domain": "strategypage.com"
-        },
-        {
-          "title": "A U . S .- brokered ceasefire was supposed to end the war in Gaza . A year later , progress has stalled",
-          "url": "https://japantoday.com/category/world/a-us-brokered-ceasefire-was-supposed-to-end-the-war-in-gaza.-a-year-later-progress-has-stalled",
-          "domain": "japantoday.com"
-        },
-        {
-          "title": "When will El Ni\u00f1o peak and end ? A full timeline of the weather phenomenon taking the world by storm",
-          "url": "https://www.euronews.com/2026/10/10/when-will-el-nino-peak-and-end-a-full-timeline-of-the-weather-phenomenon-taking-the-world-",
-          "domain": "euronews.com"
-        }
-      ],
+      "headlines": [],
       "toneReading": "No recent coverage found.",
       "volumeReading": null
     },
@@ -346,14 +346,14 @@
     {
       "name": "Israel",
       "region": "MENA",
-      "political": 58,
+      "political": 62,
       "conflict": 66,
       "economic": 34,
       "regulatory": 30,
       "trend": "flat",
-      "note": "No fresh coverage this cycle; showing baseline.",
+      "note": "Live-updated from recent news coverage.",
       "headlines": [],
-      "toneReading": "No recent coverage found.",
+      "toneReading": "Coverage over the last 3 days has leaned negative.",
       "volumeReading": null
     },
     {
@@ -365,42 +365,21 @@
       "regulatory": 17,
       "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [
-        {
-          "title": "US Embassy Issues Major Security Alert In Ethiopia Over Possible Long - Range Attacks , Urges Americans To Avoid Amhara , Tigray And Afar",
-          "url": "https://www.freepressjournal.in/world/us-embassy-issues-major-security-alert-in-ethiopia-over-possible-long-range-attacks-urges-americans-to-avoid-amhara-tigray-and-afar",
-          "domain": "freepressjournal.in"
-        },
-        {
-          "title": "Djokovic suffers shock Shanghai Masters exit after Hurkacz defeat , turns focus to Paris",
-          "url": "https://timesofoman.com/article/177838-djokovic-suffers-shock-shanghai-masters-exit-after-hurkacz-defeat-turns-focus-to-paris",
-          "domain": "timesofoman.com"
-        },
-        {
-          "title": "As Russia escalates its war , the EU realises its support for Ukraine wont be enough",
-          "url": "https://www.euronews.com/2026/10/10/as-russia-escalates-its-war-the-eu-admits-its-support-for-ukraine-wont-be-enough",
-          "domain": "euronews.com"
-        },
-        {
-          "title": "Who is Hitler Mussolini Sime\u00f3n Flores ? Peruvian politician named after two infamous dictators wins election for centre - left Ahora Naci\u00f3n party",
-          "url": "https://www.indiatimes.com/trending/who-is-hitler-mussolini-simen-flores-peruvian-politician-named-after-two-infamous-dictators-wins-election-for-centre-left-ahora-nacin-party/articleshow/134848008.html",
-          "domain": "indiatimes.com"
-        }
-      ],
+      "headlines": [],
       "toneReading": "No recent coverage found.",
       "volumeReading": null
     },
     {
       "name": "Japan",
       "region": "East Asia",
-      "political": 16,
+      "political": 33,
       "conflict": 10,
       "economic": 22,
       "regulatory": 14,
-      "trend": "flat",
-      "note": "No fresh coverage this cycle; showing baseline.",
+      "trend": "up",
+      "note": "Live-updated from recent news coverage.",
       "headlines": [],
-      "toneReading": "No recent coverage found.",
+      "toneReading": "Coverage over the last 3 days has been mixed or neutral.",
       "volumeReading": null
     },
     {
@@ -438,28 +417,7 @@
       "regulatory": 34,
       "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [
-        {
-          "title": "Kenya Re taps university students for AI - powered flood solution plan",
-          "url": "https://www.the-star.co.ke/business/2026-10-10-kenya-re-taps-university-students-for-ai-powered-flood-solution-plan",
-          "domain": "the-star.co.ke"
-        },
-        {
-          "title": "Missing herder found dead in Kwale forest in suspected snake bite",
-          "url": "https://www.the-star.co.ke/news/2026-10-10-missing-herder-found-dead-in-kwale-forest",
-          "domain": "the-star.co.ke"
-        },
-        {
-          "title": "Adopt - a - block : Diplomatic community invited to support Kenya tree - growing initiative",
-          "url": "https://www.standardmedia.co.ke/environment-climate/article/2001559832/adopt-a-block-diplomatic-community-invited-to-support-kenyas-tree-growing-initiative",
-          "domain": "standardmedia.co.ke"
-        },
-        {
-          "title": "Government targets 17 . 2m trees to mark 2026 Mazingira Day",
-          "url": "https://www.the-star.co.ke/news/2026-10-10-state-targets-172m-trees-to-mark-mazingira-day",
-          "domain": "the-star.co.ke"
-        }
-      ],
+      "headlines": [],
       "toneReading": "No recent coverage found.",
       "volumeReading": null
     },
@@ -531,15 +489,15 @@
     {
       "name": "Morocco",
       "region": "MENA",
-      "political": 32,
+      "political": 26,
       "conflict": 20,
       "economic": 38,
       "regulatory": 18,
-      "trend": "flat",
-      "note": "No fresh coverage this cycle; showing baseline.",
+      "trend": "down",
+      "note": "Live-updated from recent news coverage.",
       "headlines": [],
-      "toneReading": "No recent coverage found.",
-      "volumeReading": null
+      "toneReading": "Coverage over the last 3 days has been notably positive.",
+      "volumeReading": "Coverage volume has been light this week."
     },
     {
       "name": "Myanmar",
@@ -706,7 +664,13 @@
       "regulatory": 42,
       "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [],
+      "headlines": [
+        {
+          "title": "Logistics : Keeping the Malacca Strait Safe",
+          "url": "http://www.strategypage.com/%5Chtmw%5Chtlog%5Carticles%5C2026100875129.aspx",
+          "domain": "strategypage.com"
+        }
+      ],
       "toneReading": "No recent coverage found.",
       "volumeReading": null
     },
@@ -778,36 +742,15 @@
     {
       "name": "Taiwan",
       "region": "East Asia",
-      "political": 44,
+      "political": 49,
       "conflict": 48,
       "economic": 26,
       "regulatory": 20,
-      "trend": "flat",
-      "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [
-        {
-          "title": "Taiwan president to say boosting its defences is not  provocation",
-          "url": "https://www.asiaone.com/asia/taiwan-president-say-boosting-its-defences-not-provocation",
-          "domain": "asiaone.com"
-        },
-        {
-          "title": "Taiwan Lai calls on Indo - Pacific democracies to help maintain peace in National Day speech",
-          "url": "https://www.newsday.com/news/nation/taiwan-national-day-lai-ching-te-w47437",
-          "domain": "newsday.com"
-        },
-        {
-          "title": "US says Chinese actions off Taiwan are  deeply destabilising",
-          "url": "https://www.asiaone.com/asia/us-says-chinese-actions-taiwan-are-deeply-destabilising",
-          "domain": "asiaone.com"
-        },
-        {
-          "title": "Taiwan cherishes peace but will not give up freedom , president says",
-          "url": "https://www.asiaone.com/asia/taiwan-cherishes-peace-will-not-give-freedom-president-says",
-          "domain": "asiaone.com"
-        }
-      ],
-      "toneReading": "No recent coverage found.",
-      "volumeReading": null
+      "trend": "up",
+      "note": "Live-updated from recent news coverage.",
+      "headlines": [],
+      "toneReading": "Coverage over the last 3 days has been mixed or neutral.",
+      "volumeReading": "Coverage volume has been light this week."
     },
     {
       "name": "Thailand",
@@ -890,15 +833,15 @@
     {
       "name": "Venezuela",
       "region": "Latin America",
-      "political": 82,
+      "political": 81,
       "conflict": 48,
       "economic": 88,
       "regulatory": 80,
       "trend": "flat",
-      "note": "No fresh coverage this cycle; showing baseline.",
+      "note": "Live-updated from recent news coverage.",
       "headlines": [],
-      "toneReading": "No recent coverage found.",
-      "volumeReading": null
+      "toneReading": "Coverage over the last 3 days has been notably negative.",
+      "volumeReading": "Coverage volume has been light this week."
     },
     {
       "name": "Vietnam",
@@ -909,38 +852,22 @@
       "regulatory": 30,
       "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [
-        {
-          "title": "India young return to streets as anger against election chief and Modi grows",
-          "url": "https://isp.netscape.com:443/news/world/story/0001/20261010/030b35e23279c75394b7654233c99d6b",
-          "domain": "isp.netscape.com"
-        },
-        {
-          "title": "A Pacific island  will be swallowed  by the sea within decades . Is Ireland paying attention ? \u2013 The Irish Times",
-          "url": "https://www.irishtimes.com/environment/climate-crisis/2026/10/08/a-pacific-island-will-be-swallowed-by-the-sea-within-decades-is-ireland-paying-attention/",
-          "domain": "irishtimes.com"
-        },
-        {
-          "title": "Data centre market faces energy challenges",
-          "url": "https://vietnamnews.vn/economy/1801684/data-centre-market-faces-energy-challenges.html",
-          "domain": "vietnamnews.vn"
-        }
-      ],
+      "headlines": [],
       "toneReading": "No recent coverage found.",
       "volumeReading": null
     },
     {
       "name": "Yemen",
       "region": "MENA",
-      "political": 84,
+      "political": 70,
       "conflict": 88,
       "economic": 82,
       "regulatory": 74,
-      "trend": "flat",
-      "note": "No fresh coverage this cycle; showing baseline.",
+      "trend": "down",
+      "note": "Live-updated from recent news coverage.",
       "headlines": [],
-      "toneReading": "No recent coverage found.",
-      "volumeReading": null
+      "toneReading": "Coverage over the last 3 days has been mixed or neutral.",
+      "volumeReading": "Coverage volume has been light this week."
     },
     {
       "name": "Zimbabwe",
