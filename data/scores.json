@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-14T21:17:33.963952+00:00",
+  "generatedAt": "2026-10-15T03:15:44.966419+00:00",
   "source": "GDELT (news tone/volume, 3-day window) blended 50/50 with baseline",
   "countries": [
     {
@@ -50,18 +50,7 @@
       "regulatory": 20,
       "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [
-        {
-          "title": "Donald Trump slams Nobel Peace Prize awarded to Navi Pillay over snub",
-          "url": "http://www.jpost.com/international/article-911201",
-          "domain": "jpost.com"
-        },
-        {
-          "title": "I should have won 8 Nobel Peace Prizes : Trump slams Nobel Committee for awarding Navi Pillay",
-          "url": "http://www.pakistantelegraph.com/news/279363161/i-should-have-won-8-nobel-peace-prizes-trump-slams-nobel-committee-for-awarding-navi-pillay",
-          "domain": "pakistantelegraph.com"
-        }
-      ],
+      "headlines": [],
       "toneReading": "No recent coverage found.",
       "volumeReading": null
     },
@@ -212,23 +201,7 @@
       "regulatory": 13,
       "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [
-        {
-          "title": "Cloquet are you okay , are you okay Cloquet",
-          "url": "http://www.minnpost.com/glean/2026/10/cloquet-are-you-okay-are-you-okay-cloquet-minnesota-news/",
-          "domain": "minnpost.com"
-        },
-        {
-          "title": "7 . 6 - Magnitude Earthquake Hits Panama , Tsunami Threat Ends , Residents Report Damage And Aftershocks",
-          "url": "https://www.oneindia.com/international/7-6-magnitude-earthquake-hits-panama-tsunami-threat-ends-residents-report-damage-and-aftershocks-8230657.html",
-          "domain": "oneindia.com"
-        },
-        {
-          "title": "7 . 6 magnitude earthquake in Panama , fear in the capital : tsunami risk",
-          "url": "https://www.thevermilion.com/7-6-magnitude-earthquake-in-panama-fear-in-the-capital-tsunami-risk/article_21530/",
-          "domain": "thevermilion.com"
-        }
-      ],
+      "headlines": [],
       "toneReading": "No recent coverage found.",
       "volumeReading": null
     },
@@ -267,28 +240,7 @@
       "regulatory": 24,
       "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [
-        {
-          "title": "Israelis feel more Middle Eastern as views of Europe sour , study finds",
-          "url": "http://www.jpost.com/israel-news/article-911006",
-          "domain": "jpost.com"
-        },
-        {
-          "title": "US says Chinese actions off Taiwan are  deeply destabilising",
-          "url": "https://www.asiaone.com/asia/us-says-chinese-actions-taiwan-are-deeply-destabilising",
-          "domain": "asiaone.com"
-        },
-        {
-          "title": "Padres fall to Brewers in National League Division Series , ending their season",
-          "url": "https://www.sandiegouniontribune.com/2026/10/07/padres-fall-to-brewers-in-national-league-division-series-ending-their-season/",
-          "domain": "sandiegouniontribune.com"
-        },
-        {
-          "title": "This Tattooed Cowboy Is Giving Us a Yeehaw - Inducing Thirst Trap",
-          "url": "https://instinctmagazine.com/cowboy-tattoos-chris-damned/",
-          "domain": "instinctmagazine.com"
-        }
-      ],
+      "headlines": [],
       "toneReading": "No recent coverage found.",
       "volumeReading": null
     },
@@ -314,28 +266,7 @@
       "regulatory": 16,
       "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [
-        {
-          "title": "Israelis feel more Middle Eastern as views of Europe sour , study finds",
-          "url": "http://www.jpost.com/israel-news/article-911006",
-          "domain": "jpost.com"
-        },
-        {
-          "title": "I am really content and satisfied : How an Indian professor research on a tiny alga connects to the 2026 Medicine Nobel",
-          "url": "https://timesofindia.indiatimes.com/science/discovery/i-am-really-content-and-satisfied-how-an-indian-professors-research-on-a-tiny-alga-connects-to-the-2026-medicine-nobel/articleshow/134848119.cms",
-          "domain": "timesofindia.indiatimes.com"
-        },
-        {
-          "title": "US says Chinese actions off Taiwan are  deeply destabilising",
-          "url": "https://www.asiaone.com/asia/us-says-chinese-actions-taiwan-are-deeply-destabilising",
-          "domain": "asiaone.com"
-        },
-        {
-          "title": "As Russia escalates its war , the EU realises its support for Ukraine wont be enough",
-          "url": "https://www.euronews.com/2026/10/10/as-russia-escalates-its-war-the-eu-admits-its-support-for-ukraine-wont-be-enough",
-          "domain": "euronews.com"
-        }
-      ],
+      "headlines": [],
       "toneReading": "No recent coverage found.",
       "volumeReading": null
     },
@@ -374,7 +305,28 @@
       "regulatory": 32,
       "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [],
+      "headlines": [
+        {
+          "title": "Singapore ready to help Indonesia in fight against forest fires amid worsening haze : Grace Fu",
+          "url": "https://www.asiaone.com/singapore/singapore-haze-grace-fu-ready-help-indonesia",
+          "domain": "asiaone.com"
+        },
+        {
+          "title": "Logistics : Keeping the Malacca Strait Safe",
+          "url": "http://www.strategypage.com/%5Chtmw%5Chtlog%5Carticles%5C2026100875129.aspx",
+          "domain": "strategypage.com"
+        },
+        {
+          "title": "A U . S .- brokered ceasefire was supposed to end the war in Gaza . A year later , progress has stalled",
+          "url": "https://japantoday.com/category/world/a-us-brokered-ceasefire-was-supposed-to-end-the-war-in-gaza.-a-year-later-progress-has-stalled",
+          "domain": "japantoday.com"
+        },
+        {
+          "title": "When will El Ni\u00f1o peak and end ? A full timeline of the weather phenomenon taking the world by storm",
+          "url": "https://www.euronews.com/2026/10/10/when-will-el-nino-peak-and-end-a-full-timeline-of-the-weather-phenomenon-taking-the-world-",
+          "domain": "euronews.com"
+        }
+      ],
       "toneReading": "No recent coverage found.",
       "volumeReading": null
     },
@@ -413,7 +365,28 @@
       "regulatory": 17,
       "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [],
+      "headlines": [
+        {
+          "title": "US Embassy Issues Major Security Alert In Ethiopia Over Possible Long - Range Attacks , Urges Americans To Avoid Amhara , Tigray And Afar",
+          "url": "https://www.freepressjournal.in/world/us-embassy-issues-major-security-alert-in-ethiopia-over-possible-long-range-attacks-urges-americans-to-avoid-amhara-tigray-and-afar",
+          "domain": "freepressjournal.in"
+        },
+        {
+          "title": "Djokovic suffers shock Shanghai Masters exit after Hurkacz defeat , turns focus to Paris",
+          "url": "https://timesofoman.com/article/177838-djokovic-suffers-shock-shanghai-masters-exit-after-hurkacz-defeat-turns-focus-to-paris",
+          "domain": "timesofoman.com"
+        },
+        {
+          "title": "As Russia escalates its war , the EU realises its support for Ukraine wont be enough",
+          "url": "https://www.euronews.com/2026/10/10/as-russia-escalates-its-war-the-eu-admits-its-support-for-ukraine-wont-be-enough",
+          "domain": "euronews.com"
+        },
+        {
+          "title": "Who is Hitler Mussolini Sime\u00f3n Flores ? Peruvian politician named after two infamous dictators wins election for centre - left Ahora Naci\u00f3n party",
+          "url": "https://www.indiatimes.com/trending/who-is-hitler-mussolini-simen-flores-peruvian-politician-named-after-two-infamous-dictators-wins-election-for-centre-left-ahora-nacin-party/articleshow/134848008.html",
+          "domain": "indiatimes.com"
+        }
+      ],
       "toneReading": "No recent coverage found.",
       "volumeReading": null
     },
@@ -426,28 +399,7 @@
       "regulatory": 14,
       "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [
-        {
-          "title": "South Korea threatens legal action if fuel shipments to Russia found to have broken law",
-          "url": "https://www.theguardian.com/world/2026/oct/08/south-korea-fuel-shipments-to-russia-domestic-law",
-          "domain": "theguardian.com"
-        },
-        {
-          "title": "Taiwan Lai calls on Indo - Pacific democracies to help maintain peace in National Day speech",
-          "url": "https://www.newsday.com/news/nation/taiwan-national-day-lai-ching-te-w47437",
-          "domain": "newsday.com"
-        },
-        {
-          "title": "How to head into VR without wearing a headset | Research Results",
-          "url": "https://www.kyushu-u.ac.jp/en/researches/view/414/",
-          "domain": "kyushu-u.ac.jp"
-        },
-        {
-          "title": "Yama Sakura 91 begins trilateral command post exercise",
-          "url": "http://www.japanherald.com/news/279356737/yama-sakura-91-begins-trilateral-command-post-exercise",
-          "domain": "japanherald.com"
-        }
-      ],
+      "headlines": [],
       "toneReading": "No recent coverage found.",
       "volumeReading": null
     },
@@ -486,7 +438,28 @@
       "regulatory": 34,
       "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [],
+      "headlines": [
+        {
+          "title": "Kenya Re taps university students for AI - powered flood solution plan",
+          "url": "https://www.the-star.co.ke/business/2026-10-10-kenya-re-taps-university-students-for-ai-powered-flood-solution-plan",
+          "domain": "the-star.co.ke"
+        },
+        {
+          "title": "Missing herder found dead in Kwale forest in suspected snake bite",
+          "url": "https://www.the-star.co.ke/news/2026-10-10-missing-herder-found-dead-in-kwale-forest",
+          "domain": "the-star.co.ke"
+        },
+        {
+          "title": "Adopt - a - block : Diplomatic community invited to support Kenya tree - growing initiative",
+          "url": "https://www.standardmedia.co.ke/environment-climate/article/2001559832/adopt-a-block-diplomatic-community-invited-to-support-kenyas-tree-growing-initiative",
+          "domain": "standardmedia.co.ke"
+        },
+        {
+          "title": "Government targets 17 . 2m trees to mark 2026 Mazingira Day",
+          "url": "https://www.the-star.co.ke/news/2026-10-10-state-targets-172m-trees-to-mark-mazingira-day",
+          "domain": "the-star.co.ke"
+        }
+      ],
       "toneReading": "No recent coverage found.",
       "volumeReading": null
     },
@@ -681,28 +654,7 @@
       "regulatory": 76,
       "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [
-        {
-          "title": "Donald Trump Makes BIG Announcement , Strikes Diesel Deal With Putin , Says  Prices Will Come Down Fast",
-          "url": "https://www.oneindia.com/international/donald-trump-makes-big-announcement-strikes-diesel-deal-with-putin-says-prices-will-come-down-fas-8230651.html",
-          "domain": "oneindia.com"
-        },
-        {
-          "title": "Trump announces deal for Russian diesel as Zelensky calls it a gift to Putin",
-          "url": "https://www.the-star.co.ke/news/world/2026-10-10-trump-announces-deal-for-russian-diesel-as-zelensky-calls-it-a-gift-to-putin",
-          "domain": "the-star.co.ke"
-        },
-        {
-          "title": "Trump says Russia to supply diesel to global markets",
-          "url": "https://www.canberratimes.com.au/story/9365952/trump-says-russia-to-supply-diesel-to-global-markets/",
-          "domain": "canberratimes.com.au"
-        },
-        {
-          "title": "South Korea threatens legal action if fuel shipments to Russia found to have broken law",
-          "url": "https://www.theguardian.com/world/2026/oct/08/south-korea-fuel-shipments-to-russia-domestic-law",
-          "domain": "theguardian.com"
-        }
-      ],
+      "headlines": [],
       "toneReading": "No recent coverage found.",
       "volumeReading": null
     },
@@ -754,13 +706,7 @@
       "regulatory": 42,
       "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [
-        {
-          "title": "Logistics : Keeping the Malacca Strait Safe",
-          "url": "http://www.strategypage.com/%5Chtmw%5Chtlog%5Carticles%5C2026100875129.aspx",
-          "domain": "strategypage.com"
-        }
-      ],
+      "headlines": [],
       "toneReading": "No recent coverage found.",
       "volumeReading": null
     },
@@ -799,18 +745,7 @@
       "regulatory": 38,
       "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [
-        {
-          "title": "Army , Rangers Deployed in Rawalpindi ahead of Pakistan - Sri Lanka T20 Series - International",
-          "url": "https://www.dailymirror.lk/international/Army-Rangers-Deployed-in-Rawalpindi-ahead-of-Pakistan-Sri-Lanka-T20-Series/107-352022",
-          "domain": "dailymirror.lk"
-        },
-        {
-          "title": "Central Crime Bureau named PTA detention site - Breaking News",
-          "url": "https://www.dailymirror.lk/breaking-news/Central-Crime-Bureau-named-PTA-detention-site/108-352030",
-          "domain": "dailymirror.lk"
-        }
-      ],
+      "headlines": [],
       "toneReading": "No recent coverage found.",
       "volumeReading": null
     },
@@ -836,28 +771,7 @@
       "regulatory": 67,
       "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [
-        {
-          "title": "UN : Israeli forces made 280 incursions into Syria , detain 49 Syrians",
-          "url": "https://www.middleeasteye.net/live-blog/live-blog-update/un-israeli-forces-made-280-incursions-syria-detain-49-syrians",
-          "domain": "middleeasteye.net"
-        },
-        {
-          "title": "Syrian general accused of atrocities paid and protected by US and Lebanon , BBC finds",
-          "url": "https://www.bbc.co.uk/news/articles/c81dldewl5gwo",
-          "domain": "bbc.co.uk"
-        },
-        {
-          "title": "UK accused of giving people of Gaza false hope over new refugee safe route",
-          "url": "https://www.theguardian.com/uk-news/2026/oct/10/uk-gaza-refugee-resettlement-scheme-palestinians-home-office",
-          "domain": "theguardian.com"
-        },
-        {
-          "title": "Voices from the Arab Press : US - Iran tensions , AI dangers , and Israel vote",
-          "url": "http://www.jpost.com/middle-east/article-911021",
-          "domain": "jpost.com"
-        }
-      ],
+      "headlines": [],
       "toneReading": "No recent coverage found.",
       "volumeReading": null
     },
@@ -870,7 +784,28 @@
       "regulatory": 20,
       "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [],
+      "headlines": [
+        {
+          "title": "Taiwan president to say boosting its defences is not  provocation",
+          "url": "https://www.asiaone.com/asia/taiwan-president-say-boosting-its-defences-not-provocation",
+          "domain": "asiaone.com"
+        },
+        {
+          "title": "Taiwan Lai calls on Indo - Pacific democracies to help maintain peace in National Day speech",
+          "url": "https://www.newsday.com/news/nation/taiwan-national-day-lai-ching-te-w47437",
+          "domain": "newsday.com"
+        },
+        {
+          "title": "US says Chinese actions off Taiwan are  deeply destabilising",
+          "url": "https://www.asiaone.com/asia/us-says-chinese-actions-taiwan-are-deeply-destabilising",
+          "domain": "asiaone.com"
+        },
+        {
+          "title": "Taiwan cherishes peace but will not give up freedom , president says",
+          "url": "https://www.asiaone.com/asia/taiwan-cherishes-peace-will-not-give-freedom-president-says",
+          "domain": "asiaone.com"
+        }
+      ],
       "toneReading": "No recent coverage found.",
       "volumeReading": null
     },
@@ -883,28 +818,7 @@
       "regulatory": 34,
       "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [
-        {
-          "title": "Bangkok Post - IMF - World Bank meetings open to online viewers",
-          "url": "https://www.bangkokpost.com/thailand/general/3334865/imfworld-bank-meetings-open-to-online-viewers",
-          "domain": "bangkokpost.com"
-        },
-        {
-          "title": "Finance Minister Guides Press Through QSNCC Ahead of 2026 IMF - World Bank Group Annual Meetings , Reaffirming Thailand Readiness on All Fronts",
-          "url": "http://www.argentinastar.com/news/279363157/finance-minister-guides-press-through-qsncc-ahead-of-2026-imf-world-bank-group-annual-meetings-reaffirming-thailand-readiness-on-all-fronts",
-          "domain": "argentinastar.com"
-        },
-        {
-          "title": "ST25 rice finishes second in world best rice competition",
-          "url": "https://vietnamnews.vn/economy/1801683/st25-rice-finishes-second-in-world-s-best-rice-competition.html",
-          "domain": "vietnamnews.vn"
-        },
-        {
-          "title": "I should have won 8 Nobel Peace Prizes : Trump slams Nobel Committee for awarding Navi Pillay",
-          "url": "http://www.pakistantelegraph.com/news/279363161/i-should-have-won-8-nobel-peace-prizes-trump-slams-nobel-committee-for-awarding-navi-pillay",
-          "domain": "pakistantelegraph.com"
-        }
-      ],
+      "headlines": [],
       "toneReading": "No recent coverage found.",
       "volumeReading": null
     },
@@ -943,28 +857,7 @@
       "regulatory": 58,
       "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [
-        {
-          "title": "As Russia escalates its war , the EU realises its support for Ukraine wont be enough",
-          "url": "https://www.euronews.com/2026/10/10/as-russia-escalates-its-war-the-eu-admits-its-support-for-ukraine-wont-be-enough",
-          "domain": "euronews.com"
-        },
-        {
-          "title": "Trump announces deal for Russian diesel as Zelensky calls it a gift to Putin",
-          "url": "https://www.the-star.co.ke/news/world/2026-10-10-trump-announces-deal-for-russian-diesel-as-zelensky-calls-it-a-gift-to-putin",
-          "domain": "the-star.co.ke"
-        },
-        {
-          "title": "South Korea threatens legal action if fuel shipments to Russia found to have broken law",
-          "url": "https://www.theguardian.com/world/2026/oct/08/south-korea-fuel-shipments-to-russia-domestic-law",
-          "domain": "theguardian.com"
-        },
-        {
-          "title": "Pakistan calls for immediate de - escalation of Ukraine conflict",
-          "url": "https://www.radio.gov.pk/10-10-2026/pakistan-calls-for-immediate-de-escalation-of-ukraine-conflict",
-          "domain": "radio.gov.pk"
-        }
-      ],
+      "headlines": [],
       "toneReading": "No recent coverage found.",
       "volumeReading": null
     },
@@ -1016,7 +909,23 @@
       "regulatory": 30,
       "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [],
+      "headlines": [
+        {
+          "title": "India young return to streets as anger against election chief and Modi grows",
+          "url": "https://isp.netscape.com:443/news/world/story/0001/20261010/030b35e23279c75394b7654233c99d6b",
+          "domain": "isp.netscape.com"
+        },
+        {
+          "title": "A Pacific island  will be swallowed  by the sea within decades . Is Ireland paying attention ? \u2013 The Irish Times",
+          "url": "https://www.irishtimes.com/environment/climate-crisis/2026/10/08/a-pacific-island-will-be-swallowed-by-the-sea-within-decades-is-ireland-paying-attention/",
+          "domain": "irishtimes.com"
+        },
+        {
+          "title": "Data centre market faces energy challenges",
+          "url": "https://vietnamnews.vn/economy/1801684/data-centre-market-faces-energy-challenges.html",
+          "domain": "vietnamnews.vn"
+        }
+      ],
       "toneReading": "No recent coverage found.",
       "volumeReading": null
     },
