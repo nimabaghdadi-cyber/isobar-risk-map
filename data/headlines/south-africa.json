@@ -1,5 +1,576 @@
 {
   "country": "South Africa",
-  "generatedAt": "2026-10-19T03:18:59.432644+00:00",
-  "headlines": []
+  "generatedAt": "2026-10-19T12:10:05.166026+00:00",
+  "headlines": [
+    {
+      "title": "Mahindra Scorpio Lifestyler Pickup Spied Testing In South Africa",
+      "url": "https://www.rushlane.com/mahindra-scorpio-lifestyler-pickup-spied-testing-in-south-africa-12558959.html",
+      "domain": "rushlane.com",
+      "date": "Oct 19, 2026"
+    },
+    {
+      "title": "Mzansi Youth Choir joins country artist Kip Moore live on stage",
+      "url": "https://www.jacarandafm.com/shows/breakfast/mzansi-youth-choir-joins-kip-moore-live-on-stage/",
+      "domain": "jacarandafm.com",
+      "date": "Oct 19, 2026"
+    },
+    {
+      "title": "Boland strikes twice for Australia in South Africa Test",
+      "url": "https://tribune.com.pk/story/2635671/boland-strikes-twice-for-australia-in-south-africa-test",
+      "domain": "tribune.com.pk",
+      "date": "Oct 19, 2026"
+    },
+    {
+      "title": "Vedanta Invests $600 Million to Expand South African Zinc Production",
+      "url": "https://www.siliconindia.com/news/general/vedanta-invests-600-million-to-expand-south-african-zinc-production-nid-242721-cid-1.html",
+      "domain": "siliconindia.com",
+      "date": "Oct 19, 2026"
+    },
+    {
+      "title": "South Africa and Mozambique to honor Samora Machel 40 years after plane crash death . Here why",
+      "url": "http://www.thegazette.com/news/world/south-africa-and-mozambique-to-honor-samora-machel-40-years-after-plane-crash-death-heres/article_51a1f3d3-addc-5dff-bec8-ed0870a86270.html",
+      "domain": "thegazette.com",
+      "date": "Oct 19, 2026"
+    },
+    {
+      "title": "Vedanta doubles South Africa zinc capacity with $600 million investment",
+      "url": "https://www.newindianexpress.com/business/2026/Oct/18/vedanta-doubles-south-africa-zinc-capacity-with-600-million-investment",
+      "domain": "newindianexpress.com",
+      "date": "Oct 18, 2026"
+    },
+    {
+      "title": "Boland strikes twice on return before rain brings early end to day one of second Test",
+      "url": "https://www.prokerala.com/news/articles/a1826095.html",
+      "domain": "prokerala.com",
+      "date": "Oct 18, 2026"
+    },
+    {
+      "title": "Vedanta invests $600 million to double South African zinc capacity",
+      "url": "https://www.business-standard.com/industry/news/vedanta-invests-600-million-to-double-south-african-zinc-capacity-126101800556_1.html",
+      "domain": "business-standard.com",
+      "date": "Oct 18, 2026"
+    },
+    {
+      "title": "Vehicle assembly kits : SA to phase out  screwdriver  plants",
+      "url": "https://www.thesouthafrican.com/business/south-africa-is-ending-support-for-screwdriver-car-plants-heres-what-it-means-for-jobs/",
+      "domain": "thesouthafrican.com",
+      "date": "Oct 18, 2026"
+    },
+    {
+      "title": "PAUL MATTHEW | Unlocking the farm products export bonanza will take a holistic effort",
+      "url": "https://www.timeslive.co.za/opinion/2026-10-17-paul-matthew-unlocking-the-farm-products-export-bonanza-will-take-a-holistic-effort/",
+      "domain": "timeslive.co.za",
+      "date": "Oct 18, 2026"
+    },
+    {
+      "title": "South African Prez cites historic ties , seeks stronger India cooperation",
+      "url": "https://www.business-standard.com/world-news/south-african-prez-cites-historic-ties-seeks-stronger-india-cooperation-126101700734_1.html",
+      "domain": "business-standard.com",
+      "date": "Oct 17, 2026"
+    },
+    {
+      "title": "South Africa cant win everything : Ramaphosa responds to Rwanda F1 Grand Prix success",
+      "url": "https://www.citizen.co.za/motoring/south-africa-cant-win-everything-ramaphosa-responds-rwandas-f1-grand-prix-success/",
+      "domain": "citizen.co.za",
+      "date": "Oct 17, 2026"
+    },
+    {
+      "title": "Tibetan rights group : South Africa arson attack is transnational repression by CCP",
+      "url": "https://www.rfa.org:443/english/tibet/2026/10/16/tibet-south-africa-attack-fire-dalai-lama/",
+      "domain": "rfa.org",
+      "date": "Oct 16, 2026"
+    },
+    {
+      "title": "Proteas make some tweaks before crucial second Test",
+      "url": "https://www.dailymaverick.co.za/article/2026-10-16-proteas-make-key-tweaks-for-crucial-second-test-against-australia/",
+      "domain": "dailymaverick.co.za",
+      "date": "Oct 16, 2026"
+    },
+    {
+      "title": "US administration plans $335 , 000 ad campaign as Afrikaner refugee interest falls short",
+      "url": "https://timesofindia.indiatimes.com/world/us/us-administration-plans-335000-ad-campaign-as-afrikaner-refugee-interest-falls-short/articleshow/134983742.cms",
+      "domain": "timesofindia.indiatimes.com",
+      "date": "Oct 16, 2026"
+    },
+    {
+      "title": "US may spend millions to find out why Afrikaners arent taking Trump refugee offer",
+      "url": "https://www.citizen.co.za/news/south-africa/us-may-spend-millions-to-find-out-why-afrikaners-arent-taking-trumps-refugee-offer/",
+      "domain": "citizen.co.za",
+      "date": "Oct 16, 2026"
+    },
+    {
+      "title": "Pretoria raises alarm as Red Sea attacks threaten Saudi Arabia , holy sites and global trade",
+      "url": "https://www.citizen.co.za/news/south-africa/pretoria-raises-alarm-red-sea-attacks-threaten-saudi-arabia-holy-sites-global-trade/",
+      "domain": "citizen.co.za",
+      "date": "Oct 16, 2026"
+    },
+    {
+      "title": "South Africa still in fight to bring Formula One back to the African continent",
+      "url": "https://www.grandprix.com/news/south-africa-still-in-fight-to-bring-formula-one-back-to-the-african-continent.html",
+      "domain": "grandprix.com",
+      "date": "Oct 16, 2026"
+    },
+    {
+      "title": "The Constitution has the last word \u2013 for now",
+      "url": "https://mg.co.za/thought-leader/2026-10-15-the-constitution-has-the-last-word-for-now/",
+      "domain": "mg.co.za",
+      "date": "Oct 16, 2026"
+    },
+    {
+      "title": "BAIC makes public Arcfox T1 South Africa launch date",
+      "url": "https://www.citizen.co.za/motoring/arcfox-t1-south-africa-launch-date-confirmed/",
+      "domain": "citizen.co.za",
+      "date": "Oct 15, 2026"
+    },
+    {
+      "title": "Allende brother anticipated Chile snub after S \u2026",
+      "url": "https://www.kickoff.com/world-news/international/marcelo-allende-s-brother-anticipated-chile-snub-after-mamelodi-sundowns-move",
+      "domain": "kickoff.com",
+      "date": "Oct 15, 2026"
+    },
+    {
+      "title": "South Africa drop star batter for second Australia Test",
+      "url": "https://arynews.tv/south-africa-drop-star-batter-for-second-australia-test",
+      "domain": "arynews.tv",
+      "date": "Oct 15, 2026"
+    },
+    {
+      "title": "SA Showcases Economic Renewal and Key Growth Sectors at AFSIC in London",
+      "url": "https://www.brandsouthafrica.com/stay-updated/business-news/sa-showcases-economic-renewal-and-key-growth-sectors-at-afsic-in-london/",
+      "domain": "brandsouthafrica.com",
+      "date": "Oct 15, 2026"
+    },
+    {
+      "title": "Bozell : Billions in Investment at risk as SA - US rift deepens",
+      "url": "https://www.citizen.co.za/news/south-africa/bozell-billions-in-investment-at-risk-as-sa-us-rift-deepens/",
+      "domain": "citizen.co.za",
+      "date": "Oct 06, 2026"
+    },
+    {
+      "title": "South Africa : Would Homegrown LEN Cost More ? Why SA Should Still Make the HIV Prevention Jab",
+      "url": "https://allafrica.com/stories/202610020108.html",
+      "domain": "allafrica.com",
+      "date": "Oct 02, 2026"
+    },
+    {
+      "title": "Uzbekistan , South Africa move to establish trade and economic commission",
+      "url": "https://www.trend.az/casia/uzbekistan/4230353.html",
+      "domain": "trend.az",
+      "date": "Oct 02, 2026"
+    },
+    {
+      "title": "Dwindling Nigeria - South Africa Flight Operations \u2013 THISDAYLIVE",
+      "url": "https://www.thisdaylive.com/2026/10/02/dwindling-nigeria-south-africa-flight-operations/",
+      "domain": "thisdaylive.com",
+      "date": "Oct 02, 2026"
+    },
+    {
+      "title": "Would home - grown LEN cost more ? Why South Africa should still make the HIV prevention jab",
+      "url": "https://www.timeslive.co.za/opinion/2026-10-02-would-home-grown-len-cost-more-why-south-africa-should-still-make-the-hiv-prevention-jab/",
+      "domain": "timeslive.co.za",
+      "date": "Oct 02, 2026"
+    },
+    {
+      "title": "WEATHER : Rain expected to hit FIVE provinces",
+      "url": "https://www.thesouthafrican.com/news/weather/weather-rain-expected-to-hit-five-provinces/",
+      "domain": "thesouthafrican.com",
+      "date": "Oct 01, 2026"
+    },
+    {
+      "title": "Pakistan to meet India in 2027 World Cup on Oct 10",
+      "url": "https://www.samaa.tv/2087357773-pakistan-to-meet-india-in-2027-world-cup-on-oct-10",
+      "domain": "samaa.tv",
+      "date": "Oct 01, 2026"
+    },
+    {
+      "title": "Journalism Internship - South Africa",
+      "url": "https://www.bizcommunity.com/job/centurion/media/journalism-internship-076569a",
+      "domain": "bizcommunity.com",
+      "date": "Oct 01, 2026"
+    },
+    {
+      "title": "South Africa vs Australia Test series 2026 : Why the coastal venues could decide the series",
+      "url": "https://www.smh.com.au/sport/cricket/wellington-beat-napoleon-by-picking-the-right-venue-south-africa-could-do-the-same-to-australia-20261001-p610st.html",
+      "domain": "smh.com.au",
+      "date": "Oct 01, 2026"
+    },
+    {
+      "title": "SA August tourist arrivals surpass the million mark",
+      "url": "https://www.bizcommunity.com/article/sa-august-tourist-arrivals-surpass-the-million-mark-again-858843a",
+      "domain": "bizcommunity.com",
+      "date": "Oct 01, 2026"
+    },
+    {
+      "title": "Richard T . Jones is already house - hunting in South Africa",
+      "url": "https://www.thesouthafrican.com/lifestyle/celeb-news/richard-t-jones-falls-for-sa-and-hes-already-picked-his-spots/",
+      "domain": "thesouthafrican.com",
+      "date": "Oct 01, 2026"
+    },
+    {
+      "title": "SA trade with Americas swings to surplus in August",
+      "url": "https://www.ewn.co.za/2026/10/01/sa-s-trade-with-americas-swings-to-surplus-in-august",
+      "domain": "ewn.co.za",
+      "date": "Oct 01, 2026"
+    },
+    {
+      "title": "Xenophobia in SAfrica : Nigerians return with scars , losses",
+      "url": "https://punchng.com/xenophobia-in-safrica-when-greener-pastures-turn-deadly/",
+      "domain": "punchng.com",
+      "date": "Oct 01, 2026"
+    },
+    {
+      "title": "World varsity rankings : South Africa dominates Africa top",
+      "url": "https://punchng.com/world-varsity-rankings-south-africa-dominates-africas-top-10/",
+      "domain": "punchng.com",
+      "date": "Sep 30, 2026"
+    },
+    {
+      "title": "CheckPoint Podcast | How Did the System Produce Shadrack Sibiya ? | 30 September 2026",
+      "url": "https://www.enca.com/news-opinion/checkpoint-podcast-how-did-system-produce-shadrack-sibiya-30-september-2026",
+      "domain": "enca.com",
+      "date": "Sep 30, 2026"
+    },
+    {
+      "title": "South Africa green building upgrades are rising \u2013 but major cities still dominate , study finds",
+      "url": "https://www.bizcommunity.com/article/south-africas-green-building-upgrades-are-rising-but-major-cities-still-dominate-study-finds-414469a",
+      "domain": "bizcommunity.com",
+      "date": "Sep 30, 2026"
+    },
+    {
+      "title": "FxWirePro : USD / ZAR dips as rand firms on stronger economic data",
+      "url": "http://www.econotimes.com/FxWirePro-USD-ZAR-dips-as-rand-firms-on-stronger-economic-data-1753559",
+      "domain": "econotimes.com",
+      "date": "Sep 30, 2026"
+    },
+    {
+      "title": "South Africa introduced Australian acacias to stabilise sand and provide timber ; decades later , some became a water - security problem",
+      "url": "https://www.moneycontrol.com/world/south-africa-introduced-australian-acacias-to-stabilise-sand-and-provide-timber-decades-later-some-became-a-water-security-problem-article-14042098.html",
+      "domain": "moneycontrol.com",
+      "date": "Sep 30, 2026"
+    },
+    {
+      "title": "South Africa : U . S .- South Africa Rift - Separating the Optics From the Substance",
+      "url": "https://allafrica.com/stories/202609300442.html",
+      "domain": "allafrica.com",
+      "date": "Sep 30, 2026"
+    },
+    {
+      "title": "R6 . 5bn and counting : SA tourism is losing out to Morocco and Tunisia",
+      "url": "https://www.timeslive.co.za/news/south-africa/2026-09-30-r65bn-and-counting-sa-tourism-is-losing-out-to-morocco-and-tunisia/",
+      "domain": "timeslive.co.za",
+      "date": "Sep 30, 2026"
+    },
+    {
+      "title": "This $15M South African Villa Sits in the Middle of a Big Five Game Reserve",
+      "url": "https://robbreport.com/shelter/homes-for-sale/villa-thandawena-south-africa-thanda-royal-residences-1238665768/",
+      "domain": "robbreport.com",
+      "date": "Sep 30, 2026"
+    },
+    {
+      "title": "South Africa sends a Starlink plea to Elon Musk",
+      "url": "https://www.thesouthafrican.com/business/south-africa-sends-a-starlink-plea-to-elon-musk/",
+      "domain": "thesouthafrican.com",
+      "date": "Sep 29, 2026"
+    },
+    {
+      "title": "3 Nigerians killed in recent weeks in South Africa , Nigeria says \u2013 Winnipeg Free Press",
+      "url": "https://www.winnipegfreepress.com/world/2026/09/29/3-nigerians-killed-in-recent-weeks-in-south-africa-nigeria-says",
+      "domain": "winnipegfreepress.com",
+      "date": "Sep 29, 2026"
+    },
+    {
+      "title": "South Africa : Is murder and violence on the rise again ?",
+      "url": "https://www.dw.com/en/south-africa-is-murder-on-the-rise-again/a-79462242",
+      "domain": "dw.com",
+      "date": "Sep 29, 2026"
+    },
+    {
+      "title": "Hollywood star Richard T . Jones wants to retire in South Africa :  Were definitely going to end up here",
+      "url": "https://www.ecr.co.za/news/entertainment/hollywood-star-richard-t-jones-retire-in-south-africa/",
+      "domain": "ecr.co.za",
+      "date": "Sep 29, 2026"
+    },
+    {
+      "title": "Two Gupta brothers still wanted by Interpol",
+      "url": "https://www.thesouthafrican.com/news/two-gupta-brothers-still-wanted-by-interpol-firoz-cachalia/",
+      "domain": "thesouthafrican.com",
+      "date": "Sep 29, 2026"
+    },
+    {
+      "title": "Australia dealt double injury blow ahead of third South Africa ODI",
+      "url": "https://arynews.tv/australia-dealt-double-injury-blow-ahead-of-third-south-africa-odi",
+      "domain": "arynews.tv",
+      "date": "Sep 29, 2026"
+    },
+    {
+      "title": "Xenophobia : Three more Nigerians killed in South Africa , toll rises to twelve in 2026",
+      "url": "https://www.premiumtimesng.com/foreign/913183-xenophobia-three-more-nigerians-killed-in-south-africa-toll-rises-to-twelve-in-2026.html",
+      "domain": "premiumtimesng.com",
+      "date": "Sep 29, 2026"
+    },
+    {
+      "title": "South Africa , Zimbabwe in talks over $500 million dam as neighbours deepen water ties",
+      "url": "https://www.newzimbabwe.com/south-africa-zimbabwe-in-talks-over-500-million-dam-as-neighbours-deepen-water-ties/",
+      "domain": "newzimbabwe.com",
+      "date": "Sep 29, 2026"
+    },
+    {
+      "title": "WEATHER : Thunderstorms , hail and freezing conditions to sweep across SA TODAY",
+      "url": "https://www.thesouthafrican.com/news/weather/weather-thunderstorms-hail-and-freezing-conditions-to-sweep-across-south-africa-provinces-today/",
+      "domain": "thesouthafrican.com",
+      "date": "Sep 29, 2026"
+    },
+    {
+      "title": "Botswana pulls out of joint 2028 AFCON bid",
+      "url": "https://www.ewn.co.za/2026/09/29/botswana-pulls-out-of-joint-2028-afcon-bid",
+      "domain": "ewn.co.za",
+      "date": "Sep 29, 2026"
+    },
+    {
+      "title": "FAO - China workshop on agricultural heritage systems opens in South Africa",
+      "url": "https://www.globaltimes.cn/page/202609/1371541.shtml",
+      "domain": "globaltimes.cn",
+      "date": "Sep 29, 2026"
+    },
+    {
+      "title": "South Africa : More Nigerians Evacuated As Gunmen Kill 27 in South Africa",
+      "url": "https://allafrica.com/stories/202609280707.html",
+      "domain": "allafrica.com",
+      "date": "Sep 28, 2026"
+    },
+    {
+      "title": "Ruda Landman speaks out against White Cross Project",
+      "url": "https://www.ewn.co.za/2026/09/28/ruda-landman-speaks-out-against-white-cross-project",
+      "domain": "ewn.co.za",
+      "date": "Sep 28, 2026"
+    },
+    {
+      "title": "SA tourism is booming \u2013 but De Lille admits violent crime makes selling the country harder",
+      "url": "https://www.ewn.co.za/2026/09/28/sa-tourism-is-booming-but-de-lille-admits-violent-crime-makes-selling-the-country-harder",
+      "domain": "ewn.co.za",
+      "date": "Sep 28, 2026"
+    },
+    {
+      "title": "Patricia de Lille calls for technology to convert SA appeal into tourist numbers",
+      "url": "https://www.bizcommunity.com/article/patricia-de-lille-calls-for-technology-to-convert-sa-appeal-into-tourist-numbers-070385a",
+      "domain": "bizcommunity.com",
+      "date": "Sep 28, 2026"
+    },
+    {
+      "title": "US support for Afrikaner autonomy can stoke racial rift , Mbeki Foundation warns",
+      "url": "https://www.timeslive.co.za/politics/2026-09-28-us-support-for-afrikaner-autonomy-can-stoke-racial-rift-mbeki-foundation/",
+      "domain": "timeslive.co.za",
+      "date": "Sep 28, 2026"
+    },
+    {
+      "title": "South Africa : Pretoria Shifts From Appeasement to Resistance After Unrelenting Us Pressure",
+      "url": "https://allafrica.com/stories/202609280081.html",
+      "domain": "allafrica.com",
+      "date": "Sep 28, 2026"
+    },
+    {
+      "title": "Russia bats for South Africa over exclusion from G20",
+      "url": "https://www.thesouthafrican.com/news/russia-bats-for-south-africa-over-exclusion-from-g20/",
+      "domain": "thesouthafrican.com",
+      "date": "Sep 28, 2026"
+    },
+    {
+      "title": "What behind South Africa mass shootings and how theyre often different to lone gunman attacks",
+      "url": "https://www.wral.com/news/ap/bf132-whats-behind-south-africas-mass-shootings-and-how-theyre-often-different-to-lone-gunman-attacks/",
+      "domain": "wral.com",
+      "date": "Sep 27, 2026"
+    },
+    {
+      "title": "Police hunt gunmen after 2 mass shootings in South Africa leave at least 27 dead",
+      "url": "https://www.ksat.com/news/world/2026/09/27/police-hunt-gunmen-after-2-mass-shootings-in-south-africa-leave-at-least-27-dead/",
+      "domain": "ksat.com",
+      "date": "Sep 27, 2026"
+    },
+    {
+      "title": "South Africa retain Cosafa u20 title",
+      "url": "https://www.namibian.com.na/south-africa-retain-cosafa-u20-title/",
+      "domain": "namibian.com.na",
+      "date": "Sep 27, 2026"
+    },
+    {
+      "title": "Two mass shootings in South Africa leave at least 27 dead",
+      "url": "https://www.theglobeandmail.com/world/article-south-africa-mass-shooting-johannesburg-cape-town/",
+      "domain": "theglobeandmail.com",
+      "date": "Sep 27, 2026"
+    },
+    {
+      "title": "DA raises alarm over R830 million embassy renovation bill",
+      "url": "https://www.jacarandafm.com/news/news/da-raises-alarm-over-r830-million-embassy-renovation/",
+      "domain": "jacarandafm.com",
+      "date": "Sep 27, 2026"
+    },
+    {
+      "title": "2 separate South Africa mass shootings kill at least 27 people",
+      "url": "https://www.wsbradio.com/news/world/separate-mass/EGOSK52NWE2E5PRNLUZGVARY3E/",
+      "domain": "wsbradio.com",
+      "date": "Sep 27, 2026"
+    },
+    {
+      "title": "27 Killed In Two Mass Shootings In South African Townships",
+      "url": "https://www.deccanchronicle.com/world/27-killed-in-two-mass-shootings-in-south-african-townships-1990940",
+      "domain": "deccanchronicle.com",
+      "date": "Sep 27, 2026"
+    },
+    {
+      "title": "Separate mass shootings in South Africa townships leave at least 27 people dead",
+      "url": "http://www.thegazette.com/news/world/separate-mass-shootings-in-south-africa-townships-leave-at-least-27-people-dead/article_9e451ad1-6ef5-59d4-bffe-34e15142e4eb.html",
+      "domain": "thegazette.com",
+      "date": "Sep 27, 2026"
+    },
+    {
+      "title": "At least 27 people dead in separate mass shootings in South Africa townships",
+      "url": "https://economictimes.indiatimes.com/news/international/world-news/separate-mass-shootings-in-south-africa-townships-leave-at-least-27-people-dead/articleshow/134517084.cms",
+      "domain": "economictimes.indiatimes.com",
+      "date": "Sep 27, 2026"
+    },
+    {
+      "title": "South Africa police hunt suspects after twin shootings leave nearly 30 people dead",
+      "url": "https://kvia.com/news/us-world/cnn-world/2026/09/27/south-africa-police-launch-manhunt-after-17-killed-in-tavern-shooting/",
+      "domain": "kvia.com",
+      "date": "Sep 27, 2026"
+    },
+    {
+      "title": "27 killed in two separate mass shootings near South Africa biggest cities",
+      "url": "https://timesofindia.indiatimes.com/world/rest-of-world/27-killed-in-two-separate-mass-shootings-near-south-africas-biggest-cities/articleshow/134515864.cms",
+      "domain": "timesofindia.indiatimes.com",
+      "date": "Sep 27, 2026"
+    },
+    {
+      "title": "South Africa pushes back against growing US pressure",
+      "url": "https://www.dailymaverick.co.za/article/2026-09-27-pretoria-shifts-from-appeasement-to-resistance-after-unrelenting-us-pressure/",
+      "domain": "dailymaverick.co.za",
+      "date": "Sep 27, 2026"
+    },
+    {
+      "title": "AfSA blasts Lex Liberta 3 000 white crosses in Washington over SA farm murders",
+      "url": "https://www.citizen.co.za/news/south-africa/afsa-blasts-lex-libertas-white-crosses-washington-over-sas-farm-murders/",
+      "domain": "citizen.co.za",
+      "date": "Sep 25, 2026"
+    },
+    {
+      "title": "WEATHER : SA faces threat of hail , lightning and gusty winds",
+      "url": "https://www.thesouthafrican.com/news/weather/weather-forecasting-south-africa-faces-threat-of-hail-lightning-and-gusty-winds/",
+      "domain": "thesouthafrican.com",
+      "date": "Sep 24, 2026"
+    },
+    {
+      "title": "The story of white genocide does not exist  - Lamola",
+      "url": "https://www.citizen.co.za/news/the-story-of-white-genocide-does-not-exist-lamola/",
+      "domain": "citizen.co.za",
+      "date": "Sep 24, 2026"
+    },
+    {
+      "title": "Breetzke ton , Maharaj spin masterclass powers South Africa past Australia by 67 runs",
+      "url": "https://timesofoman.com/article/177332-breetzke-ton-maharajs-spin-masterclass-powers-south-africa-past-australia-by-67-runs",
+      "domain": "timesofoman.com",
+      "date": "Sep 24, 2026"
+    },
+    {
+      "title": "GBVF is not part of SA heritage \u2013 Ramaphosa",
+      "url": "https://www.enca.com/news-top-stories/gbvf-not-part-sas-heritage-ramaphosa",
+      "domain": "enca.com",
+      "date": "Sep 24, 2026"
+    },
+    {
+      "title": "Lamola refuses policy retreat as US pressure intensifies",
+      "url": "https://mg.co.za/news/south-africa/2026-09-24-lamola-refuses-policy-retreat-as-us-pressure-intensifies/",
+      "domain": "mg.co.za",
+      "date": "Sep 24, 2026"
+    },
+    {
+      "title": "Xenophobia : More Nigerians to return from South Africa",
+      "url": "https://www.vanguardngr.com/2026/09/xenophobia-more-nigerians-to-return-from-south-africa/",
+      "domain": "vanguardngr.com",
+      "date": "Sep 23, 2026"
+    },
+    {
+      "title": "South Africa : A Deadly Silence - SA Failure to Protect Whistleblowers and Human Rights Defenders",
+      "url": "https://allafrica.com/stories/202609230557.html",
+      "domain": "allafrica.com",
+      "date": "Sep 23, 2026"
+    },
+    {
+      "title": "South Africa : Letter to US Ambassador Bozell - Afrikaners Are Being Used As a Political Football",
+      "url": "https://allafrica.com/stories/202609230271.html",
+      "domain": "allafrica.com",
+      "date": "Sep 23, 2026"
+    },
+    {
+      "title": "South Africa mass shooting : Gunmen kill 11 including pregnant woman in Durban | World | News",
+      "url": "https://www.express.co.uk/news/world/2250921/south-africa-mass-shooting-durban",
+      "domain": "express.co.uk",
+      "date": "Sep 23, 2026"
+    },
+    {
+      "title": "Pregnant woman among 11 killed as assailants open fire in South African township",
+      "url": "https://www.hindustantimes.com/world-news/pregnant-woman-among-11-killed-as-assailants-open-fire-in-south-african-township-durban-101790144179663.html",
+      "domain": "hindustantimes.com",
+      "date": "Sep 23, 2026"
+    },
+    {
+      "title": "South Africa : 11 killed in attack on house party",
+      "url": "https://www.dw.com/en/south-africa-11-killed-in-attack-on-house-party/a-79382743",
+      "domain": "dw.com",
+      "date": "Sep 23, 2026"
+    },
+    {
+      "title": "Abdication of The Duty of The Federal Govt To Protect Nigerians In South Africa \u2013 THISDAYLIVE",
+      "url": "https://www.thisdaylive.com/2026/09/23/abdication-of-the-duty-of-the-federal-govt-to-protect-nigerians-in-south-africa/",
+      "domain": "thisdaylive.com",
+      "date": "Sep 23, 2026"
+    },
+    {
+      "title": "Nissan launches Tekton SUV in South Africa after plant closure",
+      "url": "https://www.asiaone.com:443/lifestyle/nissan-launches-tekton-suv-south-africa-after-plant-closure",
+      "domain": "asiaone.com",
+      "date": "Sep 22, 2026"
+    },
+    {
+      "title": "South African ostriches plucked alive for luxury fashion : report",
+      "url": "https://www.philstar.com/lifestyle/fashion-and-beauty/2026/09/22/2558062/south-african-ostriches-plucked-alive-luxury-fashion-report",
+      "domain": "philstar.com",
+      "date": "Sep 22, 2026"
+    },
+    {
+      "title": "South Africa : Looming El Ni\u00f1o Threatens to Shatter SA Summer Harvest Triumph",
+      "url": "https://allafrica.com/stories/202609210816.html",
+      "domain": "allafrica.com",
+      "date": "Sep 21, 2026"
+    },
+    {
+      "title": "All Blacks captain Ardie Savea set for shoulder surgery , likely out for 2026 \u2013 Winnipeg Free Press",
+      "url": "https://www.winnipegfreepress.com/uncategorized/2026/09/21/all-blacks-captain-ardie-savea-set-for-shoulder-surgery-likely-out-for-2026",
+      "domain": "winnipegfreepress.com",
+      "date": "Sep 21, 2026"
+    },
+    {
+      "title": "WEATHER : Severe storms with heavy rain to batter South Africa",
+      "url": "https://www.thesouthafrican.com/news/weather/weather-severe-storms-with-heavy-rain-to-batter-south-africa/",
+      "domain": "thesouthafrican.com",
+      "date": "Sep 20, 2026"
+    },
+    {
+      "title": "Refugees barred from US after returning to SA for medical care",
+      "url": "https://www.thesouthafrican.com/lifestyle/afrikaner-refugee-family-returns-to-south-africa-barred-from-returning-to-us/",
+      "domain": "thesouthafrican.com",
+      "date": "Sep 20, 2026"
+    },
+    {
+      "title": "NNZENI NETSHITOMBONI | Export progress is about more than just volume",
+      "url": "https://www.timeslive.co.za/news/business/2026-09-19-nnzeni-netshitomboni-export-progress-is-about-more-than-just-volume/",
+      "domain": "timeslive.co.za",
+      "date": "Sep 20, 2026"
+    },
+    {
+      "title": "WiCDS Events - Wits University",
+      "url": "https://www.wits.ac.za/events-archive/wicds-events/book-launch-the-cultural-politics-of-food-in-south-africa-.php",
+      "domain": "wits.ac.za",
+      "date": "Sep 20, 2026"
+    }
+  ]
 }
