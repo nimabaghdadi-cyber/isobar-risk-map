@@ -1,5 +1,588 @@
 {
   "country": "India",
-  "generatedAt": "2026-10-20T16:21:54.948406+00:00",
-  "headlines": []
+  "generatedAt": "2026-10-20T21:15:40.417542+00:00",
+  "headlines": [
+    {
+      "title": "PM Modi - led Govt striving to make India a nation that combines prosperity , knowledge and strength : Rajnath Singh",
+      "url": "https://aninews.in/news/world/asia/pm-modi-led-govt-striving-to-make-india-a-nation-that-combines-prosperity-knowledge-and-strength-rajnath-singh16020261020215845/",
+      "domain": "aninews.in",
+      "date": "Oct 20, 2026"
+    },
+    {
+      "title": "US Secretary of State Marco Rubio poses with Maha CM Devendra Fadnavis at Mumbai Gateway of India",
+      "url": "https://www.ibtimes.co.in/us-secretary-state-marco-rubio-poses-maha-cm-devendra-fadnavis-mumbais-gateway-india-907704",
+      "domain": "ibtimes.co.in",
+      "date": "Oct 20, 2026"
+    },
+    {
+      "title": "India economy growing at 7 . 2 % despite West Asia conflict , says Defence Minister Rajnath Singh in Tajikistan",
+      "url": "https://aninews.in/news/world/asia/india-economy-growing-at-72-despite-west-asia-conflict-says-defence-minister-rajnath-singh-in-tajikistan20261020213236/",
+      "domain": "aninews.in",
+      "date": "Oct 20, 2026"
+    },
+    {
+      "title": "Matter of week : Marco Rubio says India - US trade deal incredibly close , signals  better rates",
+      "url": "https://www.moneycontrol.com/news/business/matter-of-weeks-marco-rubio-says-india-us-trade-deal-incredibly-close-signals-better-rates-14056115.html",
+      "domain": "moneycontrol.com",
+      "date": "Oct 20, 2026"
+    },
+    {
+      "title": "At UN , India says decision to use nuclear weapons must stay with humans , not AI",
+      "url": "https://www.tribuneindia.com/news/india/at-un-india-says-decision-to-use-nuclear-weapons-must-stay-with-humans-not-ai/",
+      "domain": "tribuneindia.com",
+      "date": "Oct 20, 2026"
+    },
+    {
+      "title": "Garment exports have the potential to grow 25 % next year : ITF",
+      "url": "https://www.thehindu.com/news/cities/Coimbatore/garment-exports-have-the-potential-to-grow-25-next-year-itf/article71604867.ece",
+      "domain": "thehindu.com",
+      "date": "Oct 20, 2026"
+    },
+    {
+      "title": "Rubio and Jaishankar hold talks in Mumbai , aim to finalize trade deal",
+      "url": "https://www.orlandosentinel.com/2026/10/20/marco-rubio-india/",
+      "domain": "orlandosentinel.com",
+      "date": "Oct 20, 2026"
+    },
+    {
+      "title": "Kohler Announces Official Partnership with DP World India Championship 2026",
+      "url": "https://www.thehindubusinessline.com/brandhub/pr-release/kohler-announces-official-partnership-with-dp-world-india-championship-2026/article71603375.ece",
+      "domain": "thehindubusinessline.com",
+      "date": "Oct 20, 2026"
+    },
+    {
+      "title": "Rubio Lands in Mumbai for 3 - Day Visit ; Trade Deal , Energy in Focus",
+      "url": "https://www.deccanchronicle.com/nation/current-affairs/rubio-lands-in-mumbai-for-3-day-visit-trade-deal-energy-in-focus-1997400",
+      "domain": "deccanchronicle.com",
+      "date": "Oct 20, 2026"
+    },
+    {
+      "title": "Felt very happy : Annamalai welcomes Bhagwat remarks on Muslim place in India | India News",
+      "url": "https://timesofindia.indiatimes.com/india/felt-very-happy-annamalai-welcomes-bhagwats-remarks-on-muslims-place-in-india/articleshow/135068592.cms",
+      "domain": "timesofindia.indiatimes.com",
+      "date": "Oct 20, 2026"
+    },
+    {
+      "title": "Apple India Crosses \u20b91 Lakh Crore Revenue Mark For First Time",
+      "url": "https://www.freepressjournal.in/tech/apple-india-crosses-1-lakh-crore-revenue-mark-for-first-time",
+      "domain": "freepressjournal.in",
+      "date": "Oct 20, 2026"
+    },
+    {
+      "title": "Limelight Lab Grown Diamonds crosses 100 stores milestone this Dussehra : targets 200 in 2027",
+      "url": "https://aninews.in/news/business/limelight-lab-grown-diamonds-crosses-100-stores-milestone-this-dussehra-targets-200-in-202720261020104606/",
+      "domain": "aninews.in",
+      "date": "Oct 20, 2026"
+    },
+    {
+      "title": "India - New Zealand FTA comes into force ; new visa categories for Indians , zero - duty access for exports",
+      "url": "https://www.thehindu.com/business/Economy/india-new-zealand-fta-comes-into-force-october-20-2026/article71603429.ece",
+      "domain": "thehindu.com",
+      "date": "Oct 20, 2026"
+    },
+    {
+      "title": "India Best Selling Construction Equipment Awarded at 14th Equipment India Awards 2026 !",
+      "url": "https://www.business-standard.com/content/press-releases-ani/india-s-best-selling-construction-equipment-awarded-at-14th-equipment-india-awards-2026-126102000002_1.html",
+      "domain": "business-standard.com",
+      "date": "Oct 20, 2026"
+    },
+    {
+      "title": "Ladakh inseparable from India : Former LAHDC CEC condemns China remarks , calls for renaming Aksai Chin as  Aksai Hind",
+      "url": "https://aninews.in/news/national/politics/ladakh-inseparable-from-india-former-lahdc-cec-condemns-chinas-remarks-calls-for-renaming-aksai-chin-as-aksai-hind20261020081932/",
+      "domain": "aninews.in",
+      "date": "Oct 20, 2026"
+    },
+    {
+      "title": "Ladakh leader pushes  Aksai Hind  name for territory occupied by China",
+      "url": "https://economictimes.indiatimes.com/news/india/ladakh-leader-pushes-aksai-hind-name-for-territory-occupied-by-china/articleshow/135060981.cms",
+      "domain": "economictimes.indiatimes.com",
+      "date": "Oct 20, 2026"
+    },
+    {
+      "title": "India Red List assessment of 1 , 211 birds underway ; initial review of 100 birds complete",
+      "url": "https://www.hindustantimes.com/india-news/indias-red-list-assessment-of-1-211-birds-underway-initial-review-of-100-birds-complete-101792467152361.html",
+      "domain": "hindustantimes.com",
+      "date": "Oct 20, 2026"
+    },
+    {
+      "title": "Ferrari accelerates India expansion , opens doors to EU trade pact benefits",
+      "url": "https://economictimes.indiatimes.com/industry/auto/cars-uvs/ferrari-accelerates-india-expansion-opens-doors-to-eu-trade-pact-benefits/articleshow/135054942.cms",
+      "domain": "economictimes.indiatimes.com",
+      "date": "Oct 19, 2026"
+    },
+    {
+      "title": "India - New Zealand FTA : No tariff on Indian exports from Oct 20 ; Textile , pharma , leather exports to gain market access",
+      "url": "https://www.livemint.com/economy/indianew-zealand-fta-no-tariff-on-indian-exports-from-oct-20-textile-pharma-leather-exports-to-gain-market-access-11792426906148.html",
+      "domain": "livemint.com",
+      "date": "Oct 19, 2026"
+    },
+    {
+      "title": "Datanomics : India - New Zealand deal begins under historical deficit shadow",
+      "url": "https://www.business-standard.com/economy/news/datanomics-india-new-zealand-deal-begins-under-historical-deficit-shadow-126101900645_1.html",
+      "domain": "business-standard.com",
+      "date": "Oct 19, 2026"
+    },
+    {
+      "title": "Ferrari expects FTA to boost demand in India ; plans new dealerships in Ahmedabad and Chennai by year end",
+      "url": "https://www.businesstoday.in/auto/story/ferrari-expects-fta-to-boost-demand-in-india-plans-new-dealerships-in-ahmedabad-and-chennai-by-year-end-562580-2026-10-19",
+      "domain": "businesstoday.in",
+      "date": "Oct 19, 2026"
+    },
+    {
+      "title": "Pernod Ricard , Diageo face India tax probe over Scotch whisky imports under united kingdom trade deal",
+      "url": "https://www.moneycontrol.com/news/business/pernod-ricard-diageo-face-india-tax-probe-over-scotch-whisky-imports-under-uk-trade-deal-14055699.html",
+      "domain": "moneycontrol.com",
+      "date": "Oct 19, 2026"
+    },
+    {
+      "title": "India Slams OIC Over Kashmir Resolution , Accuses Grouping of Being  Misused  by Pakistan",
+      "url": "https://www.oneindia.com/international/india-slams-oic-over-kashmir-resolution-accuses-grouping-of-being-misused-by-pakistan-8239825.html",
+      "domain": "oneindia.com",
+      "date": "Oct 19, 2026"
+    },
+    {
+      "title": "India - New Zealand FTA to kick in October 20 , opening market opportunities for exporters",
+      "url": "https://economictimes.indiatimes.com/news/economy/foreign-trade/india-new-zealand-fta-unlocking-new-market-opportunities-for-exporters-starting-october-20/articleshow/135050685.cms",
+      "domain": "economictimes.indiatimes.com",
+      "date": "Oct 19, 2026"
+    },
+    {
+      "title": "Commerce Secretary says India - New Zealand FTA is about  deep economic partnership , not just market access",
+      "url": "https://aninews.in/news/business/commerce-secretary-says-india-new-zealand-fta-is-about-deep-economic-partnership-not-just-market-access20261019161148/",
+      "domain": "aninews.in",
+      "date": "Oct 19, 2026"
+    },
+    {
+      "title": "India - New Zealand FTA to take effect from Oct 20 ; target to double trade to $7bn by 2030",
+      "url": "https://timesofindia.indiatimes.com/india/india-new-zealand-fta-to-take-effect-from-oct-20-target-to-double-trade-to-7bn-by-2030/articleshow/135047532.cms",
+      "domain": "timesofindia.indiatimes.com",
+      "date": "Oct 19, 2026"
+    },
+    {
+      "title": "Donald Tusk India Visit : Polish PM Donald Tusk to visit India from October 21 to 23 , hold talks with PM Modi | India News",
+      "url": "https://timesofindia.indiatimes.com/india/polish-pm-donald-tusk-to-visit-india-from-october-21-to-23-hold-talks-with-pm-modi/articleshow/135045953.cms",
+      "domain": "timesofindia.indiatimes.com",
+      "date": "Oct 19, 2026"
+    },
+    {
+      "title": "India Russia crude imports fell 12 % in September , Trump waiver may revive buying",
+      "url": "https://www.moneycontrol.com/news/business/economy/india-s-russia-crude-imports-fell-12-in-september-trump-waiver-may-revive-buying-14055435.html",
+      "domain": "moneycontrol.com",
+      "date": "Oct 19, 2026"
+    },
+    {
+      "title": "Which State Has the Most Crocodiles in India ? Check the Name and Latest Available Data For 2026",
+      "url": "https://www.jagranjosh.com/general-knowledge/which-state-has-the-most-crocodiles-in-india-check-the-name-and-latest-available-data-1820013173-1",
+      "domain": "jagranjosh.com",
+      "date": "Oct 19, 2026"
+    },
+    {
+      "title": "India is not Bangladesh or France : Tharoor hits back at BJP , says opposition backs peaceful protest | India News",
+      "url": "https://timesofindia.indiatimes.com/india/india-is-not-bangladesh-or-france-tharoor-hits-back-at-bjp-says-opposition-backs-peaceful-protest/articleshow/135043405.cms",
+      "domain": "timesofindia.indiatimes.com",
+      "date": "Oct 19, 2026"
+    },
+    {
+      "title": "Anti - India forces can never break India : Kiren Rijiju slams Congress after Indian flags seen with Pakistan , PoK flags at London protest",
+      "url": "https://aninews.in/news/national/general-news/anti-india-forces-can-never-break-india-kiren-rijiju-slams-congress-after-indian-flags-seen-with-pakistan-pok-flags-at-london-protest20261019120257/",
+      "domain": "aninews.in",
+      "date": "Oct 19, 2026"
+    },
+    {
+      "title": "This multibagger stock jumps 4 % despite weak market sentiments | Check share performance",
+      "url": "https://www.livemint.com/market/stock-market-news/multibagger-stock-gabriel-india-jumps-4-despite-weak-market-sentiments-check-share-performance-11792386371469.html",
+      "domain": "livemint.com",
+      "date": "Oct 19, 2026"
+    },
+    {
+      "title": "Weak rupee pushes India $5 - trillion economy milestone to 2029 despite faster growth : IMF data",
+      "url": "https://www.moneycontrol.com/news/business/economy/weak-rupee-pushes-india-s-5-trillion-economy-milestone-to-2029-despite-faster-growth-imf-data-14054936.html",
+      "domain": "moneycontrol.com",
+      "date": "Oct 19, 2026"
+    },
+    {
+      "title": "Trade to trust : India steps up neighbourhood play with economic support",
+      "url": "https://www.business-standard.com/external-affairs-defence-security/news/trade-to-trust-india-steps-up-neighbourhood-play-with-economic-support-126101800830_1.html",
+      "domain": "business-standard.com",
+      "date": "Oct 18, 2026"
+    },
+    {
+      "title": "Engie plans \u20ac3 billion investment in India by 2030",
+      "url": "https://economictimes.indiatimes.com/industry/renewables/engie-plans-3-billion-investment-in-india-by-2030/articleshow/135033696.cms",
+      "domain": "economictimes.indiatimes.com",
+      "date": "Oct 18, 2026"
+    },
+    {
+      "title": "CAIT Opposes Starlink Entry Into India , Cites National Security & Data Sovereignty Risks",
+      "url": "https://www.freepressjournal.in/india/cait-opposes-starlink-entry-into-india-cites-national-security-data-sovereignty-risks",
+      "domain": "freepressjournal.in",
+      "date": "Oct 18, 2026"
+    },
+    {
+      "title": "Trump administration recognises significance of India as a strategic partner : Foreign affairs expert ahead of Rubio visit",
+      "url": "https://aninews.in/news/world/asia/trump-administration-recognises-significance-of-india-as-a-strategic-partner-foreign-affairs-expert-ahead-of-rubios-visit20261018170832/",
+      "domain": "aninews.in",
+      "date": "Oct 18, 2026"
+    },
+    {
+      "title": "India GDP per capita catching up with richer nations , growth worth celebrating : Korean economist",
+      "url": "https://www.businesstoday.in/latest/economy/story/indias-gdp-per-capita-catching-up-with-richer-nations-growth-worth-celebrating-korean-economist-562301-2026-10-18",
+      "domain": "businesstoday.in",
+      "date": "Oct 18, 2026"
+    },
+    {
+      "title": "Ambani Reliance breaks silence on Musk , says Jio awaits same clearances as Starlink",
+      "url": "https://bdnews24.com/business/e0pe6scgv3",
+      "domain": "bdnews24.com",
+      "date": "Oct 18, 2026"
+    },
+    {
+      "title": "India - EFTA trade pact opens new opportunities for Norwegian investment across key sectors",
+      "url": "https://www.prokerala.com/news/articles/a1825956.html",
+      "domain": "prokerala.com",
+      "date": "Oct 18, 2026"
+    },
+    {
+      "title": "UK - India partnership grown in ambition , breadth : Outgoing united kingdom envoy Lindy Cameron hails FTA ,  Vision 2035",
+      "url": "https://news.webindia123.com/news/Articles/World/20261018/4512359.html",
+      "domain": "news.webindia123.com",
+      "date": "Oct 18, 2026"
+    },
+    {
+      "title": "Why Marco Rubio visit to Mumbai has ruffled feathers in India | International Trade News",
+      "url": "https://www.aljazeera.com/news/2026/10/18/why-marco-rubios-visit-to-mumbai-has-ruffled-feathers-in-india",
+      "domain": "aljazeera.com",
+      "date": "Oct 18, 2026"
+    },
+    {
+      "title": "OCI vs Citizenship : Why Bollywood actor Imran Khan was told to leave India over anti CEC protest",
+      "url": "https://www.businesstoday.in/india/story/oci-vs-citizenship-why-bollywood-actor-imran-khan-was-told-to-leave-india-over-anti-cec-protest-562288-2026-10-18",
+      "domain": "businesstoday.in",
+      "date": "Oct 18, 2026"
+    },
+    {
+      "title": "Shreyas Iyer Captaincy Record in T20Is : Wins , Losses and Stats",
+      "url": "https://www.jagranjosh.com/general-knowledge/shreyas-iyer-captaincy-record-in-t20is-wins-losses-and-stats-1820013144-1",
+      "domain": "jagranjosh.com",
+      "date": "Oct 18, 2026"
+    },
+    {
+      "title": "Rubio heads to India to secure  economic opportunitie as Trump pauses Russia - linked tariffs on  ally  India",
+      "url": "https://www.moneycontrol.com/world/rubio-heads-to-india-to-secure-economic-opportunities-as-trump-pauses-russia-linked-tariffs-on-ally-india-article-14054625.html",
+      "domain": "moneycontrol.com",
+      "date": "Oct 18, 2026"
+    },
+    {
+      "title": "India EV market is growing faster than America . Here why",
+      "url": "https://www.businesstoday.in/auto/story/indias-ev-market-is-growing-faster-than-americas-heres-why-562279-2026-10-18",
+      "domain": "businesstoday.in",
+      "date": "Oct 18, 2026"
+    },
+    {
+      "title": "Rubio leaves for India visit , says aims to secure  economic opportunities",
+      "url": "https://economictimes.indiatimes.com/news/india/rubio-leaves-for-india-visit-says-aims-to-secure-economic-opportunities-even-as-trump-hits-tariff-pause-for-ally-india/articleshow/135023354.cms",
+      "domain": "economictimes.indiatimes.com",
+      "date": "Oct 18, 2026"
+    },
+    {
+      "title": "Made in India isnt enough . It has to be made by India",
+      "url": "https://timesofindia.indiatimes.com/science/made-in-india-isnt-enough-it-has-to-be-made-by-india/articleshow/135023072.cms",
+      "domain": "timesofindia.indiatimes.com",
+      "date": "Oct 18, 2026"
+    },
+    {
+      "title": "Important ally and partner : Rubio leaves for India amid Trump Russian oil tariff threat | India News",
+      "url": "https://timesofindia.indiatimes.com/india/important-ally-and-partner-rubio-leaves-for-india-amid-trumps-russian-oil-tariff-threat/articleshow/135023223.cms",
+      "domain": "timesofindia.indiatimes.com",
+      "date": "Oct 18, 2026"
+    },
+    {
+      "title": "Wait out Trump term without rocking the boat",
+      "url": "https://www.hindustantimes.com/opinion/wait-out-trump-s-term-without-rocking-the-boat-101792228003412.html",
+      "domain": "hindustantimes.com",
+      "date": "Oct 17, 2026"
+    },
+    {
+      "title": "Weverse Con Festival India 2027 Lineup | Hybe India Weverse Con Festival 2027 India Lineup TXT ( Tomorrow X Together ), ENHYPEN , Hwasa , Eric Nam , KATSEYE Lara Raj & Others | Who Are Coming To Weverse Con Festival India 2027 Fest | Is BTS Coming To...",
+      "url": "https://www.filmibeat.com/korean/hybe-india-weverse-con-festival-india-2027-lineup-enhypen-txt-hwaa-eric-nam-katseye-lara-raj-others-534909.html",
+      "domain": "filmibeat.com",
+      "date": "Oct 16, 2026"
+    },
+    {
+      "title": "India approves rollover of INR 3 , 000 - crore currency swap facility to Maldives",
+      "url": "https://www.moneycontrol.com/news/india/india-approves-rollover-of-inr-3-000-crore-currency-swap-facility-to-maldives-14054149.html",
+      "domain": "moneycontrol.com",
+      "date": "Oct 16, 2026"
+    },
+    {
+      "title": "Minister explores manufactured product export opportunities with India",
+      "url": "https://en.antaranews.com/news/435873/minister-explores-manufactured-product-export-opportunities-with-india",
+      "domain": "en.antaranews.com",
+      "date": "Oct 16, 2026"
+    },
+    {
+      "title": "Markets will push the US to act constructively : Nouriel Roubini",
+      "url": "https://economictimes.indiatimes.com/news/economy/foreign-trade/markets-will-push-the-us-to-act-constructively-nouriel-roubini/articleshow/134976052.cms",
+      "domain": "economictimes.indiatimes.com",
+      "date": "Oct 15, 2026"
+    },
+    {
+      "title": "The Estee Lauder Companies Announces BEAUTY & YOU India 2026 Winners and Marks Five Years of Advancing Indian Beauty Entrepreneurship",
+      "url": "https://www.business-standard.com/content/press-releases-ani/the-estee-lauder-companies-announces-beauty-you-india-2026-winners-and-marks-five-years-of-advancing-indian-beauty-entrepreneurship-126101600007_1.html",
+      "domain": "business-standard.com",
+      "date": "Oct 15, 2026"
+    },
+    {
+      "title": "What is India Asian Games Medal Tally Today ? Check All Results , Records and Day 14 Updates",
+      "url": "https://www.jagranjosh.com/general-knowledge/asian-games-2026-medal-tally-october-2-day-14-updates-1820012708-1",
+      "domain": "jagranjosh.com",
+      "date": "Oct 02, 2026"
+    },
+    {
+      "title": "JMGO N3 Ultimate Brings a New Way of Projection to India with the World First 3 - in - 1 Optical System as JMGO and SPRODE INDIA Mark 10 Years",
+      "url": "https://www.business-standard.com/content/press-releases-ani/jmgo-n3-ultimate-brings-a-new-way-of-projection-to-india-with-the-world-s-first-3-in-1-optical-system-as-jmgo-and-sprode-india-mark-10-years-126100101157_1.html",
+      "domain": "business-standard.com",
+      "date": "Oct 01, 2026"
+    },
+    {
+      "title": "Monsoon deficit at 13 %, officially a drought year",
+      "url": "https://timesofindia.indiatimes.com/india/monsoon-deficit-at-13-officially-a-drought-year/articleshow/134602606.cms",
+      "domain": "timesofindia.indiatimes.com",
+      "date": "Sep 30, 2026"
+    },
+    {
+      "title": "28 BLACK to Showcase Growth Ambitions at Anuga Select India 2026",
+      "url": "https://www.thehindu.com/brandhub/pr-release/28-black-to-showcase-growth-ambitions-at-anuga-select-india-2026/article71523491.ece",
+      "domain": "thehindu.com",
+      "date": "Sep 30, 2026"
+    },
+    {
+      "title": "Uruguay eyes Indian edible oil market , aiming to emulate Argentina export success",
+      "url": "https://www.livemint.com/industry/agriculture/uruguay-edible-oil-exports-india-soybean-sunflower-oil-11790664425597.html",
+      "domain": "livemint.com",
+      "date": "Sep 29, 2026"
+    },
+    {
+      "title": "Canada and Mexico can absorb nearly 63 % of India exports headed to the US",
+      "url": "https://www.moneycontrol.com/news/business/economy/canada-and-mexico-can-absorb-nearly-63-of-india-s-exports-headed-to-the-us-14040152.html",
+      "domain": "moneycontrol.com",
+      "date": "Sep 28, 2026"
+    },
+    {
+      "title": "India explores bigger UAE role in LPG , LNG supplies ; subsea gas pipeline under study",
+      "url": "https://www.moneycontrol.com/news/business/economy/india-explores-bigger-uae-role-in-lpg-lng-supplies-subsea-gas-pipeline-under-study-14040042.html",
+      "domain": "moneycontrol.com",
+      "date": "Sep 28, 2026"
+    },
+    {
+      "title": "US wont let India become next China : Russian envoy claims  Freudian slip  revealed Washington concerns",
+      "url": "https://www.hindustantimes.com/india-news/us-will-not-let-india-become-next-china-russian-envoy-denis-alipov-says-freudian-slip-revealed-washington-concerns-101790517637417.html",
+      "domain": "hindustantimes.com",
+      "date": "Sep 27, 2026"
+    },
+    {
+      "title": "India ready for  every kind of strike  against terrorism : Defence minister Rajnath Singh warns Pakistan",
+      "url": "https://www.hindustantimes.com/india-news/rajnath-singh-warns-pakistan-india-ready-for-every-kind-of-strike-against-terrorism-101790494466240.html",
+      "domain": "hindustantimes.com",
+      "date": "Sep 27, 2026"
+    },
+    {
+      "title": "PM Modi lauds  Make in India  success ; credits infrastructure & innovation for national growth",
+      "url": "https://www.business-standard.com/india-news/pm-modi-lauds-make-in-india-success-credits-infrastructure-innovation-for-national-growth-126092500479_1.html",
+      "domain": "business-standard.com",
+      "date": "Sep 25, 2026"
+    },
+    {
+      "title": "Mexico , Brazil , united kingdom see rising medical device imports , opening export opportunities for India : Report",
+      "url": "https://economictimes.indiatimes.com/news/economy/foreign-trade/mexico-brazil-uk-see-rising-medical-device-imports-opening-export-opportunities-for-india-report/articleshow/134479211.cms",
+      "domain": "economictimes.indiatimes.com",
+      "date": "Sep 25, 2026"
+    },
+    {
+      "title": "Before Jaishankar speaks at UNGA , India gets 11 mentions : What world leaders said",
+      "url": "https://www.moneycontrol.com/news/india/before-jaishankar-speaks-at-unga-india-has-already-figured-in-11-addresses-here-s-what-was-said-14038000.html",
+      "domain": "moneycontrol.com",
+      "date": "Sep 25, 2026"
+    },
+    {
+      "title": "India can make , innovate and compete with the world : Piyush Goyal",
+      "url": "https://www.prokerala.com/news/articles/a1816494.html",
+      "domain": "prokerala.com",
+      "date": "Sep 25, 2026"
+    },
+    {
+      "title": "India Semiconductor Journey : Old Designer , New Producer \u2013 The Diplomat",
+      "url": "https://thediplomat.com/2026/09/indias-semiconductor-journey-old-designer-new-producer/",
+      "domain": "thediplomat.com",
+      "date": "Sep 24, 2026"
+    },
+    {
+      "title": "Europe rising regulatory burden could give India a cost advantage : Piyush Goyal",
+      "url": "https://www.moneycontrol.com/news/business/europe-s-rising-regulatory-burden-could-give-india-a-cost-advantage-piyush-goyal-14037725.html",
+      "domain": "moneycontrol.com",
+      "date": "Sep 24, 2026"
+    },
+    {
+      "title": "We are in active discussion : Safran India CEO on advanced fighter jet engine",
+      "url": "https://www.moneycontrol.com/news/india/we-are-in-active-discussion-safran-india-ceo-on-advanced-fighter-jet-engine-14037517.html",
+      "domain": "moneycontrol.com",
+      "date": "Sep 24, 2026"
+    },
+    {
+      "title": "Microsoft Opens India South Central Data Centre In Telangana , Expands Cloud & AI Infrastructure",
+      "url": "https://www.rediff.com/news/report/microsoft-opens-india-south-central-data-centre-in-telangana-1/20260924.htm",
+      "domain": "rediff.com",
+      "date": "Sep 24, 2026"
+    },
+    {
+      "title": "Asian Games : India men remain unbeaten to top Group A with 37 - 21 win over Chinese Taipei in kabaddi",
+      "url": "https://www.prokerala.com/news/articles/a1816103.html",
+      "domain": "prokerala.com",
+      "date": "Sep 24, 2026"
+    },
+    {
+      "title": "India has all the ingredients to become a major shipbuilding power : Sanjeev Sanyal",
+      "url": "https://www.moneycontrol.com/news/business/india-has-all-the-ingredients-to-become-a-major-shipbuilding-power-sanjeev-sanyal-14037214.html",
+      "domain": "moneycontrol.com",
+      "date": "Sep 24, 2026"
+    },
+    {
+      "title": "NSE becomes India 10th most valued company , m - cap jumps to Rs 4 . 5 lakh crore",
+      "url": "https://www.moneycontrol.com/news/business/markets/nse-becomes-india-s-10th-most-valued-company-m-cap-jumps-to-rs-4-5-lakh-crore-14037174.html",
+      "domain": "moneycontrol.com",
+      "date": "Sep 24, 2026"
+    },
+    {
+      "title": "Efectis Group Strengthens Its Presence in India with the Launch of Efectis India",
+      "url": "https://www.thehindubusinessline.com/brandhub/pr-release/efectis-group-strengthens-its-presence-in-india-with-the-launch-of-efectis-india/article71502581.ece",
+      "domain": "thehindubusinessline.com",
+      "date": "Sep 24, 2026"
+    },
+    {
+      "title": "Trading smart : on the India - New Zealand FTA",
+      "url": "https://www.thehindu.com/opinion/editorial/trading-smart-on-the-india-new-zealand-fta/article71499956.ece",
+      "domain": "thehindu.com",
+      "date": "Sep 23, 2026"
+    },
+    {
+      "title": "Trump - Xi summit has a hidden India story : Where New Delhi gains and where it could lose if US and China reset trade ties",
+      "url": "https://www.moneycontrol.com/world/trump-xi-summit-has-a-hidden-india-story-where-new-delhi-gains-and-where-it-could-lose-if-us-and-china-reset-trade-ties-article-14036531.html",
+      "domain": "moneycontrol.com",
+      "date": "Sep 23, 2026"
+    },
+    {
+      "title": "Germany ready to sign $8 billion India submarine deal : German envoy",
+      "url": "https://www.moneycontrol.com/news/india/germany-ready-to-sign-8-billion-india-submarine-deal-german-envoy-14036530.html",
+      "domain": "moneycontrol.com",
+      "date": "Sep 23, 2026"
+    },
+    {
+      "title": "Russia is basing its economy on India : Zelenskyy calls for end to oil trade",
+      "url": "https://www.moneycontrol.com/world/russia-is-basing-its-economy-on-india-zelenskyy-calls-for-end-to-oil-trade-article-14036161.html",
+      "domain": "moneycontrol.com",
+      "date": "Sep 23, 2026"
+    },
+    {
+      "title": "India is the indispensable voice  in future climate , energy policy : Australian Climate , Energy Minister Chris Bowen",
+      "url": "https://news.webindia123.com/news/Articles/World/20260923/4502302.html",
+      "domain": "news.webindia123.com",
+      "date": "Sep 23, 2026"
+    },
+    {
+      "title": "What Is Driving India Outreach To Neighbours ?",
+      "url": "https://www.rediff.com/news/report/what-is-driving-indias-outreach-to-neighbours/20260923.htm",
+      "domain": "rediff.com",
+      "date": "Sep 23, 2026"
+    },
+    {
+      "title": "The West Might Soon Ramp Up Its Pressure On India To Distance Itself From Russia",
+      "url": "https://www.zerohedge.com/markets/west-might-soon-ramp-its-pressure-india-distance-itself-russia",
+      "domain": "zerohedge.com",
+      "date": "Sep 23, 2026"
+    },
+    {
+      "title": "India renews call for  forward - looking  relations with Bangladesh",
+      "url": "https://www.thedailystar.net/news/bangladesh/diplomacy/news/india-renews-call-forward-looking-relations-bangladesh-4280356",
+      "domain": "thedailystar.net",
+      "date": "Sep 22, 2026"
+    },
+    {
+      "title": "Neeyamo Brings India Payroll Into the Workday Experience - The HinduBusinessLine",
+      "url": "https://www.thehindubusinessline.com/brandhub/pr-release/neeyamo-brings-india-payroll-into-the-workday-experience/article71496044.ece",
+      "domain": "thehindubusinessline.com",
+      "date": "Sep 22, 2026"
+    },
+    {
+      "title": "Which Is the Only Country in the World With Lions , Tigers and Leopards ?",
+      "url": "https://www.jagranjosh.com/general-knowledge/which-is-the-only-country-in-the-world-with-lions-tigers-and-leopards-1820012428-1",
+      "domain": "jagranjosh.com",
+      "date": "Sep 22, 2026"
+    },
+    {
+      "title": "205 unicorns abroad , 102 in India : The $560 - billion Indian founder story",
+      "url": "https://www.business-standard.com/finance/personal-finance/205-unicorns-abroad-102-in-india-the-560-billion-indian-founder-story-126092101392_1.html",
+      "domain": "business-standard.com",
+      "date": "Sep 22, 2026"
+    },
+    {
+      "title": "India Data Infrastructure Revolution : Government and Microsoft Join Forces for a Tech Future , ETTelecom",
+      "url": "https://telecom.economictimes.indiatimes.com/news/policy/government-pushing-for-public-private-collaboration-in-data-infrastructure-says-jitin-prasada/134400463",
+      "domain": "telecom.economictimes.indiatimes.com",
+      "date": "Sep 22, 2026"
+    },
+    {
+      "title": "From importing capability to creating capability , owning technology and exporting value to the world",
+      "url": "https://www.ibtimes.co.in/importing-capability-creating-capability-owning-technology-exporting-value-world-906240",
+      "domain": "ibtimes.co.in",
+      "date": "Sep 21, 2026"
+    },
+    {
+      "title": "JPMorgan CEO Jamie Dimon Meets Nirmala Sitharaman As Global Bank Expands India Presence",
+      "url": "https://www.freepressjournal.in/business/jpmorgan-ceo-jamie-dimon-meets-nirmala-sitharaman-as-global-bank-expands-india-presence",
+      "domain": "freepressjournal.in",
+      "date": "Sep 21, 2026"
+    },
+    {
+      "title": "Indian founders have built 205 unicorns abroad , creating $560 billion in value : Prosus",
+      "url": "https://www.moneycontrol.com/news/business/startup/indian-founders-have-built-205-unicorns-abroad-creating-560-billion-in-value-prosus-14034600.html",
+      "domain": "moneycontrol.com",
+      "date": "Sep 21, 2026"
+    },
+    {
+      "title": "The View From India newsletter : Punished for importing Russian oil",
+      "url": "https://www.thehindu.com/newsletter/newsletter-international/the-view-from-india-newsletter-punished-for-importing-russian-oil/article71490391.ece",
+      "domain": "thehindu.com",
+      "date": "Sep 21, 2026"
+    },
+    {
+      "title": "Microsoft launches fourth India cloud region , expands AI infrastructure footprint",
+      "url": "https://www.moneycontrol.com/news/business/microsoft-launches-fourth-india-cloud-region-expands-ai-infrastructure-footprint-14034340.html",
+      "domain": "moneycontrol.com",
+      "date": "Sep 21, 2026"
+    },
+    {
+      "title": "India wants 50 rocket launches a year by 2030 , but there a big problem : Is ISRO ready ?",
+      "url": "https://www.moneycontrol.com/science/india-wants-50-rocket-launches-a-year-by-2030-but-there-s-a-big-problem-is-isro-ready-article-14034258.html",
+      "domain": "moneycontrol.com",
+      "date": "Sep 21, 2026"
+    },
+    {
+      "title": "India needs to move beyond chip manufacturing , use Indian chips in products designed and made locally : Report",
+      "url": "https://economictimes.indiatimes.com/industry/cons-products/electronics/india-needs-to-move-beyond-chip-manufacturing-use-indian-chips-in-products-designed-and-made-locally-report/articleshow/134380798.cms",
+      "domain": "economictimes.indiatimes.com",
+      "date": "Sep 21, 2026"
+    },
+    {
+      "title": "Pace of change in India has definitely accelerated : Indian - origin CEO",
+      "url": "https://www.prokerala.com/news/articles/a1814673.html",
+      "domain": "prokerala.com",
+      "date": "Sep 21, 2026"
+    },
+    {
+      "title": "Nongshim Brings Shin Ramyun to India K - Culture Fans at HYBE INDIA Pop - Up Parks Across 4 Indian Cities",
+      "url": "https://www.thehindu.com/brandhub/pr-release/nongshim-brings-shin-ramyun-to-indias-k-culture-fans-at-hybe-india-pop-up-parks-across-4-indian-cities/article71489970.ece",
+      "domain": "thehindu.com",
+      "date": "Sep 21, 2026"
+    }
+  ]
 }
