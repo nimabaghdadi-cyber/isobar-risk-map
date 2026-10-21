@@ -1,19 +1,19 @@
 {
-  "generatedAt": "2026-10-21T16:37:42.223441+00:00",
+  "generatedAt": "2026-10-21T21:15:52.585478+00:00",
   "source": "GDELT (news tone/volume, 3-day window) blended 50/50 with baseline",
   "countries": [
     {
       "name": "Afghanistan",
       "region": "South Asia",
-      "political": 78,
+      "political": 67,
       "conflict": 70,
       "economic": 80,
       "regulatory": 84,
-      "trend": "flat",
-      "note": "No fresh coverage this cycle; showing baseline.",
+      "trend": "down",
+      "note": "Live-updated from recent news coverage.",
       "headlines": [],
-      "toneReading": "No recent coverage found.",
-      "volumeReading": null
+      "toneReading": "Coverage over the last 3 days has been mixed or neutral.",
+      "volumeReading": "Coverage volume has been unusually high this week."
     },
     {
       "name": "Argentina",
@@ -24,22 +24,43 @@
       "regulatory": 44,
       "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [],
+      "headlines": [
+        {
+          "title": "How Argentina Javier Milei hopes to exploit a dispute over Falklands oil in next year election",
+          "url": "https://theconversation.com/how-argentinas-javier-milei-hopes-to-exploit-a-dispute-over-falklands-oil-in-next-years-election-294163",
+          "domain": "theconversation.com"
+        },
+        {
+          "title": "Hearing dates set for united kingdom - Argentina dispute over Falkland Islands oil exploration",
+          "url": "https://www.lbc.co.uk/article/hearing-uk-argentina-falkland-islands-oil-exploration-5HjdkC2_2/",
+          "domain": "lbc.co.uk"
+        },
+        {
+          "title": "Patagonia Gold Announces Filing of the Technical Report for the Calcatreu Gold - Silver Project Preliminary Economic Assessment",
+          "url": "https://www.manilatimes.net/2026/10/20/tmt-newswire/globenewswire/patagonia-gold-announces-filing-of-the-technical-report-for-the-calcatreu-gold-silver-project-preliminary-economic-assessment/2449241",
+          "domain": "manilatimes.net"
+        },
+        {
+          "title": "Argentina Says united kingdom  Colonised by Islam  As It Argues for Falklands",
+          "url": "https://www.newsweek.com/argentina-uk-colonised-islam-argues-falklands-12576934",
+          "domain": "newsweek.com"
+        }
+      ],
       "toneReading": "No recent coverage found.",
       "volumeReading": null
     },
     {
       "name": "Australia",
       "region": "Oceania",
-      "political": 17,
+      "political": 37,
       "conflict": 8,
       "economic": 13,
       "regulatory": 10,
-      "trend": "flat",
-      "note": "No fresh coverage this cycle; showing baseline.",
+      "trend": "up",
+      "note": "Live-updated from recent news coverage.",
       "headlines": [],
-      "toneReading": "No recent coverage found.",
-      "volumeReading": null
+      "toneReading": "Coverage over the last 3 days has been mixed or neutral.",
+      "volumeReading": "Coverage volume has been unusually high this week."
     },
     {
       "name": "Azerbaijan",
@@ -89,7 +110,28 @@
       "regulatory": 38,
       "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [],
+      "headlines": [
+        {
+          "title": "Brazil Logs Record Oil Sales to China After Strait of Hormuz Crisis",
+          "url": "https://www.breitbart.com/latin-america/2026/10/16/brazil-logs-record-oil-sales-to-china-after-strait-of-hormuz-crisis/",
+          "domain": "breitbart.com"
+        },
+        {
+          "title": "Is the US meddling in Brazil presidential election ?",
+          "url": "https://www.csmonitor.com/World/Americas/2026/1020/Brazil-US-election-meddling",
+          "domain": "csmonitor.com"
+        },
+        {
+          "title": "Brazilian death certificate translation is available fully",
+          "url": "https://www.openpr.com/news/4665944/brazilian-death-certificate-translation-is-available-fully",
+          "domain": "openpr.com"
+        },
+        {
+          "title": "Protesters target Meta office in Brazil over alleged political bias",
+          "url": "https://www.africanews.com/2026/10/20/protesters-target-meta-office-in-brazil-over-alleged-political-bias/",
+          "domain": "africanews.com"
+        }
+      ],
       "toneReading": "No recent coverage found.",
       "volumeReading": null
     },
@@ -102,48 +144,90 @@
       "regulatory": 20,
       "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [],
+      "headlines": [
+        {
+          "title": "United , Air Canada expand partnership , add 6 routes for 2027",
+          "url": "https://thepointsguy.com/news/united-airlines-air-canada-expansion-summer-2027",
+          "domain": "thepointsguy.com"
+        },
+        {
+          "title": "The $50 - billion question : Who gets what as India and Canada aim to strike a trade deal ?",
+          "url": "https://economictimes.indiatimes.com/news/economy/foreign-trade/the-50-billion-question-who-gets-what-as-india-and-canada-aim-to-strike-a-trade-deal/articleshow/134988913.cms",
+          "domain": "economictimes.indiatimes.com"
+        },
+        {
+          "title": "Why you might see an Air Canada plane tailed by another aircraft over Vancouver | Daily Hive",
+          "url": "https://dailyhive.com/vancouver/air-canada-jet-filming-vancouver",
+          "domain": "dailyhive.com"
+        },
+        {
+          "title": "Canada Games Celebrate Six Decades of Creating Legacies in  Since 1967  Campaign",
+          "url": "https://www.manilatimes.net/2026/10/16/tmt-newswire/globenewswire/canada-games-celebrate-six-decades-of-creating-legacies-in-since-1967-campaign/2447106",
+          "domain": "manilatimes.net"
+        }
+      ],
       "toneReading": "No recent coverage found.",
       "volumeReading": null
     },
     {
       "name": "Chile",
       "region": "Latin America",
-      "political": 24,
+      "political": 38,
       "conflict": 14,
       "economic": 26,
       "regulatory": 22,
-      "trend": "flat",
-      "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [],
-      "toneReading": "No recent coverage found.",
-      "volumeReading": null
+      "trend": "up",
+      "note": "Live-updated from recent news coverage.",
+      "headlines": [
+        {
+          "title": "XTransfer Launches Cross - border Payment Service in Chile",
+          "url": "https://en.antaranews.com/news/436705/xtransfer-launches-cross-border-payment-service-in-chile",
+          "domain": "en.antaranews.com"
+        },
+        {
+          "title": "5 Challenges Facing South America Copper Boom",
+          "url": "https://www.zerohedge.com/commodities/5-challenges-facing-south-americas-copper-boom",
+          "domain": "zerohedge.com"
+        },
+        {
+          "title": "Chile sentences Venezuelan gang member to 20 years for kidnapping and killing dissident \u2013 Winnipeg Free Press",
+          "url": "https://www.winnipegfreepress.com/world/2026/10/15/chile-sentences-venezuelan-gang-member-to-20-years-for-kidnapping-and-killing-dissident",
+          "domain": "winnipegfreepress.com"
+        },
+        {
+          "title": "Chile sentences Venezuelan gang member to 20 years for kidnapping and killing dissident",
+          "url": "https://www.wral.com/news/ap/1147e-chile-sentences-venezuelan-gang-member-to-20-years-for-kidnapping-and-killing-dissident/",
+          "domain": "wral.com"
+        }
+      ],
+      "toneReading": "Coverage over the last 3 days has been mixed or neutral.",
+      "volumeReading": "Coverage volume has been unusually high this week."
     },
     {
       "name": "China",
       "region": "East Asia",
-      "political": 38,
+      "political": 45,
       "conflict": 22,
       "economic": 36,
       "regulatory": 54,
+      "trend": "up",
+      "note": "Live-updated from recent news coverage.",
+      "headlines": [],
+      "toneReading": "Coverage over the last 3 days has been mixed or neutral.",
+      "volumeReading": "Coverage volume has been unusually high this week."
+    },
+    {
+      "name": "Colombia",
+      "region": "Latin America",
+      "political": 48,
+      "conflict": 56,
+      "economic": 38,
+      "regulatory": 40,
       "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
       "headlines": [],
       "toneReading": "No recent coverage found.",
       "volumeReading": null
-    },
-    {
-      "name": "Colombia",
-      "region": "Latin America",
-      "political": 50,
-      "conflict": 56,
-      "economic": 38,
-      "regulatory": 40,
-      "trend": "flat",
-      "note": "Live-updated from recent news coverage.",
-      "headlines": [],
-      "toneReading": "Coverage over the last 3 days has been mixed or neutral.",
-      "volumeReading": "Coverage volume has been unusually high this week."
     },
     {
       "name": "Cuba",
@@ -180,28 +264,7 @@
       "regulatory": 13,
       "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [
-        {
-          "title": "US Quietly Shifts MQ - 9 Reapers Into South America",
-          "url": "http://www.zerohedge.com/military/us-quietly-shifts-mq-9-reapers-south-america",
-          "domain": "zerohedge.com"
-        },
-        {
-          "title": "Ecuador Priest Dies After Massive Crucifix Falls on Him During Livestreamed Mass",
-          "url": "https://www.tmz.com/2026/10/18/ecuador-priest-dies-after-cross-falls-on-him/",
-          "domain": "tmz.com"
-        },
-        {
-          "title": "Priest killed by falling crucifix during mass in Ecuador",
-          "url": "https://www.christianpost.com/news/priest-killed-by-falling-crucifix-during-mass-in-ecuador.html",
-          "domain": "christianpost.com"
-        },
-        {
-          "title": "Bandung explores cooperation with Ecuador Cuenca in various fields",
-          "url": "https://en.antaranews.com/news/435869/bandung-explores-cooperation-with-ecuadors-cuenca-in-various-fields",
-          "domain": "en.antaranews.com"
-        }
-      ],
+      "headlines": [],
       "toneReading": "No recent coverage found.",
       "volumeReading": null
     },
@@ -240,7 +303,28 @@
       "regulatory": 24,
       "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [],
+      "headlines": [
+        {
+          "title": "Choose France Tour 2026 sees strong student engagement in New Delhi , reflecting growing interest in French higher education",
+          "url": "https://news.webindia123.com/news/Articles/World/20261015/4511356.html",
+          "domain": "news.webindia123.com"
+        },
+        {
+          "title": "France protests flare as PM accuses radical left of exploiting unrest ahead of elections",
+          "url": "https://timesofindia.indiatimes.com/world/europe/france-protests-flare-as-pm-accuses-radical-left-of-exploiting-unrest-ahead-of-elections/articleshow/134981508.cms",
+          "domain": "timesofindia.indiatimes.com"
+        },
+        {
+          "title": "France Puts AI on Par With Nuclear Arms at Defense Council ; What Macron Decided Stays Classified",
+          "url": "https://www.techtimes.com/articles/329056/20261015/france-puts-ai-par-nuclear-arms-defense-council-what-macron-decided-stays-classified.htm",
+          "domain": "techtimes.com"
+        },
+        {
+          "title": "Are student protests being manipulated ahead France presidential election ?",
+          "url": "https://www.bbc.co.uk/news/articles/c8zxlyg965r3o",
+          "domain": "bbc.co.uk"
+        }
+      ],
       "toneReading": "No recent coverage found.",
       "volumeReading": null
     },
@@ -266,7 +350,28 @@
       "regulatory": 16,
       "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [],
+      "headlines": [
+        {
+          "title": "Families of 3 Keralites killed in Germany fire seek return of bodies :  One was set to join job this week",
+          "url": "https://www.hindustantimes.com/india-news/families-of-3-keralites-killed-in-germany-fire-seek-return-of-bodies-one-was-set-to-join-job-this-week-101792064498431.html",
+          "domain": "hindustantimes.com"
+        },
+        {
+          "title": "Here Where Germany 17 Million Immigrants Come From",
+          "url": "https://www.zerohedge.com/geopolitical/heres-where-germanys-17-million-immigrants-come",
+          "domain": "zerohedge.com"
+        },
+        {
+          "title": "How big is Russia threat against Germany ?",
+          "url": "https://www.dw.com/en/how-big-is-russias-threat-against-germany/a-79688426",
+          "domain": "dw.com"
+        },
+        {
+          "title": "Investment summit : German government strikes AI deal with Nvidia",
+          "url": "https://www.euronews.com/2026/10/20/investment-summit-german-government-strikes-ai-deal-with-nvidia",
+          "domain": "euronews.com"
+        }
+      ],
       "toneReading": "No recent coverage found.",
       "volumeReading": null
     },
@@ -277,30 +382,9 @@
       "conflict": 84,
       "economic": 78,
       "regulatory": 82,
-      "trend": "up",
+      "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [
-        {
-          "title": "4 soldiers from El Salvador missing in Haiti after attack by gangs",
-          "url": "https://www.cbc.ca/news/world/haiti-gang-suppression-force-attacked-9.7387206",
-          "domain": "cbc.ca"
-        },
-        {
-          "title": "We cannot accept the dehumanization of our Haitian neighbors",
-          "url": "https://www.wbur.org/cognoscenti/2026/10/20/us-haiti-ice-immigration-temporary-protected-status-tps-wynn-walent",
-          "domain": "wbur.org"
-        },
-        {
-          "title": "Gangs in Haiti target foreign troops in the biggest attack since a new force began operations",
-          "url": "https://www.guardian.co.tt/news/gangs-in-haiti-target-foreign-troops-in-the-biggest-attack-since-a-new-force-began-operations-6.2.2690139.5a1b325a70",
-          "domain": "guardian.co.tt"
-        },
-        {
-          "title": "Haitian gangs target foreign troops in first major attack since arrival of international force",
-          "url": "https://www.theglobeandmail.com/world/article-haiti-gangs-troops-attack-port-au-prince/",
-          "domain": "theglobeandmail.com"
-        }
-      ],
+      "headlines": [],
       "toneReading": "No recent coverage found.",
       "volumeReading": null
     },
@@ -346,15 +430,15 @@
     {
       "name": "Israel",
       "region": "MENA",
-      "political": 58,
-      "conflict": 66,
+      "political": 63,
+      "conflict": 74,
       "economic": 34,
       "regulatory": 30,
-      "trend": "down",
-      "note": "No fresh coverage this cycle; showing baseline.",
+      "trend": "up",
+      "note": "Live-updated from recent news coverage.",
       "headlines": [],
-      "toneReading": "No recent coverage found.",
-      "volumeReading": null
+      "toneReading": "Coverage over the last 3 days has leaned negative.",
+      "volumeReading": "Coverage volume has been unusually high this week."
     },
     {
       "name": "Italy",
@@ -372,15 +456,15 @@
     {
       "name": "Japan",
       "region": "East Asia",
-      "political": 16,
+      "political": 33,
       "conflict": 10,
       "economic": 22,
       "regulatory": 14,
-      "trend": "flat",
-      "note": "No fresh coverage this cycle; showing baseline.",
+      "trend": "up",
+      "note": "Live-updated from recent news coverage.",
       "headlines": [],
-      "toneReading": "No recent coverage found.",
-      "volumeReading": null
+      "toneReading": "Coverage over the last 3 days has been mixed or neutral.",
+      "volumeReading": "Coverage volume has been unusually high this week."
     },
     {
       "name": "Jordan",
@@ -391,28 +475,7 @@
       "regulatory": 20,
       "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [
-        {
-          "title": "Air Jordan 3 Retro GS  Santa  Release Date DM0967 - 601",
-          "url": "https://wwd.com/footwear-news/sneaker-news/air-jordan-3-retro-gs-santa-release-date-dm0967-601-1239372663/",
-          "domain": "wwd.com"
-        },
-        {
-          "title": "Strictly star James Jordan wife Ola cryptic four - word message after marriage split",
-          "url": "https://www.aol.co.uk/articles/strictly-star-james-jordans-wife-145300000.html",
-          "domain": "aol.co.uk"
-        },
-        {
-          "title": "Jordan Chan lookalike in China leaves netizens speculating if he was the brother sold as a child",
-          "url": "https://www.asiaone.com:443/entertainment/jordan-chan-lookalike-china-sold-brother-speculations",
-          "domain": "asiaone.com"
-        },
-        {
-          "title": "$2 . 1m fraud : Wike son claimed father approval for Abuja land allocations , businessman tells EFCC - Latest News In Nigeria , Nigeria News Today , Your Online Nigerian Newspaper",
-          "url": "https://www.nigerianeye.com/2026/10/21m-fraud-wikes-son-claimed-fathers.html",
-          "domain": "nigerianeye.com"
-        }
-      ],
+      "headlines": [],
       "toneReading": "No recent coverage found.",
       "volumeReading": null
     },
@@ -423,7 +486,7 @@
       "conflict": 20,
       "economic": 34,
       "regulatory": 36,
-      "trend": "up",
+      "trend": "flat",
       "note": "Live-updated from recent news coverage.",
       "headlines": [],
       "toneReading": "Coverage over the last 3 days has been mixed or neutral.",
@@ -438,28 +501,7 @@
       "regulatory": 34,
       "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [
-        {
-          "title": "Kenya : Matteo Marchisio Assumes Ifad Country Director Role in Kenya",
-          "url": "https://allafrica.com/stories/202610160197.html",
-          "domain": "allafrica.com"
-        },
-        {
-          "title": "MKU founder Simon Gicharu appointed for fresh three - year term as KICD chair",
-          "url": "https://www.the-star.co.ke/news/2026-10-17-mku-founder-gicharu-appointed-for-fresh-3-year-term-as-kicd-chair",
-          "domain": "the-star.co.ke"
-        },
-        {
-          "title": "Kenya Ebola cases rise to 7 , including health workers who cared for the first patient \u2013 Winnipeg Free Press",
-          "url": "https://www.winnipegfreepress.com/arts-and-life/life/health/2026/10/17/kenyas-ebola-cases-rise-to-7-including-health-workers-who-cared-for-the-first-patient",
-          "domain": "winnipegfreepress.com"
-        },
-        {
-          "title": "Kenya vs Ethiopia GDP [ $ billions ]",
-          "url": "https://www.the-star.co.ke/news/infographics/2026-10-19-kenya-vs-ethiopia-gdp-billions",
-          "domain": "the-star.co.ke"
-        }
-      ],
+      "headlines": [],
       "toneReading": "No recent coverage found.",
       "volumeReading": null
     },
@@ -524,7 +566,28 @@
       "regulatory": 46,
       "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [],
+      "headlines": [
+        {
+          "title": "Trump Says Renaming New Mexico Would Boost House Prices Is He Right ?",
+          "url": "https://www.newsweek.com/trump-says-renaming-new-mexico-would-boost-house-prices-is-he-right-12597522",
+          "domain": "newsweek.com"
+        },
+        {
+          "title": "Trump takes aim at a US state - again - in his latest push to remake the nation maps",
+          "url": "https://www.independent.co.uk/news/world/americas/us-politics/trump-new-mexico-rename-america-map-b3069533.html",
+          "domain": "independent.co.uk"
+        },
+        {
+          "title": "Donald Trump issues stark warning to New Mexico",
+          "url": "https://www.thenews.com.pk/latest/1420601-donald-trump-issues-stark-warning-to-new-mexico",
+          "domain": "thenews.com.pk"
+        },
+        {
+          "title": "Trump Proposes Renaming New Mexico To  New America",
+          "url": "https://wccfradio.iheart.com/content/2026-10-19-trump-proposes-renaming-new-mexico-to-new-america/",
+          "domain": "wccfradio.iheart.com"
+        }
+      ],
       "toneReading": "No recent coverage found.",
       "volumeReading": null
     },
@@ -535,30 +598,9 @@
       "conflict": 20,
       "economic": 38,
       "regulatory": 18,
-      "trend": "down",
+      "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [
-        {
-          "title": "Morocco Delivers Military Supplies to Liberia",
-          "url": "https://allafrica.com/stories/202610200175.html",
-          "domain": "allafrica.com"
-        },
-        {
-          "title": "Morocco Thrash Egypt 6 - 0 to Reach Futsal AFCON 2026 Final",
-          "url": "https://www.moroccoworldnews.com/2026/10/342952/morocco-thrash-egypt-6-0-to-reach-futsal-afcon-2026-final/",
-          "domain": "moroccoworldnews.com"
-        },
-        {
-          "title": "Swedish TV Commends Morocco Security Cooperation After Fifth Arrest in One Month",
-          "url": "https://www.moroccoworldnews.com/2026/10/342284/swedish-tv-commends-moroccos-security-cooperation-after-fifth-arrest-in-one-month/",
-          "domain": "moroccoworldnews.com"
-        },
-        {
-          "title": "Mohamed Ouahbi to Announce Morocco Squad for Niger Qualifiers on November 5",
-          "url": "https://www.moroccoworldnews.com/2026/10/342757/mohamed-ouahbi-to-announce-morocco-squad-for-niger-qualifiers-on-november-5/",
-          "domain": "moroccoworldnews.com"
-        }
-      ],
+      "headlines": [],
       "toneReading": "No recent coverage found.",
       "volumeReading": null
     },
@@ -569,7 +611,7 @@
       "conflict": 78,
       "economic": 72,
       "regulatory": 70,
-      "trend": "up",
+      "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
       "headlines": [],
       "toneReading": "No recent coverage found.",
@@ -657,7 +699,28 @@
       "regulatory": 30,
       "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [],
+      "headlines": [
+        {
+          "title": "China envoy urges dialogue on West Philippine Sea tensions",
+          "url": "https://www.philstar.com/headlines/2026/10/16/2563589/china-envoy-urges-dialogue-west-philippine-sea-tensions",
+          "domain": "philstar.com"
+        },
+        {
+          "title": "Bosch Home Philippines redefines modern kitchens with Black Series 8 Cooking Range",
+          "url": "https://www.philstar.com/lifestyle/modern-living/2026/10/16/2562936/bosch-home-philippines-redefines-modern-kitchens-black-series-8-cooking-range",
+          "domain": "philstar.com"
+        },
+        {
+          "title": "China - Philippines War of Words Raises South China Sea Tensions",
+          "url": "https://www.voanews.com/a/china-philippines-war-of-words-raises-south-china-sea-tensions-20261019/8212818.html",
+          "domain": "voanews.com"
+        },
+        {
+          "title": "SALMON SECURES $140 MILLION ( PHP 8 . 8 BILLION ) TO DOUBLE DOWN ON THE GROWTH OPPORTUNITY IN THE PHILIPPINES",
+          "url": "https://www.thehindubusinessline.com/brandhub/pr-release/salmon-secures-140-million-php-88-billion-to-double-down-on-the-growth-opportunity-in-the-philippines/article71602180.ece",
+          "domain": "thehindubusinessline.com"
+        }
+      ],
       "toneReading": "No recent coverage found.",
       "volumeReading": null
     },
@@ -668,9 +731,30 @@
       "conflict": 28,
       "economic": 22,
       "regulatory": 20,
-      "trend": "up",
+      "trend": "flat",
       "note": "Live-updated from recent news coverage.",
-      "headlines": [],
+      "headlines": [
+        {
+          "title": "Poland Refuses To Surrender Its Borders To Brussels",
+          "url": "https://www.armstrongeconomics.com/international-news/poland/poland-refuses-to-surrender-its-borders-to-brussels/",
+          "domain": "armstrongeconomics.com"
+        },
+        {
+          "title": "Poland Right To Defend Its Borders | Armstrong Economics",
+          "url": "https://www.armstrongeconomics.com/international-news/poland/polands-right-to-defend-its-borders/",
+          "domain": "armstrongeconomics.com"
+        },
+        {
+          "title": "Pure safety : As migrants riot in France , another nation touts  SHOOT THEM DEAD  border policy * WorldNetDaily * by Ron Strom",
+          "url": "https://www.wnd.com/2026/10/pure-safety-as-migrants-riot-france-another-nation/",
+          "domain": "wnd.com"
+        },
+        {
+          "title": "Polish PM Donald Tusk arrives in New Delhi ; bilateral talks with PM Modi , India - Poland Business Forum on agenda",
+          "url": "https://aninews.in/news/world/asia/polish-pm-donald-tusk-arrives-in-new-delhi-bilateral-talks-with-pm-modi-india-poland-business-forum-on-agenda20261022003623/",
+          "domain": "aninews.in"
+        }
+      ],
       "toneReading": "Coverage over the last 3 days has leaned negative.",
       "volumeReading": "Coverage volume has been unusually high this week."
     },
@@ -737,15 +821,15 @@
     {
       "name": "Serbia",
       "region": "Europe",
-      "political": 52,
-      "conflict": 36,
+      "political": 39,
+      "conflict": 34,
       "economic": 43,
       "regulatory": 40,
-      "trend": "up",
-      "note": "Live-updated from recent news coverage.",
+      "trend": "down",
+      "note": "No fresh coverage this cycle; showing baseline.",
       "headlines": [],
-      "toneReading": "Coverage over the last 3 days has leaned negative.",
-      "volumeReading": "Coverage volume has been unusually high this week."
+      "toneReading": "No recent coverage found.",
+      "volumeReading": null
     },
     {
       "name": "Singapore",
@@ -769,28 +853,7 @@
       "regulatory": 42,
       "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [
-        {
-          "title": "Somalia , T\u00fcrkiye Discuss Cooperation On Fisheries and Blue Economy",
-          "url": "https://allafrica.com/stories/202610190347.html",
-          "domain": "allafrica.com"
-        },
-        {
-          "title": "Somalia : Somali Man Speaks Out On Mogadishu Streets About El Ni\u00f1o Threats .",
-          "url": "https://allafrica.com/stories/202610200090.html",
-          "domain": "allafrica.com"
-        },
-        {
-          "title": "Somalia and Iraq Discuss Expanding Trade and Livestock Exports",
-          "url": "https://allafrica.com/stories/202610190345.html",
-          "domain": "allafrica.com"
-        },
-        {
-          "title": "Somalia : Somali Upper House Speaker Meets New EU Ambassador in Mogadishu",
-          "url": "https://allafrica.com/stories/202610210370.html",
-          "domain": "allafrica.com"
-        }
-      ],
+      "headlines": [],
       "toneReading": "No recent coverage found.",
       "volumeReading": null
     },
@@ -840,7 +903,7 @@
       "conflict": 94,
       "economic": 86,
       "regulatory": 80,
-      "trend": "up",
+      "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
       "headlines": [],
       "toneReading": "No recent coverage found.",
@@ -868,28 +931,7 @@
       "regulatory": 20,
       "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [
-        {
-          "title": "Taiwan plans to buy liquefied natural gas from Alaska pipeline project",
-          "url": "https://japantoday.com/category/business/taiwan-plans-to-buy-liquefied-natural-gas-from-alaska-pipeline-project",
-          "domain": "japantoday.com"
-        },
-        {
-          "title": "China Using Coast Guard Patrols to Assert Authority East of Taiwan , US Commission Chair Says",
-          "url": "https://www.theepochtimes.com/china/china-using-coast-guard-patrols-to-assert-authority-east-of-taiwan-us-commission-chair-says-6106647",
-          "domain": "theepochtimes.com"
-        },
-        {
-          "title": "Taiwan tells its people to shun Chinese anniversary events for revolutionary hero",
-          "url": "https://www.freemalaysiatoday.com/category/world/2026/10/16/taiwan-tells-its-people-to-shun-chinese-anniversary-events-for-revolutionary-hero",
-          "domain": "freemalaysiatoday.com"
-        },
-        {
-          "title": "Explainer : Taiwan Alaska LNG Bet",
-          "url": "https://www.voanews.com/a/8211677.html",
-          "domain": "voanews.com"
-        }
-      ],
+      "headlines": [],
       "toneReading": "No recent coverage found.",
       "volumeReading": null
     },
@@ -935,15 +977,15 @@
     {
       "name": "Ukraine",
       "region": "Europe",
-      "political": 62,
-      "conflict": 92,
+      "political": 64,
+      "conflict": 100,
       "economic": 70,
       "regulatory": 58,
-      "trend": "flat",
-      "note": "No fresh coverage this cycle; showing baseline.",
+      "trend": "up",
+      "note": "Live-updated from recent news coverage.",
       "headlines": [],
-      "toneReading": "No recent coverage found.",
-      "volumeReading": null
+      "toneReading": "Coverage over the last 3 days has leaned negative.",
+      "volumeReading": "Coverage volume has been unusually high this week."
     },
     {
       "name": "United Kingdom",
@@ -954,7 +996,28 @@
       "regulatory": 22,
       "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [],
+      "headlines": [
+        {
+          "title": "SNL united kingdom Host James Norton Has Fun Ahead of This Weekend Show",
+          "url": "https://bleedingcool.com/tv/snl-uk-host-james-norton-has-a-little-fun-ahead-of-this-weekends-show/",
+          "domain": "bleedingcool.com"
+        },
+        {
+          "title": "SNL united kingdom : Magliano , Norton & The Street  The More You Know  Moment",
+          "url": "https://bleedingcool.com/tv/snl-uk-magliano-norton-the-streets-the-more-you-know-moment/",
+          "domain": "bleedingcool.com"
+        },
+        {
+          "title": "Paddy Power owner to cut 1 , 400 jobs across Ireland and the united kingdom",
+          "url": "https://www.irishmirror.ie/news/irish-news/paddy-power-owner-cut-1400-37791033",
+          "domain": "irishmirror.ie"
+        },
+        {
+          "title": "UK could quickly re - enter EU with  Switzerland plu deal , senior MEP says",
+          "url": "https://www.aol.co.uk/articles/uk-could-quickly-enter-eu-070055000.html",
+          "domain": "aol.co.uk"
+        }
+      ],
       "toneReading": "No recent coverage found.",
       "volumeReading": null
     },
@@ -974,15 +1037,15 @@
     {
       "name": "Venezuela",
       "region": "Latin America",
-      "political": 82,
+      "political": 71,
       "conflict": 48,
       "economic": 88,
       "regulatory": 80,
-      "trend": "flat",
-      "note": "No fresh coverage this cycle; showing baseline.",
+      "trend": "down",
+      "note": "Live-updated from recent news coverage.",
       "headlines": [],
-      "toneReading": "No recent coverage found.",
-      "volumeReading": null
+      "toneReading": "Coverage over the last 3 days has been mixed or neutral.",
+      "volumeReading": "Coverage volume has been unusually high this week."
     },
     {
       "name": "Vietnam",
@@ -993,28 +1056,7 @@
       "regulatory": 30,
       "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [
-        {
-          "title": "Vietnam signs free trade deal with four European countries",
-          "url": "https://www.dw.com/en/vietnam-signs-free-trade-deal-with-four-european-countries/a-79691812",
-          "domain": "dw.com"
-        },
-        {
-          "title": "65 Vietnamese Leaders and Enterprises Honored at Asia Pacific Enterprise Awards 2026 for Forging Legacies of Excellence",
-          "url": "https://www.manilatimes.net/2026/10/16/tmt-newswire/pr-newswire/65-vietnamese-leaders-and-enterprises-honored-at-asia-pacific-enterprise-awards-2026-for-forging-legacies-of-excellence/2447431",
-          "domain": "manilatimes.net"
-        },
-        {
-          "title": "Vietnam signs free - trade pact with European countries including Norway , Switzerland",
-          "url": "https://dunyanews.tv/en/World/978355-vietnam-signs-freetrade-pact-with-european-countries-including-norway",
-          "domain": "dunyanews.tv"
-        },
-        {
-          "title": "Vietnam EFTA Trade Deal Signed in Hanoi",
-          "url": "https://en.shafaqna.com/485826/vietnam-efta-trade-deal/",
-          "domain": "en.shafaqna.com"
-        }
-      ],
+      "headlines": [],
       "toneReading": "No recent coverage found.",
       "volumeReading": null
     },
@@ -1034,15 +1076,15 @@
     {
       "name": "Zimbabwe",
       "region": "Sub-Saharan Africa",
-      "political": 57,
+      "political": 61,
       "conflict": 15,
       "economic": 65,
       "regulatory": 64,
       "trend": "flat",
-      "note": "Live-updated from recent news coverage.",
+      "note": "No fresh coverage this cycle; showing baseline.",
       "headlines": [],
-      "toneReading": "Coverage over the last 3 days has been mixed or neutral.",
-      "volumeReading": "Coverage volume has been unusually high this week."
+      "toneReading": "No recent coverage found.",
+      "volumeReading": null
     }
   ],
   "alerts": [
