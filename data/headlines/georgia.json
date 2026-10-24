@@ -1,5 +1,534 @@
 {
   "country": "Georgia",
-  "generatedAt": "2026-10-24T10:18:11.398417+00:00",
-  "headlines": []
+  "generatedAt": "2026-10-24T15:24:06.387429+00:00",
+  "headlines": [
+    {
+      "title": "Georgia inmate dies of tuberculosis",
+      "url": "https://www.wsbtv.com/news/local/georgia-inmate-dies-tuberculosis/VQRBPN76BRDZ7BDM7TEGWN7ZSY/",
+      "domain": "wsbtv.com",
+      "date": "Oct 23, 2026"
+    },
+    {
+      "title": "Armenia Prosecutor General and Georgia Prime Minister discussed issues related to cooperation between the competent authorities of the two countries",
+      "url": "https://tert.am/en/news/2026/10/23/Armenian%20Prosecutor%20General%20Anna%20Vardapetyan/4287813",
+      "domain": "tert.am",
+      "date": "Oct 23, 2026"
+    },
+    {
+      "title": "Government continues talks with Azerbaijan , Armenia on border delimitation . Georgian PM",
+      "url": "https://tert.am/en/news/2026/10/22/Irakli%20Kobakhidze/4287685",
+      "domain": "tert.am",
+      "date": "Oct 22, 2026"
+    },
+    {
+      "title": "$1 million lottery ticket sold at metro Atlanta Kroger",
+      "url": "https://www.wsbtv.com/news/local/gwinnett-county/1-million-lottery-ticket-sold-metro-atlanta-kroger/L2N2OOIWOFFTVICWUDKQPJNQ7E/",
+      "domain": "wsbtv.com",
+      "date": "Oct 21, 2026"
+    },
+    {
+      "title": "Edwards and Tolbert spar over Georgia utility rate hikes",
+      "url": "https://www.fox5atlanta.com/news/edwards-tolbert-spar-over-georgia-utility-rate-hikes",
+      "domain": "fox5atlanta.com",
+      "date": "Oct 21, 2026"
+    },
+    {
+      "title": "Georgia Lt . Governor debate : Dolezal and McLaurin spar in Atlanta",
+      "url": "https://www.fox5atlanta.com/news/georgia-lt-governor-debate-dolezal-mclaurin-spar-atlanta",
+      "domain": "fox5atlanta.com",
+      "date": "Oct 21, 2026"
+    },
+    {
+      "title": "Hubbard challenges absent PSC rival in Atlanta debate",
+      "url": "https://www.fox5atlanta.com/news/hubbard-challenges-absent-psc-rival-atlanta-debate",
+      "domain": "fox5atlanta.com",
+      "date": "Oct 21, 2026"
+    },
+    {
+      "title": "Arab News | Georgia top court hears lawsuit to ban main opposition parties in latest crackdown on dissent",
+      "url": "https://www.arabnews.com/world/georgias-top-court-hears-lawsuit-to-ban-main-opposition-parties-in-latest-crackdown-on-dissent-3007594",
+      "domain": "arabnews.com",
+      "date": "Oct 21, 2026"
+    },
+    {
+      "title": "Georgia top court hears lawsuit to ban main opposition parties in latest crackdown on dissent \u2013 Winnipeg Free Press",
+      "url": "https://www.winnipegfreepress.com/world/2026/10/21/georgias-top-court-hears-lawsuit-to-ban-main-opposition-parties-in-latest-crackdown-on-dissent",
+      "domain": "winnipegfreepress.com",
+      "date": "Oct 21, 2026"
+    },
+    {
+      "title": "Georgia Court Hears Ruling Party Bid to Ban Pro - EU Opposition",
+      "url": "https://www.kyivpost.com/post/87744",
+      "domain": "kyivpost.com",
+      "date": "Oct 21, 2026"
+    },
+    {
+      "title": "Forever chemical in all of Georgia waterways that have been tested , group says",
+      "url": "https://www.wtoc.com/2026/10/20/forever-chemicals-all-georgia-waterways-that-have-been-tested-group-says/",
+      "domain": "wtoc.com",
+      "date": "Oct 21, 2026"
+    },
+    {
+      "title": "Forever chemical found in Chattahoochee River , several other Georgia waterways \u2013 WSB - TV Channel 2",
+      "url": "https://www.wsbtv.com/news/local/forever-chemicals-found-chattahoochee-river-several-other-georgia-waterways/OKOMZBOIB5BEFPYRKXE7DHHFSM/",
+      "domain": "wsbtv.com",
+      "date": "Oct 21, 2026"
+    },
+    {
+      "title": "Jackson outlines vision for Georgia in bid for governor",
+      "url": "https://www.wtoc.com/2026/10/20/jackson-outlines-vision-georgia-bid-governor/",
+      "domain": "wtoc.com",
+      "date": "Oct 21, 2026"
+    },
+    {
+      "title": "Tracking early voting data in SC , NC , Georgia",
+      "url": "https://www.wyff4.com/article/early-voting-data-sc-nc-georgia/74193979",
+      "domain": "wyff4.com",
+      "date": "Oct 20, 2026"
+    },
+    {
+      "title": "Georgia Lottery players win big in Powerball drawing , online game",
+      "url": "https://www.wsbtv.com/news/local/georgia-lottery-players-win-big-powerball-drawing-online-game/5TAGI4GUNJAZBAJHDVL6EPQ4ZE/",
+      "domain": "wsbtv.com",
+      "date": "Oct 20, 2026"
+    },
+    {
+      "title": "Georgia Faces New Test As Court Weighs Ban On 5 Opposition Parties",
+      "url": "https://www.rferl.org/a/georgia-faces-new-test-as-court-weighs-ban-on-five-opposition-parties/33880171.html",
+      "domain": "rferl.org",
+      "date": "Oct 20, 2026"
+    },
+    {
+      "title": "Georgia Peanut Commission working to strengthen industry with research , education , promotion , and advocacy at 2026 Sunbelt Ag Expo",
+      "url": "https://www.walb.com/2026/10/14/georgia-peanut-commission-celebrates-georgias-agricultural-heritage-2026-sunbelt-ag-expo/",
+      "domain": "walb.com",
+      "date": "Oct 20, 2026"
+    },
+    {
+      "title": "AJC / UGA poll : Bottoms , Jackson in dead heat in Georgia governor race",
+      "url": "https://www.wsbtv.com/news/local/ajcuga-poll-bottoms-jackson-dead-heat-georgia-governor-race/76TN3NROXRG4HDILVYDUMJS4RQ/",
+      "domain": "wsbtv.com",
+      "date": "Oct 20, 2026"
+    },
+    {
+      "title": "Georgia midterm early voting : Over 940 , 000 cast ballots in first week",
+      "url": "https://www.fox5atlanta.com/news/georgia-midterm-early-voting-over-940000-cast-ballots-first-week",
+      "domain": "fox5atlanta.com",
+      "date": "Oct 20, 2026"
+    },
+    {
+      "title": "New THC caps threaten 225 , 800 jobs nationwide , up to $1B in Georgia sales",
+      "url": "https://www.fox5atlanta.com/news/new-thc-caps-threaten-225800-jobs-nationwide-up-1b-georgia-sales",
+      "domain": "fox5atlanta.com",
+      "date": "Oct 20, 2026"
+    },
+    {
+      "title": "Six Flags Over Georgia Guests More  Cautiou After Man Fatal Fall",
+      "url": "https://radaronline.com/p/six-flags-over-georgia-guests-cautious-fatal-fall-goliath/",
+      "domain": "radaronline.com",
+      "date": "Oct 20, 2026"
+    },
+    {
+      "title": "Trump mocks the name Mohammad in campaign speech",
+      "url": "https://www.fox4news.com/news/trump-mocks-name-mohammad-campaign-speech",
+      "domain": "fox4news.com",
+      "date": "Oct 19, 2026"
+    },
+    {
+      "title": "Georgia Lottery player wins $125K jackpot",
+      "url": "https://www.wsbtv.com/news/local/georgia-lottery-player-wins-125k-jackpot/JBIMFUAOSNCAXAXPT5PEAZSXH4/",
+      "domain": "wsbtv.com",
+      "date": "Oct 19, 2026"
+    },
+    {
+      "title": "Eric Dane describes terrifying moment daughter saved him from drowning in posthumous memoir",
+      "url": "https://pagesix.com/2026/10/18/celebrity-news/eric-dane-describes-terrifying-moment-daughter-saved-him-from-drowning-in-posthumous-memoir/",
+      "domain": "pagesix.com",
+      "date": "Oct 18, 2026"
+    },
+    {
+      "title": "In a First , 5 of Top 7 Teams Lose in 1 Day",
+      "url": "https://www.newser.com/story/398355/polls-top-7-bloc-has-worst-day-ever.html",
+      "domain": "newser.com",
+      "date": "Oct 18, 2026"
+    },
+    {
+      "title": "Alex McPherson kicks 34 - yard field goal as time expires to lift Auburn over No . 1 Georgia 27 - 24 | The Arkansas Democrat - Gazette",
+      "url": "https://www.arkansasonline.com/news/2026/oct/18/alex-mcpherson-kicks-34-yard-field-goal-as-time/",
+      "domain": "arkansasonline.com",
+      "date": "Oct 18, 2026"
+    },
+    {
+      "title": "Georgia Kirby Smart shares blunt response after Bulldog late collapse against Auburn",
+      "url": "https://www.thebiglead.com/georgias-kirby-smart-bulldogs-collapse-auburn/",
+      "domain": "thebiglead.com",
+      "date": "Oct 18, 2026"
+    },
+    {
+      "title": "Alex McPherson kicks 34 - yard field goal as time expires to lift Auburn over No . 1 Georgia 27 - 24",
+      "url": "https://www.pressdemocrat.com/2026/10/17/alex-mcpherson-kicks-34-yard-field-goal-as-time-expires-to-lift-auburn-over-no-1-georgia-27-24/",
+      "domain": "pressdemocrat.com",
+      "date": "Oct 18, 2026"
+    },
+    {
+      "title": "Atlanta professor retained by Christa Pike attorneys warned Tennessee about lethal injection risk \u2013 WSB - TV Channel 2",
+      "url": "https://www.wsbtv.com/news/local/atlanta-professor-retained-by-christa-pikes-attorneys-warned-tennessee-about-lethal-injection-risk/LI7O4AFO7VATXIQIYQTUOK5GOA/",
+      "domain": "wsbtv.com",
+      "date": "Oct 02, 2026"
+    },
+    {
+      "title": "Georgia crews fight invasive yellow - legged hornet spread",
+      "url": "https://www.fox5atlanta.com/news/georgia-crews-fight-invasive-yellow-legged-hornet-spread",
+      "domain": "fox5atlanta.com",
+      "date": "Oct 02, 2026"
+    },
+    {
+      "title": "Girl Wins $164 Million Lawsuit from Hotel in Sex - Trafficking Case",
+      "url": "https://www.breitbart.com/immigration/2026/10/01/girl-wins-164-million-lawsuit-from-hotel-in-sex-trafficking-case/",
+      "domain": "breitbart.com",
+      "date": "Oct 02, 2026"
+    },
+    {
+      "title": "Georgia Viaduct Main Street exit to close for three months for construction | Daily Hive",
+      "url": "https://dailyhive.com/vancouver/georgia-viaduct-main-street-construction-closure",
+      "domain": "dailyhive.com",
+      "date": "Oct 01, 2026"
+    },
+    {
+      "title": "Empire Roofing & Exteriors Shares Roof Inspection Checklist",
+      "url": "https://www.openpr.com/news/4650286/empire-roofing-exteriors-shares-roof-inspection-checklist",
+      "domain": "openpr.com",
+      "date": "Oct 01, 2026"
+    },
+    {
+      "title": "California Wildfire Season Puts New Focus on Window Upgrades as",
+      "url": "https://www.openpr.com/news/4650302/california-wildfire-season-puts-new-focus-on-window-upgrades-as",
+      "domain": "openpr.com",
+      "date": "Oct 01, 2026"
+    },
+    {
+      "title": "Camden County residents meet to discuss data center concerns",
+      "url": "https://www.actionnewsjax.com/news/local/camden-county-residents-meet-discuss-data-center-concerns-ahead-moratorium-end/6KSDVE7F2NC7XBEENZ6IAQ6MM4/",
+      "domain": "actionnewsjax.com",
+      "date": "Oct 01, 2026"
+    },
+    {
+      "title": "Georgia election board will not immediately move ahead with GOP plan to fix flaw in election system",
+      "url": "https://www.clickondetroit.com/news/politics/2026/10/01/georgia-election-board-will-not-immediately-move-ahead-with-gop-plan-to-fix-flaw-in-election-system/",
+      "domain": "clickondetroit.com",
+      "date": "Oct 01, 2026"
+    },
+    {
+      "title": "Google Just Went Nuclear in Georgia . These 2 Industrial Stocks Get Paid to Build It .",
+      "url": "https://www.fool.com/investing/2026/10/01/google-just-went-nuclear-in-georgia-these-2-indust/?source=iedfolrf0000001",
+      "domain": "fool.com",
+      "date": "Oct 01, 2026"
+    },
+    {
+      "title": "Southeast Bulloch Middle School teacher honored with state mentoring award",
+      "url": "https://www.wtoc.com/2026/10/01/southeast-bulloch-middle-school-teacher-honored-with-state-mentoring-award/",
+      "domain": "wtoc.com",
+      "date": "Oct 01, 2026"
+    },
+    {
+      "title": "Examining Georgia death row after Tennessee execution fails",
+      "url": "https://www.fox5atlanta.com/news/examining-georgias-death-row-after-tennessee-execution-fails",
+      "domain": "fox5atlanta.com",
+      "date": "Oct 01, 2026"
+    },
+    {
+      "title": "Georgia 2026 midterm election : The major races and candidates",
+      "url": "https://www.fox5atlanta.com/news/draft-georgias-2026-midterm-election-major-races-candidates",
+      "domain": "fox5atlanta.com",
+      "date": "Oct 01, 2026"
+    },
+    {
+      "title": "Good Day Atlanta Viewer Information : Oct . 1 , 2026",
+      "url": "https://www.fox5atlanta.com/news/good-day-atlanta-viewer-information-october-1-2026",
+      "domain": "fox5atlanta.com",
+      "date": "Oct 01, 2026"
+    },
+    {
+      "title": "Jared Curtis returns to Athens as Vanderbilt starter after flipping from Georgia \u2013 Winnipeg Free Press",
+      "url": "https://www.winnipegfreepress.com/uncategorized/2026/10/01/jared-curtis-returns-to-athens-as-vanderbilts-starter-after-flipping-from-georgia",
+      "domain": "winnipegfreepress.com",
+      "date": "Oct 01, 2026"
+    },
+    {
+      "title": "Ga . officials launch National Pedestrian Safety Month campaign in Augusta",
+      "url": "https://www.wrdw.com/2026/10/01/ga-officials-launch-national-pedestrian-safety-month-campaign-augusta/",
+      "domain": "wrdw.com",
+      "date": "Oct 01, 2026"
+    },
+    {
+      "title": "Ga . ports tied to more than 19K jobs in the CSRA , study finds",
+      "url": "https://www.wrdw.com/2026/10/01/ga-ports-tied-more-than-19k-jobs-csra-study-finds/",
+      "domain": "wrdw.com",
+      "date": "Oct 01, 2026"
+    },
+    {
+      "title": "Lanes reopen on I - 95 following vehicle fire , says GDOT",
+      "url": "https://www.wtoc.com/2026/10/01/lanes-reopen-i-95-following-vehicle-fire-says-gdot/",
+      "domain": "wtoc.com",
+      "date": "Oct 01, 2026"
+    },
+    {
+      "title": "Georgia leaf watch : First fall colors peek through the green",
+      "url": "https://www.fox5atlanta.com/news/georgia-leaf-watch-first-fall-colors-peek-through-green",
+      "domain": "fox5atlanta.com",
+      "date": "Oct 01, 2026"
+    },
+    {
+      "title": "Georgia remembers Jimmy Carter on his 102nd birthday",
+      "url": "https://www.fox5atlanta.com/news/georgia-remembers-jimmy-carter-his-102nd-birthday",
+      "domain": "fox5atlanta.com",
+      "date": "Oct 01, 2026"
+    },
+    {
+      "title": "National Register of Historic Places adds 4 Georgia landmarks",
+      "url": "https://www.fox5atlanta.com/news/national-register-historic-places-adds-4-georgia-landmarks",
+      "domain": "fox5atlanta.com",
+      "date": "Oct 01, 2026"
+    },
+    {
+      "title": "Federal judge sides with Georgia in lawsuit over voter private information \u2013 95 . 5 WSB",
+      "url": "https://www.wsbradio.com/news/local/federal-judge-sides-with-georgia-lawsuit-over-voters-private-information/OXTLVIZXMJHMDCCHBMG3VJOUAM/",
+      "domain": "wsbradio.com",
+      "date": "Oct 01, 2026"
+    },
+    {
+      "title": "From shuttered mills to jet engines : Can Delta green fuel plan keep Georgia forests profitable ?",
+      "url": "https://www.wtoc.com/2026/09/30/shuttered-mills-jet-engines-can-deltas-green-fuel-plan-keep-georgia-forests-profitable/",
+      "domain": "wtoc.com",
+      "date": "Oct 01, 2026"
+    },
+    {
+      "title": "Federal judge dismisses DOJ lawsuit seeking Georgia unredacted voter records \u2013 WSB - TV Channel 2",
+      "url": "https://www.wsbtv.com/news/local/federal-judge-dismisses-doj-lawsuit-seeking-georgias-unredacted-voter-records/JIPTHFWC3NDSZDWUZR6DX2MM5M/",
+      "domain": "wsbtv.com",
+      "date": "Oct 01, 2026"
+    },
+    {
+      "title": "Federal judge dismisses DOJ lawsuit against Raffensperger over voter rolls",
+      "url": "https://www.fox5atlanta.com/news/federal-judge-dismisses-doj-lawsuit-against-raffensperger-over-voter-rolls",
+      "domain": "fox5atlanta.com",
+      "date": "Oct 01, 2026"
+    },
+    {
+      "title": "Georgia breaks state tourism record for fourth consecutive year",
+      "url": "https://www.wsbradio.com/news/local/georgia-breaks-tourism-record-fourth-consecutive-year/ZQU7QPUPHJE2ZJ3E2BIKZQH3FQ/",
+      "domain": "wsbradio.com",
+      "date": "Oct 01, 2026"
+    },
+    {
+      "title": "Judge dismisses DOJ lawsuit seeking copies of Georgia unredacted voter list \u2013 95 . 5 WSB",
+      "url": "https://www.wsbradio.com/news/local/judge-dismisses-trump-administration-lawsuit-seeking-copies-georgias-unredacted-voter-list/QL3VZXMTFFGQ3B7N6B7KOHO63E/",
+      "domain": "wsbradio.com",
+      "date": "Oct 01, 2026"
+    },
+    {
+      "title": "GOP doubts grow over Senate wins in Georgia and North Carolina",
+      "url": "https://abcnews.com/Politics/gop-doubts-grow-senate-wins-georgia-north-carolina/story?id=136834817",
+      "domain": "abcnews.com",
+      "date": "Sep 30, 2026"
+    },
+    {
+      "title": "Judge shuts down Trump DOJ gambit for private data it refused to keep secret",
+      "url": "https://www.rawstory.com/department-of-justice-2677969428/",
+      "domain": "rawstory.com",
+      "date": "Sep 30, 2026"
+    },
+    {
+      "title": "Opinion : AJC readers write",
+      "url": "https://www.ajc.com/opinion/2026/09/opinion-ajc-readers-write-2/",
+      "domain": "ajc.com",
+      "date": "Sep 30, 2026"
+    },
+    {
+      "title": "Celebrity Traitors star Jerry Hall , 70 , looks incredible on rare outing with famous daughter",
+      "url": "https://www.aol.co.uk/articles/celebrity-traitors-star-jerry-hall-131302000.html",
+      "domain": "aol.co.uk",
+      "date": "Sep 30, 2026"
+    },
+    {
+      "title": "Georgia Tech Tops List Of Best Value Colleges | Newsradio 600 KOGO",
+      "url": "https://kogo.iheart.com/content/2026-09-30-georgia-tech-tops-list-of-best-value-colleges/",
+      "domain": "kogo.iheart.com",
+      "date": "Sep 30, 2026"
+    },
+    {
+      "title": "Georgia Tech Tops List Of Best Value Colleges | NewsTalk WMEQ",
+      "url": "https://wmeq.iheart.com/content/2026-09-30-georgia-tech-tops-list-of-best-value-colleges/",
+      "domain": "wmeq.iheart.com",
+      "date": "Sep 30, 2026"
+    },
+    {
+      "title": "Georgia Tech Tops List Of Best Value Colleges | News Talk 1090 WKBZ - AM",
+      "url": "https://newstalk1090.iheart.com/content/2026-09-30-georgia-tech-tops-list-of-best-value-colleges/",
+      "domain": "newstalk1090.iheart.com",
+      "date": "Sep 30, 2026"
+    },
+    {
+      "title": "Georgia Tech Tops List Of Best Value Colleges | News Radio 1450 WILM",
+      "url": "https://wilm.iheart.com/content/2026-09-30-georgia-tech-tops-list-of-best-value-colleges/",
+      "domain": "wilm.iheart.com",
+      "date": "Sep 30, 2026"
+    },
+    {
+      "title": "Georgia Tech Tops List Of Best Value Colleges | News Radio 1410 AM & 100 . 9 FM",
+      "url": "https://newsradio1410.iheart.com/content/2026-09-30-georgia-tech-tops-list-of-best-value-colleges/",
+      "domain": "newsradio1410.iheart.com",
+      "date": "Sep 30, 2026"
+    },
+    {
+      "title": "Georgia Tech Tops List Of Best Value Colleges | News Radio 1400 WRAK",
+      "url": "https://wrak.iheart.com/content/2026-09-30-georgia-tech-tops-list-of-best-value-colleges/",
+      "domain": "wrak.iheart.com",
+      "date": "Sep 30, 2026"
+    },
+    {
+      "title": "Georgia Tech Tops List Of Best Value Colleges | PowerTalk 1360 KFIV",
+      "url": "https://powertalk1360.iheart.com/content/2026-09-30-georgia-tech-tops-list-of-best-value-colleges/",
+      "domain": "powertalk1360.iheart.com",
+      "date": "Sep 30, 2026"
+    },
+    {
+      "title": "Georgia Tech Tops List Of Best Value Colleges | Sports Radio 800 KXIC",
+      "url": "https://kxic.iheart.com/content/2026-09-30-georgia-tech-tops-list-of-best-value-colleges/",
+      "domain": "kxic.iheart.com",
+      "date": "Sep 30, 2026"
+    },
+    {
+      "title": "Georgia Tech Tops List Of Best Value Colleges",
+      "url": "https://650keni.iheart.com/content/2026-09-30-georgia-tech-tops-list-of-best-value-colleges/",
+      "domain": "650keni.iheart.com",
+      "date": "Sep 30, 2026"
+    },
+    {
+      "title": "Georgia Tech Tops List Of Best Value Colleges | Newsradio 92 . 7 WBEX",
+      "url": "https://wbex.iheart.com/content/2026-09-30-georgia-tech-tops-list-of-best-value-colleges/",
+      "domain": "wbex.iheart.com",
+      "date": "Sep 30, 2026"
+    },
+    {
+      "title": "Georgia Tech Tops List Of Best Value Colleges | Talk Radio 105 . 9",
+      "url": "https://knrs.iheart.com/content/2026-09-30-georgia-tech-tops-list-of-best-value-colleges/",
+      "domain": "knrs.iheart.com",
+      "date": "Sep 30, 2026"
+    },
+    {
+      "title": "Georgia drivers get a break at the pump for the next month",
+      "url": "https://www.wtoc.com/2026/09/29/georgia-drivers-get-break-pump-next-month/",
+      "domain": "wtoc.com",
+      "date": "Sep 29, 2026"
+    },
+    {
+      "title": "University of Georgia student falls out of 8th - floor apartment window while dancing on sofa and survives",
+      "url": "https://nypost.com/2026/09/29/us-news/university-of-georgia-student-falls-out-of-8th-floor-apartment-window-while-dancing-on-sofa-and-survives/",
+      "domain": "nypost.com",
+      "date": "Sep 29, 2026"
+    },
+    {
+      "title": "BSTDB disburses over \u20ac630M for projects in Georgia",
+      "url": "https://www.trend.az/scaucasus/georgia/4229095.html",
+      "domain": "trend.az",
+      "date": "Sep 29, 2026"
+    },
+    {
+      "title": "Gov . Kemp pauses Georgia gas tax as prices stay high",
+      "url": "https://www.fox5atlanta.com/news/gov-kemp-pauses-georgia-gas-tax-prices-stay-high",
+      "domain": "fox5atlanta.com",
+      "date": "Sep 29, 2026"
+    },
+    {
+      "title": "Voter registration in Georgia : Party leaders focus on turnout strategy",
+      "url": "https://www.fox5atlanta.com/news/voter-registration-georgia-party-leaders-focus-turnout-strategy",
+      "domain": "fox5atlanta.com",
+      "date": "Sep 29, 2026"
+    },
+    {
+      "title": "A $10K Quarter : This Georgia Coin Is Valuable Because of an Error",
+      "url": "https://www.aol.com/articles/10-000-quarter-1999-georgia-162144628.html",
+      "domain": "aol.com",
+      "date": "Sep 28, 2026"
+    },
+    {
+      "title": "Augusta lottery player wins over $16K",
+      "url": "https://www.wrdw.com/2026/09/28/augusta-lottery-player-wins-over-16k/",
+      "domain": "wrdw.com",
+      "date": "Sep 28, 2026"
+    },
+    {
+      "title": "Last chance to register : What on the line in Georgia 2026 midterms",
+      "url": "https://www.wrdw.com/2026/09/28/last-chance-register-whats-line-georgias-2026-midterms/",
+      "domain": "wrdw.com",
+      "date": "Sep 28, 2026"
+    },
+    {
+      "title": "Ancient pottery dating back 1 , 000 years discovered",
+      "url": "https://nypost.com/2026/09/28/world-news/ancient-pottery-dating-back-1000-years-discovered/",
+      "domain": "nypost.com",
+      "date": "Sep 28, 2026"
+    },
+    {
+      "title": "Nearly 18 , 000 Georgia students caught vaping as schools push prevention efforts",
+      "url": "https://www.wsbradio.com/news/local/nearly-18000-georgia-students-caught-vaping-schools-push-prevention-efforts/GIY2JJOBKJB6VPFZYKKCIJTBIQ/",
+      "domain": "wsbradio.com",
+      "date": "Sep 28, 2026"
+    },
+    {
+      "title": "15 Best TV Shows Like Ginny & Georgia",
+      "url": "https://www.tvline.com/2269433/best-tv-shows-like-ginny-and-georgia/",
+      "domain": "tvline.com",
+      "date": "Sep 27, 2026"
+    },
+    {
+      "title": "Florida sex offender accused of babysitting ad trap as police investigate potential interstate predator",
+      "url": "https://www.fox13news.com/news/florida-sex-offender-accused-babysitting-ad-trap-police-investigate-potential-interstate-predator",
+      "domain": "fox13news.com",
+      "date": "Sep 27, 2026"
+    },
+    {
+      "title": "Florida sex offender Julius Hunter tied to Craigslist sex attacks , police say",
+      "url": "https://www.foxnews.com/us/florida-sex-offender-accused-babysitting-ad-trap-police-investigate-potential-interstate-predator",
+      "domain": "foxnews.com",
+      "date": "Sep 27, 2026"
+    },
+    {
+      "title": "Cole scores on 85 - yard fumble recovery as No . 2 Georgia rolls over turnover - plagued Oklahoma 41 - 13 | The Arkansas Democrat - Gazette",
+      "url": "https://www.arkansasonline.com/news/2026/sep/27/cole-scores-on-85-yard-fumble-recovery-as-no-2/",
+      "domain": "arkansasonline.com",
+      "date": "Sep 27, 2026"
+    },
+    {
+      "title": "Oklahoma falls 41 - 13 to Georgia as turnovers doom Sooners in Athens",
+      "url": "https://www.newson6.com/university-of-oklahoma/oklahoma-falls-41-13-to-georgia-as-turnovers-doom-sooners-in-athens",
+      "domain": "newson6.com",
+      "date": "Sep 27, 2026"
+    },
+    {
+      "title": "There was just zapping things . Georgia Power equipment failure left woman out $2k \u2013 WSB - TV Channel 2",
+      "url": "https://www.wsbtv.com/news/local/there-was-just-zapping-things-georgia-power-equipment-failure-left-woman-out-2k/4HF6OTJYQNABPEQDLBOF5IUYME/",
+      "domain": "wsbtv.com",
+      "date": "Sep 25, 2026"
+    },
+    {
+      "title": "Raffensperger honors Tattnall County elections office , addresses midterm security",
+      "url": "https://www.wtoc.com/2026/09/24/raffensperger-honors-tattnall-county-elections-office-addresses-midterm-security/",
+      "domain": "wtoc.com",
+      "date": "Sep 24, 2026"
+    },
+    {
+      "title": "Death investigation underway on I - 75 ramp",
+      "url": "https://www.wsbtv.com/news/local/bartow-county/death-investigation-underway-i-75/MUC3MPM3PFFYPA4PWWFWYKMJJ4/",
+      "domain": "wsbtv.com",
+      "date": "Sep 24, 2026"
+    },
+    {
+      "title": "Emory School of Medicine and Georgia Tech launch new MD / MS dual - degree program in robotics",
+      "url": "https://news.emory.edu/stories/2026/09/emory-school-medicine-and-georgia-tech-launch-new-mdms-dual-degree-program-robotics",
+      "domain": "news.emory.edu",
+      "date": "Sep 24, 2026"
+    }
+  ]
 }
