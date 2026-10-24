@@ -1,5 +1,576 @@
 {
   "country": "Singapore",
-  "generatedAt": "2026-10-23T20:59:55.183817+00:00",
-  "headlines": []
+  "generatedAt": "2026-10-24T03:20:27.193774+00:00",
+  "headlines": [
+    {
+      "title": "NEA issues legal notices under haze law to 10 Singapore - based companies including Asia Pulp & Paper",
+      "url": "https://www.straitstimes.com/singapore/environment/nea-issues-legal-notices-under-haze-law-to-10-singapore-based-companies-including-asia-pulp-paper",
+      "domain": "straitstimes.com",
+      "date": "Oct 23, 2026"
+    },
+    {
+      "title": "Visa Partners Singapore Tourism Board to Strengthen Singapore Global Destination Appeal",
+      "url": "https://www.manilatimes.net/2026/10/23/tmt-newswire/pr-newswire/visa-partners-singapore-tourism-board-to-strengthen-singapores-global-destination-appeal/2452440",
+      "domain": "manilatimes.net",
+      "date": "Oct 23, 2026"
+    },
+    {
+      "title": "I dont think we have the fastest car  \u2013 Isack Hadjar highlights Red Bull  weaknesse ahead of United States Grand Prix",
+      "url": "https://www.formula1.com/en/latest/article/i-dont-think-we-have-the-fastest-car-hadjar-highlights-red-bulls-weaknesses-ahead-of-united-states-gp.2ttdHRoEEAi7hCQCc5mABd",
+      "domain": "formula1.com",
+      "date": "Oct 22, 2026"
+    },
+    {
+      "title": "A New Chapter Takes Shape at Peach Blossoms",
+      "url": "https://www.manilatimes.net/2026/10/22/tmt-newswire/pr-newswire/a-new-chapter-takes-shape-at-peach-blossoms/2451513",
+      "domain": "manilatimes.net",
+      "date": "Oct 22, 2026"
+    },
+    {
+      "title": "Miss Universe Singapore among six Southeast Asian contestants to skip 2026 pageant",
+      "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/10/22/miss-universe-singapore-among-six-southeast-asian-contestants-to-skip-2026-pageant",
+      "domain": "thestar.com.my",
+      "date": "Oct 22, 2026"
+    },
+    {
+      "title": "Carro Establishes Inaugural SGD450 Million Asset - Backed Securitisation Warehouse Facility",
+      "url": "https://www.thehindu.com/brandhub/pr-release/carro-establishes-inaugural-sgd450-million-asset-backed-securitisation-warehouse-facility/article71610025.ece",
+      "domain": "thehindu.com",
+      "date": "Oct 22, 2026"
+    },
+    {
+      "title": "Tiger Brokers Clinches Best Retail Broker in Singapore at SIAS Investor Choice Awards 2026",
+      "url": "https://www.manilatimes.net/2026/10/22/tmt-newswire/pr-newswire/tiger-brokers-clinches-best-retail-broker-in-singapore-at-sias-investors-choice-awards-2026/2451408",
+      "domain": "manilatimes.net",
+      "date": "Oct 22, 2026"
+    },
+    {
+      "title": "Singapore Turns World Most Polluted City Ahead of Formula One Event -",
+      "url": "https://www.gulte.com/overseas/437421/singapore-turns-worlds-most-polluted-city-ahead-of-formula-one-event",
+      "domain": "gulte.com",
+      "date": "Oct 22, 2026"
+    },
+    {
+      "title": "Air quality in Singapore improves ; hourly PM2 . 5 readings normal islandwide",
+      "url": "https://www.channelnewsasia.com/singapore/haze-psi-pm25-oct-22-6480596",
+      "domain": "channelnewsasia.com",
+      "date": "Oct 22, 2026"
+    },
+    {
+      "title": "Singapore Dollar Gains on Yen as Carry Funder , Analysts Say",
+      "url": "https://www.livemint.com/market/singapore-dollar-gains-on-yen-as-carry-funder-analysts-say-11792634002797.html",
+      "domain": "livemint.com",
+      "date": "Oct 22, 2026"
+    },
+    {
+      "title": "EQDP crowding in more capital into Singapore equities : Chee Hong Tat",
+      "url": "https://www.businesstimes.com.sg/companies-markets/singapores-eqdp-attracts-more-s1-private-capital-every-public-dollar-invested-chee-hong-tat",
+      "domain": "businesstimes.com.sg",
+      "date": "Oct 21, 2026"
+    },
+    {
+      "title": "UK and Singapore align financial agenda ahead of G20 and ASEAN roles",
+      "url": "https://sbr.com.sg/news/uk-and-singapore-align-financial-agenda-ahead-g20-and-asean-roles",
+      "domain": "sbr.com.sg",
+      "date": "Oct 21, 2026"
+    },
+    {
+      "title": "Horizon3 Expands in Singapore to Accelerate AI \u2011 Native Proactive Security Across Southeast Asia",
+      "url": "https://en.antaranews.com/news/436641/horizon3-expands-in-singapore-to-accelerate-ainative-proactive-security-across-southeast-asia",
+      "domain": "en.antaranews.com",
+      "date": "Oct 20, 2026"
+    },
+    {
+      "title": "Singapore and Qatar renew energy pact to strengthen LNG cooperation , move towards strategic partnership",
+      "url": "https://www.channelnewsasia.com/singapore/singapore-qatar-energy-pact-mou-6472451",
+      "domain": "channelnewsasia.com",
+      "date": "Oct 19, 2026"
+    },
+    {
+      "title": "Singapore expands crackdown on Indonesian companies linked to haze",
+      "url": "https://www.wral.com/news/ap/49001-singapore-expands-crackdown-on-indonesian-companies-linked-to-haze/",
+      "domain": "wral.com",
+      "date": "Oct 19, 2026"
+    },
+    {
+      "title": "Singapore vows tougher legal action against companies linked to haze",
+      "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/10/19/singapore-vows-tougher-legal-action-against-companies-linked-to-haze",
+      "domain": "thestar.com.my",
+      "date": "Oct 19, 2026"
+    },
+    {
+      "title": "Clearer skies , fresher air as PSI , PM2 . 5 ease , but smoke haze could return from Oct 20 to 22 : NEA",
+      "url": "https://www.asiaone.com:443/singapore/singapore-haze-air-quality-psi-pm25-improved-19-october",
+      "domain": "asiaone.com",
+      "date": "Oct 19, 2026"
+    },
+    {
+      "title": "Firms linked to haze  should not underestimate Singapore determination  to pursue them : Shanmugam",
+      "url": "https://www.channelnewsasia.com/singapore/singapore-haze-firms-companies-laws-shanmugam-6470856",
+      "domain": "channelnewsasia.com",
+      "date": "Oct 19, 2026"
+    },
+    {
+      "title": "BTS to take over Singapore with islandwide themed experiences including raves , light shows and fireworks",
+      "url": "https://www.asiaone.com:443/entertainment/bts-arirang-tour-singapore-attractions",
+      "domain": "asiaone.com",
+      "date": "Oct 19, 2026"
+    },
+    {
+      "title": "US - based AI prediction  unicorn  opens Singapore office to target regional customers",
+      "url": "https://www.businesstimes.com.sg/startups-tech/us-based-ai-prediction-unicorn-opens-singapore-office-target-regional-customers",
+      "domain": "businesstimes.com.sg",
+      "date": "Oct 19, 2026"
+    },
+    {
+      "title": "Air quality improves on Oct 19 as PM2 . 5 levels ease ; haze may return from Oct 20",
+      "url": "https://www.asiaone.com:443/singapore/better-air-quality-psi-pm25-19-october-haze-singapore",
+      "domain": "asiaone.com",
+      "date": "Oct 19, 2026"
+    },
+    {
+      "title": "Bengaluru customs seize 32 gold biscuits , nab Singapore - based chef",
+      "url": "https://timesofindia.indiatimes.com/city/bengaluru/bengaluru-customs-seize-32-gold-biscuits-nab-singapore-based-chef/articleshow/135031429.cms",
+      "domain": "timesofindia.indiatimes.com",
+      "date": "Oct 18, 2026"
+    },
+    {
+      "title": "PSI forecast to be 101 to 190 on Oct 19 , says NEA",
+      "url": "https://www.straitstimes.com/singapore/psi-forecast-to-be-between-100-and-190-on-oct-19-says-nea",
+      "domain": "straitstimes.com",
+      "date": "Oct 18, 2026"
+    },
+    {
+      "title": "PM Wong to visit Qatar and UAE from Oct 18 to 22",
+      "url": "https://www.straitstimes.com/singapore/pm-wong-to-visit-qatar-uae-from-oct-18-to-22",
+      "domain": "straitstimes.com",
+      "date": "Oct 17, 2026"
+    },
+    {
+      "title": "PM Wong to visit Qatar , UAE in first trip to Middle East since taking office",
+      "url": "https://www.channelnewsasia.com/singapore/lawrence-wong-qatar-uae-middle-east-visit-6468046",
+      "domain": "channelnewsasia.com",
+      "date": "Oct 17, 2026"
+    },
+    {
+      "title": "Singapore FA Cup final postponed due to haze as pollution levels exceed safety threshold",
+      "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/10/17/singapore-fa-cup-final-postponed-due-to-haze-as-pollution-levels-exceed-safety-threshold",
+      "domain": "thestar.com.my",
+      "date": "Oct 17, 2026"
+    },
+    {
+      "title": "Haze update Oct 17 : Weekend begins with better air quality as PSI drops to unhealthy range , PM2 . 5 elevated",
+      "url": "https://www.asiaone.com:443/singapore/haze-singapore-psi-unhealthy-pm25-elevated-17-october",
+      "domain": "asiaone.com",
+      "date": "Oct 17, 2026"
+    },
+    {
+      "title": "Legal action by Singapore against haze - causing firms in Indonesia may come with diplomatic implications : Lawyers",
+      "url": "https://www.channelnewsasia.com/singapore/haze-indonesia-diplomatic-implications-legal-action-lawyers-6465511",
+      "domain": "channelnewsasia.com",
+      "date": "Oct 16, 2026"
+    },
+    {
+      "title": "Singapore takes legal action against 7 Indonesian firms over haze",
+      "url": "https://www.freemalaysiatoday.com/category/nation/2026/10/16/singapore-takes-legal-action-against-7-indonesian-firms-over-haze",
+      "domain": "freemalaysiatoday.com",
+      "date": "Oct 16, 2026"
+    },
+    {
+      "title": "PSI improves but central region remains in very unhealthy range ; 24 - hour forecast in unhealthy to very unhealthy range : NEA",
+      "url": "https://www.asiaone.com:443/singapore/haze-singapore-psi-forecast-unhealthy-16-october",
+      "domain": "asiaone.com",
+      "date": "Oct 16, 2026"
+    },
+    {
+      "title": "Daily Debrief : What Happened Today ( Oct 16 )",
+      "url": "https://www.businesstimes.com.sg/singapore/daily-debrief-what-happened-today-oct-162",
+      "domain": "businesstimes.com.sg",
+      "date": "Oct 16, 2026"
+    },
+    {
+      "title": "Middle East war affects Singapore September bunker sales",
+      "url": "https://www.businesstimes.com.sg/international/global/middle-east-war-affects-singapores-september-bunker-sales",
+      "domain": "businesstimes.com.sg",
+      "date": "Oct 16, 2026"
+    },
+    {
+      "title": "Singapore high - sulphur marine fuel market seeing supply squeeze : Argus",
+      "url": "https://www.businesstimes.com.sg/companies-markets/singapores-high-sulphur-marine-fuel-market-seeing-supply-squeeze-argus",
+      "domain": "businesstimes.com.sg",
+      "date": "Oct 16, 2026"
+    },
+    {
+      "title": "Listing Singapore Expands Singapore Business Directory to Support Local Business Discovery",
+      "url": "https://www.manilatimes.net/2026/10/16/tmt-newswire/globenewswire/listing-singapore-expands-singapore-business-directory-to-support-local-business-discovery/2447290",
+      "domain": "manilatimes.net",
+      "date": "Oct 16, 2026"
+    },
+    {
+      "title": "Singapore Is Cloaked in a Fire - Related Haze . Here What It Looks Like",
+      "url": "https://www.businessinsider.com/singapore-haze-situation-cause-indonesia-fires-pollution-photos-2026-10",
+      "domain": "businessinsider.com",
+      "date": "Oct 16, 2026"
+    },
+    {
+      "title": "PM Wong says Singapore looking into companies behind Indonesia fires :  Where warranted , we will take action",
+      "url": "https://www.asiaone.com:443/singapore/singapore-investigating-companies-indonesia-fires-action-haze-law-pm-wong",
+      "domain": "asiaone.com",
+      "date": "Oct 16, 2026"
+    },
+    {
+      "title": "Mazda opens first dedicated EV showroom in Singapore",
+      "url": "https://www.businesstimes.com.sg/singapore/mazda-opens-dedicated-ev-showroom-singapore",
+      "domain": "businesstimes.com.sg",
+      "date": "Oct 16, 2026"
+    },
+    {
+      "title": "Singapore weighs haze prosecutions as air quality worsens",
+      "url": "https://www.freemalaysiatoday.com/category/highlight/2026/10/16/wong-weighs-haze-prosecutions-as-singapore-air-quality-worsens",
+      "domain": "freemalaysiatoday.com",
+      "date": "Oct 16, 2026"
+    },
+    {
+      "title": "Singapore haze lasts 12 days , longest since 2015",
+      "url": "https://www.straitstimes.com/singapore/environment/spore-is-experiencing-its-12th-consecutive-day-of-unhealthy-air-the-longest-since-2015-haze-crisis",
+      "domain": "straitstimes.com",
+      "date": "Oct 16, 2026"
+    },
+    {
+      "title": "Singapore is experiencing 12th consecutive day of unhealthy air , the longest since 2015 haze crisis",
+      "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/10/16/singapore-is-experiencing-12th-consecutive-day-of-unhealthy-air-the-longest-since-2015-haze-crisis",
+      "domain": "thestar.com.my",
+      "date": "Oct 16, 2026"
+    },
+    {
+      "title": "Spore is experiencing its 12th consecutive day of unhealthy air , the longest since 2015 haze crisis",
+      "url": "https://www.businesstimes.com.sg/singapore/spore-experiencing-its-12th-consecutive-day-unhealthy-air-longest-2015-haze-crisis",
+      "domain": "businesstimes.com.sg",
+      "date": "Oct 16, 2026"
+    },
+    {
+      "title": "Gasping for clean air : Singapore battles relentless haze as Prime Minister Wong warns of action",
+      "url": "https://www.cnbc.com/2026/10/16/singapore-haze-wong-warning-indonesia.html",
+      "domain": "cnbc.com",
+      "date": "Oct 16, 2026"
+    },
+    {
+      "title": "Haze in Singapore : PSI reading in central region in  very unhealthy  range",
+      "url": "https://www.straitstimes.com/singapore/haze-in-spore-air-quality-worsens-overnight-as-psi-hits-very-unhealthy-range-in-central-region",
+      "domain": "straitstimes.com",
+      "date": "Oct 15, 2026"
+    },
+    {
+      "title": "Singapore looking into which companies responsible for haze - causing fires , may take legal action : PM Wong",
+      "url": "https://www.channelnewsasia.com/singapore/haze-singapore-indonesia-companies-fires-legal-action-pm-wong-6463101",
+      "domain": "channelnewsasia.com",
+      "date": "Oct 15, 2026"
+    },
+    {
+      "title": "Singapore Airlines flight returns to San Francisco after  unruly  passenger incident",
+      "url": "https://www.businesstimes.com.sg/companies-markets/singapore-airlines-flight-returns-san-francisco-after-unruly-passenger-incident",
+      "domain": "businesstimes.com.sg",
+      "date": "Oct 15, 2026"
+    },
+    {
+      "title": "EY ex - managing partner Max Loh appointed chair of Singapore Institute of Directors",
+      "url": "https://www.businesstimes.com.sg/singapore/ey-ex-managing-partner-max-loh-appointed-chair-singapore-institute-directors",
+      "domain": "businesstimes.com.sg",
+      "date": "Oct 15, 2026"
+    },
+    {
+      "title": "24 - hour PSI forecast unhealthy to low - very unhealthy range ; weekend showers could reduce smoke haze in Singapore : NEA",
+      "url": "https://www.asiaone.com/singapore/haze-singapore-psi-forecast-pm25-high-15-october",
+      "domain": "asiaone.com",
+      "date": "Oct 15, 2026"
+    },
+    {
+      "title": "Huat Ah !: Singapore Dy PM Gan Kim Yong , Tamil Nadu CM Vijay unveil CapitaLands first data centre in Chennai",
+      "url": "https://news.webindia123.com/news/Articles/World/20261015/4511323.html",
+      "domain": "news.webindia123.com",
+      "date": "Oct 15, 2026"
+    },
+    {
+      "title": "Huat Ah !: Singapore Dy PM Gan Kim Yong , Tamil Nadu CM Vijay unveil CapitaLand first data centre in Chennai",
+      "url": "https://aninews.in/news/world/asia/huat-ah-singapore-dy-pm-gan-kim-yong-tamil-nadu-cm-vijay-unveil-capitaland8217s-first-data-centre-in-chennai20261015172621/",
+      "domain": "aninews.in",
+      "date": "Oct 15, 2026"
+    },
+    {
+      "title": "16 - year - old America Got Talent winner Nene Royal joins Avenged Sevenfold onstage :  They asked for me",
+      "url": "https://www.guitarworld.com/artists/guitarists/americas-got-talent-winner-nene-royal-joins-avenged-sevenfold-onstage",
+      "domain": "guitarworld.com",
+      "date": "Oct 15, 2026"
+    },
+    {
+      "title": "PRECISE and Temus establish Joint Innovation Centre to advance precision health in Singapore",
+      "url": "https://www.manilatimes.net/2026/10/02/tmt-newswire/media-outreach-newswire/precise-and-temus-establish-joint-innovation-centre-to-advance-precision-health-in-singapore/2437796",
+      "domain": "manilatimes.net",
+      "date": "Oct 02, 2026"
+    },
+    {
+      "title": "Woman , 30 , dies after fall from Hougang condo",
+      "url": "https://www.asiaone.com/hougang-condo-florence-residences-woman-falls-dies",
+      "domain": "asiaone.com",
+      "date": "Oct 02, 2026"
+    },
+    {
+      "title": "Can Malaysia tap into the growing Asia cruise market ?",
+      "url": "https://www.freemalaysiatoday.com/category/opinion/2026/10/02/can-malaysia-tap-into-the-growing-asia-cruise-market",
+      "domain": "freemalaysiatoday.com",
+      "date": "Oct 02, 2026"
+    },
+    {
+      "title": "Allianz Insurance Singapore names Ong Bi Yung CEO",
+      "url": "https://sbr.com.sg/insurance/news/allianz-insurance-singapore-names-ong-bi-yung-ceo",
+      "domain": "sbr.com.sg",
+      "date": "Oct 01, 2026"
+    },
+    {
+      "title": "Singapore , Germany agree to expand defence ties during Chan Chun Sing Berlin visit",
+      "url": "https://www.asiaone.com:443/singapore/singapore-germany-strengthen-defence-cooperation-chan-chun-sing",
+      "domain": "asiaone.com",
+      "date": "Oct 01, 2026"
+    },
+    {
+      "title": "InCorp Singapore Rebrands to Ascentium Singapore , Connecting Clients to a Wider Ecosystem for Growth",
+      "url": "https://www.manilatimes.net/2026/10/01/tmt-newswire/pr-newswire/incorp-singapore-rebrands-to-ascentium-singapore-connecting-clients-to-a-wider-ecosystem-for-growth/2436945",
+      "domain": "manilatimes.net",
+      "date": "Oct 01, 2026"
+    },
+    {
+      "title": "Singapore explores nuclear fusion as clean energy option under new METI",
+      "url": "https://www.businesstimes.com.sg/companies-markets/energy-commodities/singapore-explores-nuclear-fusion-clean-energy-option-under-new-meti",
+      "domain": "businesstimes.com.sg",
+      "date": "Oct 01, 2026"
+    },
+    {
+      "title": "IMDA , TikTok launch programme to help Singapore media professionals build micro - drama expertise",
+      "url": "https://www.asiaone.com/singapore/microdrama-production-singapore-imda-tiktok",
+      "domain": "asiaone.com",
+      "date": "Oct 01, 2026"
+    },
+    {
+      "title": "DBS names Blackstone chairman Gautam Banerjee to group and bank boards",
+      "url": "https://sbr.com.sg/news/dbs-names-blackstone-chairman-gautam-banerjee-group-and-bank-boards",
+      "domain": "sbr.com.sg",
+      "date": "Oct 01, 2026"
+    },
+    {
+      "title": "Singapore launches dating service for public servants",
+      "url": "https://www.philstar.com/lifestyle/gadgets/2026/10/01/2560230/singapore-launches-dating-service-public-servants",
+      "domain": "philstar.com",
+      "date": "Oct 01, 2026"
+    },
+    {
+      "title": "Zenika CTO Adrien Nortain Moves Base to Singapore to Strengthen Technical Leadership in Asia",
+      "url": "https://www.manilatimes.net/2026/10/01/tmt-newswire/pr-newswire/zenika-cto-adrien-nortain-moves-base-to-singapore-to-strengthen-technical-leadership-in-asia/2436733",
+      "domain": "manilatimes.net",
+      "date": "Oct 01, 2026"
+    },
+    {
+      "title": "Stop at two : Singapore may not need a third telco",
+      "url": "https://www.businesstimes.com.sg/opinion-features/stop-two-singapore-may-not-need-third-telco",
+      "domain": "businesstimes.com.sg",
+      "date": "Oct 01, 2026"
+    },
+    {
+      "title": "Singapore DPM arrives in Malaysia",
+      "url": "https://www.thestar.com.my/news/nation/2026/10/01/singapore-dpm-arrives-in-malaysia",
+      "domain": "thestar.com.my",
+      "date": "Oct 01, 2026"
+    },
+    {
+      "title": "Blackstone Gautam Banerjee joins DBS board - The Business Times",
+      "url": "https://www.businesstimes.com.sg/companies-markets/banking-finance/blackstones-gautam-banerjee-joins-dbs-board",
+      "domain": "businesstimes.com.sg",
+      "date": "Oct 01, 2026"
+    },
+    {
+      "title": "BT at 50 : Singapore financial daily charts its next lap",
+      "url": "https://www.businesstimes.com.sg/opinion-features/bt50/business-times-50-charting-next-lap-milestone-year",
+      "domain": "businesstimes.com.sg",
+      "date": "Oct 01, 2026"
+    },
+    {
+      "title": "The Business Times at 50 : Chronicler , convener and partner in Singapore economic transformation",
+      "url": "https://www.businesstimes.com.sg/singapore/bt50/business-times-50-chronicler-convener-and-partner-singapores-economic-transformation",
+      "domain": "businesstimes.com.sg",
+      "date": "Oct 01, 2026"
+    },
+    {
+      "title": "Allianz Insurance Singapore Pte Ltd Announces Leadership Transition",
+      "url": "https://www.manilatimes.net/2026/10/01/tmt-newswire/media-outreach-newswire/allianz-insurance-singapore-pte-ltd-announces-leadership-transition/2436694",
+      "domain": "manilatimes.net",
+      "date": "Oct 01, 2026"
+    },
+    {
+      "title": "TOPPAN Opens Singapore FC - BGA Plant as First Overseas Base",
+      "url": "https://jp.ibtimes.com/toppan-opens-singapore-fc-bga-plant-first-overseas-base-104583",
+      "domain": "jp.ibtimes.com",
+      "date": "Sep 30, 2026"
+    },
+    {
+      "title": "Daily Debrief : What Happened Today ( Sep 30 )",
+      "url": "https://www.businesstimes.com.sg/singapore/daily-debrief-what-happened-today-sep-302",
+      "domain": "businesstimes.com.sg",
+      "date": "Sep 30, 2026"
+    },
+    {
+      "title": "Alstom completes delivery of 106 new trains for Singapore North - South and East - West MRT lines",
+      "url": "https://www.manilatimes.net/2026/09/30/tmt-newswire/pr-newswire/alstom-completes-delivery-of-106-new-trains-for-singapores-north-south-and-east-west-mrt-lines/2435766",
+      "domain": "manilatimes.net",
+      "date": "Sep 30, 2026"
+    },
+    {
+      "title": "Singapore can be a diversified source of supply for countries seeking alternatives : Grace Fu",
+      "url": "https://www.businesstimes.com.sg/singapore/singapore-can-be-diversified-source-supply-countries-seeking-alternatives-grace-fu",
+      "domain": "businesstimes.com.sg",
+      "date": "Sep 30, 2026"
+    },
+    {
+      "title": "Singapore has a new rule that could cost tourists $5 , 500 . Here what you need to know",
+      "url": "https://economictimes.indiatimes.com/news/international/global-trends/singapore-has-a-new-rule-that-could-cost-tourists-5500-heres-what-you-need-to-know/articleshow/134565839.cms",
+      "domain": "economictimes.indiatimes.com",
+      "date": "Sep 29, 2026"
+    },
+    {
+      "title": "Daily Debrief : What Happened Today ( Sep 29 )",
+      "url": "https://www.businesstimes.com.sg/singapore/daily-debrief-what-happened-today-sep-291",
+      "domain": "businesstimes.com.sg",
+      "date": "Sep 29, 2026"
+    },
+    {
+      "title": "Haze update Sept 29 : Air quality improves slightly ; Singapore 24 - hour PSI forecast to be in high - moderate to low - unhealthy range",
+      "url": "https://www.asiaone.com/singapore/singapore-haze-air-quality-psi-forecast-moderate-unhealthy-29-september",
+      "domain": "asiaone.com",
+      "date": "Sep 29, 2026"
+    },
+    {
+      "title": "South - east Asia offers opportunities for squeezed Singapore firms , says head of SME body",
+      "url": "https://www.businesstimes.com.sg/singapore/economy-policy/south-east-asia-offers-opportunities-squeezed-singapore-firms-says-head-sme-body",
+      "domain": "businesstimes.com.sg",
+      "date": "Sep 29, 2026"
+    },
+    {
+      "title": "Franklin Templeton selected for EQDP third batch",
+      "url": "https://sbr.com.sg/markets-investing/news/franklin-templeton-selected-eqdp-third-batch",
+      "domain": "sbr.com.sg",
+      "date": "Sep 29, 2026"
+    },
+    {
+      "title": "Construction begins for Singapore long - delayed fourth egg farm",
+      "url": "https://www.channelnewsasia.com/singapore/singapore-fourth-egg-farm-begins-construction-6416146",
+      "domain": "channelnewsasia.com",
+      "date": "Sep 29, 2026"
+    },
+    {
+      "title": "MAS injects $1 . 45b to boost Singapore equities market",
+      "url": "https://www.straitstimes.com/business/companies-markets/mas-appoints-five-new-asset-managers-to-inject-1-45b-to-boost-singapore-equities",
+      "domain": "straitstimes.com",
+      "date": "Sep 29, 2026"
+    },
+    {
+      "title": "Singapore supports 71 % of UN human rights recommendations",
+      "url": "https://www.straitstimes.com/singapore/singapore-supports-71-of-human-rights-recommendations-by-un-member-states",
+      "domain": "straitstimes.com",
+      "date": "Sep 29, 2026"
+    },
+    {
+      "title": "Singapore MAS to allocate $1 . 1b to asset managers to boost equities market",
+      "url": "https://www.dealstreetasia.com/stories/singapore-mas-equities-market-496494",
+      "domain": "dealstreetasia.com",
+      "date": "Sep 29, 2026"
+    },
+    {
+      "title": "MAS allocates S$1 . 45 billion to five asset managers in third EQDP batch : Chee Hong Tat",
+      "url": "https://www.businesstimes.com.sg/companies-markets/mas-allocates-s1-45-billion-five-asset-managers-third-eqdp-batch-chee-hong-tat",
+      "domain": "businesstimes.com.sg",
+      "date": "Sep 29, 2026"
+    },
+    {
+      "title": "Haze watch : Air quality worsens in Singapore as PSI hits unhealthy range in all 5 regions",
+      "url": "https://www.asiaone.com/singapore/haze-singapore-psi-unhealthy-29-september",
+      "domain": "asiaone.com",
+      "date": "Sep 29, 2026"
+    },
+    {
+      "title": "Chng Hak - Peng Named As New CEO of National Gallery Singapore",
+      "url": "https://www.artforum.com/news/chng-hak-peng-new-ceo-of-national-gallery-singapore-1234760094/",
+      "domain": "artforum.com",
+      "date": "Sep 28, 2026"
+    },
+    {
+      "title": "MGEN advances S$1 . 2 billion gas plant in Singapore",
+      "url": "https://www.philstar.com/business/2026/09/29/2559562/mgen-advances-s12-billion-gas-plant-singapore",
+      "domain": "philstar.com",
+      "date": "Sep 28, 2026"
+    },
+    {
+      "title": "Yellow - bellied warbler spotted for the first time in Spore",
+      "url": "https://www.straitstimes.com/singapore/environment/almost-10-hours-of-waiting-tiny-songbird-makes-first-appearance-in-singapore",
+      "domain": "straitstimes.com",
+      "date": "Sep 28, 2026"
+    },
+    {
+      "title": "Luckin Coffee Celebrates 100 Stores in Singapore",
+      "url": "https://www.thehindu.com/brandhub/pr-release/luckin-coffee-celebrates-100-stores-in-singapore/article71518720.ece",
+      "domain": "thehindu.com",
+      "date": "Sep 28, 2026"
+    },
+    {
+      "title": "Brunei crown prince on 5 - day visit to Singapore for 12th Young Leader Programme",
+      "url": "https://www.asiaone.com/singapore/brunei-crown-prince-billah-singapore-visit-young-leaders-programme",
+      "domain": "asiaone.com",
+      "date": "Sep 28, 2026"
+    },
+    {
+      "title": "Insurers face shift from coverage to adequacy",
+      "url": "https://sbr.com.sg/insurance/exclusive/insurers-face-shift-coverage-adequacy",
+      "domain": "sbr.com.sg",
+      "date": "Sep 28, 2026"
+    },
+    {
+      "title": "Haze watch : Air quality in Singapore deteriorates overnight , unhealthy PSI in 3 regions",
+      "url": "https://www.asiaone.com/singapore/haze-singapore-air-quality-unhealthy-27-september",
+      "domain": "asiaone.com",
+      "date": "Sep 27, 2026"
+    },
+    {
+      "title": "Singapore and Korean Clinicians Call for More Individualised , Evidence - Based Postnatal Care as Women Enter Motherhood Later in Life",
+      "url": "https://www.manilatimes.net/2026/09/27/tmt-newswire/media-outreach-newswire/singapore-and-korean-clinicians-call-for-more-individualised-evidence-based-postnatal-care-as-women-enter-motherhood-later-in-life/2433538",
+      "domain": "manilatimes.net",
+      "date": "Sep 27, 2026"
+    },
+    {
+      "title": "Singapore population hits record 6 . 21 million , driven by rise in foreign residents",
+      "url": "https://www.internazionale.it/ultime-notizie-reuters/2026/09/25/singapore-population-hits-record-6-21-million-driven-by-rise-in-foreign-residents",
+      "domain": "internazionale.it",
+      "date": "Sep 25, 2026"
+    },
+    {
+      "title": "Nine Korean deep - tech companies showcase technologies in Singapore at ICT Growth Singapore 2026 Demo Day",
+      "url": "https://www.manilatimes.net/2026/09/25/tmt-newswire/pr-newswire/nine-korean-deep-tech-companies-showcase-technologies-in-singapore-at-ict-growth-singapore-2026-demo-day/2432877",
+      "domain": "manilatimes.net",
+      "date": "Sep 25, 2026"
+    },
+    {
+      "title": "Singapore deepens Latin America ties on supply chains , green finance",
+      "url": "https://sbr.com.sg/economy/news/singapore-deepens-latin-america-ties-supply-chains-green-finance",
+      "domain": "sbr.com.sg",
+      "date": "Sep 25, 2026"
+    },
+    {
+      "title": "Singapore link to US stocks off to sluggish start",
+      "url": "https://www.asiaone.com:443/money/singapores-link-us-stocks-sluggish-start",
+      "domain": "asiaone.com",
+      "date": "Sep 24, 2026"
+    },
+    {
+      "title": "DHL Express and Singapore Airlines extend Boeing 777 freighter partnership",
+      "url": "https://www.manilatimes.net/2026/09/24/tmt-newswire/media-outreach-newswire/dhl-express-and-singapore-airlines-extend-boeing-777-freighter-partnership/2431851",
+      "domain": "manilatimes.net",
+      "date": "Sep 24, 2026"
+    }
+  ]
 }
