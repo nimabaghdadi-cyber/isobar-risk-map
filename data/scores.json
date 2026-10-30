@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-30T12:09:26.595839+00:00",
+  "generatedAt": "2026-10-30T21:56:39.560235+00:00",
   "source": "GDELT (news tone/volume, 3-day window) blended 50/50 with baseline",
   "countries": [
     {
@@ -9,7 +9,7 @@
       "conflict": 70,
       "economic": 80,
       "regulatory": 84,
-      "trend": "down",
+      "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
       "headlines": [],
       "toneReading": "No recent coverage found.",
@@ -24,7 +24,28 @@
       "regulatory": 44,
       "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [],
+      "headlines": [
+        {
+          "title": "Burnham tells Trump he plans  firm action  against Argentina over Falklands interference",
+          "url": "https://www.dailystar.co.uk/news/latest-news/burnham-tells-trump-plans-firm-37805753",
+          "domain": "dailystar.co.uk"
+        },
+        {
+          "title": "Benjamin Netanyahu switches Israel position to favor Argentina in Falklands dispute",
+          "url": "http://www.jpost.com/israel-news/article-912697",
+          "domain": "jpost.com"
+        },
+        {
+          "title": "Argentina August Activity Falls 1 . 7 % as Government Promotes Export Investment",
+          "url": "https://econotimes.com/Argentina-s-August-Activity-Falls-1-7-as-Government-Promotes-Export-Investment-1762294",
+          "domain": "econotimes.com"
+        },
+        {
+          "title": "Pope South American trip to go ahead following lung cancer surgery",
+          "url": "https://www.bbc.co.uk/news/articles/cjr4y5rq46p2o",
+          "domain": "bbc.co.uk"
+        }
+      ],
       "toneReading": "No recent coverage found.",
       "volumeReading": null
     },
@@ -37,28 +58,7 @@
       "regulatory": 10,
       "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [
-        {
-          "title": "Australia newest airport in Western Sydney opens for business",
-          "url": "https://www.sbs.com.au/news/podcast-episode/australias-newest-airport-in-western-sydney-opens-for-business/0l2ypi80z",
-          "domain": "sbs.com.au"
-        },
-        {
-          "title": "Australia Moves to Sue Meta , TikTok and YouTube Over Failure to Enforce Under - 16 Social Media Ban \u2013 NaturalNews . com",
-          "url": "https://www.naturalnews.com/2026-10-23-australia-sue-tech-giants-social-media-ban.html",
-          "domain": "naturalnews.com"
-        },
-        {
-          "title": "I quit united kingdom for Australia but returned after 3 years \u2013 I wouldnt move back",
-          "url": "https://www.mirror.co.uk/travel/news/i-quit-uk-australia-returned-37790478",
-          "domain": "mirror.co.uk"
-        },
-        {
-          "title": "Im on the brink of breaking down : Indian woman forced to leave Australia before settling late brother estate after visa waiver rejection",
-          "url": "https://timesofindia.indiatimes.com/world/rest-of-world/im-on-the-brink-of-breaking-down-indian-woman-forced-to-leave-australia-before-settling-late-brothers-estate-after-visa-waiver-rejection/articleshow/135176405.cms",
-          "domain": "timesofindia.indiatimes.com"
-        }
-      ],
+      "headlines": [],
       "toneReading": "No recent coverage found.",
       "volumeReading": null
     },
@@ -97,7 +97,28 @@
       "regulatory": 72,
       "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [],
+      "headlines": [
+        {
+          "title": "Iran parliament speaker Mohammad Bagher Ghalibaf to skip Brics forum in New Delhi",
+          "url": "https://www.hindustantimes.com/india-news/irans-parliament-speaker-mohammad-bagher-ghalibaf-to-skip-brics-forum-in-new-delhi-unforeseen-circumstances-101792840172755.html",
+          "domain": "hindustantimes.com"
+        },
+        {
+          "title": "Belarus targets 25 pct electric public transport by late 2029 - Xinhua",
+          "url": "https://english.news.cn/europe/20261024/a1cecdd7511a457caf7d0dfbf04a3905/c.html",
+          "domain": "english.news.cn"
+        },
+        {
+          "title": "UN delegates seek limits on sanctions and stronger Charter compliance",
+          "url": "https://econotimes.com/UN-delegates-seek-limits-on-sanctions-and-stronger-Charter-compliance-1761795",
+          "domain": "econotimes.com"
+        },
+        {
+          "title": "Russia - Ukraine war : Melania Trump brokers localised ceasefire in Oleshky ; all you need to know about the starving city",
+          "url": "https://www.livemint.com/news/us-news/russiaukraine-war-melania-trump-brokers-localised-ceasefire-in-oleshky-all-you-need-to-know-about-the-starving-city-11792813675780.html",
+          "domain": "livemint.com"
+        }
+      ],
       "toneReading": "No recent coverage found.",
       "volumeReading": null
     },
@@ -134,7 +155,7 @@
       "conflict": 14,
       "economic": 26,
       "regulatory": 22,
-      "trend": "down",
+      "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
       "headlines": [],
       "toneReading": "No recent coverage found.",
@@ -209,7 +230,28 @@
       "regulatory": 64,
       "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [],
+      "headlines": [
+        {
+          "title": "Health : WHO announces launch of first Ebola vaccine clinical trial in DR Congo",
+          "url": "https://www.gdnonline.com:443/Details/1410709/WHO-announces-launch-of-first-Ebola-vaccine-clinical-trial-in-DR-Congo",
+          "domain": "gdnonline.com"
+        },
+        {
+          "title": "WHO Begins Ebola Vaccine Trial In DR Congo As Death Toll Exceeds 4600",
+          "url": "https://saharareporters.com/2026/10/24/who-begins-ebola-vaccine-trial-dr-congo-death-toll-exceeds-4600",
+          "domain": "saharareporters.com"
+        },
+        {
+          "title": "Ebola : Uganda introduces 21 - day quarantine for people entering from DRC",
+          "url": "https://www.africanews.com/2026/10/26/ebola-uganda-introduces-21-day-quarantine-for-people-entering-from-drc/",
+          "domain": "africanews.com"
+        },
+        {
+          "title": "The Hindu Morning Digest : October 24 , 2026",
+          "url": "https://www.thehindu.com/news/morning-digest-october-24-2026/article71618904.ece",
+          "domain": "thehindu.com"
+        }
+      ],
       "toneReading": "No recent coverage found.",
       "volumeReading": null
     },
@@ -235,7 +277,28 @@
       "regulatory": 44,
       "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [],
+      "headlines": [
+        {
+          "title": "Arab News | Intense diplomacy ongoing as Egypt seeks to avert regional escalation : foreign ministry spokesman",
+          "url": "https://www.arabnews.com/middle-east/intense-diplomacy-ongoing-as-egypt-seeks-to-avert-regional-escalation-foreign-ministry-spokesman-3008008",
+          "domain": "arabnews.com"
+        },
+        {
+          "title": "Egypt Fayoum mummy portraits to travel abroad for first time",
+          "url": "https://www.theoaklandpress.com/2026/10/24/egypt-fayoum-mummy-portraits-traveling/",
+          "domain": "theoaklandpress.com"
+        },
+        {
+          "title": "Egyptian Foreign Ministry to Asharq Al - Awsat : No Obstacles Hindering Dutch Embassy Operations",
+          "url": "https://english.aawsat.com/arab-world/5332999-egyptian-foreign-ministry-asharq-al-awsat-no-obstacles-hindering-dutch-embassy",
+          "domain": "english.aawsat.com"
+        },
+        {
+          "title": "QICCA organises seminar on  Annulment of Arbitral Awards in Egypt and GCC States",
+          "url": "https://www.qatar-tribune.com/article/260712/latest-news/qicca-organises-seminar-on-annulment-of-arbitral-awards-in-egypt-and-gcc-states",
+          "domain": "qatar-tribune.com"
+        }
+      ],
       "toneReading": "No recent coverage found.",
       "volumeReading": null
     },
@@ -274,28 +337,7 @@
       "regulatory": 38,
       "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [
-        {
-          "title": "Georgia inmate dies of tuberculosis",
-          "url": "https://www.wsbtv.com/news/local/georgia-inmate-dies-tuberculosis/VQRBPN76BRDZ7BDM7TEGWN7ZSY/",
-          "domain": "wsbtv.com"
-        },
-        {
-          "title": "Six Flags making change to  Goliath  coaster after dad fell to his death from 200 - foot ride",
-          "url": "https://nypost.com/2026/10/24/us-news/six-flags-making-change-to-goliath-coaster-after-dad-fell-to-his-death-from-200-foot-ride/",
-          "domain": "nypost.com"
-        },
-        {
-          "title": "In 1994 , Georgia mixed damaged factory roofing shingles into Chatham Parkway asphalt ; later checks found the recycled road performing as well as its control",
-          "url": "https://economictimes.indiatimes.com/news/international/us/in-1994-georgia-mixed-damaged-factory-roofing-shingles-into-chatham-parkway-asphalt-later-checks-found-the-recycled-road-performing-as-well-as-its-control/articleshow/135147097.cms",
-          "domain": "economictimes.indiatimes.com"
-        },
-        {
-          "title": "Horror movies , TV shows that were filmed in Georgia",
-          "url": "https://www.ajc.com/life/5-horror-movies-and-shows-filmed-in-georgia/RZ7FRBQA7FCF7MB6VCW3ADTOF4/",
-          "domain": "ajc.com"
-        }
-      ],
+      "headlines": [],
       "toneReading": "No recent coverage found.",
       "volumeReading": null
     },
@@ -332,7 +374,7 @@
       "conflict": 26,
       "economic": 24,
       "regulatory": 32,
-      "trend": "down",
+      "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
       "headlines": [],
       "toneReading": "No recent coverage found.",
@@ -347,28 +389,7 @@
       "regulatory": 32,
       "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [
-        {
-          "title": "Indonesia cuts natural gas exports to Singapore as it prioritises domestic demand",
-          "url": "https://www.asiaone.com/singapore/indonesia-cuts-natural-gas-exports-singapore",
-          "domain": "asiaone.com"
-        },
-        {
-          "title": "Indonesia begins cutting natural gas exports to Singapore from Oct 24 : reports",
-          "url": "https://www.businesstimes.com.sg/singapore/indonesia-begins-cutting-natural-gas-exports-singapore-oct-24-reports",
-          "domain": "businesstimes.com.sg"
-        },
-        {
-          "title": "Indonesia cuts gas exports to Singapore",
-          "url": "https://www.freemalaysiatoday.com/category/highlight/2026/10/24/indonesia-cuts-gas-exports-to-singapore",
-          "domain": "freemalaysiatoday.com"
-        },
-        {
-          "title": "Indian Army contingent departs for Indonesia to participate in Exercise Garuda Shakti",
-          "url": "https://www.prokerala.com/news/articles/a1828638.html",
-          "domain": "prokerala.com"
-        }
-      ],
+      "headlines": [],
       "toneReading": "No recent coverage found.",
       "volumeReading": null
     },
@@ -409,11 +430,6 @@
       "note": "No fresh coverage this cycle; showing baseline.",
       "headlines": [
         {
-          "title": "India , Italy discuss institutionalising naval engagements , deepening operational cooperation",
-          "url": "https://aninews.in/news/world/asia/india-italy-discuss-institutionalising-naval-engagements-deepening-operational-cooperation20261023162644/",
-          "domain": "aninews.in"
-        },
-        {
           "title": "India and Italy hold inaugural maritime security dialogue in Rome",
           "url": "https://www.prokerala.com/news/articles/a1828434.html",
           "domain": "prokerala.com"
@@ -427,6 +443,11 @@
           "title": "Jihadist groups call for suicide attacks amid widespread protests in Europe : Report",
           "url": "https://www.rediff.com/news/report/jihadist-groups-call-for-suicide-attacks-amid-widespread-protests-in-europe-report/20261024.htm",
           "domain": "rediff.com"
+        },
+        {
+          "title": "Jihadist groups call for attacks on police and demonstrators amid widespread European protests : Report",
+          "url": "https://aninews.in/news/world/asia/jihadist-groups-call-for-attacks-on-police-and-demonstrators-amid-widespread-european-protests-report20261024182125/",
+          "domain": "aninews.in"
         }
       ],
       "toneReading": "No recent coverage found.",
@@ -467,28 +488,7 @@
       "regulatory": 36,
       "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [
-        {
-          "title": "Tokayev vision for Kazakhstan : Republic Day amid sweeping reforms",
-          "url": "https://www.trend.az/casia/kazakhstan/4238665.html",
-          "domain": "trend.az"
-        },
-        {
-          "title": "inDrive taps Pony . ai and Nvidia to test robotaxis in one of the world coldest capitals",
-          "url": "https://economictimes.indiatimes.com/ai/ai-insights/indrive-taps-pony-ai-and-nvidia-to-test-robotaxis-in-one-of-the-worlds-coldest-capitals/articleshow/135169539.cms",
-          "domain": "economictimes.indiatimes.com"
-        },
-        {
-          "title": "Oman exporters to explore trade opportunities in Kazakhstan",
-          "url": "https://timesofoman.com/article/178334-oman-exporters-to-explore-trade-opportunities-in-kazakhstan",
-          "domain": "timesofoman.com"
-        },
-        {
-          "title": "As the US and China form AI blocs , countries are increasingly torn between them",
-          "url": "https://www.news4jax.com/business/2026/10/25/as-the-us-and-china-form-ai-blocs-countries-are-increasingly-torn-between-them/",
-          "domain": "news4jax.com"
-        }
-      ],
+      "headlines": [],
       "toneReading": "No recent coverage found.",
       "volumeReading": null
     },
@@ -501,7 +501,28 @@
       "regulatory": 34,
       "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [],
+      "headlines": [
+        {
+          "title": "Sh36 . 7bn nuclear reactor : Kenya picks NuPEA to steer Konza project",
+          "url": "https://www.the-star.co.ke/news/2026-10-24-kenya-names-nupea-to-steer-sh367bn-reactor-project",
+          "domain": "the-star.co.ke"
+        },
+        {
+          "title": "UN official thanks S . Korea for helicopter donation to Kenya for peacekeeping operations",
+          "url": "https://www.koreaherald.com/article/10913420",
+          "domain": "koreaherald.com"
+        },
+        {
+          "title": "22 killed in Kenya bus crash near the site of a previous fatal accident",
+          "url": "https://abcnews.com/International/wireStory/22-killed-kenya-bus-crash-site-previous-fatal-137549608",
+          "domain": "abcnews.com"
+        },
+        {
+          "title": "At least 22 killed in Kenya bus crash near site of previous fatal accident",
+          "url": "https://www.thehindu.com/news/international/kenya-bus-crash-several-killed-october-25-2026/article71622975.ece",
+          "domain": "thehindu.com"
+        }
+      ],
       "toneReading": "No recent coverage found.",
       "volumeReading": null
     },
@@ -579,28 +600,7 @@
       "regulatory": 18,
       "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [
-        {
-          "title": "Spanish Minister Warns Against  Demonizing  Morocco Amid Ceuta Migration Crisis",
-          "url": "https://www.moroccoworldnews.com/2026/10/343612/spanish-minister-warns-against-demonizing-morocco-amid-ceuta-migration-crisis/",
-          "domain": "moroccoworldnews.com"
-        },
-        {
-          "title": "Morocco Allocates MAD 2 Billion to Media Sector in 2027 Budget",
-          "url": "https://www.moroccoworldnews.com/2026/10/343644/morocco-allocates-mad-2-billion-to-media-sector-in-2027-budget/",
-          "domain": "moroccoworldnews.com"
-        },
-        {
-          "title": "Morocco Expects $2 . 37 Billion in Tobacco and Alcohol Tax Revenue in 2027",
-          "url": "https://www.moroccoworldnews.com/2026/10/343615/morocco-expects-2-37-billion-in-tobacco-and-alcohol-tax-revenue-in-2027/",
-          "domain": "moroccoworldnews.com"
-        },
-        {
-          "title": "South Africa : Kaizer Chiefs , Raja and CS Sfaxien Face Tricky Return Ties As TotalEnergies CAF Confederation Cup Group Stage Places Go On the Line",
-          "url": "https://allafrica.com/stories/202610230241.html",
-          "domain": "allafrica.com"
-        }
-      ],
+      "headlines": [],
       "toneReading": "No recent coverage found.",
       "volumeReading": null
     },
@@ -678,28 +678,7 @@
       "regulatory": 30,
       "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [
-        {
-          "title": "EU , Philippines strengthen digital ties with AI Lab launch",
-          "url": "https://www.philstar.com/business/2026/10/25/2565468/eu-philippines-strengthen-digital-ties-ai-lab-launch",
-          "domain": "philstar.com"
-        },
-        {
-          "title": "Marstek Philippines names  Boss RDR  brand ambassador",
-          "url": "https://www.manilatimes.net/2026/10/25/the-sunday-times/filipino-champions/marstek-philippines-names-boss-rdr-brand-ambassador/2453208",
-          "domain": "manilatimes.net"
-        },
-        {
-          "title": "Unilever Philippines journey to net zero",
-          "url": "https://www.philstar.com/business/2026/10/25/2565466/unilever-philippines-journey-net-zero",
-          "domain": "philstar.com"
-        },
-        {
-          "title": "US Army long - range fires make a splash\u00a0on the frontline with China",
-          "url": "https://www.defensenews.com/global/asia-pacific/2026/10/22/us-army-long-range-fires-make-a-splash-on-the-frontline-with-china/",
-          "domain": "defensenews.com"
-        }
-      ],
+      "headlines": [],
       "toneReading": "No recent coverage found.",
       "volumeReading": null
     },
@@ -712,28 +691,7 @@
       "regulatory": 20,
       "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [
-        {
-          "title": "Poland closes airports and  air defence system activated  as Russia launches attack",
-          "url": "https://www.mirror.co.uk/news/world-news/poland-closes-airports-air-defence-37803629",
-          "domain": "mirror.co.uk"
-        },
-        {
-          "title": "NATO member  activates air defence system  as Russia launches new huge attack",
-          "url": "https://www.aol.co.uk/articles/nato-member-activates-air-defence-114100000.html",
-          "domain": "aol.co.uk"
-        },
-        {
-          "title": "Man extradited from Poland to face murder charge in Australia",
-          "url": "https://www.abc.net.au/news/2026-10-24/man-extradited-from-poland-to-face-murder-charge-in-australia/107304342",
-          "domain": "abc.net.au"
-        },
-        {
-          "title": "Man charged with murder after being extradited from Poland",
-          "url": "https://www.smh.com.au/national/man-charged-with-murder-after-being-extradited-from-poland-20261024-p618at.html",
-          "domain": "smh.com.au"
-        }
-      ],
+      "headlines": [],
       "toneReading": "No recent coverage found.",
       "volumeReading": null
     },
@@ -770,7 +728,7 @@
       "conflict": 26,
       "economic": 30,
       "regulatory": 36,
-      "trend": "down",
+      "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
       "headlines": [],
       "toneReading": "No recent coverage found.",
@@ -798,28 +756,7 @@
       "regulatory": 8,
       "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [
-        {
-          "title": "Saudi Arabia Singapore plan : Riyadh eyes oil storage hub from 2027 amid Hormuz disruption",
-          "url": "https://timesofindia.indiatimes.com/world/middle-east/saudi-arabias-singapore-plan-riyadh-eyes-oil-storage-hub-from-2027-amid-hormuz-disruption/articleshow/135202643.cms",
-          "domain": "timesofindia.indiatimes.com"
-        },
-        {
-          "title": "Gas supply cut from Indonesia accounts for less than 2 % of Singapore daily gas demand : EMA",
-          "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/10/24/gas-supply-cut-from-indonesia-accounts-for-less-than-2-of-singapores-daily-gas-demand-ema",
-          "domain": "thestar.com.my"
-        },
-        {
-          "title": "Spore expects all parties to honour commitments , says PM Wong after Indonesia cuts gas exports",
-          "url": "https://www.straitstimes.com/singapore/politics/spore-expects-all-parties-to-honour-commitments-says-pm-wong-after-indonesia-cuts-gas-exports",
-          "domain": "straitstimes.com"
-        },
-        {
-          "title": "Keep calm and carry on : Indonesia gas cut unlikely to hit Singapore electricity prices , says Tan See Leng",
-          "url": "https://www.channelnewsasia.com/singapore/electricity-prices-indonesia-gas-supply-cut-tan-see-leng-6490121",
-          "domain": "channelnewsasia.com"
-        }
-      ],
+      "headlines": [],
       "toneReading": "No recent coverage found.",
       "volumeReading": null
     },
@@ -864,7 +801,7 @@
       "conflict": 30,
       "economic": 46,
       "regulatory": 40,
-      "trend": "down",
+      "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
       "headlines": [],
       "toneReading": "No recent coverage found.",
@@ -879,28 +816,7 @@
       "regulatory": 18,
       "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [
-        {
-          "title": "Nigeria , South Korea seek stronger trade , technology partnerships",
-          "url": "https://www.vanguardngr.com/2026/10/nigeria-south-korea-seek-stronger-trade-technology-partnerships-2/",
-          "domain": "vanguardngr.com"
-        },
-        {
-          "title": "Seoul  fabricated  landmine blast , North Korea tells UN in letter | Border Disputes News",
-          "url": "https://www.aljazeera.com/news/2026/10/26/seoul-fabricated-landmine-blast-north-korea-tells-un-in-letter",
-          "domain": "aljazeera.com"
-        },
-        {
-          "title": "South Korea exceeds Asian Para Games target with 29 golds",
-          "url": "https://www.koreaherald.com/article/10913986",
-          "domain": "koreaherald.com"
-        },
-        {
-          "title": "UN official thanks S . Korea for helicopter donation to Kenya for peacekeeping operations",
-          "url": "https://www.koreaherald.com/article/10913420",
-          "domain": "koreaherald.com"
-        }
-      ],
+      "headlines": [],
       "toneReading": "No recent coverage found.",
       "volumeReading": null
     },
@@ -913,7 +829,28 @@
       "regulatory": 38,
       "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [],
+      "headlines": [
+        {
+          "title": "Fake bank giveaway uses Vap Poya as bait - Business",
+          "url": "https://www.dailymirror.lk/business/Fake-bank-giveaway-uses-Vap-Poya-as-bait/215-353308",
+          "domain": "dailymirror.lk"
+        },
+        {
+          "title": "Sri Lankan flavours take flight as British Airways partners with Hoppers London on new Colombo route",
+          "url": "https://www.ft.lk/lifestyle/Sri-Lankan-flavours-take-flight-as-British-Airways-partners-with-Hoppers-London-on-new-Colombo-route/8-799086",
+          "domain": "ft.lk"
+        },
+        {
+          "title": "Sri Lanka Customs seizes narcotics worth Rs . 67 . 53 million",
+          "url": "https://www.ft.lk/ft_tv/Sri-Lanka-Customs-seizes-narcotics-worth-Rs-67-53-million/10520-799121",
+          "domain": "ft.lk"
+        },
+        {
+          "title": "Commonwealth Kabaddi Cship : Bangladesh , Sri Lanka and Singapore register dominant wins on Day 2",
+          "url": "https://www.prokerala.com/news/articles/a1828403.html",
+          "domain": "prokerala.com"
+        }
+      ],
       "toneReading": "No recent coverage found.",
       "volumeReading": null
     },
@@ -978,28 +915,7 @@
       "regulatory": 48,
       "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [
-        {
-          "title": "Turkey says Libya will unify soon",
-          "url": "https://tribune.com.pk/story/2636630/turkey-says-libya-will-unify-soon",
-          "domain": "tribune.com.pk"
-        },
-        {
-          "title": "Lay new Thanksgiving dinner chips \u2013 NBC Los Angeles",
-          "url": "https://www.nbclosangeles.com/news/national-international/lays-thanksgiving-dinner-new-chips/3960250/",
-          "domain": "nbclosangeles.com"
-        },
-        {
-          "title": "CRACKER BARREL CELEBRATES THE HOLIDAYS WITH NEW CINNAMON SWIRL PANCAKES , COUNTRY FRIED TURKEY SANDWICH , RETURNING FAVORITES AND THANKSGIVING FEASTS",
-          "url": "http://www.prnewswire.com/news-releases/cracker-barrel-celebrates-the-holidays-with-new-cinnamon-swirl-pancakes-country-fried-turkey-sandwich-returning-favorites-and-thanksgiving-feasts-302914034.html",
-          "domain": "prnewswire.com"
-        },
-        {
-          "title": "Lay new Thanksgiving dinner chips \u2013 NBC Connecticut",
-          "url": "https://www.nbcconnecticut.com/news/national-international/lays-thanksgiving-dinner-new-chips/3788162/",
-          "domain": "nbcconnecticut.com"
-        }
-      ],
+      "headlines": [],
       "toneReading": "No recent coverage found.",
       "volumeReading": null
     },
@@ -1093,7 +1009,28 @@
       "regulatory": 30,
       "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [],
+      "headlines": [
+        {
+          "title": "Lotte steps up recruitment of Vietnamese workers",
+          "url": "https://www.koreatimes.co.kr/business/companies/20261025/lotte-steps-up-recruitment-of-vietnamese-workers",
+          "domain": "koreatimes.co.kr"
+        },
+        {
+          "title": "Tens of thousands of fans pack Hanoi stadium for BigBang 20th - anniversary concert",
+          "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/10/24/tens-of-thousands-of-fans-pack-hanoi-stadium-for-bigbang039s-20th-anniversary-concert",
+          "domain": "thestar.com.my"
+        },
+        {
+          "title": "Anaheim couple trafficked protected wildlife parts , feds say",
+          "url": "https://www.latimes.com/california/story/2026-10-24/anaheim-couple-protected-wildlife-trafficking-guilty-sentenced",
+          "domain": "latimes.com"
+        },
+        {
+          "title": "Singapore Crypto Economy Reaches $284B on Institutional Growth",
+          "url": "https://cointelegraph.com/news/singapore-crypto-economy-284b-institutional-activity-chainalysis?t=Singapore%20crypto%20activity%20grows%2055%%20as%20broader%20region%20contracts&fnp_t=1792833866.3f6684409893e025",
+          "domain": "cointelegraph.com"
+        }
+      ],
       "toneReading": "No recent coverage found.",
       "volumeReading": null
     },
