@@ -1,5 +1,516 @@
 {
   "country": "Myanmar",
-  "generatedAt": "2026-10-30T21:56:39.560235+00:00",
-  "headlines": []
+  "generatedAt": "2026-10-31T04:07:08.412495+00:00",
+  "headlines": [
+    {
+      "title": "ED freezes 1 , 424 bank accounts , attaches properties worth Rs 17 . 82 crore in drug - linked money - laundering cases",
+      "url": "https://www.prokerala.com/news/articles/a1828605.html",
+      "domain": "prokerala.com",
+      "date": "Oct 25, 2026"
+    },
+    {
+      "title": "U Matthew VanDyke , six Ukrainians held in arms training case allowed longer stay outside India",
+      "url": "https://scroll.in/latest/1096619/us-citizen-matthew-vandyke-6-ukrainians-held-in-arms-case-allowed-longer-stay-outside-india",
+      "domain": "scroll.in",
+      "date": "Oct 24, 2026"
+    },
+    {
+      "title": "Thailand welcomes US - Myanmar engagement , expects Asean talks on country future",
+      "url": "https://www.businesstimes.com.sg/international/asean/thailand-welcomes-us-myanmar-engagement-expects-asean-talks-countrys-future",
+      "domain": "businesstimes.com.sg",
+      "date": "Oct 24, 2026"
+    },
+    {
+      "title": "Myanmar detained leader Suu Kyi traded health concerns with her son in their first call in 5 years",
+      "url": "https://abcnews.com/International/wireStory/myanmars-detained-leader-suu-kyi-traded-health-concerns-137519897",
+      "domain": "abcnews.com",
+      "date": "Oct 23, 2026"
+    },
+    {
+      "title": "After nearly 6 years , ex - Myanmar leader Aung San Suu Kyi son hears her voice",
+      "url": "https://www.kpbs.org/news/international/2026/10/23/after-nearly-6-years-ex-myanmar-leader-aung-san-suu-kyis-son-hears-her-voice",
+      "domain": "kpbs.org",
+      "date": "Oct 23, 2026"
+    },
+    {
+      "title": "Myanmar arms training case : Court allows US mercenary VanDyke , 6 Ukrainians to stay abroad till Feb 24",
+      "url": "https://timesofindia.indiatimes.com/india/myanmar-arms-training-case-court-allows-us-mercenary-vandyke-6-ukrainians-to-stay-abroad-till-feb-24/articleshow/135141646.cms",
+      "domain": "timesofindia.indiatimes.com",
+      "date": "Oct 23, 2026"
+    },
+    {
+      "title": "Detained Myanmar leader Suu Kyi is allowed her first call with her son in 5 years",
+      "url": "https://japantoday.com/category/world/detained-myanmar-leader-suu-kyi-is-allowed-her-first-call-with-her-son-in-5-years",
+      "domain": "japantoday.com",
+      "date": "Oct 22, 2026"
+    },
+    {
+      "title": "Aung San Suu Kyi phone call is  political calculation  by military - backed government \u2013 Radio Free Asia",
+      "url": "https://www.rfa.org/english/myanmar/2026/10/22/aung-san-suu-kyi-son-kim-aris-burma-phone-call/",
+      "domain": "rfa.org",
+      "date": "Oct 22, 2026"
+    },
+    {
+      "title": "1 , 500 Rohingya refugees deported to Myanmar from Malaysia - Shafaqna English | International Shia News & Fatwas",
+      "url": "https://en.shafaqna.com/486810/1500-rohingya-refugees-deported-to-myanmar-from-malaysia/",
+      "domain": "en.shafaqna.com",
+      "date": "Oct 22, 2026"
+    },
+    {
+      "title": "Manipur valley protests over Meitei trio killing , Naga village torched in Kamjong | Guwahati News",
+      "url": "https://timesofindia.indiatimes.com/city/guwahati/manipur-valley-protests-over-meitei-trios-killing-naga-village-torched-in-kamjong/articleshow/135123797.cms",
+      "domain": "timesofindia.indiatimes.com",
+      "date": "Oct 22, 2026"
+    },
+    {
+      "title": "Son of Aung San Suu Kyi speaks to her for first time in five years in dramatic breakthrough",
+      "url": "https://www.independent.co.uk/asia/southeast-asia/aung-san-suu-kyi-breakthrough-son-kim-aris-telephone-b3071330.html",
+      "domain": "independent.co.uk",
+      "date": "Oct 22, 2026"
+    },
+    {
+      "title": "Myanmar Suu Kyi sounded  fairly healthy , son says after first call in years",
+      "url": "https://www.thehindu.com/news/international/myanmars-suu-kyi-sounded-fairly-healthy-son-says-after-first-call-in-years/article71613000.ece",
+      "domain": "thehindu.com",
+      "date": "Oct 22, 2026"
+    },
+    {
+      "title": "Son of Aung San Suu Kyi says he had first call with his mother in five years",
+      "url": "https://www.taipeitimes.com/News/world/archives/2026/10/23/2003866489",
+      "domain": "taipeitimes.com",
+      "date": "Oct 22, 2026"
+    },
+    {
+      "title": "World News : Myanmar Aung San Suu Kyi speaks to son for first time in over five years",
+      "url": "https://www.gdnonline.com:443/Details/1410546/Myanmars-Aung-San-Suu-Kyi-speaks-to-son-for-first-time-in-over-five-years",
+      "domain": "gdnonline.com",
+      "date": "Oct 22, 2026"
+    },
+    {
+      "title": "Arab News | International justice must give victims a voice",
+      "url": "https://www.arabnews.com/opinion/international-justice-must-give-victims-a-voice-3007667",
+      "domain": "arabnews.com",
+      "date": "Oct 22, 2026"
+    },
+    {
+      "title": "Detained Myanmar leader Suu Kyi is allowed her first call with her son in 5 years \u2013 Winnipeg Free Press",
+      "url": "https://www.winnipegfreepress.com/world/2026/10/22/detained-myanmar-leader-suu-kyi-is-allowed-her-first-call-with-her-son-in-5-years",
+      "domain": "winnipegfreepress.com",
+      "date": "Oct 22, 2026"
+    },
+    {
+      "title": "Myanmar , Belarus boosting co - operation",
+      "url": "https://www.sb.by/en/myanmar-belarus-boosting-co-operation.html",
+      "domain": "sb.by",
+      "date": "Oct 22, 2026"
+    },
+    {
+      "title": "Lukashenko convinced of need to intensify Belarus - Myanmar trade , economic co - operation",
+      "url": "https://www.sb.by/en/lukashenko-convinced-of-need-to-intensify-belarus-myanmar-trade-economic-co-operation-.html",
+      "domain": "sb.by",
+      "date": "Oct 22, 2026"
+    },
+    {
+      "title": "No repatriation if returnees face persecution in Myanmar",
+      "url": "https://www.thestar.com.my/news/nation/2026/10/22/no-repatriation-if-returnees-face-persecution-in-myanmar",
+      "domain": "thestar.com.my",
+      "date": "Oct 22, 2026"
+    },
+    {
+      "title": "1 . 457 kg heroin worth over Rs 2 crore seized in Mizoram ; Manipur man held | Guwahati News",
+      "url": "https://timesofindia.indiatimes.com/city/guwahati/1-457-kg-heroin-worth-over-rs-2-crore-seized-in-mizoram-manipur-man-held/articleshow/135099010.cms",
+      "domain": "timesofindia.indiatimes.com",
+      "date": "Oct 21, 2026"
+    },
+    {
+      "title": "Mizoram Police arrest Manipur man with heroin worth Rs 2 . 91 crore",
+      "url": "https://morungexpress.com/mizoram-police-arrest-manipur-man-with-heroin-worth-rs-291-crore",
+      "domain": "morungexpress.com",
+      "date": "Oct 21, 2026"
+    },
+    {
+      "title": "California , 4 other states rank among world 20 largest economies \u2013 East Bay Times",
+      "url": "https://www.eastbaytimes.com/2026/10/21/california-4-other-states-rank-among-worlds-20-largest-economies/",
+      "domain": "eastbaytimes.com",
+      "date": "Oct 21, 2026"
+    },
+    {
+      "title": "Myanmar man held at Bengaluru airport with hydroponic ganja | Bengaluru News",
+      "url": "https://timesofindia.indiatimes.com/city/bengaluru/myanmar-man-held-at-bengaluru-airport-with-hydroponic-ganja/articleshow/135096228.cms",
+      "domain": "timesofindia.indiatimes.com",
+      "date": "Oct 21, 2026"
+    },
+    {
+      "title": "World News | Myanmar Military Attacks Two Churches in Christian Regions",
+      "url": "https://www.christianitydaily.com:443/news/myanmar-military-attacks-two-churches-in-christian-regions.html",
+      "domain": "christianitydaily.com",
+      "date": "Oct 21, 2026"
+    },
+    {
+      "title": "Belaru Council of the Republic , Myanmar House of Nationalities signed memorandum of co - operation",
+      "url": "https://www.sb.by/en/belarus-council-of-the-republic-myanmar-s-house-of-nationalities-signed-memorandum-of-co-operation.html",
+      "domain": "sb.by",
+      "date": "Oct 21, 2026"
+    },
+    {
+      "title": "News photo : Myanmar parliamentary delegation laid wreath at Victory Monument in Minsk",
+      "url": "https://www.sb.by/en/news-photo-myanmar-parliamentary-delegation-laid-wreath-at-victory-monument-in-minsk.html",
+      "domain": "sb.by",
+      "date": "Oct 21, 2026"
+    },
+    {
+      "title": "Japan envoy Sasakawa meets Myanmar Min Aung Hlaing : State media",
+      "url": "https://www.straitstimes.com/asia/japan-envoy-sasakawa-meets-myanmars-min-aung-hlaing-state-media-says",
+      "domain": "straitstimes.com",
+      "date": "Oct 21, 2026"
+    },
+    {
+      "title": "Rohingya crisis requires Myanmar to address root causes , says Tok Mat",
+      "url": "https://www.thestar.com.my/news/nation/2026/10/21/rohingya-crisis-requires-myanmar-to-address-root-causes-says-tok-mat",
+      "domain": "thestar.com.my",
+      "date": "Oct 21, 2026"
+    },
+    {
+      "title": "Is Donald Trump ready to do business with Myanmar ?",
+      "url": "https://www.bbc.co.uk/news/articles/cw203zx1x1rno",
+      "domain": "bbc.co.uk",
+      "date": "Oct 21, 2026"
+    },
+    {
+      "title": "Anwar Rohingya gamble - Editorial - The Jakarta Post",
+      "url": "http://www.thejakartapost.com/opinion/2026/10/21/anwars-rohingya-gamble",
+      "domain": "thejakartapost.com",
+      "date": "Oct 20, 2026"
+    },
+    {
+      "title": "Devastating 2025 Myanmar earthquake sheds light on how the  Big One  could play out in California",
+      "url": "https://www.livescience.com/planet-earth/earthquakes/devastating-2025-myanmar-earthquake-sheds-light-on-how-the-big-one-could-play-out-in-california",
+      "domain": "livescience.com",
+      "date": "Oct 20, 2026"
+    },
+    {
+      "title": "Myanmar releases rare images of Aung San Suu Kyi after King Charles dramatic intervention",
+      "url": "https://www.aol.com/articles/king-charles-sends-books-sealed-085513000.html",
+      "domain": "aol.com",
+      "date": "Oct 20, 2026"
+    },
+    {
+      "title": "Vatican newspaper highlights Scottish aid worker efforts in Myanmar | News Headlines",
+      "url": "https://www.catholicculture.org/news/headlines/index.cfm?storyid=71003",
+      "domain": "catholicculture.org",
+      "date": "Oct 20, 2026"
+    },
+    {
+      "title": "Myanmar Coup Administration Releases Photos of Detained Leader Aung San Suu Kyi",
+      "url": "https://thediplomat.com/2026/10/myanmar-coup-administration-releases-photos-of-detained-leader-aung-san-suu-kyi/",
+      "domain": "thediplomat.com",
+      "date": "Oct 20, 2026"
+    },
+    {
+      "title": "Myanmar ousted leader Aung San Suu Kyi seen in rare photos after receiving gift from King Charles | Myanmar",
+      "url": "https://www.theguardian.com/world/2026/oct/20/myanmar-aung-san-suu-kyi-rare-photos-gift-king-charles",
+      "domain": "theguardian.com",
+      "date": "Oct 20, 2026"
+    },
+    {
+      "title": "Bangkok Post - Five tonnes of cannabis buds seized in Bangkok",
+      "url": "https://www.bangkokpost.com/thailand/general/3340299/five-tonnes-of-cannabis-buds-seized-in-bangkok",
+      "domain": "bangkokpost.com",
+      "date": "Oct 20, 2026"
+    },
+    {
+      "title": "Myanmar ousted leader Aung San Suu Kyi seen in rare photos after receiving gift from King Charles",
+      "url": "https://www.aol.co.uk/articles/myanmar-ousted-leader-aung-san-050700000.html",
+      "domain": "aol.co.uk",
+      "date": "Oct 20, 2026"
+    },
+    {
+      "title": "King Charles sends Aung San Suu Kyi books - Myanmar government",
+      "url": "https://www.bbc.co.uk/news/articles/c6rryj7z0jzro",
+      "domain": "bbc.co.uk",
+      "date": "Oct 20, 2026"
+    },
+    {
+      "title": "Detained Suu Kyi receives united kingdom royal package Myanmar govt",
+      "url": "https://www.manilatimes.net/2026/10/20/world/americas-emea/detained-suu-kyi-receives-uk-royal-package-myanmar-govt/2449287",
+      "domain": "manilatimes.net",
+      "date": "Oct 20, 2026"
+    },
+    {
+      "title": "Myanmar coffee sector eyes bigger access to huge Chinese market",
+      "url": "https://www.globaltimes.cn/page/202610/1372596.shtml",
+      "domain": "globaltimes.cn",
+      "date": "Oct 20, 2026"
+    },
+    {
+      "title": "How Myanmar rare earth elements reshape China supply chain",
+      "url": "https://www.dailysabah.com/opinion/op-ed/how-myanmars-rare-earth-elements-reshape-chinas-supply-chain",
+      "domain": "dailysabah.com",
+      "date": "Oct 19, 2026"
+    },
+    {
+      "title": "Rare photos of Myanmar ex - leader Aung San Suu Kyi show her receiving books sent by King Charles",
+      "url": "https://www.nbcnews.com/world/asia/photos-rare-aung-san-suu-kyi-myanmar-receiving-books-king-charles-rcna604381",
+      "domain": "nbcnews.com",
+      "date": "Oct 19, 2026"
+    },
+    {
+      "title": "Detained Suu Kyi receives U . K . royal package : Myanmar government",
+      "url": "https://www.thehindu.com/news/international/detained-suu-kyi-receives-uk-royal-package-myanmar-government/article71602992.ece",
+      "domain": "thehindu.com",
+      "date": "Oct 19, 2026"
+    },
+    {
+      "title": "Detained Suu Kyi receives united kingdom royal package , says Myanmar govt",
+      "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/10/19/detained-suu-kyi-receives-uk-royal-package-says-myanmar-govt",
+      "domain": "thestar.com.my",
+      "date": "Oct 19, 2026"
+    },
+    {
+      "title": "Rare photos of Myanmar ex - leader Aung San Suu Kyi show her receiving books sent by King Charles \u2013 Winnipeg Free Press",
+      "url": "https://www.winnipegfreepress.com/world/2026/10/19/rare-photos-of-myanmars-ex-leader-aung-san-suu-kyi-show-her-receiving-books-sent-by-king-charles",
+      "domain": "winnipegfreepress.com",
+      "date": "Oct 19, 2026"
+    },
+    {
+      "title": "ASEAN ministers meet in Philippines to tackle cybercrime , trafficking , AI - enabled abuse",
+      "url": "https://aa.com.tr/en/asia-pacific/asean-ministers-meet-in-philippines-to-tackle-cybercrime-trafficking-ai-enabled-abuse/4093637",
+      "domain": "aa.com.tr",
+      "date": "Oct 19, 2026"
+    },
+    {
+      "title": "Thailand lets Myanmar refugees work to cope with labor gaps",
+      "url": "https://www.dw.com/en/we-dont-have-to-wait-for-others-to-support-us-myanmar-refugees-find-hope-in-thailands-work-program/a-79697921",
+      "domain": "dw.com",
+      "date": "Oct 19, 2026"
+    },
+    {
+      "title": "Hamraz beats Myanmar rival at Asian Para Games",
+      "url": "https://pajhwok.com/2026/10/19/hamraz-beats-myanmar-rival-at-asian-para-games/",
+      "domain": "pajhwok.com",
+      "date": "Oct 19, 2026"
+    },
+    {
+      "title": "Embassies of Belarus opened in DPRK , Myanmar",
+      "url": "https://www.sb.by/en/embassies-of-belarus-opened-in-dprk-myanmar.html",
+      "domain": "sb.by",
+      "date": "Oct 19, 2026"
+    },
+    {
+      "title": "Bangkok Post - China embassy issues fresh Thailand travel alert over kidnappings , job scams",
+      "url": "https://www.bangkokpost.com/thailand/general/3339693/chinas-embassy-issues-fresh-thailand-travel-alert-over-kidnappings-job-scams",
+      "domain": "bangkokpost.com",
+      "date": "Oct 19, 2026"
+    },
+    {
+      "title": "US report exposes gaps in Kenya human trafficking fight as victim numbers soar",
+      "url": "https://www.the-star.co.ke/news/2026-10-18-us-report-exposes-gaps-in-kenyas-human-trafficking-fight-as-victim-numbers-soar",
+      "domain": "the-star.co.ke",
+      "date": "Oct 18, 2026"
+    },
+    {
+      "title": "Five suspected UNLF ( G - 5 ) members apprehended in Manipur",
+      "url": "https://morungexpress.com/five-suspected-unlf-g-5-members-apprehended-in-manipur",
+      "domain": "morungexpress.com",
+      "date": "Oct 17, 2026"
+    },
+    {
+      "title": "Myanmar rebel fighter says military airstrike kills 11 civilians",
+      "url": "https://www.freemalaysiatoday.com/category/world/2026/10/17/myanmar-rebel-fighter-says-military-airstrike-kills-11-civilians",
+      "domain": "freemalaysiatoday.com",
+      "date": "Oct 17, 2026"
+    },
+    {
+      "title": "Chin groups meet in Aizawl , agree to form common council against Myanmar junta | Guwahati News",
+      "url": "https://timesofindia.indiatimes.com/city/guwahati/chin-groups-meet-in-aizawl-agree-to-form-common-council-against-myanmar-junta/articleshow/135000851.cms",
+      "domain": "timesofindia.indiatimes.com",
+      "date": "Oct 16, 2026"
+    },
+    {
+      "title": "Iran ships some LPG , jet fuel despite US blockade , data shows",
+      "url": "https://economictimes.indiatimes.com/news/international/world-news/iran-ships-some-lpg-jet-fuel-despite-us-blockade-data-shows/articleshow/135002642.cms",
+      "domain": "economictimes.indiatimes.com",
+      "date": "Oct 16, 2026"
+    },
+    {
+      "title": "India and Myanmar sign MoUs on five Quick Impact Projects under Mekong - Ganga Cooperation",
+      "url": "http://www.myanmarnews.net/news/279379631/india-and-myanmar-sign-mous-on-five-quick-impact-projects-under-mekong-ganga-cooperation",
+      "domain": "myanmarnews.net",
+      "date": "Oct 16, 2026"
+    },
+    {
+      "title": "Yangon - Chengdu direct flight route expected to boost Myanmar tourism , trade",
+      "url": "http://www.myanmarnews.net/news/279379621/yangon-chengdu-direct-flight-route-expected-to-boost-myanmar-tourism-trade",
+      "domain": "myanmarnews.net",
+      "date": "Oct 16, 2026"
+    },
+    {
+      "title": "The Borders the Nagas Never Chose",
+      "url": "https://morungexpress.com/the-borders-the-nagas-never-chose",
+      "domain": "morungexpress.com",
+      "date": "Oct 16, 2026"
+    },
+    {
+      "title": "Nearly 50 people die annually in Mizoram due to drugs : Official",
+      "url": "https://morungexpress.com/nearly-50-people-die-annually-in-mizoram-due-to-drugs-official",
+      "domain": "morungexpress.com",
+      "date": "Oct 16, 2026"
+    },
+    {
+      "title": "Arab News | Iran ships some LPG , jet fuel despite US blockade , data shows",
+      "url": "https://www.arabnews.com/middle-east/iran-ships-some-lpg-jet-fuel-despite-us-blockade-data-shows-3006715",
+      "domain": "arabnews.com",
+      "date": "Oct 16, 2026"
+    },
+    {
+      "title": "Thai cops bust  audaciou cross - border fiberoptic cable running to Myanmar scam compound 350 - meter , 48 - core cable was supplying illegal border casino and a scam center with 6TB of data per day",
+      "url": "https://www.tomshardware.com/tech-industry/thai-cops-bust-audacious-cross-border-fiberoptic-cable-running-to-myanmar-scam-compound-350-meter-48-core-cable-was-supplying-illegal-border-casino-and-a-scam-center-with-6tb-of-data-per-day",
+      "domain": "tomshardware.com",
+      "date": "Oct 16, 2026"
+    },
+    {
+      "title": "US holds more secret talks with Myanmar military - backed rulers in Tokyo , sources say",
+      "url": "https://www.asiaone.com:443/asia/us-holds-more-secret-talks-myanmars-military-backed-rulers-tokyo-sources-say",
+      "domain": "asiaone.com",
+      "date": "Oct 16, 2026"
+    },
+    {
+      "title": "US holds secret Myanmar talks as rare earth minerals at stake",
+      "url": "https://timesofindia.indiatimes.com/world/us/us-holds-secret-myanmar-talks-as-rare-earth-minerals-at-stake/articleshow/134986890.cms",
+      "domain": "timesofindia.indiatimes.com",
+      "date": "Oct 16, 2026"
+    },
+    {
+      "title": "Exclusive - US holds more secret talks with Myanmar military - backed rulers in Tokyo , sources say",
+      "url": "https://lufkindailynews.com/news_reuters/top_news/exclusive-us-holds-more-secret-talks-with-myanmars-military-backed-rulers-in-tokyo-sources-say/article_ec5c1b49-1b75-5b12-aef0-fcdb8e1e31e7.html",
+      "domain": "lufkindailynews.com",
+      "date": "Oct 16, 2026"
+    },
+    {
+      "title": "Coffee producers from Vietnam , Myanmar shown interest in Belaru trading platform",
+      "url": "https://www.sb.by/en/coffee-producers-from-vietnam-myanmar-shown-interest-in-belarus-exchange-market.html",
+      "domain": "sb.by",
+      "date": "Oct 16, 2026"
+    },
+    {
+      "title": "Spear Corps Commander visits Assam Rifles in Manipur",
+      "url": "https://theshillongtimes.com/2026/10/15/spear-corps-commander-visits-assam-rifles-in-manipur/",
+      "domain": "theshillongtimes.com",
+      "date": "Oct 16, 2026"
+    },
+    {
+      "title": "US and Myanmar hold fresh talks in Tokyo amid diplomatic thaw",
+      "url": "https://cyprus-mail.com/2026/10/16/us-holds-fresh-talks-with-myanmar-military-government-in-tokyo",
+      "domain": "cyprus-mail.com",
+      "date": "Oct 16, 2026"
+    },
+    {
+      "title": "Myanmar coup leader - turned - president wins back neighbours despite war | ASEAN News",
+      "url": "https://www.aljazeera.com/news/2026/10/16/as-war-rages-myanmars-coup-leader-turned-president-wins-back-neighbours",
+      "domain": "aljazeera.com",
+      "date": "Oct 16, 2026"
+    },
+    {
+      "title": "Immigration Dept nabs 73 undocumented foreign workers during raids in JB",
+      "url": "https://www.thestar.com.my/news/nation/2026/10/16/immigration-dept-nabs-73-undocumented-foreign-workers-during-raids-in-jb",
+      "domain": "thestar.com.my",
+      "date": "Oct 16, 2026"
+    },
+    {
+      "title": "Myanmar oil refinery comes back onstream to cut reliance on fuel imports",
+      "url": "https://asia.nikkei.com/business/energy/myanmar-oil-refinery-comes-back-onstream-to-cut-reliance-on-fuel-imports",
+      "domain": "asia.nikkei.com",
+      "date": "Oct 15, 2026"
+    },
+    {
+      "title": "Lawngtlai tightens vigil on vehicle smuggling , unregulated Myanmar trade",
+      "url": "https://timesofindia.indiatimes.com/city/guwahati/lawngtlai-tightens-vigil-on-vehicle-smuggling-unregulated-myanmar-trade/articleshow/134970129.cms",
+      "domain": "timesofindia.indiatimes.com",
+      "date": "Oct 15, 2026"
+    },
+    {
+      "title": "Kuki woman killed , two missing after gunfight breaks out in Manipur Kamjong : Police",
+      "url": "https://www.hindustantimes.com/india-news/kuki-woman-killed-two-missing-after-gunfight-breaks-out-in-manipur-s-kamjong-police-101792078286345.html",
+      "domain": "hindustantimes.com",
+      "date": "Oct 15, 2026"
+    },
+    {
+      "title": "Chinese embassy donates funds to Myanmar sports federations - Xinhua",
+      "url": "https://english.news.cn/asiapacific/20261015/ffe7e07784884143ae711e7d87f29d83/c.html",
+      "domain": "english.news.cn",
+      "date": "Oct 15, 2026"
+    },
+    {
+      "title": "US lifts sanctions on daughter of Myanmar military - linked businessman",
+      "url": "https://www.asiaone.com/world/us-lifts-sanctions-daughter-myanmar-military-linked-businessman",
+      "domain": "asiaone.com",
+      "date": "Oct 10, 2026"
+    },
+    {
+      "title": "Myanmar ships with returnees from Malaysia enter home waters , state media says",
+      "url": "https://bdnews24.com/neighbours/zgeb3hv7zv",
+      "domain": "bdnews24.com",
+      "date": "Oct 02, 2026"
+    },
+    {
+      "title": "Two Myanmar nationals charged with injuring policeman",
+      "url": "https://www.thestar.com.my/news/nation/2026/10/02/two-myanmar-nationals-charged-with-injuring-policeman",
+      "domain": "thestar.com.my",
+      "date": "Oct 02, 2026"
+    },
+    {
+      "title": "Malaysia - Myanmar deportations : Concerns mount as hundreds of refugees and migrants are returned to military - ruled nation",
+      "url": "https://www.smh.com.au/world/asia/sending-them-to-their-deaths-malaysia-s-deal-with-the-devil-20261002-p611yy.html",
+      "domain": "smh.com.au",
+      "date": "Oct 02, 2026"
+    },
+    {
+      "title": "Chinese enterprises eye growing role in Myanmar economic , social development",
+      "url": "https://www.globaltimes.cn/page/202610/1371639.shtml",
+      "domain": "globaltimes.cn",
+      "date": "Oct 02, 2026"
+    },
+    {
+      "title": "2 PLA cadres among 4 militants nabbed in Manipur | Guwahati News",
+      "url": "https://timesofindia.indiatimes.com/city/guwahati/2-pla-cadres-among-4-militants-nabbed-in-manipur/articleshow/134625213.cms",
+      "domain": "timesofindia.indiatimes.com",
+      "date": "Oct 01, 2026"
+    },
+    {
+      "title": "Former Myanmar American Chamber of Commerce board member detained in Spain",
+      "url": "https://www.wral.com/news/ap/7972a-former-myanmar-american-chamber-of-commerce-board-member-detained-in-spain/",
+      "domain": "wral.com",
+      "date": "Oct 01, 2026"
+    },
+    {
+      "title": "UN refugee agency concerned by Malaysia returns to Myanmar",
+      "url": "https://www.thestar.com.my/news/nation/2026/10/01/un-refugee-agency-concerned-by-malaysia-returns-to-myanmar",
+      "domain": "thestar.com.my",
+      "date": "Oct 01, 2026"
+    },
+    {
+      "title": "Malaysia starts sending Myanmar migrants home",
+      "url": "https://www.ucanews.com/news/malaysia-starts-sending-myanmar-migrants-home/115540",
+      "domain": "ucanews.com",
+      "date": "Oct 01, 2026"
+    },
+    {
+      "title": "UAE condemns killing of oil tanker crew members",
+      "url": "https://gulfnews.com/world/mena/uae-condemns-killing-of-oil-tanker-crew-members-1.500694162",
+      "domain": "gulfnews.com",
+      "date": "Oct 01, 2026"
+    },
+    {
+      "title": "They showed no mercy : mapping the Rohingya villages being erased by rebel forces | Global development",
+      "url": "https://www.theguardian.com/global-development/ng-interactive/2026/oct/01/they-showed-no-mercy-mapping-the-rohingya-villages-being-erased-by-rebel-forces",
+      "domain": "theguardian.com",
+      "date": "Oct 01, 2026"
+    },
+    {
+      "title": "Trump says he discussed release of political prisoners with Xi",
+      "url": "https://www.asiaone.com/world/trump-says-he-discussed-release-political-prisoners-xi",
+      "domain": "asiaone.com",
+      "date": "Oct 01, 2026"
+    }
+  ]
 }

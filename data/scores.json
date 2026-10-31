@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-30T21:56:39.560235+00:00",
+  "generatedAt": "2026-10-31T04:07:08.412495+00:00",
   "source": "GDELT (news tone/volume, 3-day window) blended 50/50 with baseline",
   "countries": [
     {
@@ -24,28 +24,7 @@
       "regulatory": 44,
       "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [
-        {
-          "title": "Burnham tells Trump he plans  firm action  against Argentina over Falklands interference",
-          "url": "https://www.dailystar.co.uk/news/latest-news/burnham-tells-trump-plans-firm-37805753",
-          "domain": "dailystar.co.uk"
-        },
-        {
-          "title": "Benjamin Netanyahu switches Israel position to favor Argentina in Falklands dispute",
-          "url": "http://www.jpost.com/israel-news/article-912697",
-          "domain": "jpost.com"
-        },
-        {
-          "title": "Argentina August Activity Falls 1 . 7 % as Government Promotes Export Investment",
-          "url": "https://econotimes.com/Argentina-s-August-Activity-Falls-1-7-as-Government-Promotes-Export-Investment-1762294",
-          "domain": "econotimes.com"
-        },
-        {
-          "title": "Pope South American trip to go ahead following lung cancer surgery",
-          "url": "https://www.bbc.co.uk/news/articles/cjr4y5rq46p2o",
-          "domain": "bbc.co.uk"
-        }
-      ],
+      "headlines": [],
       "toneReading": "No recent coverage found.",
       "volumeReading": null
     },
@@ -71,7 +50,28 @@
       "regulatory": 20,
       "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [],
+      "headlines": [
+        {
+          "title": "Turkish Victory Party unhappy with campaign against Azerbaijan \u2013 advisor ( PHOTO )",
+          "url": "https://www.trend.az/azerbaijan/politics/4238802.html",
+          "domain": "trend.az"
+        },
+        {
+          "title": "Azerbaijan - India relations open up broad opportunities for cooperation - analyst",
+          "url": "https://www.trend.az/azerbaijan/politics/4238770.html",
+          "domain": "trend.az"
+        },
+        {
+          "title": "India and Azerbaijan move to reset ties after Operation Sindoor tensions",
+          "url": "https://dailypioneer.com/india/india-and-azerbaijan-move-to-reset-ties-after-operation-sindoor-tensions",
+          "domain": "dailypioneer.com"
+        },
+        {
+          "title": "Chronicles of Victory : President Ilham Aliyev interviewed by Le Figaro newspaper on October 24 , 2020 ( PHOTO / VIDEO )",
+          "url": "https://www.trend.az/azerbaijan/4238314.html",
+          "domain": "trend.az"
+        }
+      ],
       "toneReading": "No recent coverage found.",
       "volumeReading": null
     },
@@ -97,28 +97,7 @@
       "regulatory": 72,
       "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [
-        {
-          "title": "Iran parliament speaker Mohammad Bagher Ghalibaf to skip Brics forum in New Delhi",
-          "url": "https://www.hindustantimes.com/india-news/irans-parliament-speaker-mohammad-bagher-ghalibaf-to-skip-brics-forum-in-new-delhi-unforeseen-circumstances-101792840172755.html",
-          "domain": "hindustantimes.com"
-        },
-        {
-          "title": "Belarus targets 25 pct electric public transport by late 2029 - Xinhua",
-          "url": "https://english.news.cn/europe/20261024/a1cecdd7511a457caf7d0dfbf04a3905/c.html",
-          "domain": "english.news.cn"
-        },
-        {
-          "title": "UN delegates seek limits on sanctions and stronger Charter compliance",
-          "url": "https://econotimes.com/UN-delegates-seek-limits-on-sanctions-and-stronger-Charter-compliance-1761795",
-          "domain": "econotimes.com"
-        },
-        {
-          "title": "Russia - Ukraine war : Melania Trump brokers localised ceasefire in Oleshky ; all you need to know about the starving city",
-          "url": "https://www.livemint.com/news/us-news/russiaukraine-war-melania-trump-brokers-localised-ceasefire-in-oleshky-all-you-need-to-know-about-the-starving-city-11792813675780.html",
-          "domain": "livemint.com"
-        }
-      ],
+      "headlines": [],
       "toneReading": "No recent coverage found.",
       "volumeReading": null
     },
@@ -183,28 +162,7 @@
       "regulatory": 40,
       "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [
-        {
-          "title": "NYC - born influencer arrested in Colombia for arms trafficking",
-          "url": "https://nypost.com/2026/10/24/world-news/nyc-born-influencer-arrested-in-colombia-for-arms-trafficking/",
-          "domain": "nypost.com"
-        },
-        {
-          "title": "Juli\u00e1n Delgado Lopera , writer :  Trans and queer language is poetic  | Culture",
-          "url": "https://english.elpais.com/culture/2026-10-24/julian-delgado-lopera-writer-trans-and-queer-language-is-poetic.html",
-          "domain": "english.elpais.com"
-        },
-        {
-          "title": "Navy reservist arrested in manhunt after wife body found in freezer \u2013 NBC4 Washington",
-          "url": "https://www.nbcwashington.com/news/national-international/navy-reservist-caught-murder-wife/4091803/",
-          "domain": "nbcwashington.com"
-        },
-        {
-          "title": "Colombia teaches Gaza to search for its missing without waiting for the war to end",
-          "url": "https://english.elpais.com/international/2026-10-23/colombia-teaches-gaza-to-search-for-its-missing-without-waiting-for-the-war-to-end.html",
-          "domain": "english.elpais.com"
-        }
-      ],
+      "headlines": [],
       "toneReading": "No recent coverage found.",
       "volumeReading": null
     },
@@ -230,28 +188,7 @@
       "regulatory": 64,
       "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [
-        {
-          "title": "Health : WHO announces launch of first Ebola vaccine clinical trial in DR Congo",
-          "url": "https://www.gdnonline.com:443/Details/1410709/WHO-announces-launch-of-first-Ebola-vaccine-clinical-trial-in-DR-Congo",
-          "domain": "gdnonline.com"
-        },
-        {
-          "title": "WHO Begins Ebola Vaccine Trial In DR Congo As Death Toll Exceeds 4600",
-          "url": "https://saharareporters.com/2026/10/24/who-begins-ebola-vaccine-trial-dr-congo-death-toll-exceeds-4600",
-          "domain": "saharareporters.com"
-        },
-        {
-          "title": "Ebola : Uganda introduces 21 - day quarantine for people entering from DRC",
-          "url": "https://www.africanews.com/2026/10/26/ebola-uganda-introduces-21-day-quarantine-for-people-entering-from-drc/",
-          "domain": "africanews.com"
-        },
-        {
-          "title": "The Hindu Morning Digest : October 24 , 2026",
-          "url": "https://www.thehindu.com/news/morning-digest-october-24-2026/article71618904.ece",
-          "domain": "thehindu.com"
-        }
-      ],
+      "headlines": [],
       "toneReading": "No recent coverage found.",
       "volumeReading": null
     },
@@ -264,7 +201,28 @@
       "regulatory": 13,
       "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [],
+      "headlines": [
+        {
+          "title": "Ecuador Says El Ni\u00f1o Peak Phase Began Friday",
+          "url": "https://www.riotimesonline.com/ecuador-el-nino-peak-begins-23-october-2026/",
+          "domain": "riotimesonline.com"
+        },
+        {
+          "title": "Ecuador Willian Pacho Eyes Ballon dOr on 26 October",
+          "url": "https://www.riotimesonline.com/ecuador-willian-pacho-ballon-dor-26-october-2026/",
+          "domain": "riotimesonline.com"
+        },
+        {
+          "title": "Ecuador : population , GDP and key statistics",
+          "url": "https://worldreportnow.com/countries/ecuador",
+          "domain": "worldreportnow.com"
+        },
+        {
+          "title": "Ecuador Bunker Arsenals : TV Reports 100 Firearms",
+          "url": "https://www.riotimesonline.com/ecuador-100-firearms-bunkers-seized-2026/",
+          "domain": "riotimesonline.com"
+        }
+      ],
       "toneReading": "No recent coverage found.",
       "volumeReading": null
     },
@@ -428,28 +386,7 @@
       "regulatory": 17,
       "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [
-        {
-          "title": "India and Italy hold inaugural maritime security dialogue in Rome",
-          "url": "https://www.prokerala.com/news/articles/a1828434.html",
-          "domain": "prokerala.com"
-        },
-        {
-          "title": "Security forces deploy as Milan braces for another day of protests",
-          "url": "https://www.aljazeera.com/news/2026/10/24/security-forces-deploy-as-milan-braces-for-another-day-of-protests",
-          "domain": "aljazeera.com"
-        },
-        {
-          "title": "Jihadist groups call for suicide attacks amid widespread protests in Europe : Report",
-          "url": "https://www.rediff.com/news/report/jihadist-groups-call-for-suicide-attacks-amid-widespread-protests-in-europe-report/20261024.htm",
-          "domain": "rediff.com"
-        },
-        {
-          "title": "Jihadist groups call for attacks on police and demonstrators amid widespread European protests : Report",
-          "url": "https://aninews.in/news/world/asia/jihadist-groups-call-for-attacks-on-police-and-demonstrators-amid-widespread-european-protests-report20261024182125/",
-          "domain": "aninews.in"
-        }
-      ],
+      "headlines": [],
       "toneReading": "No recent coverage found.",
       "volumeReading": null
     },
@@ -501,28 +438,7 @@
       "regulatory": 34,
       "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [
-        {
-          "title": "Sh36 . 7bn nuclear reactor : Kenya picks NuPEA to steer Konza project",
-          "url": "https://www.the-star.co.ke/news/2026-10-24-kenya-names-nupea-to-steer-sh367bn-reactor-project",
-          "domain": "the-star.co.ke"
-        },
-        {
-          "title": "UN official thanks S . Korea for helicopter donation to Kenya for peacekeeping operations",
-          "url": "https://www.koreaherald.com/article/10913420",
-          "domain": "koreaherald.com"
-        },
-        {
-          "title": "22 killed in Kenya bus crash near the site of a previous fatal accident",
-          "url": "https://abcnews.com/International/wireStory/22-killed-kenya-bus-crash-site-previous-fatal-137549608",
-          "domain": "abcnews.com"
-        },
-        {
-          "title": "At least 22 killed in Kenya bus crash near site of previous fatal accident",
-          "url": "https://www.thehindu.com/news/international/kenya-bus-crash-several-killed-october-25-2026/article71622975.ece",
-          "domain": "thehindu.com"
-        }
-      ],
+      "headlines": [],
       "toneReading": "No recent coverage found.",
       "volumeReading": null
     },
@@ -600,7 +516,28 @@
       "regulatory": 18,
       "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [],
+      "headlines": [
+        {
+          "title": "Spanish Minister Warns Against  Demonizing  Morocco Amid Ceuta Migration Crisis",
+          "url": "https://www.moroccoworldnews.com/2026/10/343612/spanish-minister-warns-against-demonizing-morocco-amid-ceuta-migration-crisis/",
+          "domain": "moroccoworldnews.com"
+        },
+        {
+          "title": "Morocco Allocates MAD 2 Billion to Media Sector in 2027 Budget",
+          "url": "https://www.moroccoworldnews.com/2026/10/343644/morocco-allocates-mad-2-billion-to-media-sector-in-2027-budget/",
+          "domain": "moroccoworldnews.com"
+        },
+        {
+          "title": "Morocco Expects $2 . 37 Billion in Tobacco and Alcohol Tax Revenue in 2027",
+          "url": "https://www.moroccoworldnews.com/2026/10/343615/morocco-expects-2-37-billion-in-tobacco-and-alcohol-tax-revenue-in-2027/",
+          "domain": "moroccoworldnews.com"
+        },
+        {
+          "title": "Morocco Allocates MAD 44 . 2 Billion to Social Protection in 2027",
+          "url": "https://www.moroccoworldnews.com/2026/10/343631/morocco-allocates-mad-44-2-billion-to-social-protection-in-2027-budget/",
+          "domain": "moroccoworldnews.com"
+        }
+      ],
       "toneReading": "No recent coverage found.",
       "volumeReading": null
     },
@@ -626,7 +563,28 @@
       "regulatory": 50,
       "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [],
+      "headlines": [
+        {
+          "title": "Bashir Ahmad Backs Tinubu Over Macron Reported Visit Cancellation - Latest News In Nigeria , Nigeria News Today , Your Online Nigerian Newspaper",
+          "url": "https://www.nigerianeye.com/2026/10/bashir-ahmad-backs-tinubu-over-macrons.html",
+          "domain": "nigerianeye.com"
+        },
+        {
+          "title": "France - Nigeria business forum postponed after Macron cancels trip to Nigeria",
+          "url": "https://www.premiumtimesng.com/news/headlines/919788-france-nigeria-business-forum-postponed-after-macron-cancels-trip-to-nigeria.html",
+          "domain": "premiumtimesng.com"
+        },
+        {
+          "title": "Shoprite Set to Open Neighbourhood Stores After Shutdown \u2013 THISDAYLIVE",
+          "url": "https://www.thisdaylive.com/2026/10/25/shoprite-set-to-open-neighbourhood-stores-after-shutdown/",
+          "domain": "thisdaylive.com"
+        },
+        {
+          "title": "2027 : Northern power brokers , Emirs , Imams behind Tinubu , Yari assures",
+          "url": "https://www.vanguardngr.com/2026/10/2027-northern-power-brokers-emirs-imams-behind-tinubu-yari-assures/",
+          "domain": "vanguardngr.com"
+        }
+      ],
       "toneReading": "No recent coverage found.",
       "volumeReading": null
     },
@@ -639,7 +597,28 @@
       "regulatory": 92,
       "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [],
+      "headlines": [
+        {
+          "title": "North Korea Kim Jong Un visits China via newly opened bridge",
+          "url": "https://asia.nikkei.com/spotlight/north-korea-tensions/north-korea-s-kim-jong-un-visits-china-via-newly-opened-bridge",
+          "domain": "asia.nikkei.com"
+        },
+        {
+          "title": "North Korea Kim Jong Un visits China via Dandong bridge : South Korean source",
+          "url": "https://www.straitstimes.com/asia/east-asia/north-koreas-kim-jong-un-visits-china-via-dandong-bridge-yonhap-says",
+          "domain": "straitstimes.com"
+        },
+        {
+          "title": "North Korea Kim Jong - un visits China via Dandong bridge , South Korean official says",
+          "url": "https://www.asiaone.com/asia/north-koreas-kim-jong-un-visits-china-dandong-bridge-south-korean-official-says",
+          "domain": "asiaone.com"
+        },
+        {
+          "title": "North Korea Kim Jong Un visits China via Dandong bridge , South Korean official says",
+          "url": "https://www.internazionale.it/ultime-notizie-reuters/2026/10/24/north-korea-s-kim-jong-un-arrives-in-dandong-china-yonhap-says",
+          "domain": "internazionale.it"
+        }
+      ],
       "toneReading": "No recent coverage found.",
       "volumeReading": null
     },
@@ -652,7 +631,28 @@
       "regulatory": 50,
       "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [],
+      "headlines": [
+        {
+          "title": "Pakistan slams Afghan Taliban  diversionary claim , demands verifiable counterterror action",
+          "url": "https://www.geo.tv/latest/688151-pakistan-slams-afghan-talibans-diversionary-claims-demands-verifiable-counterterror-action",
+          "domain": "geo.tv"
+        },
+        {
+          "title": "Pakistan urges Afghanistan to act against militants and denies recruiting Afghan fighters",
+          "url": "https://www.wral.com/news/ap/d272b-pakistan-urges-afghanistan-to-act-against-militants-and-denies-recruiting-afghan-fighters/",
+          "domain": "wral.com"
+        },
+        {
+          "title": "Pakistan rubbishes Zalmay Khalilzad Claims of Arming Afghans against Taliban",
+          "url": "https://en.dailypakistan.com.pk/24-Oct-2026/pakistan-rubbishes-zalmay-khalilzads-claims-of-arming-afghans-against-taliban",
+          "domain": "en.dailypakistan.com.pk"
+        },
+        {
+          "title": "Islamabad arming Afghans to fight anti - Pakistani insurgent : Ex - US envoy sounds alarm",
+          "url": "https://timesofindia.indiatimes.com/world/pakistan/islamabad-arming-afghans-to-fight-anti-pakistani-insurgents-ex-us-envoy-sounds-alarm/articleshow/135172842.cms",
+          "domain": "timesofindia.indiatimes.com"
+        }
+      ],
       "toneReading": "No recent coverage found.",
       "volumeReading": null
     },
@@ -678,7 +678,28 @@
       "regulatory": 30,
       "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [],
+      "headlines": [
+        {
+          "title": "EU , Philippines strengthen digital ties with AI Lab launch",
+          "url": "https://www.philstar.com/business/2026/10/25/2565468/eu-philippines-strengthen-digital-ties-ai-lab-launch",
+          "domain": "philstar.com"
+        },
+        {
+          "title": "Marstek Philippines names  Boss RDR  brand ambassador",
+          "url": "https://www.manilatimes.net/2026/10/25/the-sunday-times/filipino-champions/marstek-philippines-names-boss-rdr-brand-ambassador/2453208",
+          "domain": "manilatimes.net"
+        },
+        {
+          "title": "Unilever Philippines journey to net zero",
+          "url": "https://www.philstar.com/business/2026/10/25/2565466/unilever-philippines-journey-net-zero",
+          "domain": "philstar.com"
+        },
+        {
+          "title": "Brigiding CAKE stages comeback on November 5",
+          "url": "https://interaksyon.philstar.com/hobbies-interests/2026/10/26/320999/brigidings-cake-stages-comeback-on-november-5/",
+          "domain": "interaksyon.philstar.com"
+        }
+      ],
       "toneReading": "No recent coverage found.",
       "volumeReading": null
     },
@@ -704,7 +725,28 @@
       "regulatory": 16,
       "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [],
+      "headlines": [
+        {
+          "title": "Pakistan , Qatar vow to strengthen trade and investment ties",
+          "url": "https://dunyanews.tv/en/Pakistan/979542-pakistan-qatar-vow-to-strengthen-trade-and-investment-ties",
+          "domain": "dunyanews.tv"
+        },
+        {
+          "title": "Brookfield builds Qatar presence with Doha office",
+          "url": "https://economictimes.indiatimes.com/news/company/corporate-trends/brookfield-builds-qatar-presence-with-doha-office/articleshow/135187627.cms",
+          "domain": "economictimes.indiatimes.com"
+        },
+        {
+          "title": "IUML expels member amid probe into Qatar KMCC burglary",
+          "url": "https://www.thehindu.com/news/national/kerala/iuml-expels-member-amid-probe-into-qatar-kmcc-burglary/article71619686.ece",
+          "domain": "thehindu.com"
+        },
+        {
+          "title": "IMF Forecasts Double - Digit 2026 GDP Contractions in Four Oil Exporters",
+          "url": "https://econotimes.com/IMF-Forecasts-Double-Digit-2026-GDP-Contractions-in-Four-Oil-Exporters-1762046",
+          "domain": "econotimes.com"
+        }
+      ],
       "toneReading": "No recent coverage found.",
       "volumeReading": null
     },
@@ -743,7 +785,28 @@
       "regulatory": 40,
       "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [],
+      "headlines": [
+        {
+          "title": "Student movement takes Serbia Vu\u010di\u0107 to the wire in neck - and - neck election",
+          "url": "https://www.bbc.co.uk/news/articles/cm1dwz311476o",
+          "domain": "bbc.co.uk"
+        },
+        {
+          "title": "Serbia student protests could take power and topple Putin  main ally  in Europe as election polls open",
+          "url": "https://www.aol.co.uk/articles/serbia-student-protests-could-power-095931000.html",
+          "domain": "aol.co.uk"
+        },
+        {
+          "title": "Serbians face a choice between the populist right and the student protest movement",
+          "url": "https://www.sbs.com.au/news/article/serbians-face-a-choice-between-the-populist-right-and-the-student-protest-movement/kmkos70aa",
+          "domain": "sbs.com.au"
+        },
+        {
+          "title": "Serbia election : Student movement challenges Vucic",
+          "url": "https://www.dw.com/en/serbia-votes-in-closely-fought-election-as-student-led-opposition-challenges-aleksandar-vucics-grip-on-power/a-79753482",
+          "domain": "dw.com"
+        }
+      ],
       "toneReading": "No recent coverage found.",
       "volumeReading": null
     },
@@ -756,7 +819,28 @@
       "regulatory": 8,
       "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [],
+      "headlines": [
+        {
+          "title": "Saudi Arabia Singapore plan : Riyadh eyes oil storage hub from 2027 amid Hormuz disruption",
+          "url": "https://timesofindia.indiatimes.com/world/middle-east/saudi-arabias-singapore-plan-riyadh-eyes-oil-storage-hub-from-2027-amid-hormuz-disruption/articleshow/135202643.cms",
+          "domain": "timesofindia.indiatimes.com"
+        },
+        {
+          "title": "Gas supply cut from Indonesia accounts for less than 2 % of Singapore daily gas demand : EMA",
+          "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/10/24/gas-supply-cut-from-indonesia-accounts-for-less-than-2-of-singapores-daily-gas-demand-ema",
+          "domain": "thestar.com.my"
+        },
+        {
+          "title": "Spore expects all parties to honour commitments , says PM Wong after Indonesia cuts gas exports",
+          "url": "https://www.straitstimes.com/singapore/politics/spore-expects-all-parties-to-honour-commitments-says-pm-wong-after-indonesia-cuts-gas-exports",
+          "domain": "straitstimes.com"
+        },
+        {
+          "title": "Keep calm and carry on : Indonesia gas cut unlikely to hit Singapore electricity prices , says Tan See Leng",
+          "url": "https://www.channelnewsasia.com/singapore/electricity-prices-indonesia-gas-supply-cut-tan-see-leng-6490121",
+          "domain": "channelnewsasia.com"
+        }
+      ],
       "toneReading": "No recent coverage found.",
       "volumeReading": null
     },
@@ -769,28 +853,7 @@
       "regulatory": 42,
       "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [
-        {
-          "title": "Shithouse countries : Trump targets Senator Ossoff over Haiti bill , cites immigration from Libya , Yemen , Somalia",
-          "url": "https://news.webindia123.com/news/Articles/World/20261025/4514850.html",
-          "domain": "news.webindia123.com"
-        },
-        {
-          "title": "This must end now : Trump warns Libya against serving as corridor for illegal migration",
-          "url": "https://www.hindustantimes.com/world-news/this-must-end-now-trump-warns-libya-against-serving-as-corridor-for-illegal-migration-101792986125357.html",
-          "domain": "hindustantimes.com"
-        },
-        {
-          "title": "China and Djibouti Send Clear Message to Israel Over Somaliland Recognition",
-          "url": "https://www.garoweonline.com/en/world/africa/china-and-djibouti-send-clear-message-to-israel-over-somaliland-recognition",
-          "domain": "garoweonline.com"
-        },
-        {
-          "title": "Tragedy as explosive blast kills two siblings in Garissa Bura area",
-          "url": "https://www.the-star.co.ke/news/2026-10-25-two-siblings-killed-in-explosive-blast-in-garissa",
-          "domain": "the-star.co.ke"
-        }
-      ],
+      "headlines": [],
       "toneReading": "No recent coverage found.",
       "volumeReading": null
     },
@@ -829,28 +892,7 @@
       "regulatory": 38,
       "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [
-        {
-          "title": "Fake bank giveaway uses Vap Poya as bait - Business",
-          "url": "https://www.dailymirror.lk/business/Fake-bank-giveaway-uses-Vap-Poya-as-bait/215-353308",
-          "domain": "dailymirror.lk"
-        },
-        {
-          "title": "Sri Lankan flavours take flight as British Airways partners with Hoppers London on new Colombo route",
-          "url": "https://www.ft.lk/lifestyle/Sri-Lankan-flavours-take-flight-as-British-Airways-partners-with-Hoppers-London-on-new-Colombo-route/8-799086",
-          "domain": "ft.lk"
-        },
-        {
-          "title": "Sri Lanka Customs seizes narcotics worth Rs . 67 . 53 million",
-          "url": "https://www.ft.lk/ft_tv/Sri-Lanka-Customs-seizes-narcotics-worth-Rs-67-53-million/10520-799121",
-          "domain": "ft.lk"
-        },
-        {
-          "title": "Commonwealth Kabaddi Cship : Bangladesh , Sri Lanka and Singapore register dominant wins on Day 2",
-          "url": "https://www.prokerala.com/news/articles/a1828403.html",
-          "domain": "prokerala.com"
-        }
-      ],
+      "headlines": [],
       "toneReading": "No recent coverage found.",
       "volumeReading": null
     },
@@ -902,7 +944,28 @@
       "regulatory": 34,
       "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [],
+      "headlines": [
+        {
+          "title": "EQS Newswire : Thailand Board of Investment ( BOI ): AI and EV Boom Draws $690 Million in Advanced Materials Investment Plans to Thailand",
+          "url": "https://www.finanznachrichten.de/nachrichten-2026-10/69925194-eqs-newswire-thailand-board-of-investment-boi-ai-and-ev-boom-draws-dollar-690-million-in-advanced-materials-investment-plans-to-thailand-023.htm",
+          "domain": "finanznachrichten.de"
+        },
+        {
+          "title": "Media OutReach : AI and EV Boom Draws $690 Million in Advanced Materials Investment Plans to Thailand",
+          "url": "https://www.finanznachrichten.de/nachrichten-2026-10/69925224-media-outreach-ai-and-ev-boom-draws-dollar-690-million-in-advanced-materials-investment-plans-to-thailand-296.htm",
+          "domain": "finanznachrichten.de"
+        },
+        {
+          "title": "AI and EV Boom Draws $690 Million in Advanced Materials Investment Plans to Thailand",
+          "url": "https://www.manilatimes.net/2026/10/24/tmt-newswire/media-outreach-newswire/ai-and-ev-boom-draws-690-million-in-advanced-materials-investment-plans-to-thailand/2453164",
+          "domain": "manilatimes.net"
+        },
+        {
+          "title": "Thailand welcomes US - Myanmar engagement , expects ASEAN talks on country future",
+          "url": "https://www.asiaone.com/asia/thailand-welcomes-us-myanmar-engagement-expects-asean-talks-countrys-future",
+          "domain": "asiaone.com"
+        }
+      ],
       "toneReading": "No recent coverage found.",
       "volumeReading": null
     },
@@ -941,23 +1004,7 @@
       "regulatory": 58,
       "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [
-        {
-          "title": "Cant use it to kill people : Musk admits restricting Starlink in Ukraine",
-          "url": "https://timesofindia.indiatimes.com/world/europe/cant-use-it-to-kill-people-musk-admits-restricting-starlink-in-ukraine/articleshow/135188553.cms",
-          "domain": "timesofindia.indiatimes.com"
-        },
-        {
-          "title": "Ukraine Starlink And Starshield Systems Restored",
-          "url": "https://1190kex.iheart.com/content/2026-10-25-ukraines-starlink-and-starshield-systems-restored/",
-          "domain": "1190kex.iheart.com"
-        },
-        {
-          "title": "Ukraine Starlink And Starshield Systems Restored | NewsTalk WMEQ",
-          "url": "https://wmeq.iheart.com/content/2026-10-25-ukraines-starlink-and-starshield-systems-restored/",
-          "domain": "wmeq.iheart.com"
-        }
-      ],
+      "headlines": [],
       "toneReading": "No recent coverage found.",
       "volumeReading": null
     },
@@ -1043,7 +1090,28 @@
       "regulatory": 74,
       "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [],
+      "headlines": [
+        {
+          "title": "Fidan to meet Yemeni FM as fighting threatens key shipping routes",
+          "url": "https://www.dailysabah.com/politics/diplomacy/fidan-to-meet-yemeni-fm-as-fighting-threatens-key-shipping-routes",
+          "domain": "dailysabah.com"
+        },
+        {
+          "title": "Saudi - led coalition says it intercepted 2 Houthi ballistic missiles targeting Saudi cities",
+          "url": "https://aa.com.tr/en/middle-east/saudi-led-coalition-says-it-intercepted-2-houthi-ballistic-missiles-targeting-saudi-cities/4099364",
+          "domain": "aa.com.tr"
+        },
+        {
+          "title": "2 children killed , 3 civilians wounded in Houthi attacks in Yemen Taiz : Rights group",
+          "url": "https://aa.com.tr/en/middle-east/2-children-killed-3-civilians-wounded-in-houthi-attacks-in-yemens-taiz-rights-group/4099420",
+          "domain": "aa.com.tr"
+        },
+        {
+          "title": "2 children killed , 3 civilians wounded in Houthi attacks in Yemen Taiz : Rights group \u2013 Middle East Monitor",
+          "url": "https://www.middleeastmonitor.com/20261024-2-children-killed-3-civilians-wounded-in-houthi-attacks-in-yemens-taiz-rights-group/",
+          "domain": "middleeastmonitor.com"
+        }
+      ],
       "toneReading": "No recent coverage found.",
       "volumeReading": null
     },
