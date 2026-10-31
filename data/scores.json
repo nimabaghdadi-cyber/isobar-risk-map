@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-31T16:49:52.172986+00:00",
+  "generatedAt": "2026-10-31T20:59:08.238259+00:00",
   "source": "GDELT (news tone/volume, 3-day window) blended 50/50 with baseline",
   "countries": [
     {
@@ -11,7 +11,28 @@
       "regulatory": 84,
       "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [],
+      "headlines": [
+        {
+          "title": "Pakistan Afghan Crisis - The American Conservative",
+          "url": "https://www.theamericanconservative.com/pakistans-afghan-crisis/",
+          "domain": "theamericanconservative.com"
+        },
+        {
+          "title": "Iran War Disrupts Exports to Afghanistan , Pakistan and Iraq",
+          "url": "https://www.khaama.com/iran-war-disrupts-exports-afghanistan-pakistan-iraq/",
+          "domain": "khaama.com"
+        },
+        {
+          "title": "Pakistan slams Afghan Taliban  diversionary claim , demands verifiable counterterror action",
+          "url": "https://www.geo.tv/latest/688151-pakistan-slams-afghan-talibans-diversionary-claims-demands-verifiable-counterterror-action",
+          "domain": "geo.tv"
+        },
+        {
+          "title": "Hopelessly Naive",
+          "url": "https://www.americanthinker.com/articles/2026/10/hopelessly-naive/",
+          "domain": "americanthinker.com"
+        }
+      ],
       "toneReading": "No recent coverage found.",
       "volumeReading": null
     },
@@ -102,28 +123,7 @@
       "regulatory": 20,
       "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [
-        {
-          "title": "Letters : The good and bad of Alberta vote",
-          "url": "https://calgaryherald.com:443/opinion/letters-the-good-and-bad-of-albertas-vote",
-          "domain": "calgaryherald.com"
-        },
-        {
-          "title": "Indian - origin man in Canada complains of being judged poorly over his looks :  Humiliating",
-          "url": "https://www.moneycontrol.com/news/trends/indian-origin-man-in-canada-complains-of-being-judged-poorly-over-his-looks-humiliating-14059504.html",
-          "domain": "moneycontrol.com"
-        },
-        {
-          "title": "SUNshine Girl Nicole | Edmonton Sun",
-          "url": "https://edmontonsun.com/sunshine-girls/sunshine-girl-nicole-15",
-          "domain": "edmontonsun.com"
-        },
-        {
-          "title": "Canada Chief Trade Negotiator Accepts That Tariff Free Trade Will Never Exist Again , and May Get Much Worse",
-          "url": "https://theconservativetreehouse.com/blog/2026/10/24/canadas-chief-trade-negotiator-accepts-that-tariff-free-trade-will-never-exist-again-and-may-get-much-worse/",
-          "domain": "theconservativetreehouse.com"
-        }
-      ],
+      "headlines": [],
       "toneReading": "No recent coverage found.",
       "volumeReading": null
     },
@@ -162,7 +162,28 @@
       "regulatory": 40,
       "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [],
+      "headlines": [
+        {
+          "title": "Navy reservist arrested in manhunt after wife body found in freezer \u2013 NBC4 Washington",
+          "url": "https://www.nbcwashington.com/news/national-international/navy-reservist-caught-murder-wife/4091803/",
+          "domain": "nbcwashington.com"
+        },
+        {
+          "title": "EXCLUSIVE : Medellin Cartel Co - founder Carlos Lehder on Pablo Escobar Killing Colombian Politicians",
+          "url": "https://www.vladtv.com/article/316291/medellin-cartel-co-founder-carlos-lehder-on-pablo-escobar-killing",
+          "domain": "vladtv.com"
+        },
+        {
+          "title": "Gujarat garba magic draws global travellers - The Times of India",
+          "url": "https://timesofindia.indiatimes.com/life-style/spotlight/gujarats-garba-magic-draws-global-travellers/articleshow/135190037.cms",
+          "domain": "timesofindia.indiatimes.com"
+        },
+        {
+          "title": "Results for First Quarter Ended August 31 , 2026",
+          "url": "https://www.thewhig.com/press-releases/newsfile/results-for-first-quarter-ended-august-31-2026/",
+          "domain": "thewhig.com"
+        }
+      ],
       "toneReading": "No recent coverage found.",
       "volumeReading": null
     },
@@ -227,28 +248,7 @@
       "regulatory": 52,
       "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [
-        {
-          "title": "Aida goes home to Africa - Slippedisc",
-          "url": "https://slippedisc.com/2026/10/aida-verdi-south-africa/",
-          "domain": "slippedisc.com"
-        },
-        {
-          "title": "Ethiopia ranks 133 out of 143 in WJP Rule of Law Index",
-          "url": "https://capitalethiopia.com/2026/10/25/ethiopia-ranks-133-out-of-143-in-wjp-rule-of-law-index/",
-          "domain": "capitalethiopia.com"
-        },
-        {
-          "title": "Ethiopia Drought Damages 250 , 000 Hectares",
-          "url": "https://www.riotimesonline.com/ethiopia-drought-250000-hectares-2026/",
-          "domain": "riotimesonline.com"
-        },
-        {
-          "title": "Keep the fight against Polio alive | Capital Newspaper",
-          "url": "https://capitalethiopia.com/2026/10/25/keep-the-fight-against-polio-alive/",
-          "domain": "capitalethiopia.com"
-        }
-      ],
+      "headlines": [],
       "toneReading": "No recent coverage found.",
       "volumeReading": null
     },
@@ -287,28 +287,7 @@
       "regulatory": 16,
       "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [
-        {
-          "title": "German AfD Party Leader Alice Weidel Outlines Severity of German Economic Problem",
-          "url": "https://theconservativetreehouse.com/blog/2026/10/24/german-afd-party-leader-alice-weidel-outlines-severity-of-german-economic-problem/",
-          "domain": "theconservativetreehouse.com"
-        },
-        {
-          "title": "Trabant Finally Got A 4 - Cylinder Engine Just As East Germans Could Buy Western Cars",
-          "url": "https://www.jalopnik.com/2290710/4-cylinder-trabant-engine-east-germans-western-cars/",
-          "domain": "jalopnik.com"
-        },
-        {
-          "title": "Germany : Fire flares up at Hitler Eagle Nest retreat",
-          "url": "https://www.dw.com/en/germany-news-fire-flares-up-at-hitlers-eagles-nest-retreat/live-79749353",
-          "domain": "dw.com"
-        },
-        {
-          "title": "Arab News | Merz says Germany faces massive threat from Russia",
-          "url": "https://www.arabnews.com/world/merz-says-germany-faces-massive-threat-from-russia-3008048",
-          "domain": "arabnews.com"
-        }
-      ],
+      "headlines": [],
       "toneReading": "No recent coverage found.",
       "volumeReading": null
     },
@@ -464,7 +443,28 @@
       "regulatory": 42,
       "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [],
+      "headlines": [
+        {
+          "title": "This must end now : Trump warns Libya against serving as corridor for illegal migration",
+          "url": "https://www.hindustantimes.com/world-news/this-must-end-now-trump-warns-libya-against-serving-as-corridor-for-illegal-migration-101792986125357.html",
+          "domain": "hindustantimes.com"
+        },
+        {
+          "title": "Head - on clash between Samaras and Mitsotakis with bombshell statements : Dismiss Gerapetritis , you are deceiving Greeks over Libya , cable",
+          "url": "https://www.bankingnews.gr/politiki/articles/907051/head-on-clash-between-samaras-and-mitsotakis-with-bombshell-statements-dismiss-gerapetritis-you-are-deceiving-greeks-over-libya-cable%20title=",
+          "domain": "bankingnews.gr"
+        },
+        {
+          "title": "Saudi Arabia reopens airport as attacks by Houthi rebels persist , and other Mideast news",
+          "url": "https://abcnews.com/International/wireStory/saudi-arabia-reopens-airport-attacks-houthi-rebels-persist-137549261",
+          "domain": "abcnews.com"
+        },
+        {
+          "title": "Shithouse countries : Trump targets Senator Ossoff over Haiti bill , cites immigration from Libya , Yemen , Somalia",
+          "url": "https://news.webindia123.com/news/Articles/World/20261025/4514850.html",
+          "domain": "news.webindia123.com"
+        }
+      ],
       "toneReading": "No recent coverage found.",
       "volumeReading": null
     },
@@ -594,28 +594,7 @@
       "regulatory": 30,
       "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [
-        {
-          "title": "EU , Philippines strengthen digital ties with AI Lab launch",
-          "url": "https://www.philstar.com/business/2026/10/25/2565468/eu-philippines-strengthen-digital-ties-ai-lab-launch",
-          "domain": "philstar.com"
-        },
-        {
-          "title": "Marstek Philippines names  Boss RDR  brand ambassador",
-          "url": "https://www.manilatimes.net/2026/10/25/the-sunday-times/filipino-champions/marstek-philippines-names-boss-rdr-brand-ambassador/2453208",
-          "domain": "manilatimes.net"
-        },
-        {
-          "title": "Unilever Philippines journey to net zero",
-          "url": "https://www.philstar.com/business/2026/10/25/2565466/unilever-philippines-journey-net-zero",
-          "domain": "philstar.com"
-        },
-        {
-          "title": "Brigiding CAKE stages comeback on November 5",
-          "url": "https://interaksyon.philstar.com/hobbies-interests/2026/10/26/320999/brigidings-cake-stages-comeback-on-november-5/",
-          "domain": "interaksyon.philstar.com"
-        }
-      ],
+      "headlines": [],
       "toneReading": "No recent coverage found.",
       "volumeReading": null
     },
@@ -675,28 +654,7 @@
       "regulatory": 76,
       "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [
-        {
-          "title": "How will Russia arrest of journalist affect Japan ties ?",
-          "url": "https://www.dw.com/en/why-russias-arrest-of-japanese-journalist-is-the-latest-sign-of-deteriorating-ties-between-the-countries/a-79742995",
-          "domain": "dw.com"
-        },
-        {
-          "title": "Russia faces backlash over dead , missing recruits ahead of summit",
-          "url": "https://www.standardmedia.co.ke/national/article/2001560827/russia-faces-backlash-over-dead-missing-recruits-ahead-of-summit",
-          "domain": "standardmedia.co.ke"
-        },
-        {
-          "title": "Russia , Ukraine agree to local ceasefire for humanitarian operation in Oleshky",
-          "url": "http://www.jpost.com/international/internationalrussia-ukraine-war/article-912989",
-          "domain": "jpost.com"
-        },
-        {
-          "title": "Project MUSE - Suffragettes in the Land of the Tsars",
-          "url": "https://muse.jhu.edu/book/147500",
-          "domain": "muse.jhu.edu"
-        }
-      ],
+      "headlines": [],
       "toneReading": "No recent coverage found.",
       "volumeReading": null
     },
@@ -722,7 +680,28 @@
       "regulatory": 40,
       "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [],
+      "headlines": [
+        {
+          "title": "Serbia student protests could take power and topple Putin  main ally  in Europe as election polls open",
+          "url": "https://www.aol.co.uk/articles/serbia-student-protests-could-power-095931000.html",
+          "domain": "aol.co.uk"
+        },
+        {
+          "title": "Serbians face a choice between the populist right and the student protest movement",
+          "url": "https://www.sbs.com.au/news/article/serbians-face-a-choice-between-the-populist-right-and-the-student-protest-movement/kmkos70aa",
+          "domain": "sbs.com.au"
+        },
+        {
+          "title": "Serbia election : Student movement challenges Vucic",
+          "url": "https://www.dw.com/en/serbia-votes-in-closely-fought-election-as-student-led-opposition-challenges-aleksandar-vucics-grip-on-power/a-79753482",
+          "domain": "dw.com"
+        },
+        {
+          "title": "Serbia holds a parliamentary election as populist Vucic faces protesting students",
+          "url": "https://www.durangoherald.com/articles/associated-press/serbia-holds-a-parliamentary-election-as-populist-vucic-faces-protesting-students/",
+          "domain": "durangoherald.com"
+        }
+      ],
       "toneReading": "No recent coverage found.",
       "volumeReading": null
     },
@@ -800,28 +779,7 @@
       "regulatory": 80,
       "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [
-        {
-          "title": "Katara pays tribute to Sudan natural and cultural diversity with art exhibition",
-          "url": "https://www.qatar-tribune.com/article/260714/latest-news/katara-pays-tribute-to-sudans-natural-and-cultural-diversity-with-art-exhibition",
-          "domain": "qatar-tribune.com"
-        },
-        {
-          "title": "International Quad : No military solution to Sudan conflict",
-          "url": "https://sana.sy/en/middle-east/2353315/",
-          "domain": "sana.sy"
-        },
-        {
-          "title": "Sudan soaring fuel prices make getting by harder for workers | Energy",
-          "url": "https://www.aljazeera.com/economy/2026/10/24/sudans-soaring-fuel-prices-makes-getting-by-harder-for-workers",
-          "domain": "aljazeera.com"
-        },
-        {
-          "title": "UN urges probe into deadly Abyei drone attacks",
-          "url": "https://www.radiotamazuj.org/en/news/article/un-urges-probe-into-deadly-abyei-drone-attacks",
-          "domain": "radiotamazuj.org"
-        }
-      ],
+      "headlines": [],
       "toneReading": "No recent coverage found.",
       "volumeReading": null
     },
@@ -860,28 +818,7 @@
       "regulatory": 34,
       "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [
-        {
-          "title": "Thailand welcomes US - Myanmar engagement , expects ASEAN talks on country future",
-          "url": "https://www.asiaone.com/asia/thailand-welcomes-us-myanmar-engagement-expects-asean-talks-countrys-future",
-          "domain": "asiaone.com"
-        },
-        {
-          "title": "Bangkok Post - Missing Dutch celebrity left Thailand late last year",
-          "url": "https://www.bangkokpost.com/thailand/general/3343245/missing-dutch-celebrity-left-thailand-late-last-year-police",
-          "domain": "bangkokpost.com"
-        },
-        {
-          "title": "WORPT Now Available Under Thailand Tourist DigiPay Regulatory Sandbox",
-          "url": "https://www.manilatimes.net/2026/10/26/tmt-newswire/globenewswire/worpt-now-available-under-thailands-tourist-digipay-regulatory-sandbox/2453651",
-          "domain": "manilatimes.net"
-        },
-        {
-          "title": "AOT Engages Over 50 Airlines and Airport at Routes World 2026 to Boost Thailand Global Connectivity",
-          "url": "https://www.manilatimes.net/2026/10/26/tmt-newswire/media-outreach-newswire/aot-engages-over-50-airlines-and-airport-at-routes-world-2026-to-boost-thailands-global-connectivity/2453629",
-          "domain": "manilatimes.net"
-        }
-      ],
+      "headlines": [],
       "toneReading": "No recent coverage found.",
       "volumeReading": null
     },
@@ -972,7 +909,28 @@
       "regulatory": 30,
       "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [],
+      "headlines": [
+        {
+          "title": "Lotte steps up recruitment of Vietnamese workers",
+          "url": "https://www.koreatimes.co.kr/business/companies/20261025/lotte-steps-up-recruitment-of-vietnamese-workers",
+          "domain": "koreatimes.co.kr"
+        },
+        {
+          "title": "Anaheim couple trafficked protected wildlife parts , feds say",
+          "url": "https://www.latimes.com/california/story/2026-10-24/anaheim-couple-protected-wildlife-trafficking-guilty-sentenced",
+          "domain": "latimes.com"
+        },
+        {
+          "title": "American tourist saves drowning woman at Dalat lake in Vietnam",
+          "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/10/25/american-tourist-saves-drowning-woman-at-dalat-lake-in-vietnam",
+          "domain": "thestar.com.my"
+        },
+        {
+          "title": "Singapore Crypto Economy Reaches $284B on Institutional Growth",
+          "url": "https://cointelegraph.com/news/singapore-crypto-economy-284b-institutional-activity-chainalysis?t=Singapore%20crypto%20activity%20grows%2055%%20as%20broader%20region%20contracts&fnp_t=1792921484.54649fbd0843409a",
+          "domain": "cointelegraph.com"
+        }
+      ],
       "toneReading": "No recent coverage found.",
       "volumeReading": null
     },
@@ -998,7 +956,28 @@
       "regulatory": 64,
       "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [],
+      "headlines": [
+        {
+          "title": "AU renews demand for unconditional lifting of unilateral sanctions against Zimbabwe",
+          "url": "https://www.newzimbabwe.com/au-renews-demand-for-unconditional-lifting-of-unilateral-sanctions-against-zimbabwe/",
+          "domain": "newzimbabwe.com"
+        },
+        {
+          "title": "Shock as boy ( 7 ) dies during school fight with agemate",
+          "url": "https://www.newzimbabwe.com/shock-as-boy-7-dies-during-school-fight-with-agemate/",
+          "domain": "newzimbabwe.com"
+        },
+        {
+          "title": "MALUSI MPUMLWANA | How greater Sadc economic integration can defuse hostility to our neighours",
+          "url": "https://www.timeslive.co.za/opinion/2026-10-24-malusi-mpumlwana-how-greater-sadc-economic-integration-can-defuse-hostility-to-our-neighours/",
+          "domain": "timeslive.co.za"
+        },
+        {
+          "title": "2nd ODI : Credit to Harman , Pratika , and Deepti for the way they batted , says Smriti Mandhana",
+          "url": "https://ianslive.in/2nd-odi-credit-to-harman-pratika-and-deepti-for-the-way-they-batted-says-smriti-mandhana--20261025221815",
+          "domain": "ianslive.in"
+        }
+      ],
       "toneReading": "No recent coverage found.",
       "volumeReading": null
     }
