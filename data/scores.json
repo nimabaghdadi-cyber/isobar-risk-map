@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-01T04:28:25.456902+00:00",
+  "generatedAt": "2026-11-01T12:41:19.905125+00:00",
   "source": "GDELT (news tone/volume, 3-day window) blended 50/50 with baseline",
   "countries": [
     {
@@ -24,28 +24,7 @@
       "regulatory": 44,
       "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [
-        {
-          "title": "Pope South American trip to go ahead following lung cancer surgery",
-          "url": "https://www.bbc.co.uk/news/articles/cjr4y5rq46p2o",
-          "domain": "bbc.co.uk"
-        },
-        {
-          "title": "South America battered by El Ni\u00f1o rains - BusinessWorld Online",
-          "url": "https://bworldonline.com/agribusiness/2026/10/25/789011/south-america-battered-by-el-nino-rains/",
-          "domain": "bworldonline.com"
-        },
-        {
-          "title": "A Kuwait Store Among 20 Worth Traveling For",
-          "url": "https://248am.com/mark/kuwait/a-kuwait-store-among-20-worth-traveling-for/",
-          "domain": "248am.com"
-        },
-        {
-          "title": "From behind to brilliant : Malawi U - 15 stun Chinese Taipei in World Cup opener",
-          "url": "https://www.nyasatimes.com/from-behind-to-brilliant-malawis-u-15-stun-chinese-taipei-in-world-cup-opener/",
-          "domain": "nyasatimes.com"
-        }
-      ],
+      "headlines": [],
       "toneReading": "No recent coverage found.",
       "volumeReading": null
     },
@@ -71,7 +50,23 @@
       "regulatory": 20,
       "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [],
+      "headlines": [
+        {
+          "title": "Azerbaijan updates journalist ethics code to regulate AI use and privacy",
+          "url": "https://www.trend.az/azerbaijan/society/4239001.html",
+          "domain": "trend.az"
+        },
+        {
+          "title": "Black Comets Advance After Scoring 18 Goals in Perfect Group Campaign \u2013 Ghanamma . com",
+          "url": "https://www.ghanamma.com/2026/10/26/black-comets-advance-after-scoring-18-goals-in-perfect-group-campaign/",
+          "domain": "ghanamma.com"
+        },
+        {
+          "title": "India held to draw by Grenada in FIFA U15 World Cup & Festival",
+          "url": "https://ianslive.in/india-held-to-draw-by-grenada-in-fifa-u15-world-cup-festival--20261025221413",
+          "domain": "ianslive.in"
+        }
+      ],
       "toneReading": "No recent coverage found.",
       "volumeReading": null
     },
@@ -97,13 +92,7 @@
       "regulatory": 72,
       "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [
-        {
-          "title": "Drone warfare is evolving faster than armies can adapt , experts warn",
-          "url": "https://toronto.citynews.ca/2026/10/25/drone-warfare-is-evolving-faster-than-armies-can-adapt-experts-warn/",
-          "domain": "toronto.citynews.ca"
-        }
-      ],
+      "headlines": [],
       "toneReading": "No recent coverage found.",
       "volumeReading": null
     },
@@ -142,7 +131,28 @@
       "regulatory": 22,
       "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [],
+      "headlines": [
+        {
+          "title": "World reacts to Lula victory in Brazil presidential election | Elections News",
+          "url": "https://www.aljazeera.com/news/2026/10/26/world-reacts-to-lulas-victory-in-brazilian-presidential-race",
+          "domain": "aljazeera.com"
+        },
+        {
+          "title": "Leaders congratulate Brazil Lula on re - election",
+          "url": "https://www.standard.net.au/story/9380317/leaders-congratulate-brazils-lula-on-re-election/",
+          "domain": "standard.net.au"
+        },
+        {
+          "title": "Brazil Lula clinches election victory as Bolsonaro rejects results",
+          "url": "https://www.euronews.com/2026/10/26/brazils-lula-clinches-election-victory-as-bolsonaro-rejects-results",
+          "domain": "euronews.com"
+        },
+        {
+          "title": "Latin America Mood : Brazil Reels After Lula Win",
+          "url": "https://www.riotimesonline.com/latin-american-pulse-for-tuesday-october-27-2026/",
+          "domain": "riotimesonline.com"
+        }
+      ],
       "toneReading": "No recent coverage found.",
       "volumeReading": null
     },
@@ -155,7 +165,28 @@
       "regulatory": 54,
       "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [],
+      "headlines": [
+        {
+          "title": "China Intl Agricultural Machinery Exhibition kicks off in Tianjin",
+          "url": "http://english.anhuinews.com/newscenter/headline/202610/t20261027_9692804.html",
+          "domain": "english.anhuinews.com"
+        },
+        {
+          "title": "Chinese markets lose trillions as race for AI supremacy with US takes its toll",
+          "url": "https://www.theguardian.com/world/2026/oct/27/chinese-markets-lose-trillions-ai-race-beijing",
+          "domain": "theguardian.com"
+        },
+        {
+          "title": "Pakistan , China launch Information Corridor to mark 75 years of ties",
+          "url": "https://pakobserver.net/pakistan-china-launch-information-corridor-to-mark-75-years-of-ties/",
+          "domain": "pakobserver.net"
+        },
+        {
+          "title": "China harnesses smart technologies to power transport upgrade",
+          "url": "http://english.anhuinews.com/newscenter/headline/202610/t20261027_9692808.html",
+          "domain": "english.anhuinews.com"
+        }
+      ],
       "toneReading": "No recent coverage found.",
       "volumeReading": null
     },
@@ -168,7 +199,28 @@
       "regulatory": 40,
       "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [],
+      "headlines": [
+        {
+          "title": "EXCLUSIVE : Medellin Cartel Co - founder Carlos Lehder on Pablo Escobar Killing Colombian Politicians",
+          "url": "https://www.vladtv.com/article/316291/medellin-cartel-co-founder-carlos-lehder-on-pablo-escobar-killing",
+          "domain": "vladtv.com"
+        },
+        {
+          "title": "Results for First Quarter Ended August 31 , 2026",
+          "url": "https://www.thewhig.com/press-releases/newsfile/results-for-first-quarter-ended-august-31-2026/",
+          "domain": "thewhig.com"
+        },
+        {
+          "title": "Telecall Colombia taps Parallel Wireless for 5G AI RAN rollout",
+          "url": "https://www.developingtelecoms.com/telecom-technology/wireless-networks/21021-telecall-colombia-taps-parallel-wireless-for-5g-ai-ran-rollout.html",
+          "domain": "developingtelecoms.com"
+        },
+        {
+          "title": "Brazil Lula clinches election victory as Bolsonaro rejects results",
+          "url": "https://www.euronews.com/2026/10/26/brazils-lula-clinches-election-victory-as-bolsonaro-rejects-results",
+          "domain": "euronews.com"
+        }
+      ],
       "toneReading": "No recent coverage found.",
       "volumeReading": null
     },
@@ -285,7 +337,28 @@
       "regulatory": 82,
       "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [],
+      "headlines": [
+        {
+          "title": "This must end now : Trump warns Libya against serving as corridor for illegal migration",
+          "url": "https://www.hindustantimes.com/world-news/this-must-end-now-trump-warns-libya-against-serving-as-corridor-for-illegal-migration-101792986125357.html",
+          "domain": "hindustantimes.com"
+        },
+        {
+          "title": "The Royal Caribbean School in Haiti - A Genuine Commitment or a Publicity Stunt ?",
+          "url": "https://www.cruiselawnews.com/2010/10/articles/caribbean/the-royal-caribbean-school-in-haiti-a-genuine-commitment-or-a-publicity-stunt/",
+          "domain": "cruiselawnews.com"
+        },
+        {
+          "title": "Macklemore demands  Free Palestine  as he makes return to stage after Ed Sheeran row",
+          "url": "https://www.mirror.co.uk/3am/celebrity-news/macklemore-red-rocks-concert-speech-37809068",
+          "domain": "mirror.co.uk"
+        },
+        {
+          "title": "Being a Human Being Is Not Complicated : Macklemore Returns To Stage After Ed Sheeran Tour  Free Palestine  Fallout",
+          "url": "https://www.ibtimes.co.uk/macklemore-returns-after-ed-sheeran-tour-removal-1827730",
+          "domain": "ibtimes.co.uk"
+        }
+      ],
       "toneReading": "No recent coverage found.",
       "volumeReading": null
     },
@@ -298,7 +371,28 @@
       "regulatory": 32,
       "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [],
+      "headlines": [
+        {
+          "title": "India , SA take on the UN | The Citizen",
+          "url": "https://www.citizen.co.za/news/opinion/india-sa-take-on-the-un/",
+          "domain": "citizen.co.za"
+        },
+        {
+          "title": "The 67 Per Cent Moment : India Is Paying More for a New Economic Order",
+          "url": "https://www.ibtimes.co.in/67-per-cent-moment-india-paying-more-new-economic-order-907846",
+          "domain": "ibtimes.co.in"
+        },
+        {
+          "title": "Sonowal to pitch India shipbuilding opportunity to Korean industry",
+          "url": "https://economictimes.indiatimes.com/small-biz/trade/exports/insights/sonowal-to-pitch-indias-shipbuilding-opportunity-to-korean-industry/articleshow/135202381.cms",
+          "domain": "economictimes.indiatimes.com"
+        },
+        {
+          "title": "Swiss Watch Exports to India Rise 28 . 5 %; Brands Unveil Local Editions",
+          "url": "https://econotimes.com/Swiss-Watch-Exports-to-India-Rise-28-5-Brands-Unveil-Local-Editions-1763371",
+          "domain": "econotimes.com"
+        }
+      ],
       "toneReading": "No recent coverage found.",
       "volumeReading": null
     },
@@ -363,7 +457,28 @@
       "regulatory": 14,
       "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [],
+      "headlines": [
+        {
+          "title": "Japan Defense Academy Chief Calls for 3  Red Line in Competition With China",
+          "url": "https://www.theepochtimes.com/world/japan-defense-academy-chief-calls-for-3-red-lines-in-competition-with-china-6108657",
+          "domain": "theepochtimes.com"
+        },
+        {
+          "title": "Saudi Arabia to store oil in Singapore to bolster Asia supply security",
+          "url": "https://arynews.tv/saudi-arabia-to-store-oil-in-singapore-to-bolster-asia-supply-security",
+          "domain": "arynews.tv"
+        },
+        {
+          "title": "Saudi Arabia Singapore plan : Riyadh eyes oil storage hub from 2027 amid Hormuz disruption",
+          "url": "https://timesofindia.indiatimes.com/world/middle-east/saudi-arabias-singapore-plan-riyadh-eyes-oil-storage-hub-from-2027-amid-hormuz-disruption/articleshow/135202643.cms",
+          "domain": "timesofindia.indiatimes.com"
+        },
+        {
+          "title": "Philippine peso , Indonesia rupiah fall most among tepid Asian currencies",
+          "url": "https://interaksyon.philstar.com/business/2026/10/26/320994/philippine-peso-indonesia-rupiah-fall-most-among-tepid-asian-currencies/",
+          "domain": "interaksyon.philstar.com"
+        }
+      ],
       "toneReading": "No recent coverage found.",
       "volumeReading": null
     },
@@ -376,28 +491,7 @@
       "regulatory": 20,
       "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [
-        {
-          "title": "He Was a Baby ! Emily Osment Candid Confession on Young Sheldon Kissing Scenes With Montana Jordan",
-          "url": "https://www.ibtimes.co.uk/emily-osment-intimacy-coordinator-young-sheldon-scenes-1827635",
-          "domain": "ibtimes.co.uk"
-        },
-        {
-          "title": "Nine Killed , 40 Injured in Terror Attack on Church in Jordan",
-          "url": "https://townhall.com/news/josephchalfant/2026/10/25/nine-killed-40-injured-in-terror-attack-on-church-in-jordan-n2685270",
-          "domain": "townhall.com"
-        },
-        {
-          "title": "Jordanian forces arrest 3 suspects in Karak church attack that killed 9",
-          "url": "https://www.hindustantimes.com/world-news/jordanian-forces-arrest-3-suspects-in-karak-church-attack-that-killed-9-101792990491040.html",
-          "domain": "hindustantimes.com"
-        },
-        {
-          "title": "Jordan church attack survivor says her cousin died before her eyes",
-          "url": "https://www.thestar.com.my/news/world/2026/10/25/jordan-church-attack-survivor-says-her-cousin-died-before-her-eyes",
-          "domain": "thestar.com.my"
-        }
-      ],
+      "headlines": [],
       "toneReading": "No recent coverage found.",
       "volumeReading": null
     },
@@ -423,7 +517,28 @@
       "regulatory": 34,
       "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [],
+      "headlines": [
+        {
+          "title": "Is Gachagua overrated as Mt Kenya kingpin and 2027 kingmaker ?",
+          "url": "https://www.the-star.co.ke/siasa/2026-10-25-is-gachagua-overrated-as-mt-kenya-kingpin",
+          "domain": "the-star.co.ke"
+        },
+        {
+          "title": "Red Cross trains staff as Kenya records its second death from Ebola",
+          "url": "https://www.africanews.com/2026/10/25/red-cross-trains-staff-as-kenya-records-its-second-death-from-ebola/",
+          "domain": "africanews.com"
+        },
+        {
+          "title": "How Kenya plans to bring home citizens detained as prisoners of war in Ukraine",
+          "url": "https://www.the-star.co.ke/news/2026-10-25-how-kenya-plans-to-bring-home-citizens-detained-as-pows-in-ukraine",
+          "domain": "the-star.co.ke"
+        },
+        {
+          "title": "DCP courts Kalonzo to boost Sifuna 2027 bid",
+          "url": "https://www.the-star.co.ke/news/2026-10-25-dcp-courts-kalonzo-to-boost-sifunas-2027-bid",
+          "domain": "the-star.co.ke"
+        }
+      ],
       "toneReading": "No recent coverage found.",
       "volumeReading": null
     },
@@ -438,24 +553,24 @@
       "note": "No fresh coverage this cycle; showing baseline.",
       "headlines": [
         {
-          "title": "Beirut $13 Chicken Sandwich Becomes Symbol of Lebanon Divide",
-          "url": "https://english.aawsat.com/features/5333379-beirut%E2%80%99s-13-chicken-sandwich-becomes-symbol-lebanon-divide",
-          "domain": "english.aawsat.com"
+          "title": "Israel Has Its Pretext For Total War On West Bank",
+          "url": "http://www.zerohedge.com/geopolitical/israel-has-its-pretext-total-war-west-bank",
+          "domain": "zerohedge.com"
         },
         {
-          "title": "Beirut Restaurant Sells More Than 20 , 000 $13 Chicken Sandwiches",
-          "url": "https://econotimes.com/Beirut-Restaurant-Sells-More-Than-20-000-13-Chicken-Sandwiches-1762921",
-          "domain": "econotimes.com"
+          "title": "A look at the main issues in Israeli elections seen as a referendum on Netanyahu",
+          "url": "https://lancasteronline.com/news/world/a-look-at-the-main-issues-in-israeli-elections-seen-as-a-referendum-on-netanyahu/article_6c1784bf-9b18-59f0-8cf9-eb015534bb3d.html",
+          "domain": "lancasteronline.com"
         },
         {
-          "title": "Macklemore Calls for  Free Palestine  and Speaks Out Against ICE",
-          "url": "https://www.billboard.com/music/music-news/macklemore-free-palestine-red-rocks-ed-sheeran-tour-exit-1236367576/",
-          "domain": "billboard.com"
+          "title": "A look at main issues in Israel\u00a0 elections seen as referendum on Netanyahu",
+          "url": "https://www.dailyexcelsior.com/a-look-at-main-issues-in-israel-elections-seen-as-referendum-on-netanyahu/",
+          "domain": "dailyexcelsior.com"
         },
         {
-          "title": "US scales back regional missions amid alleged Iranian threat plans",
-          "url": "https://zalebs.com/business/us-scales-back-regional-missions-amid-alleged-iranian-threat-plans/",
-          "domain": "zalebs.com"
+          "title": "Israel election : Five key things to know | Israel Election 2026 News",
+          "url": "https://www.aljazeera.com/news/2026/10/26/israels-election-five-key-things-to-know",
+          "domain": "aljazeera.com"
         }
       ],
       "toneReading": "No recent coverage found.",
@@ -470,28 +585,7 @@
       "regulatory": 42,
       "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [
-        {
-          "title": "This must end now : Trump warns Libya against serving as corridor for illegal migration",
-          "url": "https://www.hindustantimes.com/world-news/this-must-end-now-trump-warns-libya-against-serving-as-corridor-for-illegal-migration-101792986125357.html",
-          "domain": "hindustantimes.com"
-        },
-        {
-          "title": "Head - on clash between Samaras and Mitsotakis with bombshell statements : Dismiss Gerapetritis , you are deceiving Greeks over Libya , cable",
-          "url": "https://www.bankingnews.gr/politiki/articles/907051/head-on-clash-between-samaras-and-mitsotakis-with-bombshell-statements-dismiss-gerapetritis-you-are-deceiving-greeks-over-libya-cable%20title=",
-          "domain": "bankingnews.gr"
-        },
-        {
-          "title": "Saudi Arabia reopens airport as attacks by Houthi rebels persist , and other Mideast news",
-          "url": "https://abcnews.com/International/wireStory/saudi-arabia-reopens-airport-attacks-houthi-rebels-persist-137549261",
-          "domain": "abcnews.com"
-        },
-        {
-          "title": "Shithouse countries : Trump targets Senator Ossoff over Haiti bill , cites immigration from Libya , Yemen , Somalia",
-          "url": "https://news.webindia123.com/news/Articles/World/20261025/4514850.html",
-          "domain": "news.webindia123.com"
-        }
-      ],
+      "headlines": [],
       "toneReading": "No recent coverage found.",
       "volumeReading": null
     },
@@ -543,28 +637,7 @@
       "regulatory": 18,
       "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [
-        {
-          "title": "Morocco to See Rising Temperatures , With Highs of 39\u00b0C in the South",
-          "url": "https://www.moroccoworldnews.com/2026/10/343705/morocco-to-see-rising-temperatures-with-highs-of-39c-in-the-south/",
-          "domain": "moroccoworldnews.com"
-        },
-        {
-          "title": "France - Algeria diplomatic tensions put supply of urea fertilizer at risk",
-          "url": "https://bworldonline.com/agribusiness/2026/10/25/789003/france-algeria-diplomatic-tensions-put-supply-of-urea-fertilizer-at-risk/",
-          "domain": "bworldonline.com"
-        },
-        {
-          "title": "6 Hotel Lobbies Where the Welcome Is The Destination",
-          "url": "https://luxe.outlookindia.com/food-travel/travel/6-hotel-lobbies-where-the-welcome-is-the-destination",
-          "domain": "luxe.outlookindia.com"
-        },
-        {
-          "title": "Armonia Added to MSC Mediterranean Winter 2027 - 28 Lineup - Cruise Industry News",
-          "url": "https://cruiseindustrynews.com/cruise-news/2026/10/armonia-added-to-mscs-mediterranean-winter-2027-28-lineup/",
-          "domain": "cruiseindustrynews.com"
-        }
-      ],
+      "headlines": [],
       "toneReading": "No recent coverage found.",
       "volumeReading": null
     },
@@ -577,7 +650,28 @@
       "regulatory": 70,
       "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [],
+      "headlines": [
+        {
+          "title": "Dr . Cynthia Maung Accepts Okinawa Peace Prize , Calls for Urgent Safeguards for Civilians and Health Workers",
+          "url": "https://www.bnionline.net/en/news/dr-cynthia-maung-accepts-okinawa-peace-prize-calls-urgent-safeguards-civilians-and-health",
+          "domain": "bnionline.net"
+        },
+        {
+          "title": "Operation Trident : ED arrests six , freezes 1 , 424 bank accounts , attaches property worth Rs 17 . 82 Crore",
+          "url": "http://www.laosnews.net/news/279397447/operation-trident-ed-arrests-six-freezes-1424-bank-accounts-attaches-property-worth-rs-1782-crore",
+          "domain": "laosnews.net"
+        },
+        {
+          "title": "Rising global demand , lower price of Indian rice than competitors to boost exports : IREF",
+          "url": "https://economictimes.indiatimes.com/small-biz/trade/exports/insights/rising-global-demand-lower-price-of-indian-rice-than-competitors-to-boost-exports-iref/articleshow/135202340.cms",
+          "domain": "economictimes.indiatimes.com"
+        },
+        {
+          "title": "Explore new avenues to strengthen strategic partnerships : Rajnath Singh leaves for ASEAN Defence Minister Meeting - Plus in Philippines",
+          "url": "https://economictimes.indiatimes.com/news/defence/explore-new-avenues-to-strengthen-strategic-partnerships-rajnath-singh-leaves-for-asean-defence-ministers-meeting-plus-in-philippines/articleshow/135224518.cms",
+          "domain": "economictimes.indiatimes.com"
+        }
+      ],
       "toneReading": "No recent coverage found.",
       "volumeReading": null
     },
@@ -605,24 +699,24 @@
       "note": "No fresh coverage this cycle; showing baseline.",
       "headlines": [
         {
-          "title": "North Korea evolving threat goes beyond missiles as Russia ties deepen",
-          "url": "https://www.koreatimes.co.kr/southkorea/defense/20261025/north-koreas-evolving-threat-goes-beyond-missiles-as-russia-ties-deepen",
-          "domain": "koreatimes.co.kr"
-        },
-        {
           "title": "Seoul  fabricated  landmine blast , North Korea tells UN in letter | Border Disputes News",
           "url": "https://www.aljazeera.com/news/2026/10/26/seoul-fabricated-landmine-blast-north-korea-tells-un-in-letter",
           "domain": "aljazeera.com"
         },
         {
-          "title": "North Korean leader Kim Jong Un visits China to inaugurate a new cross - border bridge",
-          "url": "https://www.wyff4.com/article/kim-jong-un-china-new-cross-border-bridge/74239967",
-          "domain": "wyff4.com"
+          "title": "Kim Jong Un makes surprise China trip after death rumours",
+          "url": "https://www.express.co.uk/news/world/2260265/kim-jong-un-china-death-rumours",
+          "domain": "express.co.uk"
         },
         {
-          "title": "North Korea Kim Jong Un touts ties , opens bridge with China on first trip in a year",
-          "url": "https://www.cbsnews.com/news/north-korea-kim-jong-un-china-visit-bridge/",
-          "domain": "cbsnews.com"
+          "title": "US Treasury proposes overseas tech investment rule",
+          "url": "https://www.taipeitimes.com/News/biz/archives/2026/10/26/2003866601",
+          "domain": "taipeitimes.com"
+        },
+        {
+          "title": "Seoul  fabricated  landmine blast , North Korea tells UN in letter - Grenada Chronicle \u2013 Daily Grenada And Caribbean News",
+          "url": "https://grenadachronicle.com/seoul-fabricated-landmine-blast-north-korea-tells-un-in-letter/",
+          "domain": "grenadachronicle.com"
         }
       ],
       "toneReading": "No recent coverage found.",
@@ -689,28 +783,7 @@
       "regulatory": 16,
       "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [
-        {
-          "title": "Pakistan , Qatar vow to strengthen trade and investment ties",
-          "url": "https://dunyanews.tv/en/Pakistan/979542-pakistan-qatar-vow-to-strengthen-trade-and-investment-ties",
-          "domain": "dunyanews.tv"
-        },
-        {
-          "title": "Brookfield builds Qatar presence with Doha office",
-          "url": "https://economictimes.indiatimes.com/news/company/corporate-trends/brookfield-builds-qatar-presence-with-doha-office/articleshow/135187627.cms",
-          "domain": "economictimes.indiatimes.com"
-        },
-        {
-          "title": "India A drawn with Pakistan A in Asia Cup Rising Stars",
-          "url": "https://theshillongtimes.com/2026/10/25/india-a-drawn-with-pakistan-a-in-asia-cup-rising-stars/",
-          "domain": "theshillongtimes.com"
-        },
-        {
-          "title": "Arab News | Saudi defense minister leads delegation attending Makkah pact countrie meeting with Iran",
-          "url": "https://www.arabnews.com/saudi-arabia/saudi-defense-minister-leads-delegation-attending-makkah-pact-countries-meeting-with-iran-3008284",
-          "domain": "arabnews.com"
-        }
-      ],
+      "headlines": [],
       "toneReading": "No recent coverage found.",
       "volumeReading": null
     },
@@ -736,7 +809,28 @@
       "regulatory": 36,
       "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [],
+      "headlines": [
+        {
+          "title": "Saudi Arabia , Israel normalization still possible , expert tells  Post",
+          "url": "https://www.jpost.com/middle-east/article-912818",
+          "domain": "jpost.com"
+        },
+        {
+          "title": "Houthis claim attacks on Saudi oil targets , airports ; debris falls in Mecca , Medina as tensions escalate in Gulf",
+          "url": "https://www.ibtimes.co.in/houthis-claim-attacks-saudi-oil-targets-airports-debris-falls-mecca-medina-tensions-escalate-907830",
+          "domain": "ibtimes.co.in"
+        },
+        {
+          "title": "Saudi Arabia Singapore plan : Riyadh eyes oil storage hub from 2027 amid Hormuz disruption",
+          "url": "https://timesofindia.indiatimes.com/world/middle-east/saudi-arabias-singapore-plan-riyadh-eyes-oil-storage-hub-from-2027-amid-hormuz-disruption/articleshow/135202643.cms",
+          "domain": "timesofindia.indiatimes.com"
+        },
+        {
+          "title": "Saudi - led coalition intercepts 10 Houthi ballistic missiles targeting southern Saudi Arabia",
+          "url": "https://www.middleeastmonitor.com/20261025-saudi-led-coalition-intercepts-10-houthi-ballistic-missiles-targeting-southern-saudi-arabia/",
+          "domain": "middleeastmonitor.com"
+        }
+      ],
       "toneReading": "No recent coverage found.",
       "volumeReading": null
     },
@@ -749,28 +843,7 @@
       "regulatory": 40,
       "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [
-        {
-          "title": "Serbia student protests could take power and topple Putin  main ally  in Europe as election polls open",
-          "url": "https://www.aol.co.uk/articles/serbia-student-protests-could-power-095931000.html",
-          "domain": "aol.co.uk"
-        },
-        {
-          "title": "Serbians face a choice between the populist right and the student protest movement",
-          "url": "https://www.sbs.com.au/news/article/serbians-face-a-choice-between-the-populist-right-and-the-student-protest-movement/kmkos70aa",
-          "domain": "sbs.com.au"
-        },
-        {
-          "title": "Serbia election : Student movement challenges Vucic",
-          "url": "https://www.dw.com/en/serbia-votes-in-closely-fought-election-as-student-led-opposition-challenges-aleksandar-vucics-grip-on-power/a-79753482",
-          "domain": "dw.com"
-        },
-        {
-          "title": "Serbia holds a parliamentary election as populist Vucic faces protesting students",
-          "url": "https://www.durangoherald.com/articles/associated-press/serbia-holds-a-parliamentary-election-as-populist-vucic-faces-protesting-students/",
-          "domain": "durangoherald.com"
-        }
-      ],
+      "headlines": [],
       "toneReading": "No recent coverage found.",
       "volumeReading": null
     },
@@ -798,24 +871,24 @@
       "note": "No fresh coverage this cycle; showing baseline.",
       "headlines": [
         {
-          "title": "Shithouse countries : Trump targets Senator Ossoff over Haiti bill , cites immigration from Libya , Yemen , Somalia",
-          "url": "https://news.webindia123.com/news/Articles/World/20261025/4514850.html",
-          "domain": "news.webindia123.com"
-        },
-        {
           "title": "This must end now : Trump warns Libya against serving as corridor for illegal migration",
           "url": "https://www.hindustantimes.com/world-news/this-must-end-now-trump-warns-libya-against-serving-as-corridor-for-illegal-migration-101792986125357.html",
           "domain": "hindustantimes.com"
         },
         {
-          "title": "Tragedy as explosive blast kills two siblings in Garissa Bura area",
-          "url": "https://www.the-star.co.ke/news/2026-10-25-two-siblings-killed-in-explosive-blast-in-garissa",
+          "title": "Ilhan Omar hires Biden former lawyer amid federal probe , days after asking supporters for legal fees",
+          "url": "https://www.hindustantimes.com/world-news/us-news/ilhan-omar-hires-biden-s-former-lawyer-amid-federal-probe-days-after-asking-supporters-for-legal-fees-101792983589389.html",
+          "domain": "hindustantimes.com"
+        },
+        {
+          "title": "Obama attacks Trump as he campaigns for Democrats ahead of midterm elections",
+          "url": "https://www.the-star.co.ke/news/world/2026-10-25-obama-attacks-trump-as-he-campaigns-for-democrats",
           "domain": "the-star.co.ke"
         },
         {
-          "title": "Trump says US should prioritize migrants from Norway , Sweden over conflict - hit nations",
-          "url": "https://www.hindustantimes.com/world-news/us-news/trump-says-us-should-prioritize-migrants-from-norway-sweden-over-conflict-hit-nations-101792898498728.html",
-          "domain": "hindustantimes.com"
+          "title": "Far - sea capabilities on display as China 48th naval escort formation completes record Gulf of Aden mission",
+          "url": "http://eng.chinamil.com.cn/2025xb/O_251451/16496217.html",
+          "domain": "eng.chinamil.com.cn"
         }
       ],
       "toneReading": "No recent coverage found.",
@@ -830,7 +903,28 @@
       "regulatory": 40,
       "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [],
+      "headlines": [
+        {
+          "title": "End of the 3 . 0 ? Isuzu details new 2 . 2 - litre bi - turbodiesel engine",
+          "url": "https://www.citizen.co.za/motoring/isuzu-debuts-new-2-2-litre-bi-turbodiesel-engine/",
+          "domain": "citizen.co.za"
+        },
+        {
+          "title": "One - horse party poopers | The Citizen",
+          "url": "https://www.citizen.co.za/news/opinion/one-horse-party-poopers/",
+          "domain": "citizen.co.za"
+        },
+        {
+          "title": "Jobs are safe from AI - for now but roles changing rapidly",
+          "url": "https://www.citizen.co.za/news/jobs-are-safe-from-ai-for-now-but-roles-changing-rapidly/",
+          "domain": "citizen.co.za"
+        },
+        {
+          "title": "Eskom hits 525 days without load shedding as power recovery reaches six - year high",
+          "url": "https://www.citizen.co.za/news/eskom-hits-525-days-without-load-shedding-power-recovery-reaches-six-year-high/",
+          "domain": "citizen.co.za"
+        }
+      ],
       "toneReading": "No recent coverage found.",
       "volumeReading": null
     },
@@ -856,28 +950,7 @@
       "regulatory": 38,
       "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [
-        {
-          "title": "Middle East war serves no one , says PM Harini - Breaking News",
-          "url": "https://www.dailymirror.lk/breaking-news/Middle-East-war-serves-no-one-says-PM-Harini/108-353352",
-          "domain": "dailymirror.lk"
-        },
-        {
-          "title": "Sri Lanka repatriates 40 Iranian\u00a0 sailors after providing medical care",
-          "url": "https://www.dailyexcelsior.com/sri-lanka-repatriates-40-iranian-sailors-after-providing-medical-care/",
-          "domain": "dailyexcelsior.com"
-        },
-        {
-          "title": "Sri Lanka provides medical help , repatriates Iranian sailors stranded in Indian Ocean",
-          "url": "https://www.wlwt.com/article/sri-lanka-medicalrepatriates-iranian-sailors-indian-ocean/74241104",
-          "domain": "wlwt.com"
-        },
-        {
-          "title": "Stranded Iranian sailors seek medical treatment in Sri Lanka",
-          "url": "https://www.freemalaysiatoday.com/category/world/2026/10/25/stranded-iranian-sailors-seek-medical-treatment-in-sri-lanka",
-          "domain": "freemalaysiatoday.com"
-        }
-      ],
+      "headlines": [],
       "toneReading": "No recent coverage found.",
       "volumeReading": null
     },
@@ -903,7 +976,28 @@
       "regulatory": 67,
       "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [],
+      "headlines": [
+        {
+          "title": "The Mideast \u2026. 10 / 26 / 2026",
+          "url": "https://politicaldog101.com/tag/the-mideast-10-26-2026/",
+          "domain": "politicaldog101.com"
+        },
+        {
+          "title": "Israel Elections",
+          "url": "https://politicaldog101.com/tag/israel-elections/",
+          "domain": "politicaldog101.com"
+        },
+        {
+          "title": "Jordan Syrian militants attack",
+          "url": "https://politicaldog101.com/tag/jordan-syrian-militants-attack/",
+          "domain": "politicaldog101.com"
+        },
+        {
+          "title": "Middle East Summit",
+          "url": "https://politicaldog101.com/tag/middle-east-summit/",
+          "domain": "politicaldog101.com"
+        }
+      ],
       "toneReading": "No recent coverage found.",
       "volumeReading": null
     },
@@ -942,7 +1036,28 @@
       "regulatory": 48,
       "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [],
+      "headlines": [
+        {
+          "title": "Thousands protest crackdown on media in Turkey",
+          "url": "https://www.taipeitimes.com/News/world/archives/2026/10/26/2003866643",
+          "domain": "taipeitimes.com"
+        },
+        {
+          "title": "Saudi Arabia , Israel normalization still possible , expert tells  Post",
+          "url": "https://www.jpost.com/middle-east/article-912818",
+          "domain": "jpost.com"
+        },
+        {
+          "title": "Iran says meeting with Mecca pact states will mark beginning of  real transformation",
+          "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-says-meeting-mecca-pact-states-will-mark-beginning-real",
+          "domain": "middleeasteye.net"
+        },
+        {
+          "title": "Swiss Watch Exports to India Rise 28 . 5 %; Brands Unveil Local Editions",
+          "url": "https://econotimes.com/Swiss-Watch-Exports-to-India-Rise-28-5-Brands-Unveil-Local-Editions-1763371",
+          "domain": "econotimes.com"
+        }
+      ],
       "toneReading": "No recent coverage found.",
       "volumeReading": null
     },
@@ -1007,28 +1122,7 @@
       "regulatory": 80,
       "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [
-        {
-          "title": "Donald Trump Greenland Venezuela Claims :  We got them both : Donald Trump claims US has secured Greenland , Venezuela in  greatest real estate deal",
-          "url": "https://timesofindia.indiatimes.com/world/us/we-got-them-both-donald-trump-claims-us-has-secured-greenland-venezuela-in-greatest-real-estate-deal/articleshow/135186054.cms",
-          "domain": "timesofindia.indiatimes.com"
-        },
-        {
-          "title": "Venezuela opposition leader Machado returns after months in exile",
-          "url": "https://www.latimes.com/world-nation/story/2026-10-25/venezuelas-opposition-leader-machado-returns-after-months-in-exile",
-          "domain": "latimes.com"
-        },
-        {
-          "title": "Mar\u00eda Corina Machado Returns To Venezuela After Exile | WJBO Newsradio 1150 AM & 98 . 7 FM",
-          "url": "https://wjbo.iheart.com/content/2026-10-25-mara-corina-machado-returns-to-venezuela-after-exile/",
-          "domain": "wjbo.iheart.com"
-        },
-        {
-          "title": "Mar\u00eda Corina Machado Returns To Venezuela After Exile",
-          "url": "https://wgiram.iheart.com/content/2026-10-25-mara-corina-machado-returns-to-venezuela-after-exile/",
-          "domain": "wgiram.iheart.com"
-        }
-      ],
+      "headlines": [],
       "toneReading": "No recent coverage found.",
       "volumeReading": null
     },
@@ -1041,28 +1135,7 @@
       "regulatory": 30,
       "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [
-        {
-          "title": "Lotte steps up recruitment of Vietnamese workers",
-          "url": "https://www.koreatimes.co.kr/business/companies/20261025/lotte-steps-up-recruitment-of-vietnamese-workers",
-          "domain": "koreatimes.co.kr"
-        },
-        {
-          "title": "American tourist saves drowning woman at Dalat lake in Vietnam",
-          "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/10/25/american-tourist-saves-drowning-woman-at-dalat-lake-in-vietnam",
-          "domain": "thestar.com.my"
-        },
-        {
-          "title": "Singapore Crypto Economy Reaches $284B on Institutional Growth",
-          "url": "https://cointelegraph.com/news/singapore-crypto-economy-284b-institutional-activity-chainalysis?t=Singapore%20crypto%20activity%20grows%2055%%20as%20broader%20region%20contracts&fnp_t=1792921484.54649fbd0843409a",
-          "domain": "cointelegraph.com"
-        },
-        {
-          "title": "Silaa Movie : Sadia Khateeb goes full Lara Croft in  Silaa , shoots for four days in Vietnam Son Doong Cave | Hindi Movie News",
-          "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/sadia-khateeb-goes-full-lara-croft-in-silaa-shoots-for-four-days-in-vietnams-son-doong-cave/articleshow/135186270.cms",
-          "domain": "timesofindia.indiatimes.com"
-        }
-      ],
+      "headlines": [],
       "toneReading": "No recent coverage found.",
       "volumeReading": null
     },
@@ -1075,7 +1148,28 @@
       "regulatory": 74,
       "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [],
+      "headlines": [
+        {
+          "title": "Saudi - led coalition intercepts 10 Houthi ballistic missiles targeting southern Saudi Arabia",
+          "url": "https://www.middleeastmonitor.com/20261025-saudi-led-coalition-intercepts-10-houthi-ballistic-missiles-targeting-southern-saudi-arabia/",
+          "domain": "middleeastmonitor.com"
+        },
+        {
+          "title": "Intercepted missile after Houthis hit Riyadh airport , says Saudi coalition",
+          "url": "https://www.thehindu.com/news/international/intercepted-missile-after-houthis-hit-riyadh-airport-says-saudi-coalition/article71625586.ece",
+          "domain": "thehindu.com"
+        },
+        {
+          "title": "Houthis claim attacks on Saudi oil targets , airports ; debris falls in Mecca , Medina as tensions escalate in Gulf",
+          "url": "https://www.ibtimes.co.in/houthis-claim-attacks-saudi-oil-targets-airports-debris-falls-mecca-medina-tensions-escalate-907830",
+          "domain": "ibtimes.co.in"
+        },
+        {
+          "title": "Is Saudi airport open today as Houthi attacks continue ?",
+          "url": "https://pakobserver.net/is-saudi-airport-open-today-as-houthi-attacks-continue/",
+          "domain": "pakobserver.net"
+        }
+      ],
       "toneReading": "No recent coverage found.",
       "volumeReading": null
     },
