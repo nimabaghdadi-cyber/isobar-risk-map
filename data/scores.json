@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-31T20:59:08.238259+00:00",
+  "generatedAt": "2026-11-01T04:28:25.456902+00:00",
   "source": "GDELT (news tone/volume, 3-day window) blended 50/50 with baseline",
   "countries": [
     {
@@ -11,28 +11,7 @@
       "regulatory": 84,
       "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [
-        {
-          "title": "Pakistan Afghan Crisis - The American Conservative",
-          "url": "https://www.theamericanconservative.com/pakistans-afghan-crisis/",
-          "domain": "theamericanconservative.com"
-        },
-        {
-          "title": "Iran War Disrupts Exports to Afghanistan , Pakistan and Iraq",
-          "url": "https://www.khaama.com/iran-war-disrupts-exports-afghanistan-pakistan-iraq/",
-          "domain": "khaama.com"
-        },
-        {
-          "title": "Pakistan slams Afghan Taliban  diversionary claim , demands verifiable counterterror action",
-          "url": "https://www.geo.tv/latest/688151-pakistan-slams-afghan-talibans-diversionary-claims-demands-verifiable-counterterror-action",
-          "domain": "geo.tv"
-        },
-        {
-          "title": "Hopelessly Naive",
-          "url": "https://www.americanthinker.com/articles/2026/10/hopelessly-naive/",
-          "domain": "americanthinker.com"
-        }
-      ],
+      "headlines": [],
       "toneReading": "No recent coverage found.",
       "volumeReading": null
     },
@@ -45,7 +24,28 @@
       "regulatory": 44,
       "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [],
+      "headlines": [
+        {
+          "title": "Pope South American trip to go ahead following lung cancer surgery",
+          "url": "https://www.bbc.co.uk/news/articles/cjr4y5rq46p2o",
+          "domain": "bbc.co.uk"
+        },
+        {
+          "title": "South America battered by El Ni\u00f1o rains - BusinessWorld Online",
+          "url": "https://bworldonline.com/agribusiness/2026/10/25/789011/south-america-battered-by-el-nino-rains/",
+          "domain": "bworldonline.com"
+        },
+        {
+          "title": "A Kuwait Store Among 20 Worth Traveling For",
+          "url": "https://248am.com/mark/kuwait/a-kuwait-store-among-20-worth-traveling-for/",
+          "domain": "248am.com"
+        },
+        {
+          "title": "From behind to brilliant : Malawi U - 15 stun Chinese Taipei in World Cup opener",
+          "url": "https://www.nyasatimes.com/from-behind-to-brilliant-malawis-u-15-stun-chinese-taipei-in-world-cup-opener/",
+          "domain": "nyasatimes.com"
+        }
+      ],
       "toneReading": "No recent coverage found.",
       "volumeReading": null
     },
@@ -97,7 +97,13 @@
       "regulatory": 72,
       "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [],
+      "headlines": [
+        {
+          "title": "Drone warfare is evolving faster than armies can adapt , experts warn",
+          "url": "https://toronto.citynews.ca/2026/10/25/drone-warfare-is-evolving-faster-than-armies-can-adapt-experts-warn/",
+          "domain": "toronto.citynews.ca"
+        }
+      ],
       "toneReading": "No recent coverage found.",
       "volumeReading": null
     },
@@ -162,28 +168,7 @@
       "regulatory": 40,
       "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [
-        {
-          "title": "Navy reservist arrested in manhunt after wife body found in freezer \u2013 NBC4 Washington",
-          "url": "https://www.nbcwashington.com/news/national-international/navy-reservist-caught-murder-wife/4091803/",
-          "domain": "nbcwashington.com"
-        },
-        {
-          "title": "EXCLUSIVE : Medellin Cartel Co - founder Carlos Lehder on Pablo Escobar Killing Colombian Politicians",
-          "url": "https://www.vladtv.com/article/316291/medellin-cartel-co-founder-carlos-lehder-on-pablo-escobar-killing",
-          "domain": "vladtv.com"
-        },
-        {
-          "title": "Gujarat garba magic draws global travellers - The Times of India",
-          "url": "https://timesofindia.indiatimes.com/life-style/spotlight/gujarats-garba-magic-draws-global-travellers/articleshow/135190037.cms",
-          "domain": "timesofindia.indiatimes.com"
-        },
-        {
-          "title": "Results for First Quarter Ended August 31 , 2026",
-          "url": "https://www.thewhig.com/press-releases/newsfile/results-for-first-quarter-ended-august-31-2026/",
-          "domain": "thewhig.com"
-        }
-      ],
+      "headlines": [],
       "toneReading": "No recent coverage found.",
       "volumeReading": null
     },
@@ -391,7 +376,28 @@
       "regulatory": 20,
       "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [],
+      "headlines": [
+        {
+          "title": "He Was a Baby ! Emily Osment Candid Confession on Young Sheldon Kissing Scenes With Montana Jordan",
+          "url": "https://www.ibtimes.co.uk/emily-osment-intimacy-coordinator-young-sheldon-scenes-1827635",
+          "domain": "ibtimes.co.uk"
+        },
+        {
+          "title": "Nine Killed , 40 Injured in Terror Attack on Church in Jordan",
+          "url": "https://townhall.com/news/josephchalfant/2026/10/25/nine-killed-40-injured-in-terror-attack-on-church-in-jordan-n2685270",
+          "domain": "townhall.com"
+        },
+        {
+          "title": "Jordanian forces arrest 3 suspects in Karak church attack that killed 9",
+          "url": "https://www.hindustantimes.com/world-news/jordanian-forces-arrest-3-suspects-in-karak-church-attack-that-killed-9-101792990491040.html",
+          "domain": "hindustantimes.com"
+        },
+        {
+          "title": "Jordan church attack survivor says her cousin died before her eyes",
+          "url": "https://www.thestar.com.my/news/world/2026/10/25/jordan-church-attack-survivor-says-her-cousin-died-before-her-eyes",
+          "domain": "thestar.com.my"
+        }
+      ],
       "toneReading": "No recent coverage found.",
       "volumeReading": null
     },
@@ -430,7 +436,28 @@
       "regulatory": 20,
       "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [],
+      "headlines": [
+        {
+          "title": "Beirut $13 Chicken Sandwich Becomes Symbol of Lebanon Divide",
+          "url": "https://english.aawsat.com/features/5333379-beirut%E2%80%99s-13-chicken-sandwich-becomes-symbol-lebanon-divide",
+          "domain": "english.aawsat.com"
+        },
+        {
+          "title": "Beirut Restaurant Sells More Than 20 , 000 $13 Chicken Sandwiches",
+          "url": "https://econotimes.com/Beirut-Restaurant-Sells-More-Than-20-000-13-Chicken-Sandwiches-1762921",
+          "domain": "econotimes.com"
+        },
+        {
+          "title": "Macklemore Calls for  Free Palestine  and Speaks Out Against ICE",
+          "url": "https://www.billboard.com/music/music-news/macklemore-free-palestine-red-rocks-ed-sheeran-tour-exit-1236367576/",
+          "domain": "billboard.com"
+        },
+        {
+          "title": "US scales back regional missions amid alleged Iranian threat plans",
+          "url": "https://zalebs.com/business/us-scales-back-regional-missions-amid-alleged-iranian-threat-plans/",
+          "domain": "zalebs.com"
+        }
+      ],
       "toneReading": "No recent coverage found.",
       "volumeReading": null
     },
@@ -516,7 +543,28 @@
       "regulatory": 18,
       "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [],
+      "headlines": [
+        {
+          "title": "Morocco to See Rising Temperatures , With Highs of 39\u00b0C in the South",
+          "url": "https://www.moroccoworldnews.com/2026/10/343705/morocco-to-see-rising-temperatures-with-highs-of-39c-in-the-south/",
+          "domain": "moroccoworldnews.com"
+        },
+        {
+          "title": "France - Algeria diplomatic tensions put supply of urea fertilizer at risk",
+          "url": "https://bworldonline.com/agribusiness/2026/10/25/789003/france-algeria-diplomatic-tensions-put-supply-of-urea-fertilizer-at-risk/",
+          "domain": "bworldonline.com"
+        },
+        {
+          "title": "6 Hotel Lobbies Where the Welcome Is The Destination",
+          "url": "https://luxe.outlookindia.com/food-travel/travel/6-hotel-lobbies-where-the-welcome-is-the-destination",
+          "domain": "luxe.outlookindia.com"
+        },
+        {
+          "title": "Armonia Added to MSC Mediterranean Winter 2027 - 28 Lineup - Cruise Industry News",
+          "url": "https://cruiseindustrynews.com/cruise-news/2026/10/armonia-added-to-mscs-mediterranean-winter-2027-28-lineup/",
+          "domain": "cruiseindustrynews.com"
+        }
+      ],
       "toneReading": "No recent coverage found.",
       "volumeReading": null
     },
@@ -555,7 +603,28 @@
       "regulatory": 92,
       "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [],
+      "headlines": [
+        {
+          "title": "North Korea evolving threat goes beyond missiles as Russia ties deepen",
+          "url": "https://www.koreatimes.co.kr/southkorea/defense/20261025/north-koreas-evolving-threat-goes-beyond-missiles-as-russia-ties-deepen",
+          "domain": "koreatimes.co.kr"
+        },
+        {
+          "title": "Seoul  fabricated  landmine blast , North Korea tells UN in letter | Border Disputes News",
+          "url": "https://www.aljazeera.com/news/2026/10/26/seoul-fabricated-landmine-blast-north-korea-tells-un-in-letter",
+          "domain": "aljazeera.com"
+        },
+        {
+          "title": "North Korean leader Kim Jong Un visits China to inaugurate a new cross - border bridge",
+          "url": "https://www.wyff4.com/article/kim-jong-un-china-new-cross-border-bridge/74239967",
+          "domain": "wyff4.com"
+        },
+        {
+          "title": "North Korea Kim Jong Un touts ties , opens bridge with China on first trip in a year",
+          "url": "https://www.cbsnews.com/news/north-korea-kim-jong-un-china-visit-bridge/",
+          "domain": "cbsnews.com"
+        }
+      ],
       "toneReading": "No recent coverage found.",
       "volumeReading": null
     },
@@ -607,28 +676,7 @@
       "regulatory": 20,
       "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [
-        {
-          "title": "Sikorski Says Russia Running Out of Resources if Ukraine Survives Winter",
-          "url": "https://www.kyivpost.com/post/88094",
-          "domain": "kyivpost.com"
-        },
-        {
-          "title": "Gold market and central banks : Russia , Kazakhstan sell as Poland , China buy",
-          "url": "https://www.euronews.com/2026/10/25/gold-market-and-central-banks-russia-kazakhstan-sell-as-poland-china-buy",
-          "domain": "euronews.com"
-        },
-        {
-          "title": "Automotive supplier closing both locations in Auburn Hills in December",
-          "url": "https://www.theoaklandpress.com/2026/10/25/automotive-supplier-closing-both-locations-in-auburn-hills-in-december/",
-          "domain": "theoaklandpress.com"
-        },
-        {
-          "title": "Is It Time For Another Worldwide Civilizational Collapse ?",
-          "url": "http://www.zerohedge.com/geopolitical/it-time-another-worldwide-civilizational-collapse",
-          "domain": "zerohedge.com"
-        }
-      ],
+      "headlines": [],
       "toneReading": "No recent coverage found.",
       "volumeReading": null
     },
@@ -641,7 +689,28 @@
       "regulatory": 16,
       "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [],
+      "headlines": [
+        {
+          "title": "Pakistan , Qatar vow to strengthen trade and investment ties",
+          "url": "https://dunyanews.tv/en/Pakistan/979542-pakistan-qatar-vow-to-strengthen-trade-and-investment-ties",
+          "domain": "dunyanews.tv"
+        },
+        {
+          "title": "Brookfield builds Qatar presence with Doha office",
+          "url": "https://economictimes.indiatimes.com/news/company/corporate-trends/brookfield-builds-qatar-presence-with-doha-office/articleshow/135187627.cms",
+          "domain": "economictimes.indiatimes.com"
+        },
+        {
+          "title": "India A drawn with Pakistan A in Asia Cup Rising Stars",
+          "url": "https://theshillongtimes.com/2026/10/25/india-a-drawn-with-pakistan-a-in-asia-cup-rising-stars/",
+          "domain": "theshillongtimes.com"
+        },
+        {
+          "title": "Arab News | Saudi defense minister leads delegation attending Makkah pact countrie meeting with Iran",
+          "url": "https://www.arabnews.com/saudi-arabia/saudi-defense-minister-leads-delegation-attending-makkah-pact-countries-meeting-with-iran-3008284",
+          "domain": "arabnews.com"
+        }
+      ],
       "toneReading": "No recent coverage found.",
       "volumeReading": null
     },
@@ -727,7 +796,28 @@
       "regulatory": 42,
       "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [],
+      "headlines": [
+        {
+          "title": "Shithouse countries : Trump targets Senator Ossoff over Haiti bill , cites immigration from Libya , Yemen , Somalia",
+          "url": "https://news.webindia123.com/news/Articles/World/20261025/4514850.html",
+          "domain": "news.webindia123.com"
+        },
+        {
+          "title": "This must end now : Trump warns Libya against serving as corridor for illegal migration",
+          "url": "https://www.hindustantimes.com/world-news/this-must-end-now-trump-warns-libya-against-serving-as-corridor-for-illegal-migration-101792986125357.html",
+          "domain": "hindustantimes.com"
+        },
+        {
+          "title": "Tragedy as explosive blast kills two siblings in Garissa Bura area",
+          "url": "https://www.the-star.co.ke/news/2026-10-25-two-siblings-killed-in-explosive-blast-in-garissa",
+          "domain": "the-star.co.ke"
+        },
+        {
+          "title": "Trump says US should prioritize migrants from Norway , Sweden over conflict - hit nations",
+          "url": "https://www.hindustantimes.com/world-news/us-news/trump-says-us-should-prioritize-migrants-from-norway-sweden-over-conflict-hit-nations-101792898498728.html",
+          "domain": "hindustantimes.com"
+        }
+      ],
       "toneReading": "No recent coverage found.",
       "volumeReading": null
     },
@@ -766,7 +856,28 @@
       "regulatory": 38,
       "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [],
+      "headlines": [
+        {
+          "title": "Middle East war serves no one , says PM Harini - Breaking News",
+          "url": "https://www.dailymirror.lk/breaking-news/Middle-East-war-serves-no-one-says-PM-Harini/108-353352",
+          "domain": "dailymirror.lk"
+        },
+        {
+          "title": "Sri Lanka repatriates 40 Iranian\u00a0 sailors after providing medical care",
+          "url": "https://www.dailyexcelsior.com/sri-lanka-repatriates-40-iranian-sailors-after-providing-medical-care/",
+          "domain": "dailyexcelsior.com"
+        },
+        {
+          "title": "Sri Lanka provides medical help , repatriates Iranian sailors stranded in Indian Ocean",
+          "url": "https://www.wlwt.com/article/sri-lanka-medicalrepatriates-iranian-sailors-indian-ocean/74241104",
+          "domain": "wlwt.com"
+        },
+        {
+          "title": "Stranded Iranian sailors seek medical treatment in Sri Lanka",
+          "url": "https://www.freemalaysiatoday.com/category/world/2026/10/25/stranded-iranian-sailors-seek-medical-treatment-in-sri-lanka",
+          "domain": "freemalaysiatoday.com"
+        }
+      ],
       "toneReading": "No recent coverage found.",
       "volumeReading": null
     },
@@ -896,7 +1007,28 @@
       "regulatory": 80,
       "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [],
+      "headlines": [
+        {
+          "title": "Donald Trump Greenland Venezuela Claims :  We got them both : Donald Trump claims US has secured Greenland , Venezuela in  greatest real estate deal",
+          "url": "https://timesofindia.indiatimes.com/world/us/we-got-them-both-donald-trump-claims-us-has-secured-greenland-venezuela-in-greatest-real-estate-deal/articleshow/135186054.cms",
+          "domain": "timesofindia.indiatimes.com"
+        },
+        {
+          "title": "Venezuela opposition leader Machado returns after months in exile",
+          "url": "https://www.latimes.com/world-nation/story/2026-10-25/venezuelas-opposition-leader-machado-returns-after-months-in-exile",
+          "domain": "latimes.com"
+        },
+        {
+          "title": "Mar\u00eda Corina Machado Returns To Venezuela After Exile | WJBO Newsradio 1150 AM & 98 . 7 FM",
+          "url": "https://wjbo.iheart.com/content/2026-10-25-mara-corina-machado-returns-to-venezuela-after-exile/",
+          "domain": "wjbo.iheart.com"
+        },
+        {
+          "title": "Mar\u00eda Corina Machado Returns To Venezuela After Exile",
+          "url": "https://wgiram.iheart.com/content/2026-10-25-mara-corina-machado-returns-to-venezuela-after-exile/",
+          "domain": "wgiram.iheart.com"
+        }
+      ],
       "toneReading": "No recent coverage found.",
       "volumeReading": null
     },
@@ -916,11 +1048,6 @@
           "domain": "koreatimes.co.kr"
         },
         {
-          "title": "Anaheim couple trafficked protected wildlife parts , feds say",
-          "url": "https://www.latimes.com/california/story/2026-10-24/anaheim-couple-protected-wildlife-trafficking-guilty-sentenced",
-          "domain": "latimes.com"
-        },
-        {
           "title": "American tourist saves drowning woman at Dalat lake in Vietnam",
           "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/10/25/american-tourist-saves-drowning-woman-at-dalat-lake-in-vietnam",
           "domain": "thestar.com.my"
@@ -929,6 +1056,11 @@
           "title": "Singapore Crypto Economy Reaches $284B on Institutional Growth",
           "url": "https://cointelegraph.com/news/singapore-crypto-economy-284b-institutional-activity-chainalysis?t=Singapore%20crypto%20activity%20grows%2055%%20as%20broader%20region%20contracts&fnp_t=1792921484.54649fbd0843409a",
           "domain": "cointelegraph.com"
+        },
+        {
+          "title": "Silaa Movie : Sadia Khateeb goes full Lara Croft in  Silaa , shoots for four days in Vietnam Son Doong Cave | Hindi Movie News",
+          "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/sadia-khateeb-goes-full-lara-croft-in-silaa-shoots-for-four-days-in-vietnams-son-doong-cave/articleshow/135186270.cms",
+          "domain": "timesofindia.indiatimes.com"
         }
       ],
       "toneReading": "No recent coverage found.",
@@ -956,28 +1088,7 @@
       "regulatory": 64,
       "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [
-        {
-          "title": "AU renews demand for unconditional lifting of unilateral sanctions against Zimbabwe",
-          "url": "https://www.newzimbabwe.com/au-renews-demand-for-unconditional-lifting-of-unilateral-sanctions-against-zimbabwe/",
-          "domain": "newzimbabwe.com"
-        },
-        {
-          "title": "Shock as boy ( 7 ) dies during school fight with agemate",
-          "url": "https://www.newzimbabwe.com/shock-as-boy-7-dies-during-school-fight-with-agemate/",
-          "domain": "newzimbabwe.com"
-        },
-        {
-          "title": "MALUSI MPUMLWANA | How greater Sadc economic integration can defuse hostility to our neighours",
-          "url": "https://www.timeslive.co.za/opinion/2026-10-24-malusi-mpumlwana-how-greater-sadc-economic-integration-can-defuse-hostility-to-our-neighours/",
-          "domain": "timeslive.co.za"
-        },
-        {
-          "title": "2nd ODI : Credit to Harman , Pratika , and Deepti for the way they batted , says Smriti Mandhana",
-          "url": "https://ianslive.in/2nd-odi-credit-to-harman-pratika-and-deepti-for-the-way-they-batted-says-smriti-mandhana--20261025221815",
-          "domain": "ianslive.in"
-        }
-      ],
+      "headlines": [],
       "toneReading": "No recent coverage found.",
       "volumeReading": null
     }
