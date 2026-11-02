@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-01T21:42:17.597063+00:00",
+  "generatedAt": "2026-11-02T04:30:09.275044+00:00",
   "source": "GDELT (news tone/volume, 3-day window) blended 50/50 with baseline",
   "countries": [
     {
@@ -50,18 +50,7 @@
       "regulatory": 20,
       "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [
-        {
-          "title": "Azerbaijan updates journalist ethics code to regulate AI use and privacy",
-          "url": "https://www.trend.az/azerbaijan/society/4239001.html",
-          "domain": "trend.az"
-        },
-        {
-          "title": "Black Comets Advance After Scoring 18 Goals in Perfect Group Campaign \u2013 Ghanamma . com",
-          "url": "https://www.ghanamma.com/2026/10/26/black-comets-advance-after-scoring-18-goals-in-perfect-group-campaign/",
-          "domain": "ghanamma.com"
-        }
-      ],
+      "headlines": [],
       "toneReading": "No recent coverage found.",
       "volumeReading": null
     },
@@ -160,28 +149,7 @@
       "regulatory": 54,
       "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [
-        {
-          "title": "China Intl Agricultural Machinery Exhibition kicks off in Tianjin",
-          "url": "http://english.anhuinews.com/newscenter/headline/202610/t20261027_9692804.html",
-          "domain": "english.anhuinews.com"
-        },
-        {
-          "title": "Chinese markets lose trillions as race for AI supremacy with US takes its toll",
-          "url": "https://www.theguardian.com/world/2026/oct/27/chinese-markets-lose-trillions-ai-race-beijing",
-          "domain": "theguardian.com"
-        },
-        {
-          "title": "Pakistan , China launch Information Corridor to mark 75 years of ties",
-          "url": "https://pakobserver.net/pakistan-china-launch-information-corridor-to-mark-75-years-of-ties/",
-          "domain": "pakobserver.net"
-        },
-        {
-          "title": "China harnesses smart technologies to power transport upgrade",
-          "url": "http://english.anhuinews.com/newscenter/headline/202610/t20261027_9692808.html",
-          "domain": "english.anhuinews.com"
-        }
-      ],
+      "headlines": [],
       "toneReading": "No recent coverage found.",
       "volumeReading": null
     },
@@ -220,13 +188,7 @@
       "regulatory": 64,
       "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [
-        {
-          "title": "Ebola : Uganda introduces 21 - day quarantine for people entering from DRC",
-          "url": "https://www.africanews.com/2026/10/26/ebola-uganda-introduces-21-day-quarantine-for-people-entering-from-drc/",
-          "domain": "africanews.com"
-        }
-      ],
+      "headlines": [],
       "toneReading": "No recent coverage found.",
       "volumeReading": null
     },
@@ -268,28 +230,7 @@
       "regulatory": 44,
       "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [
-        {
-          "title": "Algeria to send troops to Niger in first foreign deployment since 1973",
-          "url": "https://www.namibian.com.na/algeria-to-send-troops-to-niger-in-first-foreign-deployment-since-1973/",
-          "domain": "namibian.com.na"
-        },
-        {
-          "title": "SIKA FURTHER STRENGTHENS LOCAL PRESENCE BY ACQUIRING WATERPROOFING COMPANY IN THE UAE",
-          "url": "https://www.manilatimes.net/2026/10/26/tmt-newswire/globenewswire/sika-further-strengthens-local-presence-by-acquiring-waterproofing-company-in-the-uae/2453637",
-          "domain": "manilatimes.net"
-        },
-        {
-          "title": "Trump dials up Islamophobia against Abdul El - Sayed at Michigan Senate rally",
-          "url": "https://www.aljazeera.com/news/2026/10/26/trump-dials-up-islamophobia-at-michigan-senate-rally-against-abdul-el-sayed",
-          "domain": "aljazeera.com"
-        },
-        {
-          "title": "Egypt Urged to Drop Charges Against Prominent Journalist",
-          "url": "https://www.miragenews.com/egypt-urged-to-drop-charges-against-prominent-1767046/",
-          "domain": "miragenews.com"
-        }
-      ],
+      "headlines": [],
       "toneReading": "No recent coverage found.",
       "volumeReading": null
     },
@@ -328,7 +269,28 @@
       "regulatory": 38,
       "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [],
+      "headlines": [
+        {
+          "title": "Vince Dooley Battlefield Trust Fund Helps Preserve Over 300 Acres At Resaca Battlefield",
+          "url": "https://www.chattanoogan.com/2026/10/26/525266/Vince-Dooley-Battlefield-Trust-Fund.aspx",
+          "domain": "chattanoogan.com"
+        },
+        {
+          "title": "Anthropic model accessed publicly available Georgia voter data ; no human authorization",
+          "url": "https://wcti12.com/news/nation-world/anthropic-model-accessed-publicly-available-georgia-voter-data-no-human-authorization-artificial-intelligence",
+          "domain": "wcti12.com"
+        },
+        {
+          "title": "Anthropic Claude accessed Georgia state vote count data behind paywall",
+          "url": "https://arynews.tv/anthropics-claude-accessed-georgia-state-vote-count-data-behind-paywall",
+          "domain": "arynews.tv"
+        },
+        {
+          "title": "About Aly | Rock 101 . 5",
+          "url": "https://1015.iheart.com/featured/aly/",
+          "domain": "1015.iheart.com"
+        }
+      ],
       "toneReading": "No recent coverage found.",
       "volumeReading": null
     },
@@ -354,23 +316,7 @@
       "regulatory": 82,
       "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [
-        {
-          "title": "This must end now : Trump warns Libya against serving as corridor for illegal migration",
-          "url": "https://www.hindustantimes.com/world-news/this-must-end-now-trump-warns-libya-against-serving-as-corridor-for-illegal-migration-101792986125357.html",
-          "domain": "hindustantimes.com"
-        },
-        {
-          "title": "Being a Human Being Is Not Complicated : Macklemore Returns To Stage After Ed Sheeran Tour  Free Palestine  Fallout",
-          "url": "https://www.ibtimes.co.uk/macklemore-returns-after-ed-sheeran-tour-removal-1827730",
-          "domain": "ibtimes.co.uk"
-        },
-        {
-          "title": "Baby orangutans in India expose illegal wildlife trade as experts question a billionaire zoo",
-          "url": "https://www.niagarafallsreview.ca/business/baby-orangutans-in-india-expose-illegal-wildlife-trade-as-experts-question-a-billionaire-s-zoo/article_b93daaee-a53c-50dd-ab5d-c417b457efe4.html",
-          "domain": "niagarafallsreview.ca"
-        }
-      ],
+      "headlines": [],
       "toneReading": "No recent coverage found.",
       "volumeReading": null
     },
@@ -383,28 +329,7 @@
       "regulatory": 32,
       "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [
-        {
-          "title": "India , SA take on the UN | The Citizen",
-          "url": "https://www.citizen.co.za/news/opinion/india-sa-take-on-the-un/",
-          "domain": "citizen.co.za"
-        },
-        {
-          "title": "The 67 Per Cent Moment : India Is Paying More for a New Economic Order",
-          "url": "https://www.ibtimes.co.in/67-per-cent-moment-india-paying-more-new-economic-order-907846",
-          "domain": "ibtimes.co.in"
-        },
-        {
-          "title": "Sonowal to pitch India shipbuilding opportunity to Korean industry",
-          "url": "https://economictimes.indiatimes.com/small-biz/trade/exports/insights/sonowal-to-pitch-indias-shipbuilding-opportunity-to-korean-industry/articleshow/135202381.cms",
-          "domain": "economictimes.indiatimes.com"
-        },
-        {
-          "title": "Swiss Watch Exports to India Rise 28 . 5 %; Brands Unveil Local Editions",
-          "url": "https://econotimes.com/Swiss-Watch-Exports-to-India-Rise-28-5-Brands-Unveil-Local-Editions-1763371",
-          "domain": "econotimes.com"
-        }
-      ],
+      "headlines": [],
       "toneReading": "No recent coverage found.",
       "volumeReading": null
     },
@@ -650,28 +575,7 @@
       "regulatory": 50,
       "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [
-        {
-          "title": "IPAC Highlights Efforts To Strengthen Nigeria Democratic Culture",
-          "url": "https://leadership.ng/ipac-highlights-efforts-to-strengthen-nigerias-democratic-culture/",
-          "domain": "leadership.ng"
-        },
-        {
-          "title": "Ebola : Uganda introduces 21 - day quarantine for people entering from DRC",
-          "url": "https://www.africanews.com/2026/10/26/ebola-uganda-introduces-21-day-quarantine-for-people-entering-from-drc/",
-          "domain": "africanews.com"
-        },
-        {
-          "title": "Nigeria Airways Severance Announcements Cover 3 , 300 Workers",
-          "url": "https://econotimes.com/Nigeria-Airways-Severance-Announcements-Cover-3-300-Workers-1763369",
-          "domain": "econotimes.com"
-        },
-        {
-          "title": "NDPC Chief Says Compliance Filings Were Below 5 % of Expected Level",
-          "url": "https://econotimes.com/NDPC-Chief-Says-Compliance-Filings-Were-Below-5-of-Expected-Level-1763366",
-          "domain": "econotimes.com"
-        }
-      ],
+      "headlines": [],
       "toneReading": "No recent coverage found.",
       "volumeReading": null
     },
@@ -744,7 +648,28 @@
       "regulatory": 30,
       "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [],
+      "headlines": [
+        {
+          "title": "Brigiding CAKE stages comeback on November 5",
+          "url": "https://interaksyon.philstar.com/hobbies-interests/2026/10/26/320999/brigidings-cake-stages-comeback-on-november-5/",
+          "domain": "interaksyon.philstar.com"
+        },
+        {
+          "title": "St . Carlo Acutis relic to visit Visayas churches November 26 - December 6",
+          "url": "https://interaksyon.philstar.com/trends-spotlights/2026/10/26/320982/st-carlo-acutis-relic-visit-visayas-churches-november-26-december-6/",
+          "domain": "interaksyon.philstar.com"
+        },
+        {
+          "title": "Miracle baby : Grace Lee announces pregnancy at 43",
+          "url": "https://www.philstar.com/lifestyle/health-and-family/2026/10/27/2566078/miracle-baby-grace-lee-announces-pregnancy-43",
+          "domain": "philstar.com"
+        },
+        {
+          "title": "Explore new avenues to strengthen strategic partnerships : Rajnath Singh leaves for ASEAN Defence Minister Meeting - Plus in Philippines",
+          "url": "https://economictimes.indiatimes.com/news/defence/explore-new-avenues-to-strengthen-strategic-partnerships-rajnath-singh-leaves-for-asean-defence-ministers-meeting-plus-in-philippines/articleshow/135224518.cms",
+          "domain": "economictimes.indiatimes.com"
+        }
+      ],
       "toneReading": "No recent coverage found.",
       "volumeReading": null
     },
@@ -770,7 +695,28 @@
       "regulatory": 16,
       "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [],
+      "headlines": [
+        {
+          "title": "Arab News | Saudi defense minister leads delegation attending Makkah pact countrie meeting with Iran",
+          "url": "https://www.arabnews.com/saudi-arabia/saudi-defense-minister-leads-delegation-attending-makkah-pact-countries-meeting-with-iran-3008284",
+          "domain": "arabnews.com"
+        },
+        {
+          "title": "Iran hosts Makkah Pact trio for rare talks",
+          "url": "https://tribune.com.pk/story/2637105/iran-hosts-makkah-pact-trio-for-rare-talks",
+          "domain": "tribune.com.pk"
+        },
+        {
+          "title": "Trump invokes 9 / 11 in urging Michigan voters to oppose Muslim Senate candidate El - Sayed",
+          "url": "https://arynews.tv/trump-invokes-9-11-in-urging-michigan-voters-to-oppose-muslim-senate-candidate-el-sayed",
+          "domain": "arynews.tv"
+        },
+        {
+          "title": "This time I wont vote for Likud , Netanyahu cousin says , citing October 7",
+          "url": "http://www.jpost.com/israel-election-2026/article-912988",
+          "domain": "jpost.com"
+        }
+      ],
       "toneReading": "No recent coverage found.",
       "volumeReading": null
     },
@@ -783,28 +729,7 @@
       "regulatory": 76,
       "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [
-        {
-          "title": "Russia , Ukraine agree to local ceasefire for humanitarian operation in Oleshky",
-          "url": "http://www.jpost.com/international/internationalrussia-ukraine-war/article-912989",
-          "domain": "jpost.com"
-        },
-        {
-          "title": "US designates three Iranian B747s for Russia flights - ch - aviation",
-          "url": "https://www.ch-aviation.com/news/119687-us-designates-three-iranian-b747s-for-russia-flights",
-          "domain": "ch-aviation.com"
-        },
-        {
-          "title": "Schools should support kids for speaking out",
-          "url": "https://www.santafenewmexican.com/opinion/letters_to_editor/schools-should-support-kids-for-speaking-out/article_276cdb28-a8ab-49fd-a5d8-a3bf25d4d332.html",
-          "domain": "santafenewmexican.com"
-        },
-        {
-          "title": "Ukraine , US , Russia expected to hold trilateral talks in November , says Zelensky",
-          "url": "https://www.hindustantimes.com/world-news/ukraine-us-russia-expected-to-hold-trilateral-talks-in-november-says-zelensky-101792982005265.html",
-          "domain": "hindustantimes.com"
-        }
-      ],
+      "headlines": [],
       "toneReading": "No recent coverage found.",
       "volumeReading": null
     },
@@ -817,28 +742,7 @@
       "regulatory": 36,
       "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [
-        {
-          "title": "Saudi Arabia Singapore plan : Riyadh eyes oil storage hub from 2027 amid Hormuz disruption",
-          "url": "https://timesofindia.indiatimes.com/world/middle-east/saudi-arabias-singapore-plan-riyadh-eyes-oil-storage-hub-from-2027-amid-hormuz-disruption/articleshow/135202643.cms",
-          "domain": "timesofindia.indiatimes.com"
-        },
-        {
-          "title": "Intercepted missile after Houthis hit Riyadh airport , says Saudi coalition",
-          "url": "https://www.thehindu.com/news/international/intercepted-missile-after-houthis-hit-riyadh-airport-says-saudi-coalition/article71625586.ece",
-          "domain": "thehindu.com"
-        },
-        {
-          "title": "The Nightly : October 25th , 2026 | Cageside Seats",
-          "url": "https://www.cagesideseats.com/post/k_vm3fvb8lDi",
-          "domain": "cagesideseats.com"
-        },
-        {
-          "title": "Saudi Arabia to store oil in Singapore to bolster Asia supply security",
-          "url": "https://arynews.tv/saudi-arabia-to-store-oil-in-singapore-to-bolster-asia-supply-security",
-          "domain": "arynews.tv"
-        }
-      ],
+      "headlines": [],
       "toneReading": "No recent coverage found.",
       "volumeReading": null
     },
@@ -851,7 +755,28 @@
       "regulatory": 40,
       "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [],
+      "headlines": [
+        {
+          "title": "Serbia Aleksandar Vucic concedes defeat to the student - led movement in a seismic political shift | World News",
+          "url": "https://lancasteronline.com/news/world/serbia-s-aleksandar-vucic-concedes-defeat-to-the-student-led-movement-in-a-seismic-political/article_f4d2442c-15b4-52f9-8165-43cc5aba9d3e.html",
+          "domain": "lancasteronline.com"
+        },
+        {
+          "title": "Aleksandar Vucic , the Serbian leader brought down by students",
+          "url": "https://www.aljazeera.com/news/2026/10/26/aleksandar-vucic-the-serbian-leader-brought-down-by-students",
+          "domain": "aljazeera.com"
+        },
+        {
+          "title": "Ma\u0111ar : Razgovarao sam telefonom sa predstavnicima Studentske liste , uverio sam ih u podr\u0161ku Ma\u0111arske",
+          "url": "https://www.021.rs/info/srbija/459269/madjar-razgovarao-sam-telefonom-sa-predstavnicima-studentske-liste-uverio-sam-ih-u-podrsku-madjarske",
+          "domain": "021.rs"
+        },
+        {
+          "title": "Serbia strongman leader Vucic concedes defeat to student - led movement",
+          "url": "https://www.hamhigh.co.uk/news/national/26668610.serbias-strongman-leader-vucic-concedes-defeat-student-led-movement/",
+          "domain": "hamhigh.co.uk"
+        }
+      ],
       "toneReading": "No recent coverage found.",
       "volumeReading": null
     },
@@ -890,28 +815,7 @@
       "regulatory": 40,
       "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [
-        {
-          "title": "End of the 3 . 0 ? Isuzu details new 2 . 2 - litre bi - turbodiesel engine",
-          "url": "https://www.citizen.co.za/motoring/isuzu-debuts-new-2-2-litre-bi-turbodiesel-engine/",
-          "domain": "citizen.co.za"
-        },
-        {
-          "title": "One - horse party poopers | The Citizen",
-          "url": "https://www.citizen.co.za/news/opinion/one-horse-party-poopers/",
-          "domain": "citizen.co.za"
-        },
-        {
-          "title": "Jobs are safe from AI - for now but roles changing rapidly",
-          "url": "https://www.citizen.co.za/news/jobs-are-safe-from-ai-for-now-but-roles-changing-rapidly/",
-          "domain": "citizen.co.za"
-        },
-        {
-          "title": "Eskom hits 525 days without load shedding as power recovery reaches six - year high",
-          "url": "https://www.citizen.co.za/news/eskom-hits-525-days-without-load-shedding-power-recovery-reaches-six-year-high/",
-          "domain": "citizen.co.za"
-        }
-      ],
+      "headlines": [],
       "toneReading": "No recent coverage found.",
       "volumeReading": null
     },
@@ -976,28 +880,7 @@
       "regulatory": 20,
       "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [
-        {
-          "title": "Philippine peso , Indonesia rupiah fall most among tepid Asian currencies",
-          "url": "https://interaksyon.philstar.com/business/2026/10/26/320994/philippine-peso-indonesia-rupiah-fall-most-among-tepid-asian-currencies/",
-          "domain": "interaksyon.philstar.com"
-        },
-        {
-          "title": "Japan Defense Academy Chief Calls for 3  Red Line in Competition With China",
-          "url": "https://www.theepochtimes.com/world/japan-defense-academy-chief-calls-for-3-red-lines-in-competition-with-china-6108657",
-          "domain": "theepochtimes.com"
-        },
-        {
-          "title": "Sensex falls 134 points , Nifty slips below 22 , 600 amid crude oil prices and West Asia tensions",
-          "url": "https://www.ibtimes.co.in/sensex-falls-134-points-nifty-slips-below-22600-amid-crude-oil-prices-west-asia-tensions-907850",
-          "domain": "ibtimes.co.in"
-        },
-        {
-          "title": "China marks anniversary of Taiwan recovery with events across Taiwan Strait",
-          "url": "http://eng.chinamil.com.cn/2025xb/H_251454/L_251456/16496218.html",
-          "domain": "eng.chinamil.com.cn"
-        }
-      ],
+      "headlines": [],
       "toneReading": "No recent coverage found.",
       "volumeReading": null
     },
@@ -1023,28 +906,7 @@
       "regulatory": 48,
       "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [
-        {
-          "title": "Iran says meeting with Mecca pact states will mark beginning of  real transformation",
-          "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-says-meeting-mecca-pact-states-will-mark-beginning-real",
-          "domain": "middleeasteye.net"
-        },
-        {
-          "title": "Swiss Watch Exports to India Rise 28 . 5 %; Brands Unveil Local Editions",
-          "url": "https://econotimes.com/Swiss-Watch-Exports-to-India-Rise-28-5-Brands-Unveil-Local-Editions-1763371",
-          "domain": "econotimes.com"
-        },
-        {
-          "title": "Mes\u00f3n Sabika again offers complimentary traditional Thanksgiving Dinners  to - go  for families in need",
-          "url": "https://www.positivelynaperville.com/2026/10/26/meson-sabika-again-offers-complimentary-traditional-thanksgiving-dinners-to-go-for-families-in-need/161955",
-          "domain": "positivelynaperville.com"
-        },
-        {
-          "title": "The Mideast \u2026. 10 / 26 / 2026 \u2026 Gulf Nations Talks \u2026 Jordan attacks Syrian armed groups \u2026. Israeli Election \u2026",
-          "url": "https://politicaldog101.com/2026/10/the-mideast-10-26-2026-gulf-nations-talks-jordan-syria-armed-groups-attacks-israeli-election/",
-          "domain": "politicaldog101.com"
-        }
-      ],
+      "headlines": [],
       "toneReading": "No recent coverage found.",
       "volumeReading": null
     },
