@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-03T00:30:50.023737+00:00",
+  "generatedAt": "2026-11-03T13:38:55.349336+00:00",
   "source": "GDELT (news tone/volume, 3-day window) blended 50/50 with baseline",
   "countries": [
     {
@@ -18,15 +18,15 @@
     {
       "name": "Argentina",
       "region": "Latin America",
-      "political": 46,
+      "political": 49,
       "conflict": 20,
       "economic": 68,
       "regulatory": 44,
       "trend": "flat",
-      "note": "No fresh coverage this cycle; showing baseline.",
+      "note": "Live-updated from recent news coverage.",
       "headlines": [],
-      "toneReading": "No recent coverage found.",
-      "volumeReading": null
+      "toneReading": "Coverage over the last 3 days has been mixed or neutral.",
+      "volumeReading": "Coverage volume has been light this week."
     },
     {
       "name": "Australia",
@@ -83,28 +83,28 @@
     {
       "name": "Brazil",
       "region": "Latin America",
-      "political": 40,
+      "political": 47,
       "conflict": 30,
       "economic": 42,
       "regulatory": 38,
-      "trend": "flat",
-      "note": "No fresh coverage this cycle; showing baseline.",
+      "trend": "up",
+      "note": "Live-updated from recent news coverage.",
       "headlines": [],
-      "toneReading": "No recent coverage found.",
+      "toneReading": "Coverage over the last 3 days has been mixed or neutral.",
       "volumeReading": null
     },
     {
       "name": "Canada",
       "region": "North America",
-      "political": 14,
+      "political": 33,
       "conflict": 5,
       "economic": 18,
       "regulatory": 20,
-      "trend": "flat",
-      "note": "No fresh coverage this cycle; showing baseline.",
+      "trend": "up",
+      "note": "Live-updated from recent news coverage.",
       "headlines": [],
-      "toneReading": "No recent coverage found.",
-      "volumeReading": null
+      "toneReading": "Coverage over the last 3 days has been mixed or neutral.",
+      "volumeReading": "Coverage volume has been unusually high this week."
     },
     {
       "name": "Chile",
@@ -115,23 +115,7 @@
       "regulatory": 22,
       "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [
-        {
-          "title": "Latin America Mood : Brazil Reels After Lula Win",
-          "url": "https://www.riotimesonline.com/latin-american-pulse-for-tuesday-october-27-2026/",
-          "domain": "riotimesonline.com"
-        },
-        {
-          "title": "Lula win in Brazil bucks regional shift to right , denies Trump ally",
-          "url": "https://www.sentinelandenterprise.com/2026/10/26/lula-win-brazil-election-regional-holdout/",
-          "domain": "sentinelandenterprise.com"
-        },
-        {
-          "title": "Brazil Stocks Face Test After 13 . 9 % Plunge | Morning Call , Oct 27",
-          "url": "https://www.riotimesonline.com/brazils-financial-morning-call-for-tuesday-october-27-2026/",
-          "domain": "riotimesonline.com"
-        }
-      ],
+      "headlines": [],
       "toneReading": "No recent coverage found.",
       "volumeReading": null
     },
@@ -157,18 +141,7 @@
       "regulatory": 40,
       "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [
-        {
-          "title": "Latin America Mood : Brazil Reels After Lula Win",
-          "url": "https://www.riotimesonline.com/latin-american-pulse-for-tuesday-october-27-2026/",
-          "domain": "riotimesonline.com"
-        },
-        {
-          "title": "Lula win in Brazil bucks regional shift to right , denies Trump ally",
-          "url": "https://www.sentinelandenterprise.com/2026/10/26/lula-win-brazil-election-regional-holdout/",
-          "domain": "sentinelandenterprise.com"
-        }
-      ],
+      "headlines": [],
       "toneReading": "No recent coverage found.",
       "volumeReading": null
     },
@@ -240,14 +213,35 @@
     {
       "name": "France",
       "region": "Europe",
-      "political": 34,
+      "political": 49,
       "conflict": 16,
       "economic": 28,
       "regulatory": 24,
-      "trend": "flat",
-      "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [],
-      "toneReading": "No recent coverage found.",
+      "trend": "up",
+      "note": "Live-updated from recent news coverage.",
+      "headlines": [
+        {
+          "title": "Refrigeration Systems Under Cyber Siege : The Internet of Things Shows Weaknesses , ETTelecom",
+          "url": "https://telecom.economictimes.indiatimes.com/news/devices/caught-cold-fridge-cyberattack-highlights-internet-gadget-weaknesses/135478535",
+          "domain": "telecom.economictimes.indiatimes.com"
+        },
+        {
+          "title": "What to know about the weapons and tactics blamed for injuring French protesters",
+          "url": "http://www.idahopress.com/news/world/what-to-know-about-the-weapons-and-tactics-blamed-for-injuring-french-protesters/article_5ff57b95-35b9-5baa-aa29-2e07774eb930.html",
+          "domain": "idahopress.com"
+        },
+        {
+          "title": "Multinational Ukraine force to hold first exercise in Poland",
+          "url": "https://www.manilatimes.net/2026/11/03/world/americas-emea/multinational-ukraine-force-to-hold-first-exercise-in-poland/2460176",
+          "domain": "manilatimes.net"
+        },
+        {
+          "title": "Ukraine war briefing : US to mediate talks with Kyiv and Moscow in Abu Dhabi next week , says Witkoff",
+          "url": "https://www.aol.co.uk/articles/ukraine-war-briefing-us-mediate-020038000.html",
+          "domain": "aol.co.uk"
+        }
+      ],
+      "toneReading": "Coverage over the last 3 days has leaned negative.",
       "volumeReading": null
     },
     {
@@ -266,14 +260,14 @@
     {
       "name": "Germany",
       "region": "Europe",
-      "political": 18,
+      "political": 38,
       "conflict": 8,
       "economic": 26,
       "regulatory": 16,
-      "trend": "flat",
-      "note": "No fresh coverage this cycle; showing baseline.",
+      "trend": "up",
+      "note": "Live-updated from recent news coverage.",
       "headlines": [],
-      "toneReading": "No recent coverage found.",
+      "toneReading": "Coverage over the last 3 days has been mixed or neutral.",
       "volumeReading": null
     },
     {
@@ -337,21 +331,42 @@
       "regulatory": 30,
       "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [],
+      "headlines": [
+        {
+          "title": "From London to Israel : MedEx offers Jewish doctors a path to a new life",
+          "url": "https://www.ynetnews.com/health_science/article/bkbt8qp6fe",
+          "domain": "ynetnews.com"
+        },
+        {
+          "title": "Accept political reality : Top Arab - Israeli leader urges opposition to seize  historic opportunity  to oust Netanyahu",
+          "url": "https://www.hindustantimes.com/world-news/israel-election-results-2026-arab-parties-yousef-jabareen-netanyahu-coalition-gadi-eisenkot-knesset-latest-updates-101793694162083.html",
+          "domain": "hindustantimes.com"
+        },
+        {
+          "title": "Israel Opposition leader Eisenkot rules out Netanyahu alliance , says will reject Trump intervention : Report",
+          "url": "https://www.hindustantimes.com/world-news/israel-opposition-leader-eisenkot-rules-out-netanyahu-alliance-says-will-reject-trumps-intervention-report-101793697999436.html",
+          "domain": "hindustantimes.com"
+        },
+        {
+          "title": "Child dies of measles in upstate New York , in region home to Amish community",
+          "url": "https://www.ynetnews.com/health_science/article/syi4dgdazg",
+          "domain": "ynetnews.com"
+        }
+      ],
       "toneReading": "No recent coverage found.",
       "volumeReading": null
     },
     {
       "name": "Italy",
       "region": "Europe",
-      "political": 18,
+      "political": 30,
       "conflict": 11,
       "economic": 44,
       "regulatory": 17,
-      "trend": "flat",
-      "note": "No fresh coverage this cycle; showing baseline.",
+      "trend": "up",
+      "note": "Live-updated from recent news coverage.",
       "headlines": [],
-      "toneReading": "No recent coverage found.",
+      "toneReading": "Coverage over the last 3 days has been mixed or neutral.",
       "volumeReading": null
     },
     {
@@ -370,35 +385,35 @@
     {
       "name": "Jordan",
       "region": "MENA",
-      "political": 36,
+      "political": 51,
       "conflict": 11,
       "economic": 40,
       "regulatory": 20,
-      "trend": "flat",
-      "note": "No fresh coverage this cycle; showing baseline.",
+      "trend": "up",
+      "note": "Live-updated from recent news coverage.",
       "headlines": [
         {
-          "title": "US band La Dispute forced to cancel Wellington gig after weather and equipment issues divert flight",
-          "url": "https://www.nzherald.co.nz/entertainment/us-band-la-dispute-forced-to-cancel-wellington-gig-after-weather-and-equipment-issues-divert-flight/JUUQRZWWMRCO7GFWUTT4PNEQCE/",
-          "domain": "nzherald.co.nz"
+          "title": "Shabana Mahmood insists new immigration rules  strike right balance  after mixed response",
+          "url": "https://www.aol.co.uk/articles/shabana-mahmood-insists-immigration-rules-102944000.html",
+          "domain": "aol.co.uk"
         },
         {
-          "title": "More line dancing : With Sean Rhyan sidelined and Jacob Monk on IR and Travis Glover hurt , too Packers will juggle offensive line on short week",
-          "url": "https://www.channel3000.com/news/top-stories/more-line-dancing-with-sean-rhyan-sidelined-and-jacob-monk-on-ir-and-travis-glover/article_dac308b5-b647-42e9-b3e2-65e518ebb1a4.html",
-          "domain": "channel3000.com"
+          "title": "Operation Guardian : 230 Undocumented Immigrants Arrested in Multi - State Sweep",
+          "url": "https://www.news9.com/oklahoma-politics/oklahoma-operation-guardian-arrests",
+          "domain": "news9.com"
         },
         {
-          "title": "4 Emmerdale spoilers next week : Sadie King seduces Caleb Miligan as she frames Ruby",
-          "url": "https://www.radiotimes.com/tv/soaps/emmerdale/emmerdale-spoilers-next-week-sadie-king-seduces-caleb-miligan-frames-ruby-robert-sugden/",
-          "domain": "radiotimes.com"
+          "title": "Niagara : A wine lover indispensable guide",
+          "url": "https://www.decanter.com/wine/wine-travel/niagara-a-wine-lovers-indispensable-guide/",
+          "domain": "decanter.com"
         },
         {
-          "title": "Mikal Bridge shooting woes doom Knicks to 0 - 3 start",
-          "url": "https://www.yardbarker.com/nba/articles/mikal_bridges_shooting_woes_doom_knicks_to_0_3_start/s1_13132_44473983",
-          "domain": "yardbarker.com"
+          "title": "Clippers G Max Strus ( foot ) set to make season debut",
+          "url": "http://www.ohiostandard.com/news/279408527/clippers-g-max-strus-foot-set-to-make-season-debut",
+          "domain": "ohiostandard.com"
         }
       ],
-      "toneReading": "No recent coverage found.",
+      "toneReading": "Coverage over the last 3 days has leaned negative.",
       "volumeReading": null
     },
     {
@@ -438,24 +453,24 @@
       "note": "No fresh coverage this cycle; showing baseline.",
       "headlines": [
         {
-          "title": "Iran hosts Makkah Pact trio for rare talks",
-          "url": "https://tribune.com.pk/story/2637105/iran-hosts-makkah-pact-trio-for-rare-talks",
-          "domain": "tribune.com.pk"
+          "title": "Lebanon cuts power to public bodies as electricity crisis deepens",
+          "url": "https://www.aljazeera.com/news/2026/11/3/lebanon-cuts-power-to-public-bodies-as-electricity-crisis-deepens",
+          "domain": "aljazeera.com"
         },
         {
-          "title": "OFFICIAL : Ex - Kotoko playmaker Baba Yahaya joins Lebanese side Saida SC \u2013 Ghanamma . com",
-          "url": "https://www.ghanamma.com/2026/10/27/official-ex-kotoko-playmaker-baba-yahaya-joins-lebanese-side-saida-sc/",
-          "domain": "ghanamma.com"
+          "title": "French judges probe war crimes complaint against Israeli army in Lebanon : lawyer",
+          "url": "https://www.justiceinfo.net/en/168062-french-judges-probe-war-crimes-complaint-against-israeli-army-in-lebanon-lawyer.html",
+          "domain": "justiceinfo.net"
         },
         {
-          "title": "A quick guide to Israel high - stakes elections",
-          "url": "https://www.iowapublicradio.org/news-from-npr/2026-10-26/a-quick-guide-to-israels-high-stakes-elections",
-          "domain": "iowapublicradio.org"
+          "title": "US strikes Iranian targets in the Strait of Hormuz , official says , leaving unclear what comes next",
+          "url": "https://www.wfmz.com/news/ap/ap-national/us-strikes-iranian-targets-in-the-strait-of-hormuz-official-says-leaving-unclear-what-comes-next/article_b7d150b1-b5ee-570b-b828-fab0fd23b46a.html",
+          "domain": "wfmz.com"
         },
         {
-          "title": "Trump escalates anti - Muslim attacks against El - Sayed in Michigan",
-          "url": "https://www.sentinelandenterprise.com/2026/10/26/trump-anti-muslim-attacks-el-sayed-michigan-rally/",
-          "domain": "sentinelandenterprise.com"
+          "title": "The same old but worse in Israel | Patrick Lawrence",
+          "url": "https://www.middle-east-online.com/en/same-old-worse-israel",
+          "domain": "middle-east-online.com"
         }
       ],
       "toneReading": "No recent coverage found.",
@@ -503,53 +518,74 @@
     {
       "name": "Mexico",
       "region": "North America",
-      "political": 44,
+      "political": 52,
       "conflict": 58,
       "economic": 40,
       "regulatory": 46,
-      "trend": "flat",
-      "note": "No fresh coverage this cycle; showing baseline.",
+      "trend": "up",
+      "note": "Live-updated from recent news coverage.",
       "headlines": [],
-      "toneReading": "No recent coverage found.",
+      "toneReading": "Coverage over the last 3 days has leaned negative.",
       "volumeReading": null
     },
     {
       "name": "Morocco",
       "region": "MENA",
-      "political": 32,
+      "political": 54,
       "conflict": 20,
       "economic": 38,
       "regulatory": 18,
-      "trend": "flat",
-      "note": "No fresh coverage this cycle; showing baseline.",
+      "trend": "up",
+      "note": "Live-updated from recent news coverage.",
       "headlines": [],
-      "toneReading": "No recent coverage found.",
-      "volumeReading": null
+      "toneReading": "Coverage over the last 3 days has been notably negative.",
+      "volumeReading": "Coverage volume has been light this week."
     },
     {
       "name": "Myanmar",
       "region": "Southeast Asia",
-      "political": 82,
+      "political": 71,
       "conflict": 78,
       "economic": 72,
       "regulatory": 70,
-      "trend": "flat",
-      "note": "No fresh coverage this cycle; showing baseline.",
+      "trend": "down",
+      "note": "Live-updated from recent news coverage.",
       "headlines": [],
-      "toneReading": "No recent coverage found.",
+      "toneReading": "Coverage over the last 3 days has leaned negative.",
       "volumeReading": null
     },
     {
       "name": "Nigeria",
       "region": "Sub-Saharan Africa",
-      "political": 52,
+      "political": 48,
       "conflict": 60,
       "economic": 54,
       "regulatory": 50,
       "trend": "flat",
-      "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [],
-      "toneReading": "No recent coverage found.",
+      "note": "Live-updated from recent news coverage.",
+      "headlines": [
+        {
+          "title": "NUSA Names Mozimo Chairman Of Caretaker Committee",
+          "url": "https://leadership.ng/nusa-names-mozimo-chairman-of-caretaker-committee/",
+          "domain": "leadership.ng"
+        },
+        {
+          "title": "AFRIDEX 2026 : Sokoto Reaffirms Commitment To Security Collaboration , Defence Innovations \u2013 THISDAYLIVE",
+          "url": "https://www.thisdaylive.com/2026/11/03/afridex-2026-sokoto-reaffirms-commitment-to-security-collaboration-defence-innovations/",
+          "domain": "thisdaylive.com"
+        },
+        {
+          "title": "NSCDC Warns Mining Operators Against Operating Without Valid Licences",
+          "url": "https://leadership.ng/nscdc-warns-mining-operators-against-operating-without-valid-licences/",
+          "domain": "leadership.ng"
+        },
+        {
+          "title": "20th coronation Anniversary : Gov Lawal hails Sultan as beacon of unity and stability",
+          "url": "https://www.premiumtimesng.com/promoted/922323-20th-coronation-anniversary-gov-lawal-hails-sultan-as-beacon-of-unity-and-stability.html",
+          "domain": "premiumtimesng.com"
+        }
+      ],
+      "toneReading": "Coverage over the last 3 days has been mixed or neutral.",
       "volumeReading": null
     },
     {
@@ -594,14 +630,14 @@
     {
       "name": "Philippines",
       "region": "Southeast Asia",
-      "political": 34,
+      "political": 43,
       "conflict": 30,
       "economic": 32,
       "regulatory": 30,
-      "trend": "flat",
-      "note": "No fresh coverage this cycle; showing baseline.",
+      "trend": "up",
+      "note": "Live-updated from recent news coverage.",
       "headlines": [],
-      "toneReading": "No recent coverage found.",
+      "toneReading": "Coverage over the last 3 days has been mixed or neutral.",
       "volumeReading": null
     },
     {
@@ -626,28 +662,7 @@
       "regulatory": 16,
       "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [
-        {
-          "title": "Iran hosts Makkah Pact trio for rare talks",
-          "url": "https://tribune.com.pk/story/2637105/iran-hosts-makkah-pact-trio-for-rare-talks",
-          "domain": "tribune.com.pk"
-        },
-        {
-          "title": "This time I wont vote for Likud , Netanyahu cousin says , citing October 7",
-          "url": "http://www.jpost.com/israel-election-2026/article-912988",
-          "domain": "jpost.com"
-        },
-        {
-          "title": "This time I wont vote for Likud , PM Netanyahu cousin says , citing October 7",
-          "url": "https://www.jpost.com/israel-election-2026/article-912988",
-          "domain": "jpost.com"
-        },
-        {
-          "title": "Asian Markets Trade Mixed",
-          "url": "https://www.rttnews.com/3703088/asian-markets-trade-mixed.aspx",
-          "domain": "rttnews.com"
-        }
-      ],
+      "headlines": [],
       "toneReading": "No recent coverage found.",
       "volumeReading": null
     },
@@ -673,28 +688,7 @@
       "regulatory": 36,
       "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [
-        {
-          "title": "Iran hosts Makkah Pact trio for rare talks",
-          "url": "https://tribune.com.pk/story/2637105/iran-hosts-makkah-pact-trio-for-rare-talks",
-          "domain": "tribune.com.pk"
-        },
-        {
-          "title": "Iran says meeting with Mecca pact states will mark beginning of  real transformation",
-          "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-says-meeting-mecca-pact-states-will-mark-beginning-real",
-          "domain": "middleeasteye.net"
-        },
-        {
-          "title": "Sinner to play rescheduled Saudi Six Kings",
-          "url": "https://tribune.com.pk/story/2637150/sinner-to-play-rescheduled-saudi-six-kings",
-          "domain": "tribune.com.pk"
-        },
-        {
-          "title": "Saudi Arabia offered Houthis $1 bn in Iran - brokered ceasefire deal : Israeli media",
-          "url": "http://www.myanmarnews.net/news/279399157/saudi-arabia-offered-houthis-1-bn-in-iran-brokered-ceasefire-deal-israeli-media",
-          "domain": "myanmarnews.net"
-        }
-      ],
+      "headlines": [],
       "toneReading": "No recent coverage found.",
       "volumeReading": null
     },
@@ -707,7 +701,18 @@
       "regulatory": 40,
       "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [],
+      "headlines": [
+        {
+          "title": "Detentions , resignations , probes shake Serbia after students toppled strongman Vucic in election",
+          "url": "http://www.idahopress.com/ap_news/us/detentions-resignations-probes-shake-serbia-after-students-toppled-strongman-vucic-in-election/article_43d51190-31e3-5243-ac41-28ec652f0000.html",
+          "domain": "idahopress.com"
+        },
+        {
+          "title": "If our people vote , we win in a landslide : Trump urges Republicans to turn out ahead of US midterms",
+          "url": "http://www.texasguardian.com/news/279408958/if-our-people-vote-we-win-in-a-landslide-trump-urges-republicans-to-turn-out-ahead-of-us-midterms",
+          "domain": "texasguardian.com"
+        }
+      ],
       "toneReading": "No recent coverage found.",
       "volumeReading": null
     },
@@ -759,7 +764,28 @@
       "regulatory": 18,
       "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [],
+      "headlines": [
+        {
+          "title": "North Korea denies involvement in Binance hack and criticizes FBI probe as  a trite provocation",
+          "url": "https://www.sandiegouniontribune.com/2026/11/02/north-korea-binance/",
+          "domain": "sandiegouniontribune.com"
+        },
+        {
+          "title": "The Connected Ecosystem : Hospitality Asia Announces 2027 Regional Circuit Across Seven Core Destinations",
+          "url": "https://www.manilatimes.net/2026/11/03/tmt-newswire/pr-newswire/the-connected-ecosystem-hospitality-asia-announces-2027-regional-circuit-across-seven-core-destinations/2460409",
+          "domain": "manilatimes.net"
+        },
+        {
+          "title": "Malaysia secures RM59 . 5bil in potential investments from overseas visits",
+          "url": "https://www.thestar.com.my/news/nation/2026/11/03/malaysia-secures-rm595bil-in-potential-investments-from-overseas-visits",
+          "domain": "thestar.com.my"
+        },
+        {
+          "title": "Kill Me Clinics : Disturbing New Industry Quietly Spreads Across America",
+          "url": "https://www.zerohedge.com/medical/kill-me-clinics-disturbing-new-industry-quietly-spreads-across-america",
+          "domain": "zerohedge.com"
+        }
+      ],
       "toneReading": "No recent coverage found.",
       "volumeReading": null
     },
@@ -837,7 +863,28 @@
       "regulatory": 48,
       "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [],
+      "headlines": [
+        {
+          "title": "Early morning house fire in KY kills 2",
+          "url": "https://www.wsmv.com/2026/11/02/2-killed-early-morning-house-fire-kentucky-officials-say/",
+          "domain": "wsmv.com"
+        },
+        {
+          "title": "U . S . Carries Out Defensive Strike On Iranian Island",
+          "url": "https://wdov.iheart.com/content/2026-11-03-us-carries-out-defensive-strike-on-iranian-island/",
+          "domain": "wdov.iheart.com"
+        },
+        {
+          "title": "U . S . Carries Out Defensive Strike On Iranian Island | News Radio 101 . 9 Big WAAX",
+          "url": "https://1019bigwaax.iheart.com/content/2026-11-03-us-carries-out-defensive-strike-on-iranian-island/",
+          "domain": "1019bigwaax.iheart.com"
+        },
+        {
+          "title": "U . S . Carries Out Defensive Strike On Iranian Island | Newsradio WFLA Orlando",
+          "url": "https://wflaorlando.iheart.com/content/2026-11-03-us-carries-out-defensive-strike-on-iranian-island/",
+          "domain": "wflaorlando.iheart.com"
+        }
+      ],
       "toneReading": "No recent coverage found.",
       "volumeReading": null
     },
@@ -870,28 +917,28 @@
     {
       "name": "United Kingdom",
       "region": "Europe",
-      "political": 26,
+      "political": 40,
       "conflict": 10,
       "economic": 24,
       "regulatory": 22,
-      "trend": "flat",
-      "note": "No fresh coverage this cycle; showing baseline.",
+      "trend": "up",
+      "note": "Live-updated from recent news coverage.",
       "headlines": [],
-      "toneReading": "No recent coverage found.",
-      "volumeReading": null
+      "toneReading": "Coverage over the last 3 days has been mixed or neutral.",
+      "volumeReading": "Coverage volume has been unusually high this week."
     },
     {
       "name": "United States",
       "region": "North America",
-      "political": 32,
+      "political": 46,
       "conflict": 12,
       "economic": 24,
       "regulatory": 28,
-      "trend": "flat",
-      "note": "No fresh coverage this cycle; showing baseline.",
+      "trend": "up",
+      "note": "Live-updated from recent news coverage.",
       "headlines": [],
-      "toneReading": "No recent coverage found.",
-      "volumeReading": null
+      "toneReading": "Coverage over the last 3 days has been mixed or neutral.",
+      "volumeReading": "Coverage volume has been unusually high this week."
     },
     {
       "name": "Venezuela",
@@ -902,7 +949,28 @@
       "regulatory": 80,
       "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [],
+      "headlines": [
+        {
+          "title": "Questions Mount Over Venezuela Biggest Oil Deal",
+          "url": "https://oilprice.com/Energy/Crude-Oil/Questions-Mount-Over-Venezuelas-Biggest-Oil-Deal.html",
+          "domain": "oilprice.com"
+        },
+        {
+          "title": "Is America really that polarized ? The answer might be a surprise",
+          "url": "https://wnyc.org/npr/nx-s1-6003534",
+          "domain": "wnyc.org"
+        },
+        {
+          "title": "Spain Is A Socialist Dictatorship",
+          "url": "https://www.americanthinker.com/articles/2026/11/spain-is-a-socialist-dictatorship/",
+          "domain": "americanthinker.com"
+        },
+        {
+          "title": "Padres extend qualifying offer to Adri\u00e1n Morej\u00f3n , add Luis Gutierrez to 40 - man roster",
+          "url": "https://www.sandiegouniontribune.com/2026/11/02/padres-extend-qualifying-offer-to-adrian-morejon-add-luis-gutierrez-to-40-man-roster/",
+          "domain": "sandiegouniontribune.com"
+        }
+      ],
       "toneReading": "No recent coverage found.",
       "volumeReading": null
     },
@@ -922,15 +990,15 @@
     {
       "name": "Yemen",
       "region": "MENA",
-      "political": 84,
+      "political": 74,
       "conflict": 88,
       "economic": 82,
       "regulatory": 74,
-      "trend": "flat",
-      "note": "No fresh coverage this cycle; showing baseline.",
+      "trend": "down",
+      "note": "Live-updated from recent news coverage.",
       "headlines": [],
-      "toneReading": "No recent coverage found.",
-      "volumeReading": null
+      "toneReading": "Coverage over the last 3 days has leaned negative.",
+      "volumeReading": "Coverage volume has been light this week."
     },
     {
       "name": "Zimbabwe",
@@ -941,12 +1009,47 @@
       "regulatory": 64,
       "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [],
+      "headlines": [
+        {
+          "title": "flyafrica . com Airline Profile",
+          "url": "https://centreforaviation.com/data/profiles/airlines/flyafricacom-zc",
+          "domain": "centreforaviation.com"
+        },
+        {
+          "title": "Any Indian team taking the field is capable of defeating any opposition : Gill backs India squad depth ahead of NZ ODIs",
+          "url": "http://www.bangladeshsun.com/news/279408944/any-indian-team-taking-the-field-is-capable-of-defeating-any-opposition-gill-backs-india-squad-depth-ahead-of-nz-odis",
+          "domain": "bangladeshsun.com"
+        }
+      ],
       "toneReading": "No recent coverage found.",
       "volumeReading": null
     }
   ],
   "alerts": [
+    {
+      "name": "France",
+      "from": "LOW",
+      "to": "GUARDED",
+      "at": "2026-11-03T13:38:55.349336+00:00"
+    },
+    {
+      "name": "Myanmar",
+      "from": "SEVERE",
+      "to": "HIGH",
+      "at": "2026-11-03T13:38:55.349336+00:00"
+    },
+    {
+      "name": "Morocco",
+      "from": "LOW",
+      "to": "GUARDED",
+      "at": "2026-11-03T13:38:55.349336+00:00"
+    },
+    {
+      "name": "Jordan",
+      "from": "LOW",
+      "to": "GUARDED",
+      "at": "2026-11-03T13:38:55.349336+00:00"
+    },
     {
       "name": "India",
       "from": "GUARDED",
@@ -1102,30 +1205,6 @@
       "from": "ELEVATED",
       "to": "HIGH",
       "at": "2026-10-28T04:03:04.631315+00:00"
-    },
-    {
-      "name": "Morocco",
-      "from": "GUARDED",
-      "to": "LOW",
-      "at": "2026-10-28T04:03:04.631315+00:00"
-    },
-    {
-      "name": "Qatar",
-      "from": "LOW",
-      "to": "GUARDED",
-      "at": "2026-10-28T04:03:04.631315+00:00"
-    },
-    {
-      "name": "Indonesia",
-      "from": "LOW",
-      "to": "GUARDED",
-      "at": "2026-10-27T21:49:50.810151+00:00"
-    },
-    {
-      "name": "South Korea",
-      "from": "LOW",
-      "to": "GUARDED",
-      "at": "2026-10-27T21:49:50.810151+00:00"
     }
   ]
 }
