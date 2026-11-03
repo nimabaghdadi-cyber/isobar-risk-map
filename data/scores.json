@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-02T14:47:38.356736+00:00",
+  "generatedAt": "2026-11-03T00:30:50.023737+00:00",
   "source": "GDELT (news tone/volume, 3-day window) blended 50/50 with baseline",
   "countries": [
     {
@@ -24,28 +24,7 @@
       "regulatory": 44,
       "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [
-        {
-          "title": "Pope South American trip to go ahead following lung cancer surgery",
-          "url": "https://www.bbc.co.uk/news/articles/cjr4y5rq46p2o",
-          "domain": "bbc.co.uk"
-        },
-        {
-          "title": "Latin America Mood : Brazil Reels After Lula Win",
-          "url": "https://www.riotimesonline.com/latin-american-pulse-for-tuesday-october-27-2026/",
-          "domain": "riotimesonline.com"
-        },
-        {
-          "title": "Ballon dOr 2026 : All the award winners as Harry Kane , Lamine Yamal and Bukayo Saka collect prizes at star - studded ceremony \u2013 Ghanamma . com",
-          "url": "https://www.ghanamma.com/2026/10/27/ballon-dor-2026-all-the-award-winners-as-harry-kane-lamine-yamal-and-bukayo-saka-collect-prizes-at-star-studded-ceremony/",
-          "domain": "ghanamma.com"
-        },
-        {
-          "title": "Lula win in Brazil bucks regional shift to right , denies Trump ally",
-          "url": "https://www.sentinelandenterprise.com/2026/10/26/lula-win-brazil-election-regional-holdout/",
-          "domain": "sentinelandenterprise.com"
-        }
-      ],
+      "headlines": [],
       "toneReading": "No recent coverage found.",
       "volumeReading": null
     },
@@ -58,28 +37,7 @@
       "regulatory": 10,
       "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [
-        {
-          "title": "Meghan to co - host Junior MasterChef Australia",
-          "url": "https://www.bbc.co.uk/news/articles/crgqwg3ll1v1o",
-          "domain": "bbc.co.uk"
-        },
-        {
-          "title": "Australia warns of  unprecedented  AI threat",
-          "url": "https://www.thestar.com.my/tech/tech-news/2026/10/27/australia-warns-of-039unprecedented039-ai-threat",
-          "domain": "thestar.com.my"
-        },
-        {
-          "title": "Australian sunscreen regulation : TGA announces proposed reforms from consultation group",
-          "url": "https://www.theage.com.au/lifestyle/beauty/a-year-after-sunscreen-gate-the-tga-announces-overhaul-of-the-way-spf-products-are-regulated-20261027-p618v8.html",
-          "domain": "theage.com.au"
-        },
-        {
-          "title": "Meghan on TV menu for  Junior MasterChef Australia",
-          "url": "https://www.jacarandafm.com/news/entertainment/meghan-on-tv-menu-for-junior-masterchef-australia/",
-          "domain": "jacarandafm.com"
-        }
-      ],
+      "headlines": [],
       "toneReading": "No recent coverage found.",
       "volumeReading": null
     },
@@ -131,28 +89,7 @@
       "regulatory": 38,
       "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [
-        {
-          "title": "Lula mobilized millions to win Brazil election , while Bolsonaro contests loss and Trump cries foul",
-          "url": "https://www.manilatimes.net/2026/10/27/world/americas-emea/lula-mobilized-millions-to-win-brazils-election-while-bolsonaro-contests-loss-and-trump-cries-foul/2454610",
-          "domain": "manilatimes.net"
-        },
-        {
-          "title": "Jay - Z confirmed to perform the Super Bowl LXI Halftime Show",
-          "url": "https://www.fox10phoenix.com/news/jay-z-confirmed-perform-super-bowl-lxi-halftime-show",
-          "domain": "fox10phoenix.com"
-        },
-        {
-          "title": "Lula win in Brazil bucks regional shift to right , denies Trump ally",
-          "url": "https://www.sentinelandenterprise.com/2026/10/26/lula-win-brazil-election-regional-holdout/",
-          "domain": "sentinelandenterprise.com"
-        },
-        {
-          "title": "Brazil Stocks Plunge 13 . 9 % as Fed Week Begins | Global Economy , Oct 27",
-          "url": "https://www.riotimesonline.com/global-economy-briefing-october-27-2026/",
-          "domain": "riotimesonline.com"
-        }
-      ],
+      "headlines": [],
       "toneReading": "No recent coverage found.",
       "volumeReading": null
     },
@@ -178,7 +115,23 @@
       "regulatory": 22,
       "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [],
+      "headlines": [
+        {
+          "title": "Latin America Mood : Brazil Reels After Lula Win",
+          "url": "https://www.riotimesonline.com/latin-american-pulse-for-tuesday-october-27-2026/",
+          "domain": "riotimesonline.com"
+        },
+        {
+          "title": "Lula win in Brazil bucks regional shift to right , denies Trump ally",
+          "url": "https://www.sentinelandenterprise.com/2026/10/26/lula-win-brazil-election-regional-holdout/",
+          "domain": "sentinelandenterprise.com"
+        },
+        {
+          "title": "Brazil Stocks Face Test After 13 . 9 % Plunge | Morning Call , Oct 27",
+          "url": "https://www.riotimesonline.com/brazils-financial-morning-call-for-tuesday-october-27-2026/",
+          "domain": "riotimesonline.com"
+        }
+      ],
       "toneReading": "No recent coverage found.",
       "volumeReading": null
     },
@@ -204,7 +157,18 @@
       "regulatory": 40,
       "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [],
+      "headlines": [
+        {
+          "title": "Latin America Mood : Brazil Reels After Lula Win",
+          "url": "https://www.riotimesonline.com/latin-american-pulse-for-tuesday-october-27-2026/",
+          "domain": "riotimesonline.com"
+        },
+        {
+          "title": "Lula win in Brazil bucks regional shift to right , denies Trump ally",
+          "url": "https://www.sentinelandenterprise.com/2026/10/26/lula-win-brazil-election-regional-holdout/",
+          "domain": "sentinelandenterprise.com"
+        }
+      ],
       "toneReading": "No recent coverage found.",
       "volumeReading": null
     },
@@ -295,28 +259,7 @@
       "regulatory": 38,
       "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [
-        {
-          "title": "Vince Dooley Battlefield Trust Fund Helps Preserve Over 300 Acres At Resaca Battlefield",
-          "url": "https://www.chattanoogan.com/2026/10/26/525266/Vince-Dooley-Battlefield-Trust-Fund.aspx",
-          "domain": "chattanoogan.com"
-        },
-        {
-          "title": "Anthropic model accessed publicly available Georgia voter data ; no human authorization",
-          "url": "https://wcti12.com/news/nation-world/anthropic-model-accessed-publicly-available-georgia-voter-data-no-human-authorization-artificial-intelligence",
-          "domain": "wcti12.com"
-        },
-        {
-          "title": "Marty Carr wins her second term in Alta Vista",
-          "url": "https://ottawasun.com/news/local-news/marty-carr-wins-her-second-term-in-alta-vista",
-          "domain": "ottawasun.com"
-        },
-        {
-          "title": "How will Gov . Gavin Newsom shifting climate policies shape California future ? and more UCLA media",
-          "url": "https://newsroom.ucla.edu/in-the-news/how-will-gov-gavin-newsoms-shifting-climate-policies-shape-californias-future",
-          "domain": "newsroom.ucla.edu"
-        }
-      ],
+      "headlines": [],
       "toneReading": "No recent coverage found.",
       "volumeReading": null
     },
@@ -329,28 +272,7 @@
       "regulatory": 16,
       "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [
-        {
-          "title": "Hannover 96 vs Kaiserslautern Predictions , Picks & Odds",
-          "url": "https://www.toffeeweb.com/hannover-96-vs-kaiserslautern-predictions-picks-odds-28-10-2026/",
-          "domain": "toffeeweb.com"
-        },
-        {
-          "title": "Washington orders suppliers to axe Iran aircraft contracts - ch - aviation",
-          "url": "https://www.ch-aviation.com/news/67061-washington-orders-suppliers-to-axe-iran-aircraft-contracts",
-          "domain": "ch-aviation.com"
-        },
-        {
-          "title": "European Union ( EU )",
-          "url": "https://tribune.net.ph/topic/european-union-eu",
-          "domain": "tribune.net.ph"
-        },
-        {
-          "title": "USAF Band coming to Clayton Center for free concert",
-          "url": "http://www.thedailytimes.com/community/usaf-band-coming-to-clayton-center-for-free-concert/article_6b56ff7a-bbb6-4f7a-a466-00de40aee93c.html",
-          "domain": "thedailytimes.com"
-        }
-      ],
+      "headlines": [],
       "toneReading": "No recent coverage found.",
       "volumeReading": null
     },
@@ -441,28 +363,7 @@
       "regulatory": 14,
       "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [
-        {
-          "title": "Explore new avenues to strengthen strategic partnerships : Rajnath Singh leaves for ASEAN Defence Minister Meeting - Plus in Philippines",
-          "url": "https://economictimes.indiatimes.com/news/defence/explore-new-avenues-to-strengthen-strategic-partnerships-rajnath-singh-leaves-for-asean-defence-ministers-meeting-plus-in-philippines/articleshow/135224518.cms",
-          "domain": "economictimes.indiatimes.com"
-        },
-        {
-          "title": "Japan Exchange Group , Inc . H1 Income Advances",
-          "url": "https://www.rttnews.com/3703099/japan-exchange-group-inc-h1-income-advances.aspx",
-          "domain": "rttnews.com"
-        },
-        {
-          "title": "Dr . Cynthia Maung Accepts Okinawa Peace Prize , Calls for Urgent Safeguards for Civilians and Health Workers",
-          "url": "https://www.bnionline.net/en/news/dr-cynthia-maung-accepts-okinawa-peace-prize-calls-urgent-safeguards-civilians-and-health",
-          "domain": "bnionline.net"
-        },
-        {
-          "title": "IBM Introduces Identity and Control for AI Agents , Securing Frontier Intelligence for the Enterprise",
-          "url": "https://www.finanznachrichten.de/nachrichten-2026-10/69941475-ibm-introduces-identity-and-control-for-ai-agents-securing-frontier-intelligence-for-the-enterprise-008.htm",
-          "domain": "finanznachrichten.de"
-        }
-      ],
+      "headlines": [],
       "toneReading": "No recent coverage found.",
       "volumeReading": null
     },
@@ -509,13 +410,7 @@
       "regulatory": 36,
       "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [
-        {
-          "title": "Keeping the Lights On : The Future of Energy Security in the Philippines",
-          "url": "https://www.manilatimes.net/2026/10/27/tmt-newswire/plentisoft/keeping-the-lights-on-the-future-of-energy-security-in-the-philippines/2454608",
-          "domain": "manilatimes.net"
-        }
-      ],
+      "headlines": [],
       "toneReading": "No recent coverage found.",
       "volumeReading": null
     },
@@ -541,7 +436,28 @@
       "regulatory": 20,
       "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [],
+      "headlines": [
+        {
+          "title": "Iran hosts Makkah Pact trio for rare talks",
+          "url": "https://tribune.com.pk/story/2637105/iran-hosts-makkah-pact-trio-for-rare-talks",
+          "domain": "tribune.com.pk"
+        },
+        {
+          "title": "OFFICIAL : Ex - Kotoko playmaker Baba Yahaya joins Lebanese side Saida SC \u2013 Ghanamma . com",
+          "url": "https://www.ghanamma.com/2026/10/27/official-ex-kotoko-playmaker-baba-yahaya-joins-lebanese-side-saida-sc/",
+          "domain": "ghanamma.com"
+        },
+        {
+          "title": "A quick guide to Israel high - stakes elections",
+          "url": "https://www.iowapublicradio.org/news-from-npr/2026-10-26/a-quick-guide-to-israels-high-stakes-elections",
+          "domain": "iowapublicradio.org"
+        },
+        {
+          "title": "Trump escalates anti - Muslim attacks against El - Sayed in Michigan",
+          "url": "https://www.sentinelandenterprise.com/2026/10/26/trump-anti-muslim-attacks-el-sayed-michigan-rally/",
+          "domain": "sentinelandenterprise.com"
+        }
+      ],
       "toneReading": "No recent coverage found.",
       "volumeReading": null
     },
@@ -593,28 +509,7 @@
       "regulatory": 46,
       "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [
-        {
-          "title": "Missing Arizona woman found alive in Mexico 2 years after boyfriend was charged with her murder : police",
-          "url": "https://www.fox10phoenix.com/news/draft-shayna-feinman-found",
-          "domain": "fox10phoenix.com"
-        },
-        {
-          "title": "Flooding in Socorro County claims one life , shuts down Highway 60",
-          "url": "https://www.kob.com/new-mexico/flooding-in-socorro-county-claims-one-life-shuts-down-highway-60/",
-          "domain": "kob.com"
-        },
-        {
-          "title": "Thomas Markle jnr hands over belongings in Philippines child abuse image probe",
-          "url": "https://www.nzherald.co.nz/world/thomas-markle-jnr-hands-over-belongings-in-philippines-child-abuse-image-probe/IXBKOCEX5FC5VF5H6UWGE3YYJY/",
-          "domain": "nzherald.co.nz"
-        },
-        {
-          "title": "Latin America Mood : Brazil Reels After Lula Win",
-          "url": "https://www.riotimesonline.com/latin-american-pulse-for-tuesday-october-27-2026/",
-          "domain": "riotimesonline.com"
-        }
-      ],
+      "headlines": [],
       "toneReading": "No recent coverage found.",
       "volumeReading": null
     },
@@ -705,28 +600,7 @@
       "regulatory": 30,
       "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [
-        {
-          "title": "Miracle baby : Grace Lee announces pregnancy at 43",
-          "url": "https://www.philstar.com/lifestyle/health-and-family/2026/10/27/2566078/miracle-baby-grace-lee-announces-pregnancy-43",
-          "domain": "philstar.com"
-        },
-        {
-          "title": "Explore new avenues to strengthen strategic partnerships : Rajnath Singh leaves for ASEAN Defence Minister Meeting - Plus in Philippines",
-          "url": "https://economictimes.indiatimes.com/news/defence/explore-new-avenues-to-strengthen-strategic-partnerships-rajnath-singh-leaves-for-asean-defence-ministers-meeting-plus-in-philippines/articleshow/135224518.cms",
-          "domain": "economictimes.indiatimes.com"
-        },
-        {
-          "title": "Palace says deadline given to Dela Rosa to surrender peacefully",
-          "url": "https://www.manilatimes.net/2026/10/27/news/palace-says-deadline-given-to-dela-rosa-to-surrender-peacefully/2454612",
-          "domain": "manilatimes.net"
-        },
-        {
-          "title": "Cebu Pacific suspends Clark - San Jose flights over network realignment",
-          "url": "https://www.manilatimes.net/2026/10/27/news/cebu-pacific-suspends-clark-san-jose-flights-over-network-realignment/2454605",
-          "domain": "manilatimes.net"
-        }
-      ],
+      "headlines": [],
       "toneReading": "No recent coverage found.",
       "volumeReading": null
     },
@@ -752,7 +626,28 @@
       "regulatory": 16,
       "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [],
+      "headlines": [
+        {
+          "title": "Iran hosts Makkah Pact trio for rare talks",
+          "url": "https://tribune.com.pk/story/2637105/iran-hosts-makkah-pact-trio-for-rare-talks",
+          "domain": "tribune.com.pk"
+        },
+        {
+          "title": "This time I wont vote for Likud , Netanyahu cousin says , citing October 7",
+          "url": "http://www.jpost.com/israel-election-2026/article-912988",
+          "domain": "jpost.com"
+        },
+        {
+          "title": "This time I wont vote for Likud , PM Netanyahu cousin says , citing October 7",
+          "url": "https://www.jpost.com/israel-election-2026/article-912988",
+          "domain": "jpost.com"
+        },
+        {
+          "title": "Asian Markets Trade Mixed",
+          "url": "https://www.rttnews.com/3703088/asian-markets-trade-mixed.aspx",
+          "domain": "rttnews.com"
+        }
+      ],
       "toneReading": "No recent coverage found.",
       "volumeReading": null
     },
@@ -851,28 +746,7 @@
       "regulatory": 40,
       "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [
-        {
-          "title": "Jobs are safe from AI - for now but roles changing rapidly",
-          "url": "https://www.citizen.co.za/news/jobs-are-safe-from-ai-for-now-but-roles-changing-rapidly/",
-          "domain": "citizen.co.za"
-        },
-        {
-          "title": "Senegal to host Youth Games",
-          "url": "https://tribune.com.pk/story/2637152/senegal-to-host-youth-games",
-          "domain": "tribune.com.pk"
-        },
-        {
-          "title": "Countering Polarization : Reconcilliation Must Be Intentional , Deliberate",
-          "url": "https://leadership.ng/countering-polarization-reconcilliation-must-be-intentional-deliberate-osinbajo/",
-          "domain": "leadership.ng"
-        },
-        {
-          "title": "Scott Boland Told To Stop Taking Wickets , Making Runs if He Wants To Be Picked for Australian Test Team The Shovel",
-          "url": "https://theshovel.com.au/2026/10/27/scott-boland-told-to-stop-taking-wickets-making-runs/",
-          "domain": "theshovel.com.au"
-        }
-      ],
+      "headlines": [],
       "toneReading": "No recent coverage found.",
       "volumeReading": null
     },
@@ -885,23 +759,7 @@
       "regulatory": 18,
       "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [
-        {
-          "title": "Lee says Korea must learn from Europe unrest , rooted in low growth",
-          "url": "https://www.koreaherald.com/article/10916221",
-          "domain": "koreaherald.com"
-        },
-        {
-          "title": "AI Must learn to speak the language of the people I",
-          "url": "https://pakobserver.net/ai-must-learn-to-speak-the-language-of-the-people-i/",
-          "domain": "pakobserver.net"
-        },
-        {
-          "title": "Explore new avenues to strengthen strategic partnerships : Rajnath Singh leaves for ASEAN Defence Minister Meeting - Plus in Philippines",
-          "url": "https://economictimes.indiatimes.com/news/defence/explore-new-avenues-to-strengthen-strategic-partnerships-rajnath-singh-leaves-for-asean-defence-ministers-meeting-plus-in-philippines/articleshow/135224518.cms",
-          "domain": "economictimes.indiatimes.com"
-        }
-      ],
+      "headlines": [],
       "toneReading": "No recent coverage found.",
       "volumeReading": null
     },
@@ -1005,28 +863,7 @@
       "regulatory": 58,
       "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [
-        {
-          "title": "Russia , Ukraine agree to local ceasefire for humanitarian operation in Oleshky",
-          "url": "http://www.jpost.com/international/internationalrussia-ukraine-war/article-912989",
-          "domain": "jpost.com"
-        },
-        {
-          "title": "Europe vs . Elon : 5 ways the EU is trying to squeeze out Musk Starlink \u2013 POLITICO",
-          "url": "https://www.politico.eu/article/elon-musk-5-ways-eu-starlink/",
-          "domain": "politico.eu"
-        },
-        {
-          "title": "Melania Trump - brokered one - city ceasefire between Russia and Ukraine takes effect",
-          "url": "https://cyprusnews.eu/cnn-kosmos/melania-trump-brokered-one-city-ceasefire-between-russia-and-ukraine-takes-effect/",
-          "domain": "cyprusnews.eu"
-        },
-        {
-          "title": "Thune Tours Local Factory With A Towering Future",
-          "url": "https://www.yankton.net/community/article_af8826f5-65da-4e7e-a0f3-9c877f741ef5.html",
-          "domain": "yankton.net"
-        }
-      ],
+      "headlines": [],
       "toneReading": "No recent coverage found.",
       "volumeReading": null
     },
@@ -1039,28 +876,7 @@
       "regulatory": 22,
       "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [
-        {
-          "title": "Meghan to co - host Junior MasterChef Australia",
-          "url": "https://www.bbc.co.uk/news/articles/crgqwg3ll1v1o",
-          "domain": "bbc.co.uk"
-        },
-        {
-          "title": "Meghan on TV menu for  Junior MasterChef Australia",
-          "url": "https://www.jacarandafm.com/news/entertainment/meghan-on-tv-menu-for-junior-masterchef-australia/",
-          "domain": "jacarandafm.com"
-        },
-        {
-          "title": "Currency exchange rates in Pakistan today \u2013 27 October 2026",
-          "url": "https://pakobserver.net/currency-exchange-rates-in-pakistan-today-27-october-2026/",
-          "domain": "pakobserver.net"
-        },
-        {
-          "title": "Battersea losses a lesson for future investments , says PM",
-          "url": "https://www.thestar.com.my/news/nation/2026/10/27/battersea-losses-a-lesson-for-future-investments-says-pm",
-          "domain": "thestar.com.my"
-        }
-      ],
+      "headlines": [],
       "toneReading": "No recent coverage found.",
       "volumeReading": null
     },
@@ -1086,18 +902,7 @@
       "regulatory": 80,
       "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [
-        {
-          "title": "Latin America Mood : Brazil Reels After Lula Win",
-          "url": "https://www.riotimesonline.com/latin-american-pulse-for-tuesday-october-27-2026/",
-          "domain": "riotimesonline.com"
-        },
-        {
-          "title": "USAF Band coming to Clayton Center for free concert",
-          "url": "http://www.thedailytimes.com/community/usaf-band-coming-to-clayton-center-for-free-concert/article_6b56ff7a-bbb6-4f7a-a466-00de40aee93c.html",
-          "domain": "thedailytimes.com"
-        }
-      ],
+      "headlines": [],
       "toneReading": "No recent coverage found.",
       "volumeReading": null
     },
