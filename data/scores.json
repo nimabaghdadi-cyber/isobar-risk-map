@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-04T23:12:24.908633+00:00",
+  "generatedAt": "2026-11-05T05:10:42.582399+00:00",
   "source": "GDELT (news tone/volume, 3-day window) blended 50/50 with baseline",
   "countries": [
     {
@@ -57,15 +57,36 @@
     {
       "name": "Bangladesh",
       "region": "South Asia",
-      "political": 52,
+      "political": 48,
       "conflict": 34,
       "economic": 44,
       "regulatory": 42,
       "trend": "flat",
-      "note": "Live-updated from recent news coverage.",
-      "headlines": [],
-      "toneReading": "Coverage over the last 3 days has been mixed or neutral.",
-      "volumeReading": "Coverage volume has been light this week."
+      "note": "No fresh coverage this cycle; showing baseline.",
+      "headlines": [
+        {
+          "title": "Parakala Prabhakar questions if governments elected post 2014 were illegal",
+          "url": "https://www.thehindu.com/news/national/telangana/parakala-prabhakar-questions-if-governments-elected-post-2014-were-illegal/article71660336.ece",
+          "domain": "thehindu.com"
+        },
+        {
+          "title": "India - Pakistan opener set to launch much - anticipated SAFF Championship in Bangladesh",
+          "url": "http://www.bangladeshsun.com/news/279409211/india-pakistan-opener-set-to-launch-much-anticipated-saff-championship-in-bangladesh",
+          "domain": "bangladeshsun.com"
+        },
+        {
+          "title": "Bangladesh : Garment workers clashes with police in Dhaka Mirpur as protest enters fourth day",
+          "url": "http://www.bangladeshsun.com/news/279409055/bangladesh-garment-workers-clashes-with-police-in-dhaka-mirpur-as-protest-enters-fourth-day",
+          "domain": "bangladeshsun.com"
+        },
+        {
+          "title": "EZVIZ Announces 11 . 11 Home Security Offers Across Four South Asian Markets",
+          "url": "http://www.bangladeshsun.com/news/279409133/ezviz-announces-1111-home-security-offers-across-four-south-asian-markets",
+          "domain": "bangladeshsun.com"
+        }
+      ],
+      "toneReading": "No recent coverage found.",
+      "volumeReading": null
     },
     {
       "name": "Belarus",
@@ -76,23 +97,7 @@
       "regulatory": 72,
       "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [
-        {
-          "title": "Carney says Russian team wont be allowed at Alberta world junior hockey tournament",
-          "url": "https://cheknews.ca/carney-says-russia-will-not-be-allowed-to-compete-at-world-juniors-1358733/",
-          "domain": "cheknews.ca"
-        },
-        {
-          "title": "Mark Carney says Russians will  absolutely  be denied visas for 2027 world juniors",
-          "url": "https://calgaryherald.com:443/news/national/russian-visas-will-be-denied-world-juniors-carney/wcm/736eb58c-7ba6-4d88-b362-815121a468d0",
-          "domain": "calgaryherald.com"
-        },
-        {
-          "title": "Russia barred from Alberta world juniors , PM Carney says",
-          "url": "https://www.ckom.com/2026/11/03/russia-barred-from-alberta-world-juniors-pm-carney-says/",
-          "domain": "ckom.com"
-        }
-      ],
+      "headlines": [],
       "toneReading": "No recent coverage found.",
       "volumeReading": null
     },
@@ -103,7 +108,7 @@
       "conflict": 30,
       "economic": 42,
       "regulatory": 38,
-      "trend": "up",
+      "trend": "flat",
       "note": "Live-updated from recent news coverage.",
       "headlines": [],
       "toneReading": "Coverage over the last 3 days has been mixed or neutral.",
@@ -116,7 +121,7 @@
       "conflict": 5,
       "economic": 18,
       "regulatory": 20,
-      "trend": "up",
+      "trend": "flat",
       "note": "Live-updated from recent news coverage.",
       "headlines": [],
       "toneReading": "Coverage over the last 3 days has been mixed or neutral.",
@@ -142,7 +147,7 @@
       "conflict": 22,
       "economic": 36,
       "regulatory": 54,
-      "trend": "down",
+      "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
       "headlines": [],
       "toneReading": "No recent coverage found.",
@@ -151,15 +156,36 @@
     {
       "name": "Colombia",
       "region": "Latin America",
-      "political": 47,
+      "political": 48,
       "conflict": 56,
       "economic": 38,
       "regulatory": 40,
       "trend": "flat",
-      "note": "Live-updated from recent news coverage.",
-      "headlines": [],
-      "toneReading": "Coverage over the last 3 days has been mixed or neutral.",
-      "volumeReading": "Coverage volume has been light this week."
+      "note": "No fresh coverage this cycle; showing baseline.",
+      "headlines": [
+        {
+          "title": "Global Observance of World Cities Day 2026 Held in East China Fuzhou",
+          "url": "https://www.manilatimes.net/2026/11/03/tmt-newswire/globenewswire/global-observance-of-world-cities-day-2026-held-in-east-chinas-fuzhou/2460419",
+          "domain": "manilatimes.net"
+        },
+        {
+          "title": "Questions Mount Over Venezuela Biggest Oil Deal",
+          "url": "https://oilprice.com/Energy/Crude-Oil/Questions-Mount-Over-Venezuelas-Biggest-Oil-Deal.html",
+          "domain": "oilprice.com"
+        },
+        {
+          "title": "Operation Guardian : 230 Undocumented Immigrants Arrested in Multi - State Sweep",
+          "url": "https://www.news9.com/oklahoma-politics/oklahoma-operation-guardian-arrests",
+          "domain": "news9.com"
+        },
+        {
+          "title": "Vernon , B . C . woman leads Team Canada to gold | Kelowna Capital News",
+          "url": "https://kelownacapnews.com/2026/11/02/vernon-b-c-woman-leads-team-canada-to-gold/",
+          "domain": "kelownacapnews.com"
+        }
+      ],
+      "toneReading": "No recent coverage found.",
+      "volumeReading": null
     },
     {
       "name": "Cuba",
@@ -190,31 +216,15 @@
     {
       "name": "Ecuador",
       "region": "Latin America",
-      "political": 36,
+      "political": 38,
       "conflict": 57,
       "economic": 36,
       "regulatory": 13,
       "trend": "flat",
-      "note": "Live-updated from recent news coverage.",
-      "headlines": [
-        {
-          "title": "Photos show families around the world honoring the dead with flowers , candles and prayers",
-          "url": "https://www.sandiegouniontribune.com/2026/11/02/photo-gallery-dia-de-muertos/",
-          "domain": "sandiegouniontribune.com"
-        },
-        {
-          "title": "Pure Flix Familia launches microdrama channel about faith , family , Latino culture | News",
-          "url": "https://www.c21media.net/news/pure-flix-familia-launches-microdrama-channel-about-faith-family-latino-culture/",
-          "domain": "c21media.net"
-        },
-        {
-          "title": "Free Round Rock exhibit shows off Picasso originals",
-          "url": "https://austin.culturemap.com/news/arts/round-rock-picasso-exhibit-ramos/",
-          "domain": "austin.culturemap.com"
-        }
-      ],
-      "toneReading": "Coverage over the last 3 days has leaned positive.",
-      "volumeReading": "Coverage volume has been light this week."
+      "note": "No fresh coverage this cycle; showing baseline.",
+      "headlines": [],
+      "toneReading": "No recent coverage found.",
+      "volumeReading": null
     },
     {
       "name": "Egypt",
@@ -232,14 +242,14 @@
     {
       "name": "Ethiopia",
       "region": "Sub-Saharan Africa",
-      "political": 60,
+      "political": 56,
       "conflict": 62,
       "economic": 58,
       "regulatory": 52,
       "trend": "flat",
-      "note": "No fresh coverage this cycle; showing baseline.",
+      "note": "Live-updated from recent news coverage.",
       "headlines": [],
-      "toneReading": "No recent coverage found.",
+      "toneReading": "Coverage over the last 3 days has been mixed or neutral.",
       "volumeReading": null
     },
     {
@@ -249,7 +259,7 @@
       "conflict": 16,
       "economic": 28,
       "regulatory": 24,
-      "trend": "up",
+      "trend": "flat",
       "note": "Live-updated from recent news coverage.",
       "headlines": [],
       "toneReading": "Coverage over the last 3 days has been mixed or neutral.",
@@ -275,7 +285,7 @@
       "conflict": 8,
       "economic": 26,
       "regulatory": 16,
-      "trend": "up",
+      "trend": "flat",
       "note": "Live-updated from recent news coverage.",
       "headlines": [],
       "toneReading": "Coverage over the last 3 days has been mixed or neutral.",
@@ -290,18 +300,7 @@
       "regulatory": 82,
       "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [
-        {
-          "title": "Photos show families around the world honoring the dead with flowers , candles and prayers",
-          "url": "https://www.sandiegouniontribune.com/2026/11/02/photo-gallery-dia-de-muertos/",
-          "domain": "sandiegouniontribune.com"
-        },
-        {
-          "title": "Middle East escalation could leave 11 . 7 million more women and girls facing food insecurity by end - 2026 | Press Releases | Asia",
-          "url": "https://www.eco-business.com/press-releases/middle-east-escalation-could-leave-117-million-more-women-and-girls-facing-food-insecurity-by-end-2026/",
-          "domain": "eco-business.com"
-        }
-      ],
+      "headlines": [],
       "toneReading": "No recent coverage found.",
       "volumeReading": null
     },
@@ -312,7 +311,7 @@
       "conflict": 26,
       "economic": 24,
       "regulatory": 32,
-      "trend": "down",
+      "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
       "headlines": [],
       "toneReading": "No recent coverage found.",
@@ -321,35 +320,14 @@
     {
       "name": "Indonesia",
       "region": "Southeast Asia",
-      "political": 37,
+      "political": 28,
       "conflict": 20,
       "economic": 30,
       "regulatory": 32,
-      "trend": "up",
-      "note": "Live-updated from recent news coverage.",
-      "headlines": [
-        {
-          "title": "Haze and the quest for a new growth model - Academia",
-          "url": "http://www.thejakartapost.com/opinion/2026/11/04/haze-and-the-quest-for-a-new-growth-model",
-          "domain": "thejakartapost.com"
-        },
-        {
-          "title": "The Connected Ecosystem : Hospitality Asia Announces 2027 Regional Circuit Across Seven Core Destinations",
-          "url": "https://www.manilatimes.net/2026/11/03/tmt-newswire/pr-newswire/the-connected-ecosystem-hospitality-asia-announces-2027-regional-circuit-across-seven-core-destinations/2460409",
-          "domain": "manilatimes.net"
-        },
-        {
-          "title": "Google expands collaboration to fight scams across Asia Pacific with $6 million funding",
-          "url": "https://www.fonearena.com/blog/496275/google-collaboration-fight-scams-asia-pacific.html",
-          "domain": "fonearena.com"
-        },
-        {
-          "title": "Malaysia admits to gaps in airport drug screening , will modernise security assets",
-          "url": "https://www.straitstimes.com/asia/se-asia/malaysia-admits-to-gaps-in-airport-drug-screening-will-modernise-security-assets",
-          "domain": "straitstimes.com"
-        }
-      ],
-      "toneReading": "Coverage over the last 3 days has been mixed or neutral.",
+      "trend": "down",
+      "note": "No fresh coverage this cycle; showing baseline.",
+      "headlines": [],
+      "toneReading": "No recent coverage found.",
       "volumeReading": null
     },
     {
@@ -368,15 +346,15 @@
     {
       "name": "Israel",
       "region": "MENA",
-      "political": 61,
+      "political": 58,
       "conflict": 66,
       "economic": 34,
       "regulatory": 30,
       "trend": "flat",
-      "note": "Live-updated from recent news coverage.",
+      "note": "No fresh coverage this cycle; showing baseline.",
       "headlines": [],
-      "toneReading": "Coverage over the last 3 days has leaned negative.",
-      "volumeReading": "Coverage volume has been unusually high this week."
+      "toneReading": "No recent coverage found.",
+      "volumeReading": null
     },
     {
       "name": "Italy",
@@ -385,7 +363,7 @@
       "conflict": 11,
       "economic": 44,
       "regulatory": 17,
-      "trend": "down",
+      "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
       "headlines": [
         {
@@ -419,7 +397,7 @@
       "conflict": 10,
       "economic": 22,
       "regulatory": 14,
-      "trend": "down",
+      "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
       "headlines": [],
       "toneReading": "No recent coverage found.",
@@ -428,14 +406,14 @@
     {
       "name": "Jordan",
       "region": "MENA",
-      "political": 52,
+      "political": 36,
       "conflict": 11,
       "economic": 40,
       "regulatory": 20,
-      "trend": "up",
-      "note": "Live-updated from recent news coverage.",
+      "trend": "down",
+      "note": "No fresh coverage this cycle; showing baseline.",
       "headlines": [],
-      "toneReading": "Coverage over the last 3 days has leaned negative.",
+      "toneReading": "No recent coverage found.",
       "volumeReading": null
     },
     {
@@ -458,7 +436,7 @@
       "conflict": 28,
       "economic": 38,
       "regulatory": 34,
-      "trend": "down",
+      "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
       "headlines": [],
       "toneReading": "No recent coverage found.",
@@ -523,7 +501,7 @@
       "conflict": 58,
       "economic": 40,
       "regulatory": 46,
-      "trend": "up",
+      "trend": "flat",
       "note": "Live-updated from recent news coverage.",
       "headlines": [],
       "toneReading": "Coverage over the last 3 days has been mixed or neutral.",
@@ -545,48 +523,27 @@
     {
       "name": "Myanmar",
       "region": "Southeast Asia",
-      "political": 82,
+      "political": 70,
       "conflict": 78,
       "economic": 72,
       "regulatory": 70,
-      "trend": "flat",
-      "note": "No fresh coverage this cycle; showing baseline.",
+      "trend": "down",
+      "note": "Live-updated from recent news coverage.",
       "headlines": [],
-      "toneReading": "No recent coverage found.",
+      "toneReading": "Coverage over the last 3 days has been mixed or neutral.",
       "volumeReading": null
     },
     {
       "name": "Nigeria",
       "region": "Sub-Saharan Africa",
-      "political": 52,
+      "political": 48,
       "conflict": 60,
       "economic": 54,
       "regulatory": 50,
       "trend": "flat",
-      "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [
-        {
-          "title": "NUSA Names Mozimo Chairman Of Caretaker Committee",
-          "url": "https://leadership.ng/nusa-names-mozimo-chairman-of-caretaker-committee/",
-          "domain": "leadership.ng"
-        },
-        {
-          "title": "AFRIDEX 2026 : Sokoto Reaffirms Commitment To Security Collaboration , Defence Innovations \u2013 THISDAYLIVE",
-          "url": "https://www.thisdaylive.com/2026/11/03/afridex-2026-sokoto-reaffirms-commitment-to-security-collaboration-defence-innovations/",
-          "domain": "thisdaylive.com"
-        },
-        {
-          "title": "NSCDC Warns Mining Operators Against Operating Without Valid Licences",
-          "url": "https://leadership.ng/nscdc-warns-mining-operators-against-operating-without-valid-licences/",
-          "domain": "leadership.ng"
-        },
-        {
-          "title": "20th coronation Anniversary : Gov Lawal hails Sultan as beacon of unity and stability",
-          "url": "https://www.premiumtimesng.com/promoted/922323-20th-coronation-anniversary-gov-lawal-hails-sultan-as-beacon-of-unity-and-stability.html",
-          "domain": "premiumtimesng.com"
-        }
-      ],
-      "toneReading": "No recent coverage found.",
+      "note": "Live-updated from recent news coverage.",
+      "headlines": [],
+      "toneReading": "Coverage over the last 3 days has been mixed or neutral.",
       "volumeReading": null
     },
     {
@@ -596,7 +553,7 @@
       "conflict": 60,
       "economic": 84,
       "regulatory": 92,
-      "trend": "up",
+      "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
       "headlines": [],
       "toneReading": "No recent coverage found.",
@@ -644,14 +601,14 @@
     {
       "name": "Poland",
       "region": "Europe",
-      "political": 40,
+      "political": 24,
       "conflict": 20,
       "economic": 22,
       "regulatory": 20,
-      "trend": "up",
-      "note": "Live-updated from recent news coverage.",
+      "trend": "down",
+      "note": "No fresh coverage this cycle; showing baseline.",
       "headlines": [],
-      "toneReading": "Coverage over the last 3 days has been mixed or neutral.",
+      "toneReading": "No recent coverage found.",
       "volumeReading": null
     },
     {
@@ -661,9 +618,30 @@
       "conflict": 14,
       "economic": 22,
       "regulatory": 16,
-      "trend": "down",
+      "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [],
+      "headlines": [
+        {
+          "title": "U . S . Carries Out Defensive Strike On Iranian Island",
+          "url": "https://wdov.iheart.com/content/2026-11-03-us-carries-out-defensive-strike-on-iranian-island/",
+          "domain": "wdov.iheart.com"
+        },
+        {
+          "title": "U . S . Carries Out Defensive Strike On Iranian Island | News Radio 101 . 9 Big WAAX",
+          "url": "https://1019bigwaax.iheart.com/content/2026-11-03-us-carries-out-defensive-strike-on-iranian-island/",
+          "domain": "1019bigwaax.iheart.com"
+        },
+        {
+          "title": "U . S . Carries Out Defensive Strike On Iranian Island | Newsradio WFLA Orlando",
+          "url": "https://wflaorlando.iheart.com/content/2026-11-03-us-carries-out-defensive-strike-on-iranian-island/",
+          "domain": "wflaorlando.iheart.com"
+        },
+        {
+          "title": "U . S . Carries Out Defensive Strike On Iranian Island | Newsradio WOOD 1300 and 106 . 9 FM",
+          "url": "https://woodradio.iheart.com/content/2026-11-03-us-carries-out-defensive-strike-on-iranian-island/",
+          "domain": "woodradio.iheart.com"
+        }
+      ],
       "toneReading": "No recent coverage found.",
       "volumeReading": null
     },
@@ -674,7 +652,7 @@
       "conflict": 74,
       "economic": 64,
       "regulatory": 76,
-      "trend": "down",
+      "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
       "headlines": [
         {
@@ -708,7 +686,7 @@
       "conflict": 26,
       "economic": 30,
       "regulatory": 36,
-      "trend": "down",
+      "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
       "headlines": [
         {
@@ -738,15 +716,31 @@
     {
       "name": "Serbia",
       "region": "Europe",
-      "political": 39,
+      "political": 55,
       "conflict": 34,
       "economic": 43,
       "regulatory": 40,
-      "trend": "flat",
-      "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [],
-      "toneReading": "No recent coverage found.",
-      "volumeReading": null
+      "trend": "up",
+      "note": "Live-updated from recent news coverage.",
+      "headlines": [
+        {
+          "title": "Detentions , resignations , probes shake Serbia after students toppled strongman Vucic in election",
+          "url": "http://www.idahopress.com/ap_news/us/detentions-resignations-probes-shake-serbia-after-students-toppled-strongman-vucic-in-election/article_43d51190-31e3-5243-ac41-28ec652f0000.html",
+          "domain": "idahopress.com"
+        },
+        {
+          "title": "After lopsided win in opener , Butler takes on FDU",
+          "url": "https://www.921theticket.com/2026/11/03/after-lopsided-win-in-opener-butler-takes-on-fdu/",
+          "domain": "921theticket.com"
+        },
+        {
+          "title": "If our people vote , we win in a landslide : Trump urges Republicans to turn out ahead of US midterms",
+          "url": "http://www.texasguardian.com/news/279408958/if-our-people-vote-we-win-in-a-landslide-trump-urges-republicans-to-turn-out-ahead-of-us-midterms",
+          "domain": "texasguardian.com"
+        }
+      ],
+      "toneReading": "Coverage over the last 3 days has leaned negative.",
+      "volumeReading": "Coverage volume has been light this week."
     },
     {
       "name": "Singapore",
@@ -764,15 +758,26 @@
     {
       "name": "Somalia",
       "region": "Sub-Saharan Africa",
-      "political": 55,
+      "political": 40,
       "conflict": 90,
       "economic": 67,
       "regulatory": 42,
-      "trend": "flat",
-      "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [],
-      "toneReading": "No recent coverage found.",
-      "volumeReading": null
+      "trend": "down",
+      "note": "Live-updated from recent news coverage.",
+      "headlines": [
+        {
+          "title": "Indian Navy Rescues Iranian Vessel Azini Successfully - Pragativadi I Latest Odisha News in English I Breaking News",
+          "url": "https://pragativadi.com/indian-navy-rescues-iranian-vessel-azini-from-pirates/",
+          "domain": "pragativadi.com"
+        },
+        {
+          "title": "Vision Action Fund Awards 24 Governments $10M+ to Transform Basic Eye Care and Expand Reading Glasses Access",
+          "url": "https://www.saultstar.com/press-releases/globe-newswire/vision-action-fund-awards-24-governments-10m-to-transform-basic-eye-care-and-expand-reading-glasses-access/",
+          "domain": "saultstar.com"
+        }
+      ],
+      "toneReading": "Coverage over the last 3 days has been notably positive.",
+      "volumeReading": "Coverage volume has been light this week."
     },
     {
       "name": "South Africa",
@@ -781,7 +786,7 @@
       "conflict": 30,
       "economic": 46,
       "regulatory": 40,
-      "trend": "down",
+      "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
       "headlines": [
         {
@@ -811,14 +816,14 @@
     {
       "name": "South Korea",
       "region": "East Asia",
-      "political": 41,
+      "political": 30,
       "conflict": 24,
       "economic": 20,
       "regulatory": 18,
-      "trend": "up",
-      "note": "Live-updated from recent news coverage.",
+      "trend": "down",
+      "note": "No fresh coverage this cycle; showing baseline.",
       "headlines": [],
-      "toneReading": "Coverage over the last 3 days has been mixed or neutral.",
+      "toneReading": "No recent coverage found.",
       "volumeReading": null
     },
     {
@@ -830,28 +835,7 @@
       "regulatory": 38,
       "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [
-        {
-          "title": "Singapore Media Delegation to Explore Sri Lanka",
-          "url": "http://colombogazette.com/2026/11/03/singapore-media-delegation-to-explore-sri-lanka",
-          "domain": "colombogazette.com"
-        },
-        {
-          "title": "Hindu Munnani Myanmar Presents Letter of Appreciation to the President of Sri Lanka",
-          "url": "http://colombogazette.com/2026/11/03/hindu-munnani-myanmar-presents-letter-of-appreciation-to-the-president-of-sri-lanka",
-          "domain": "colombogazette.com"
-        },
-        {
-          "title": "Sri Lankan High Commissioner hosts Paraparaumu College delegation ahead of leadership programme in Sri Lanka",
-          "url": "http://colombogazette.com/2026/11/03/sri-lankan-high-commissioner-hosts-paraparaumu-college-delegation-ahead-of-leadership-programme-in-sri-lanka",
-          "domain": "colombogazette.com"
-        },
-        {
-          "title": "Expo 2027 Media Briefing and Awareness Session Held in Karachi",
-          "url": "http://colombogazette.com/2026/11/03/expo-2027-media-briefing-and-awareness-session-held-in-karachi",
-          "domain": "colombogazette.com"
-        }
-      ],
+      "headlines": [],
       "toneReading": "No recent coverage found.",
       "volumeReading": null
     },
@@ -877,18 +861,7 @@
       "regulatory": 67,
       "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [
-        {
-          "title": "Middle East escalation could leave 11 . 7 million more women and girls facing food insecurity by end - 2026 | Press Releases | Asia",
-          "url": "https://www.eco-business.com/press-releases/middle-east-escalation-could-leave-117-million-more-women-and-girls-facing-food-insecurity-by-end-2026/",
-          "domain": "eco-business.com"
-        },
-        {
-          "title": "The same old but worse in Israel | Patrick Lawrence",
-          "url": "https://www.middle-east-online.com/en/same-old-worse-israel",
-          "domain": "middle-east-online.com"
-        }
-      ],
+      "headlines": [],
       "toneReading": "No recent coverage found.",
       "volumeReading": null
     },
@@ -908,14 +881,35 @@
     {
       "name": "Thailand",
       "region": "Southeast Asia",
-      "political": 42,
+      "political": 40,
       "conflict": 26,
       "economic": 32,
       "regulatory": 34,
       "trend": "flat",
-      "note": "Live-updated from recent news coverage.",
-      "headlines": [],
-      "toneReading": "Coverage over the last 3 days has been mixed or neutral.",
+      "note": "No fresh coverage this cycle; showing baseline.",
+      "headlines": [
+        {
+          "title": "China foreign minister meets Southeast Asian officials amid relations push",
+          "url": "https://www.asiaone.com/asia/china-foreign-minister-meets-southeast-asian-officials-amid-relations-push",
+          "domain": "asiaone.com"
+        },
+        {
+          "title": "Thailand Central Bank Cuts 2026 Consumption Forecast as Jobs Weaken",
+          "url": "https://econotimes.com/Thailand-s-Central-Bank-Cuts-2026-Consumption-Forecast-as-Jobs-Weaken-1770388",
+          "domain": "econotimes.com"
+        },
+        {
+          "title": "The Connected Ecosystem : Hospitality Asia Announces 2027 Regional Circuit Across Seven Core Destinations",
+          "url": "https://www.manilatimes.net/2026/11/03/tmt-newswire/pr-newswire/the-connected-ecosystem-hospitality-asia-announces-2027-regional-circuit-across-seven-core-destinations/2460409",
+          "domain": "manilatimes.net"
+        },
+        {
+          "title": "Malaysia secures RM59 . 5bil in potential investments from overseas visits",
+          "url": "https://www.thestar.com.my/news/nation/2026/11/03/malaysia-secures-rm595bil-in-potential-investments-from-overseas-visits",
+          "domain": "thestar.com.my"
+        }
+      ],
+      "toneReading": "No recent coverage found.",
       "volumeReading": null
     },
     {
@@ -985,7 +979,7 @@
       "conflict": 10,
       "economic": 24,
       "regulatory": 22,
-      "trend": "up",
+      "trend": "flat",
       "note": "Live-updated from recent news coverage.",
       "headlines": [],
       "toneReading": "Coverage over the last 3 days has been mixed or neutral.",
@@ -998,7 +992,7 @@
       "conflict": 12,
       "economic": 24,
       "regulatory": 28,
-      "trend": "up",
+      "trend": "flat",
       "note": "Live-updated from recent news coverage.",
       "headlines": [],
       "toneReading": "Coverage over the last 3 days has been mixed or neutral.",
@@ -1011,7 +1005,7 @@
       "conflict": 48,
       "economic": 88,
       "regulatory": 80,
-      "trend": "up",
+      "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
       "headlines": [],
       "toneReading": "No recent coverage found.",
@@ -1024,45 +1018,45 @@
       "conflict": 12,
       "economic": 24,
       "regulatory": 30,
-      "trend": "down",
+      "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [
-        {
-          "title": "NSA Doval discusses cyber , maritime and intelligence cooperation with Vietnam",
-          "url": "https://www.tribuneindia.com/news/india/nsa-doval-discusses-cyber-maritime-and-intelligence-cooperation-with-vietnam/",
-          "domain": "tribuneindia.com"
-        },
-        {
-          "title": "The Connected Ecosystem : Hospitality Asia Announces 2027 Regional Circuit Across Seven Core Destinations",
-          "url": "https://www.manilatimes.net/2026/11/03/tmt-newswire/pr-newswire/the-connected-ecosystem-hospitality-asia-announces-2027-regional-circuit-across-seven-core-destinations/2460409",
-          "domain": "manilatimes.net"
-        },
-        {
-          "title": "Haze and the quest for a new growth model - Academia",
-          "url": "http://www.thejakartapost.com/opinion/2026/11/04/haze-and-the-quest-for-a-new-growth-model",
-          "domain": "thejakartapost.com"
-        },
-        {
-          "title": "Democrat Amanda Hollowell focuses on jobs , affordability , and veteran care in 1st District race",
-          "url": "https://www.wtoc.com/2026/11/03/democrat-amanda-hollowell-focuses-jobs-affordability-veteran-care-1st-district-race/",
-          "domain": "wtoc.com"
-        }
-      ],
+      "headlines": [],
       "toneReading": "No recent coverage found.",
       "volumeReading": null
     },
     {
       "name": "Yemen",
       "region": "MENA",
-      "political": 74,
+      "political": 84,
       "conflict": 88,
       "economic": 82,
       "regulatory": 74,
-      "trend": "down",
-      "note": "Live-updated from recent news coverage.",
-      "headlines": [],
-      "toneReading": "Coverage over the last 3 days has leaned negative.",
-      "volumeReading": "Coverage volume has been light this week."
+      "trend": "up",
+      "note": "No fresh coverage this cycle; showing baseline.",
+      "headlines": [
+        {
+          "title": "Asian Cup in Saudi Arabia postponed to December over regional security",
+          "url": "https://www.aol.co.uk/articles/asian-cup-saudi-arabia-postponed-104341000.html",
+          "domain": "aol.co.uk"
+        },
+        {
+          "title": "Asian Cup postponed for 11 months due to conflict in the Middle East",
+          "url": "https://www.sbs.com.au/news/article/asian-cup-postponed/83a7bqpod",
+          "domain": "sbs.com.au"
+        },
+        {
+          "title": "Middle East escalation could leave 11 . 7 million more women and girls facing food insecurity by end - 2026 | Press Releases | Asia",
+          "url": "https://www.eco-business.com/press-releases/middle-east-escalation-could-leave-117-million-more-women-and-girls-facing-food-insecurity-by-end-2026/",
+          "domain": "eco-business.com"
+        },
+        {
+          "title": "Asian Cup postponed until Dec . 2027 due to  exceptional circumstances",
+          "url": "https://www.middle-east-online.com/en/asian-cup-postponed-until-dec-2027-due-%E2%80%98exceptional-circumstances%E2%80%99",
+          "domain": "middle-east-online.com"
+        }
+      ],
+      "toneReading": "No recent coverage found.",
+      "volumeReading": null
     },
     {
       "name": "Zimbabwe",
@@ -1073,12 +1067,53 @@
       "regulatory": 64,
       "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [],
+      "headlines": [
+        {
+          "title": "flyafrica . com Airline Profile",
+          "url": "https://centreforaviation.com/data/profiles/airlines/flyafricacom-zc",
+          "domain": "centreforaviation.com"
+        },
+        {
+          "title": "Any Indian team taking the field is capable of defeating any opposition : Gill backs India squad depth ahead of NZ ODIs",
+          "url": "http://www.bangladeshsun.com/news/279408944/any-indian-team-taking-the-field-is-capable-of-defeating-any-opposition-gill-backs-india-squad-depth-ahead-of-nz-odis",
+          "domain": "bangladeshsun.com"
+        }
+      ],
       "toneReading": "No recent coverage found.",
       "volumeReading": null
     }
   ],
   "alerts": [
+    {
+      "name": "South Korea",
+      "from": "GUARDED",
+      "to": "LOW",
+      "at": "2026-11-05T05:10:42.582399+00:00"
+    },
+    {
+      "name": "Myanmar",
+      "from": "SEVERE",
+      "to": "HIGH",
+      "at": "2026-11-05T05:10:42.582399+00:00"
+    },
+    {
+      "name": "Ethiopia",
+      "from": "HIGH",
+      "to": "ELEVATED",
+      "at": "2026-11-05T05:10:42.582399+00:00"
+    },
+    {
+      "name": "Poland",
+      "from": "GUARDED",
+      "to": "LOW",
+      "at": "2026-11-05T05:10:42.582399+00:00"
+    },
+    {
+      "name": "Jordan",
+      "from": "GUARDED",
+      "to": "LOW",
+      "at": "2026-11-05T05:10:42.582399+00:00"
+    },
     {
       "name": "France",
       "from": "LOW",
@@ -1228,36 +1263,6 @@
       "from": "LOW",
       "to": "GUARDED",
       "at": "2026-11-03T13:38:55.349336+00:00"
-    },
-    {
-      "name": "Myanmar",
-      "from": "SEVERE",
-      "to": "HIGH",
-      "at": "2026-11-03T13:38:55.349336+00:00"
-    },
-    {
-      "name": "Morocco",
-      "from": "LOW",
-      "to": "GUARDED",
-      "at": "2026-11-03T13:38:55.349336+00:00"
-    },
-    {
-      "name": "Jordan",
-      "from": "LOW",
-      "to": "GUARDED",
-      "at": "2026-11-03T13:38:55.349336+00:00"
-    },
-    {
-      "name": "India",
-      "from": "GUARDED",
-      "to": "LOW",
-      "at": "2026-10-30T12:09:26.595839+00:00"
-    },
-    {
-      "name": "Afghanistan",
-      "from": "SEVERE",
-      "to": "HIGH",
-      "at": "2026-10-30T12:09:26.595839+00:00"
     }
   ]
 }
