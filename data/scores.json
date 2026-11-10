@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-10T01:11:42.479161+00:00",
+  "generatedAt": "2026-11-10T14:21:22.384428+00:00",
   "source": "GDELT (news tone/volume, 3-day window) blended 50/50 with baseline",
   "countries": [
     {
@@ -11,7 +11,28 @@
       "regulatory": 84,
       "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [],
+      "headlines": [
+        {
+          "title": "Diplomatic outreach to Taliban grows , but global recognition remains elusive",
+          "url": "https://theshillongtimes.com/2026/11/06/diplomatic-outreach-to-taliban-grows-but-global-recognition-remains-elusive/",
+          "domain": "theshillongtimes.com"
+        },
+        {
+          "title": "Over Half of Afghan Primary School - Age Children Out of School",
+          "url": "https://www.khaama.com/afghanistan-education-crisis-children-out-of-school-un-report/",
+          "domain": "khaama.com"
+        },
+        {
+          "title": "UN says about half of Afghan children out of school",
+          "url": "https://www.voanews.com/a/un-says-about-half-of-afghan-children-out-of-school/8219408.html",
+          "domain": "voanews.com"
+        },
+        {
+          "title": "Bangladesh U19 lose to Afghanistan by 113 runs in Asia Cup opener",
+          "url": "https://bdcrictime.com/bangladesh-u19-lose-to-afghanistan-by-113-runs-in-asia-cup-opener",
+          "domain": "bdcrictime.com"
+        }
+      ],
       "toneReading": "No recent coverage found.",
       "volumeReading": null
     },
@@ -24,43 +45,22 @@
       "regulatory": 44,
       "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [
-        {
-          "title": "It makes it really hard  - Errors prove costly for Contepomi Pumas",
-          "url": "https://www.the42.ie/felipe-contepomi-ireland-argentina-2-7218572-Nov2026/",
-          "domain": "the42.ie"
-        },
-        {
-          "title": "Millions Gather In Argentina For Pope Leo Mass",
-          "url": "https://600kcol.iheart.com/content/2026-11-09-millions-gather-in-argentina-for-pope-leos-mass/",
-          "domain": "600kcol.iheart.com"
-        },
-        {
-          "title": "Millions Gather In Argentina For Pope Leo Mass | News Radio 101 . 9 Big WAAX",
-          "url": "https://1019bigwaax.iheart.com/content/2026-11-09-millions-gather-in-argentina-for-pope-leos-mass/",
-          "domain": "1019bigwaax.iheart.com"
-        },
-        {
-          "title": "Millions Gather In Argentina For Pope Leo Mass | Newsradio 970 KFBX - AM",
-          "url": "https://970kfbx.iheart.com/content/2026-11-09-millions-gather-in-argentina-for-pope-leos-mass/",
-          "domain": "970kfbx.iheart.com"
-        }
-      ],
+      "headlines": [],
       "toneReading": "No recent coverage found.",
       "volumeReading": null
     },
     {
       "name": "Australia",
       "region": "Oceania",
-      "political": 17,
+      "political": 35,
       "conflict": 8,
       "economic": 13,
       "regulatory": 10,
-      "trend": "flat",
-      "note": "No fresh coverage this cycle; showing baseline.",
+      "trend": "up",
+      "note": "Live-updated from recent news coverage.",
       "headlines": [],
-      "toneReading": "No recent coverage found.",
-      "volumeReading": null
+      "toneReading": "Coverage over the last 3 days has been mixed or neutral.",
+      "volumeReading": "Coverage volume has been unusually high this week."
     },
     {
       "name": "Azerbaijan",
@@ -95,7 +95,7 @@
       "conflict": 36,
       "economic": 67,
       "regulatory": 72,
-      "trend": "up",
+      "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
       "headlines": [],
       "toneReading": "No recent coverage found.",
@@ -123,28 +123,7 @@
       "regulatory": 20,
       "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [
-        {
-          "title": "Canada recalls : Battery packs , power banks carry fire hazard",
-          "url": "https://www.cp24.com/news/canada/2026/11/06/thousands-of-items-sold-in-canada-recalled-due-to-fire-and-burn-hazards/",
-          "domain": "cp24.com"
-        },
-        {
-          "title": "Five things to watch for in the Canadian business world in the coming week \u2013 Winnipeg Free Press",
-          "url": "https://www.winnipegfreepress.com/business/2026/11/08/five-things-to-watch-for-in-the-canadian-business-world-in-the-coming-week-416",
-          "domain": "winnipegfreepress.com"
-        },
-        {
-          "title": "New investors spend $3 . 1 billion US buying into LNG Canada expansion plans",
-          "url": "https://calgaryherald.com:443/business/new-investors-spend-billions-buying-into-lng-canada-expansion-plans/wcm/f810a557-0af4-4715-9e34-2ed6c0f9f924",
-          "domain": "calgaryherald.com"
-        },
-        {
-          "title": "SUNshine Girl Chantelle | Edmonton Sun",
-          "url": "https://edmontonsun.com/sunshine-girls/sunshine-girl-chantelle-11",
-          "domain": "edmontonsun.com"
-        }
-      ],
+      "headlines": [],
       "toneReading": "No recent coverage found.",
       "volumeReading": null
     },
@@ -157,28 +136,7 @@
       "regulatory": 22,
       "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [
-        {
-          "title": "A desert stirs to life : Chile Atacama erupts in its biggest floral display in decades",
-          "url": "https://www.kalw.org/npr-news/2026-11-08/a-desert-stirs-to-life-chiles-atacama-erupts-in-its-biggest-floral-display-in-decades",
-          "domain": "kalw.org"
-        },
-        {
-          "title": "Oscar - winning Chilean filmmaker Sebasti\u00e1n Lelio dies at 52",
-          "url": "https://www.manilatimes.net/2026/11/07/entertainment-lifestyle/show-times/oscar-winning-chilean-filmmaker-sebastin-lelio-dies-at-52/2464388",
-          "domain": "manilatimes.net"
-        },
-        {
-          "title": "Chile plans for copper , lithium and critical minerals : Q & A with the Mining Ministry",
-          "url": "https://www.mining-technology.com/features/chiles-plans-for-copper-lithium-and-critical-minerals-qa-with-the-mining-ministry/",
-          "domain": "mining-technology.com"
-        },
-        {
-          "title": "Sebasti\u00e1n Lelio Dies at 52 : Family Mourns Oscar - Winning Director , Citing Health Issues",
-          "url": "https://www.ibtimes.co.uk/sebastian-lelio-dies-aged-52-1830798",
-          "domain": "ibtimes.co.uk"
-        }
-      ],
+      "headlines": [],
       "toneReading": "No recent coverage found.",
       "volumeReading": null
     },
@@ -189,7 +147,7 @@
       "conflict": 22,
       "economic": 36,
       "regulatory": 54,
-      "trend": "up",
+      "trend": "flat",
       "note": "Live-updated from recent news coverage.",
       "headlines": [],
       "toneReading": "Coverage over the last 3 days has been mixed or neutral.",
@@ -198,15 +156,15 @@
     {
       "name": "Colombia",
       "region": "Latin America",
-      "political": 51,
+      "political": 48,
       "conflict": 56,
       "economic": 38,
       "regulatory": 40,
       "trend": "flat",
-      "note": "Live-updated from recent news coverage.",
+      "note": "No fresh coverage this cycle; showing baseline.",
       "headlines": [],
-      "toneReading": "Coverage over the last 3 days has been mixed or neutral.",
-      "volumeReading": "Coverage volume has been unusually high this week."
+      "toneReading": "No recent coverage found.",
+      "volumeReading": null
     },
     {
       "name": "Cuba",
@@ -224,11 +182,11 @@
     {
       "name": "DR Congo",
       "region": "Sub-Saharan Africa",
-      "political": 54,
+      "political": 55,
       "conflict": 80,
       "economic": 68,
       "regulatory": 64,
-      "trend": "down",
+      "trend": "flat",
       "note": "Live-updated from recent news coverage.",
       "headlines": [],
       "toneReading": "Coverage over the last 3 days has leaned positive.",
@@ -241,7 +199,7 @@
       "conflict": 57,
       "economic": 36,
       "regulatory": 13,
-      "trend": "down",
+      "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
       "headlines": [],
       "toneReading": "No recent coverage found.",
@@ -250,48 +208,27 @@
     {
       "name": "Egypt",
       "region": "MENA",
-      "political": 46,
-      "conflict": 34,
+      "political": 58,
+      "conflict": 37,
       "economic": 56,
       "regulatory": 44,
-      "trend": "flat",
-      "note": "No fresh coverage this cycle; showing baseline.",
+      "trend": "up",
+      "note": "Live-updated from recent news coverage.",
       "headlines": [],
-      "toneReading": "No recent coverage found.",
-      "volumeReading": null
+      "toneReading": "Coverage over the last 3 days has leaned negative.",
+      "volumeReading": "Coverage volume has been unusually high this week."
     },
     {
       "name": "Ethiopia",
       "region": "Sub-Saharan Africa",
-      "political": 58,
+      "political": 60,
       "conflict": 62,
       "economic": 58,
       "regulatory": 52,
       "trend": "flat",
-      "note": "Live-updated from recent news coverage.",
-      "headlines": [
-        {
-          "title": "Deadly RSF drone attacks reveal deep divisions between Sudan and Ethiopia",
-          "url": "https://www.aljazeera.com/news/2026/11/3/deadly-rsf-drone-strikes-reveal-deep-divisions-between-sudan-and-ethiopia",
-          "domain": "aljazeera.com"
-        },
-        {
-          "title": "Punjab Police deport wanted gangster Gurwinder Singh alias Afridi from Ethiopia",
-          "url": "https://news.webindia123.com/news/Articles/India/20261108/4517358.html",
-          "domain": "news.webindia123.com"
-        },
-        {
-          "title": "Ethiopia : PM Abiy Urges African Political Parties to Prioritize Leadership Renewal , Long - Term Devt",
-          "url": "https://allafrica.com/stories/202611060289.html",
-          "domain": "allafrica.com"
-        },
-        {
-          "title": "Punjab Police brings back wanted fugitive gangster Gurwinder from Ethiopia",
-          "url": "https://www.newindianexpress.com/india/2026/Nov/08/punjab-police-brings-back-wanted-fugitive-gangster-gurwinder-from-ethiopia",
-          "domain": "newindianexpress.com"
-        }
-      ],
-      "toneReading": "Coverage over the last 3 days has been mixed or neutral.",
+      "note": "No fresh coverage this cycle; showing baseline.",
+      "headlines": [],
+      "toneReading": "No recent coverage found.",
       "volumeReading": null
     },
     {
@@ -316,28 +253,7 @@
       "regulatory": 38,
       "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [
-        {
-          "title": "Georgia health insurance costs soar as ER visits jump - WSB - TV Channel 2",
-          "url": "https://www.wsbtv.com/news/local/atlanta/nearly-500k-georgians-could-leave-aca-marketplace-premiums-climb/NKVCFPZIARALBHV23KXGVU4FVI/",
-          "domain": "wsbtv.com"
-        },
-        {
-          "title": "Georgia next school superintendent wants major changes to how schools are funded \u2013 WSB - TV Channel 2",
-          "url": "https://www.wsbtv.com/news/local/atlanta/georgias-next-school-superintendent-wants-major-changes-how-schools-are-funded/JMB463ZVQFA4XPQNS2PV7MVQXI/",
-          "domain": "wsbtv.com"
-        },
-        {
-          "title": "Jyot Singh becomes first Sikh elected to Georgia Assembly",
-          "url": "https://www.rediff.com/news/report/jyot-singh-becomes-first-sikh-elected-to-georgia-assembly/20261106.htm",
-          "domain": "rediff.com"
-        },
-        {
-          "title": "At least 80 rescued as historic flooding prompts state of emergency near Georgia - Tennessee state line",
-          "url": "https://www.aol.com/articles/least-80-rescued-historic-flooding-144434000.html",
-          "domain": "aol.com"
-        }
-      ],
+      "headlines": [],
       "toneReading": "No recent coverage found.",
       "volumeReading": null
     },
@@ -370,28 +286,28 @@
     {
       "name": "India",
       "region": "South Asia",
-      "political": 30,
+      "political": 40,
       "conflict": 26,
       "economic": 24,
       "regulatory": 32,
-      "trend": "flat",
-      "note": "No fresh coverage this cycle; showing baseline.",
+      "trend": "up",
+      "note": "Live-updated from recent news coverage.",
       "headlines": [],
-      "toneReading": "No recent coverage found.",
-      "volumeReading": null
+      "toneReading": "Coverage over the last 3 days has been mixed or neutral.",
+      "volumeReading": "Coverage volume has been unusually high this week."
     },
     {
       "name": "Indonesia",
       "region": "Southeast Asia",
-      "political": 28,
+      "political": 40,
       "conflict": 20,
       "economic": 30,
       "regulatory": 32,
-      "trend": "flat",
-      "note": "No fresh coverage this cycle; showing baseline.",
+      "trend": "up",
+      "note": "Live-updated from recent news coverage.",
       "headlines": [],
-      "toneReading": "No recent coverage found.",
-      "volumeReading": null
+      "toneReading": "Coverage over the last 3 days has been mixed or neutral.",
+      "volumeReading": "Coverage volume has been unusually high this week."
     },
     {
       "name": "Iran",
@@ -428,28 +344,7 @@
       "regulatory": 17,
       "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [
-        {
-          "title": "Nine - try Springboks blitz Italy in Turin to set Nations Championship pace",
-          "url": "https://www.dailymaverick.co.za/article/2026-11-07-nine-try-springboks-blitz-italy-in-turin-to-set-nations-championship-pace/",
-          "domain": "dailymaverick.co.za"
-        },
-        {
-          "title": "Italy considers exit tax on wealthy residents moving abroad",
-          "url": "https://www.repubblica.it/en/europe/news/2026/11/09/news/italy_exit_tax_wealthy_residents_moving_abroad-425704739/",
-          "domain": "repubblica.it"
-        },
-        {
-          "title": "Springboks focused on beating Italy , not bonus point : Kolisi",
-          "url": "https://www.channelafrica.co.za/channelafrica/news/springboks-focused-on-beating-italy-not-bonus-point-kolisi/",
-          "domain": "channelafrica.co.za"
-        },
-        {
-          "title": "Italy blames pro - Russian hackers for leaking Tajani personal data",
-          "url": "https://thenextweb.com/news/italy-tajani-personal-data-pro-russian-hackers",
-          "domain": "thenextweb.com"
-        }
-      ],
+      "headlines": [],
       "toneReading": "No recent coverage found.",
       "volumeReading": null
     },
@@ -460,30 +355,9 @@
       "conflict": 10,
       "economic": 22,
       "regulatory": 14,
-      "trend": "down",
+      "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [
-        {
-          "title": "Japan earthquake injures at least 22 , shatters store windows",
-          "url": "https://nypost.com/2026/11/08/world-news/japan-earthquake-injures-at-least-22-shatters-store-windows/",
-          "domain": "nypost.com"
-        },
-        {
-          "title": "WisdomTree Japan Hedged Equity Fund ( DXJ ) Stock Price , News & Analysis",
-          "url": "https://247wallst.com/companies/dxj/",
-          "domain": "247wallst.com"
-        },
-        {
-          "title": "iShares MSCI Japan Index Fund ( EWJ ) Stock Price , News & Analysis",
-          "url": "https://247wallst.com/companies/ewj/",
-          "domain": "247wallst.com"
-        },
-        {
-          "title": "China says ties with Japan still face  serious difficulties",
-          "url": "https://aa.com.tr/en/asia-pacific/china-says-ties-with-japan-still-face-serious-difficulties/4113827",
-          "domain": "aa.com.tr"
-        }
-      ],
+      "headlines": [],
       "toneReading": "No recent coverage found.",
       "volumeReading": null
     },
@@ -496,28 +370,7 @@
       "regulatory": 20,
       "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [
-        {
-          "title": "Aaron Rodger brother Jordan makes rare comment about quarterback",
-          "url": "https://pagesix.com/2026/11/05/celebrity-news/aaron-rodgers-brother-jordan-makes-rare-comment-about-quarterback/",
-          "domain": "pagesix.com"
-        },
-        {
-          "title": "Lucky River Sees Jordan Crack Aces",
-          "url": "https://www.pokernews.com/tours/borgata-poker/2026-borgata-fall-poker-open/daily-tournament-highlights/chips.872071.htm",
-          "domain": "pokernews.com"
-        },
-        {
-          "title": "After an Islamist terror attack on a church in Jordan , are Christians still safe ?",
-          "url": "https://www.americamagazine.org/politics-society/weekly-dispatch/2026/11/05/islamist-terror-attack-karak-jordan-christian-community/",
-          "domain": "americamagazine.org"
-        },
-        {
-          "title": "WWE NXT Women Champion Kelani Jordan Discusses Choices That Led To Her Success",
-          "url": "https://www.wrestlinginc.com/2309389/wwe-nxt-womens-champion-kelani-jordan-discusses-choices-success-tna/",
-          "domain": "wrestlinginc.com"
-        }
-      ],
+      "headlines": [],
       "toneReading": "No recent coverage found.",
       "volumeReading": null
     },
@@ -530,43 +383,22 @@
       "regulatory": 36,
       "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [
-        {
-          "title": "Qatar , Kazakhstan bolster ties in tech , AI and innovation | The Peninsula Qatar",
-          "url": "http://thepeninsulaqatar.com/article/09/11/2026/qatar-kazakhstan-bolster-ties-in-tech-ai-and-innovation",
-          "domain": "thepeninsulaqatar.com"
-        },
-        {
-          "title": "Kazakhstan role in global energy market grows - S & P Global vice chairman",
-          "url": "https://www.trend.az/casia/kazakhstan/4243823.html",
-          "domain": "trend.az"
-        },
-        {
-          "title": "Kazakhstan crude oil exports to Singapore rise 2 . 6 - fold in eight months",
-          "url": "https://www.trend.az/casia/kazakhstan/4243526.html",
-          "domain": "trend.az"
-        },
-        {
-          "title": "Uzbekistan agrees to raise weekly flights with Kazakhstan , China",
-          "url": "https://www.trend.az/casia/uzbekistan/4244582.html",
-          "domain": "trend.az"
-        }
-      ],
+      "headlines": [],
       "toneReading": "No recent coverage found.",
       "volumeReading": null
     },
     {
       "name": "Kenya",
       "region": "Sub-Saharan Africa",
-      "political": 42,
+      "political": 36,
       "conflict": 28,
       "economic": 38,
       "regulatory": 34,
-      "trend": "up",
-      "note": "Live-updated from recent news coverage.",
+      "trend": "down",
+      "note": "No fresh coverage this cycle; showing baseline.",
       "headlines": [],
-      "toneReading": "Coverage over the last 3 days has been mixed or neutral.",
-      "volumeReading": "Coverage volume has been unusually high this week."
+      "toneReading": "No recent coverage found.",
+      "volumeReading": null
     },
     {
       "name": "Lebanon",
@@ -649,14 +481,14 @@
     {
       "name": "Myanmar",
       "region": "Southeast Asia",
-      "political": 68,
+      "political": 82,
       "conflict": 78,
       "economic": 72,
       "regulatory": 70,
-      "trend": "down",
-      "note": "Live-updated from recent news coverage.",
+      "trend": "up",
+      "note": "No fresh coverage this cycle; showing baseline.",
       "headlines": [],
-      "toneReading": "Coverage over the last 3 days has been mixed or neutral.",
+      "toneReading": "No recent coverage found.",
       "volumeReading": null
     },
     {
@@ -688,15 +520,15 @@
     {
       "name": "Pakistan",
       "region": "South Asia",
-      "political": 59,
+      "political": 58,
       "conflict": 54,
       "economic": 62,
       "regulatory": 50,
       "trend": "flat",
-      "note": "Live-updated from recent news coverage.",
+      "note": "No fresh coverage this cycle; showing baseline.",
       "headlines": [],
-      "toneReading": "Coverage over the last 3 days has been mixed or neutral.",
-      "volumeReading": "Coverage volume has been unusually high this week."
+      "toneReading": "No recent coverage found.",
+      "volumeReading": null
     },
     {
       "name": "Peru",
@@ -714,11 +546,11 @@
     {
       "name": "Philippines",
       "region": "Southeast Asia",
-      "political": 46,
+      "political": 44,
       "conflict": 30,
       "economic": 32,
       "regulatory": 30,
-      "trend": "up",
+      "trend": "flat",
       "note": "Live-updated from recent news coverage.",
       "headlines": [],
       "toneReading": "Coverage over the last 3 days has been mixed or neutral.",
@@ -744,76 +576,34 @@
       "conflict": 14,
       "economic": 22,
       "regulatory": 16,
-      "trend": "down",
+      "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [
-        {
-          "title": "ICE Qatar highlights engineering role in building a better future",
-          "url": "http://thepeninsulaqatar.com/article/06/11/2026/ice-qatar-highlights-engineerings-role-in-building-a-better-future",
-          "domain": "thepeninsulaqatar.com"
-        },
-        {
-          "title": "Arab News | Qatar emir , Trump discuss mediation efforts to end regional crisis",
-          "url": "https://www.arabnews.com/middle-east/qatars-emir-trump-discuss-mediation-efforts-to-end-regional-crisis-3010128",
-          "domain": "arabnews.com"
-        },
-        {
-          "title": "Iran reviews mediator proposals on nuclear program future",
-          "url": "https://www.jpost.com/middle-east/iran-news/article-914000",
-          "domain": "jpost.com"
-        },
-        {
-          "title": "Qatar , US discuss mediation efforts as Iran sets terms for talks",
-          "url": "https://arynews.tv/news/liveblog/iran-war-2026-live-updates-trump-us-israel?update=06-Nov-2026-16-00-00",
-          "domain": "arynews.tv"
-        }
-      ],
+      "headlines": [],
       "toneReading": "No recent coverage found.",
       "volumeReading": null
     },
     {
       "name": "Russia",
       "region": "Europe",
-      "political": 58,
-      "conflict": 74,
+      "political": 62,
+      "conflict": 81,
       "economic": 64,
       "regulatory": 76,
-      "trend": "down",
-      "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [
-        {
-          "title": "Russia is bringing back the finishing schools of the tsarist era to train a new generation of wives and mothers",
-          "url": "https://www.investmentwatchblog.com/russia-is-bringing-back-the-finishing-schools-of-the-tsarist-era-to-train-a-new-generation-of-wives-and-mothers/",
-          "domain": "investmentwatchblog.com"
-        },
-        {
-          "title": "Missile attacks wound 9 as Ukraine prepares for talks with Russia , US",
-          "url": "https://www.wcvb.com/article/missile-attacks-ukraine-peace-talks-russia-us/74364608",
-          "domain": "wcvb.com"
-        },
-        {
-          "title": "Rocket launcher deal illustrates deepening Russia - Iran relations",
-          "url": "https://www.aljazeera.com/news/2026/11/6/rocket-launcher-deal-illustrates-deepening-russia-iran-relations",
-          "domain": "aljazeera.com"
-        },
-        {
-          "title": "US and Russia spark stock market episode as Coca - Cola and Titan take hits",
-          "url": "https://www.bankingnews.gr/to-paraskinio-tis-agoras/articles/909693/us-and-russia-spark-stock-market-episode-as-coca-cola-and-titan-take-hits",
-          "domain": "bankingnews.gr"
-        }
-      ],
-      "toneReading": "No recent coverage found.",
-      "volumeReading": null
+      "trend": "up",
+      "note": "Live-updated from recent news coverage.",
+      "headlines": [],
+      "toneReading": "Coverage over the last 3 days has leaned negative.",
+      "volumeReading": "Coverage volume has been unusually high this week."
     },
     {
       "name": "Saudi Arabia",
       "region": "MENA",
-      "political": 34,
-      "conflict": 26,
+      "political": 50,
+      "conflict": 29,
       "economic": 30,
       "regulatory": 36,
-      "trend": "down",
-      "note": "No fresh coverage this cycle; showing baseline.",
+      "trend": "up",
+      "note": "Live-updated from recent news coverage.",
       "headlines": [
         {
           "title": "Syria rules out troop deployment to Yemen , says military ties with Saudi Arabia could expand",
@@ -836,8 +626,8 @@
           "domain": "hindustantimes.com"
         }
       ],
-      "toneReading": "No recent coverage found.",
-      "volumeReading": null
+      "toneReading": "Coverage over the last 3 days has leaned negative.",
+      "volumeReading": "Coverage volume has been unusually high this week."
     },
     {
       "name": "Serbia",
@@ -846,7 +636,7 @@
       "conflict": 34,
       "economic": 43,
       "regulatory": 40,
-      "trend": "down",
+      "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
       "headlines": [],
       "toneReading": "No recent coverage found.",
@@ -881,15 +671,36 @@
     {
       "name": "South Africa",
       "region": "Sub-Saharan Africa",
-      "political": 38,
+      "political": 45,
       "conflict": 30,
       "economic": 46,
       "regulatory": 40,
-      "trend": "down",
-      "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [],
-      "toneReading": "No recent coverage found.",
-      "volumeReading": null
+      "trend": "up",
+      "note": "Live-updated from recent news coverage.",
+      "headlines": [
+        {
+          "title": "Mohammed Shami Retires : Top 5 Test Spells That Defined His Remarkable Career",
+          "url": "https://www.jagranjosh.com/general-knowledge/mohammed-shami-retires-top-5-test-spells-that-defined-his-remarkable-career-1820013665-1",
+          "domain": "jagranjosh.com"
+        },
+        {
+          "title": "Blue landslide in US gives SA hope but Trump still has sharp teeth",
+          "url": "https://www.dailymaverick.co.za/article/2026-11-07-blue-landslide-in-us-gives-sa-hope-but-trump-still-has-sharp-teeth/",
+          "domain": "dailymaverick.co.za"
+        },
+        {
+          "title": "Nine - try Springboks blitz Italy in Turin to set Nations Championship pace",
+          "url": "https://www.dailymaverick.co.za/article/2026-11-07-nine-try-springboks-blitz-italy-in-turin-to-set-nations-championship-pace/",
+          "domain": "dailymaverick.co.za"
+        },
+        {
+          "title": "Two nations , one enduring lesson in freedom",
+          "url": "https://mg.co.za/thought-leader/2026-11-05-two-nations-one-enduring-lesson-in-freedom/",
+          "domain": "mg.co.za"
+        }
+      ],
+      "toneReading": "Coverage over the last 3 days has been mixed or neutral.",
+      "volumeReading": "Coverage volume has been unusually high this week."
     },
     {
       "name": "South Korea",
@@ -911,7 +722,7 @@
       "conflict": 18,
       "economic": 52,
       "regulatory": 38,
-      "trend": "down",
+      "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
       "headlines": [],
       "toneReading": "No recent coverage found.",
@@ -920,14 +731,14 @@
     {
       "name": "Sudan",
       "region": "Sub-Saharan Africa",
-      "political": 80,
+      "political": 90,
       "conflict": 94,
       "economic": 86,
       "regulatory": 80,
-      "trend": "down",
-      "note": "Live-updated from recent news coverage.",
+      "trend": "up",
+      "note": "No fresh coverage this cycle; showing baseline.",
       "headlines": [],
-      "toneReading": "Coverage over the last 3 days has leaned negative.",
+      "toneReading": "No recent coverage found.",
       "volumeReading": null
     },
     {
@@ -959,49 +770,28 @@
     {
       "name": "Thailand",
       "region": "Southeast Asia",
-      "political": 45,
+      "political": 40,
       "conflict": 26,
       "economic": 32,
       "regulatory": 34,
-      "trend": "up",
-      "note": "Live-updated from recent news coverage.",
+      "trend": "down",
+      "note": "No fresh coverage this cycle; showing baseline.",
       "headlines": [],
-      "toneReading": "Coverage over the last 3 days has been mixed or neutral.",
-      "volumeReading": "Coverage volume has been unusually high this week."
+      "toneReading": "No recent coverage found.",
+      "volumeReading": null
     },
     {
       "name": "Turkey",
       "region": "Europe",
-      "political": 52,
+      "political": 53,
       "conflict": 38,
       "economic": 60,
       "regulatory": 48,
       "trend": "flat",
-      "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [
-        {
-          "title": "Paul Horton  bird drop  brings family , Thanksgiving flavor together",
-          "url": "https://www.azfamily.com/2026/11/08/paul-hortons-bird-drop-brings-family-thanksgiving-flavor-together/",
-          "domain": "azfamily.com"
-        },
-        {
-          "title": "Turkey Detains 33 , 341 Afghan Migrants in First 10 Months of 2026",
-          "url": "https://www.khaama.com/turkey-detains-33341-afghan-migrants-2026/",
-          "domain": "khaama.com"
-        },
-        {
-          "title": "Thanksgiving meal deals are here : What Walmart , Target , Aldi , Lidl and more are offering",
-          "url": "https://www.fox5atlanta.com/news/thanksgiving-meal-deals-here-what-walmart-target-aldi-lidl-more-offering",
-          "domain": "fox5atlanta.com"
-        },
-        {
-          "title": "Turkey outlines plans for  paradigm shift  in energy use ahead of climate summit",
-          "url": "https://www.wral.com/news/ap/d61b6-turkey-outlines-plans-for-paradigm-shift-in-energy-use-ahead-of-climate-summit/",
-          "domain": "wral.com"
-        }
-      ],
-      "toneReading": "No recent coverage found.",
-      "volumeReading": null
+      "note": "Live-updated from recent news coverage.",
+      "headlines": [],
+      "toneReading": "Coverage over the last 3 days has been mixed or neutral.",
+      "volumeReading": "Coverage volume has been unusually high this week."
     },
     {
       "name": "UAE",
@@ -1019,15 +809,15 @@
     {
       "name": "Ukraine",
       "region": "Europe",
-      "political": 62,
-      "conflict": 92,
+      "political": 64,
+      "conflict": 97,
       "economic": 70,
       "regulatory": 58,
-      "trend": "flat",
-      "note": "No fresh coverage this cycle; showing baseline.",
+      "trend": "up",
+      "note": "Live-updated from recent news coverage.",
       "headlines": [],
-      "toneReading": "No recent coverage found.",
-      "volumeReading": null
+      "toneReading": "Coverage over the last 3 days has leaned negative.",
+      "volumeReading": "Coverage volume has been unusually high this week."
     },
     {
       "name": "United Kingdom",
@@ -1058,15 +848,15 @@
     {
       "name": "Venezuela",
       "region": "Latin America",
-      "political": 82,
-      "conflict": 48,
+      "political": 78,
+      "conflict": 51,
       "economic": 88,
       "regulatory": 80,
-      "trend": "up",
-      "note": "No fresh coverage this cycle; showing baseline.",
+      "trend": "flat",
+      "note": "Live-updated from recent news coverage.",
       "headlines": [],
-      "toneReading": "No recent coverage found.",
-      "volumeReading": null
+      "toneReading": "Coverage over the last 3 days has leaned negative.",
+      "volumeReading": "Coverage volume has been unusually high this week."
     },
     {
       "name": "Vietnam",
@@ -1109,6 +899,30 @@
     }
   ],
   "alerts": [
+    {
+      "name": "India",
+      "from": "LOW",
+      "to": "GUARDED",
+      "at": "2026-11-10T14:21:22.384428+00:00"
+    },
+    {
+      "name": "Indonesia",
+      "from": "LOW",
+      "to": "GUARDED",
+      "at": "2026-11-10T14:21:22.384428+00:00"
+    },
+    {
+      "name": "Myanmar",
+      "from": "HIGH",
+      "to": "SEVERE",
+      "at": "2026-11-10T14:21:22.384428+00:00"
+    },
+    {
+      "name": "Egypt",
+      "from": "GUARDED",
+      "to": "ELEVATED",
+      "at": "2026-11-10T14:21:22.384428+00:00"
+    },
     {
       "name": "Myanmar",
       "from": "SEVERE",
@@ -1264,30 +1078,6 @@
       "from": "LOW",
       "to": "GUARDED",
       "at": "2026-11-07T21:27:31.654826+00:00"
-    },
-    {
-      "name": "France",
-      "from": "GUARDED",
-      "to": "LOW",
-      "at": "2026-11-07T12:28:29.575403+00:00"
-    },
-    {
-      "name": "India",
-      "from": "GUARDED",
-      "to": "LOW",
-      "at": "2026-11-07T12:28:29.575403+00:00"
-    },
-    {
-      "name": "Poland",
-      "from": "LOW",
-      "to": "GUARDED",
-      "at": "2026-11-07T12:28:29.575403+00:00"
-    },
-    {
-      "name": "Morocco",
-      "from": "LOW",
-      "to": "GUARDED",
-      "at": "2026-11-07T12:28:29.575403+00:00"
     }
   ]
 }

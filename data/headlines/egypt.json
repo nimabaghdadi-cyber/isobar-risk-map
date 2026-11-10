@@ -1,5 +1,516 @@
 {
   "country": "Egypt",
-  "generatedAt": "2026-11-10T01:11:42.479161+00:00",
-  "headlines": []
+  "generatedAt": "2026-11-10T14:21:22.384428+00:00",
+  "headlines": [
+    {
+      "title": "More than seven dead and 110 injured in train collision in Egypt",
+      "url": "https://www.abc.net.au/news/2026-11-09/train-collision-egypt-giza/107361794",
+      "domain": "abc.net.au",
+      "date": "Nov 08, 2026"
+    },
+    {
+      "title": "FAM downplays Egypt coach firing - Nation Online",
+      "url": "https://mwnation.com/fam-downplays-egypt-coachs-firing/",
+      "domain": "mwnation.com",
+      "date": "Nov 08, 2026"
+    },
+    {
+      "title": "Egypt Train Crash Leaves At Least 7 Killed and Over 100 Injured",
+      "url": "https://www.tmz.com/2026/11/08/egypt-train-crash-cairo-collision/",
+      "domain": "tmz.com",
+      "date": "Nov 08, 2026"
+    },
+    {
+      "title": "Egypt Fayoum mummy portraits to travel abroad for first time",
+      "url": "https://www.theoaklandpress.com/2026/10/24/egypt-fayoum-mummy-portraits-traveling/",
+      "domain": "theoaklandpress.com",
+      "date": "Oct 24, 2026"
+    },
+    {
+      "title": "QICCA organises seminar on  Annulment of Arbitral Awards in Egypt and GCC States",
+      "url": "https://www.qatar-tribune.com/article/260712/latest-news/qicca-organises-seminar-on-annulment-of-arbitral-awards-in-egypt-and-gcc-states",
+      "domain": "qatar-tribune.com",
+      "date": "Oct 24, 2026"
+    },
+    {
+      "title": "Arab News | Intense diplomacy ongoing as Egypt seeks to avert regional escalation : foreign ministry spokesman",
+      "url": "https://www.arabnews.com/middle-east/intense-diplomacy-ongoing-as-egypt-seeks-to-avert-regional-escalation-foreign-ministry-spokesman-3008008",
+      "domain": "arabnews.com",
+      "date": "Oct 24, 2026"
+    },
+    {
+      "title": "Egyptian Foreign Ministry to Asharq Al - Awsat : No Obstacles Hindering Dutch Embassy Operations",
+      "url": "https://english.aawsat.com/arab-world/5332999-egyptian-foreign-ministry-asharq-al-awsat-no-obstacles-hindering-dutch-embassy",
+      "domain": "english.aawsat.com",
+      "date": "Oct 24, 2026"
+    },
+    {
+      "title": "The backstory : How a battle in Egypt desert turned the tide of World War II",
+      "url": "https://timesofindia.indiatimes.com/world/rest-of-world/the-backstory-how-a-battle-in-egypts-desert-turned-the-tide-of-world-war-ii/articleshow/135142321.cms",
+      "domain": "timesofindia.indiatimes.com",
+      "date": "Oct 23, 2026"
+    },
+    {
+      "title": "IMF sees weak external position",
+      "url": "https://tribune.com.pk/story/2636387/imf-sees-weak-external-position",
+      "domain": "tribune.com.pk",
+      "date": "Oct 23, 2026"
+    },
+    {
+      "title": "Arab News | Egypt and Greece reject Libyan parliament ratification of 2019 maritime boundaries deal with Turkiye",
+      "url": "https://www.arabnews.com/middle-east/egypt-and-greece-reject-libyan-parliament-ratification-of-2019-maritime-boundaries-deal-with-turkiye-3007783",
+      "domain": "arabnews.com",
+      "date": "Oct 22, 2026"
+    },
+    {
+      "title": "EBRD and Scatec ASA support large - scale renewable energy in SEMED region",
+      "url": "https://www.ebrd.com/home/news-and-events/news/2026/ebrd-and-scatec-asa-back-renewable-energy-in-semed.html",
+      "domain": "ebrd.com",
+      "date": "Oct 22, 2026"
+    },
+    {
+      "title": "Zero hour in the Mediterranean : Greece and Egypt open the exclusive economic zone",
+      "url": "https://www.bankingnews.gr/amyna-diplomatia/articles/906590/zero-hour-in-the-mediterranean-greece-and-egypt-open-the-exclusive-economic-zone",
+      "domain": "bankingnews.gr",
+      "date": "Oct 22, 2026"
+    },
+    {
+      "title": "Saipem , MDC sign offshore drilling cooperation deal , targeting Egypt",
+      "url": "https://www.trend.az/world/europe/4238095.html",
+      "domain": "trend.az",
+      "date": "Oct 22, 2026"
+    },
+    {
+      "title": "Egypt : Moody Upgrades Egypt Credit Rating As Debt Falls , Reserves Rise",
+      "url": "https://allafrica.com/stories/202610220016.html",
+      "domain": "allafrica.com",
+      "date": "Oct 22, 2026"
+    },
+    {
+      "title": "Sissi says Egypt to  defend Saudi territory  and will not attack Yemen",
+      "url": "https://www.koreaherald.com/article/10911378",
+      "domain": "koreaherald.com",
+      "date": "Oct 22, 2026"
+    },
+    {
+      "title": "Sisi says Egypt will  defend Saudi territory  but will not attack Yemen",
+      "url": "https://www.freemalaysiatoday.com/category/highlight/2026/10/22/sisi-says-egypt-will-defend-saudi-territory-but-will-not-attack-yemen",
+      "domain": "freemalaysiatoday.com",
+      "date": "Oct 22, 2026"
+    },
+    {
+      "title": "Null and void : Egypt condemns Turkey - Libya maritime deal , reaffirms pact with Greece",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/null-and-void-egypt-condemns-turkey-libya-maritime-deal-reaffirms-pact",
+      "domain": "middleeasteye.net",
+      "date": "Oct 21, 2026"
+    },
+    {
+      "title": "Sisi says Egypt to  defend Saudi territory  and will not attack Yemen",
+      "url": "https://arynews.tv/sisi-says-egypt-to-defend-saudi-territory-and-will-not-attack-yemen",
+      "domain": "arynews.tv",
+      "date": "Oct 21, 2026"
+    },
+    {
+      "title": "Egypt rejects Libyan approval of maritime deal with Turkey",
+      "url": "https://www.timeslive.co.za/news/africa/2026-10-21-egypt-rejects-libyan-approval-of-maritime-deal-with-turkey/",
+      "domain": "timeslive.co.za",
+      "date": "Oct 21, 2026"
+    },
+    {
+      "title": "Egypt Sisi says Saudi defence role would not include attack on Yemen",
+      "url": "https://tribune.com.pk/story/2636160/egypts-sisi-says-saudi-defence-role-would-not-include-attack-on-yemen",
+      "domain": "tribune.com.pk",
+      "date": "Oct 21, 2026"
+    },
+    {
+      "title": "Arab News | Egyptian military support for Saudi Arabia will not include attacks on Yemen , President El - Sisi says",
+      "url": "https://www.arabnews.com/saudi-arabia/egyptian-military-support-for-saudi-arabia-will-not-include-attacks-on-yemen-president-el-sisi-says-3007577",
+      "domain": "arabnews.com",
+      "date": "Oct 21, 2026"
+    },
+    {
+      "title": "Iran says Egypt entering Yemen war makes situation  more difficult",
+      "url": "https://www.vanguardngr.com/2026/10/iran-says-egypt-entering-yemen-war-makes-situation-more-difficult/",
+      "domain": "vanguardngr.com",
+      "date": "Oct 21, 2026"
+    },
+    {
+      "title": "Iran Offers Saudi - Houthi Mediation as Egypt Weighs Military Action",
+      "url": "https://econotimes.com/Iran-Offers-Saudi-Houthi-Mediation-as-Egypt-Weighs-Military-Action-1758645",
+      "domain": "econotimes.com",
+      "date": "Oct 21, 2026"
+    },
+    {
+      "title": "Egypt Approves Banque Du Caire $453m IPO",
+      "url": "https://allafrica.com/stories/202610210014.html",
+      "domain": "allafrica.com",
+      "date": "Oct 21, 2026"
+    },
+    {
+      "title": "Egyptian farmer digs up possible Ramesses II statue fragments while gardening",
+      "url": "https://www.jpost.com/archaeology/article-912316",
+      "domain": "jpost.com",
+      "date": "Oct 20, 2026"
+    },
+    {
+      "title": "FIFA suspends Egypt coach Hossam Hassan for 3 matches after criticizing World Cup refereeing",
+      "url": "https://www.middleeastmonitor.com/20261020-fifa-suspends-egypt-coach-hossam-hassan-for-3-matches-after-criticizing-world-cup-refereeing/",
+      "domain": "middleeastmonitor.com",
+      "date": "Oct 20, 2026"
+    },
+    {
+      "title": "Egypt road crash leaves 13 dead and 34 injured after a bus collides with a truck",
+      "url": "https://www.africanews.com/2026/10/20/egypt-road-crash-leaves-13-dead-and-34-injured-after-a-bus-collides-with-a-truck/",
+      "domain": "africanews.com",
+      "date": "Oct 20, 2026"
+    },
+    {
+      "title": "Egypt : Authorities Arrest Entire Investigative Newsroom",
+      "url": "https://www.middleeastmonitor.com/20261020-egypt-authorities-arrest-entire-investigative-newsroom/",
+      "domain": "middleeastmonitor.com",
+      "date": "Oct 20, 2026"
+    },
+    {
+      "title": "Fighter jets , warships and air defences : What Egypt could bring to Saudi Arabia fight against the Houthis",
+      "url": "https://timesofindia.indiatimes.com/defence/international/fighter-jets-warships-and-air-defences-what-egypt-could-bring-to-saudi-arabias-fight-against-the-houthis/articleshow/135066786.cms",
+      "domain": "timesofindia.indiatimes.com",
+      "date": "Oct 20, 2026"
+    },
+    {
+      "title": "You cant ask Moses to go back to Egypt  Tinubu opposes petrol subsidy return - Latest News In Nigeria , Nigeria News Today , Your Online Nigerian Newspaper",
+      "url": "https://www.nigerianeye.com/2026/10/you-cant-ask-moses-to-go-back-to-egypt.html",
+      "domain": "nigerianeye.com",
+      "date": "Oct 20, 2026"
+    },
+    {
+      "title": "Georgetown University in Qatar Students Discover Egypt through Visit to AUC | The American University in Cairo",
+      "url": "https://www.aucegypt.edu/news/georgetown-university-qatar-students-discover-egypt-through-visit-auc",
+      "domain": "aucegypt.edu",
+      "date": "Oct 20, 2026"
+    },
+    {
+      "title": "AUC Hosts International Coptic Studies Conference | The American University in Cairo",
+      "url": "https://www.aucegypt.edu/news/auc-hosts-international-coptic-studies-conference",
+      "domain": "aucegypt.edu",
+      "date": "Oct 20, 2026"
+    },
+    {
+      "title": "A look at how Ethiopia wars , sea ambitions and Nile dam fuel fears of wider conflict",
+      "url": "https://www.newsday.com/news/nation/ethiopia-tigray-eritrea-abiy-ahmed-nile-t67567",
+      "domain": "newsday.com",
+      "date": "Oct 20, 2026"
+    },
+    {
+      "title": "FIFA Suspends Egypt Manager Hossam Hassan for 3 Matches",
+      "url": "https://www.moroccoworldnews.com/2026/10/342943/fifa-suspends-egypt-manager-hossam-hassan-for-3-matches/",
+      "domain": "moroccoworldnews.com",
+      "date": "Oct 19, 2026"
+    },
+    {
+      "title": "Egyptian parliament delays vote on military support for Saudi Arabia",
+      "url": "https://www.aljazeera.com/news/2026/10/19/egyptian-parliament-delays-vote-on-military-support-for-saudi-arabia",
+      "domain": "aljazeera.com",
+      "date": "Oct 19, 2026"
+    },
+    {
+      "title": "EGYPT WEIGHS DEPLOYMENT : Parliament To Debate Sending Troops To Saudi Arabia Amid Deadly Houthi Attacks",
+      "url": "https://www.theyeshivaworld.com/news/israel-news/2611640/egypt-weighs-deployment-parliament-to-debate-sending-troops-to-saudi-arabia-amid-deadly-houthi-attacks.html",
+      "domain": "theyeshivaworld.com",
+      "date": "Oct 19, 2026"
+    },
+    {
+      "title": "You cant ask Moses to return to Egypt , Tinubu tells critics",
+      "url": "https://punchng.com/you-cant-ask-moses-to-return-to-egypt-tinubu-tells-subsidy-critics/",
+      "domain": "punchng.com",
+      "date": "Oct 19, 2026"
+    },
+    {
+      "title": "Egypt Resumes Saudi Troop Debate as Opposition Party Questions Mission",
+      "url": "https://chimpreports.com/egypt-resumes-saudi-troop-debate-as-opposition-party-questions-mission/",
+      "domain": "chimpreports.com",
+      "date": "Oct 19, 2026"
+    },
+    {
+      "title": "What behind Egypt move towards possible military involvement in Saudi - Yemen conflict ?",
+      "url": "https://www.al-monitor.com/originals/2026/10/whats-behind-egypts-move-towards-possible-military-involvement-saudi-yemen",
+      "domain": "al-monitor.com",
+      "date": "Oct 19, 2026"
+    },
+    {
+      "title": "Explainer - What behind Egypt move towards possible military involvement in Saudi - Yemen conflict ?",
+      "url": "https://www.al-monitor.com/originals/2026/10/explainer-whats-behind-egypts-move-towards-possible-military-involvement-saudi",
+      "domain": "al-monitor.com",
+      "date": "Oct 19, 2026"
+    },
+    {
+      "title": "A look at how Ethiopia wars , sea ambitions and Nile dam fuel fears of wider conflict :: WRAL . com",
+      "url": "https://www.wral.com/news/ap/18294-a-look-at-how-ethiopia-s-wars-sea-ambitions-and-nile-dam-fuel-fears-of-wider-conflict/",
+      "domain": "wral.com",
+      "date": "Oct 19, 2026"
+    },
+    {
+      "title": "Arab News | A look at how Ethiopia wars , sea ambitions and Nile dam fuel fears of wider conflict",
+      "url": "https://www.arabnews.com/world/a-look-at-how-ethiopias-wars-sea-ambitions-and-nile-dam-fuel-fears-of-wider-conflict-3007181",
+      "domain": "arabnews.com",
+      "date": "Oct 19, 2026"
+    },
+    {
+      "title": "A New Egyptian Regional Role ?",
+      "url": "https://english.aawsat.com/opinion/5331092-new-egyptian-regional-role",
+      "domain": "english.aawsat.com",
+      "date": "Oct 19, 2026"
+    },
+    {
+      "title": "Egypt offers military support to Saudi Arabia amid Houthi attacks",
+      "url": "https://www.samaa.tv/2087358703-egypt-offers-military-support-to-saudi-arabia-amid-houthi-attacks",
+      "domain": "samaa.tv",
+      "date": "Oct 19, 2026"
+    },
+    {
+      "title": "Egypt extends debate on military support for Saudi Arabia",
+      "url": "https://www.hurriyetdailynews.com/egypt-extends-debate-on-military-support-for-saudi-arabia-228287",
+      "domain": "hurriyetdailynews.com",
+      "date": "Oct 19, 2026"
+    },
+    {
+      "title": "Egypt Approves Troop Deployment In Support Of Saudi Arabia",
+      "url": "https://www.zerohedge.com/geopolitical/egypt-approves-troop-deployment-support-saudi-arabia",
+      "domain": "zerohedge.com",
+      "date": "Oct 19, 2026"
+    },
+    {
+      "title": "Egypt Banque du Caire sets IPO price range at EGP 4 . 82 - 5 . 30 a share",
+      "url": "https://www.zawya.com/en/capital-markets/egypts-banque-du-caire-sets-ipo-price-range-at-egp-4.82-5.30-a-share-1740212",
+      "domain": "zawya.com",
+      "date": "Oct 19, 2026"
+    },
+    {
+      "title": "Ishaq Dar discusses regional peace with Iranian and Egyptian",
+      "url": "https://www.pakistantoday.com.pk/2026/10/19/dar-steps-up-regional-diplomacy-holds-talks-with-iranian-egyptian-fms-on-peace-efforts",
+      "domain": "pakistantoday.com.pk",
+      "date": "Oct 19, 2026"
+    },
+    {
+      "title": "Egypt says ready to provide Saudi Arabia with necessary support amid Houthi conflict",
+      "url": "https://www.freemalaysiatoday.com/category/world/2026/10/18/egypt-says-ready-to-give-saudi-arabia-necessary-support-amid-houthi-conflict",
+      "domain": "freemalaysiatoday.com",
+      "date": "Oct 18, 2026"
+    },
+    {
+      "title": "What Does Egypt Pledge to Support Saudi Arabia Mean for Regional Security and Yemen Future ?",
+      "url": "https://english.aawsat.com/gulf/5330890-what-does-egypt%E2%80%99s-pledge-support-saudi-arabia-mean-regional-security-and-yemen%E2%80%99s",
+      "domain": "english.aawsat.com",
+      "date": "Oct 18, 2026"
+    },
+    {
+      "title": "Egypt parliament delays vote on military support to Saudi Arabia",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/egypts-parliament-delays-vote-military-support-saudi-arabia",
+      "domain": "middleeasteye.net",
+      "date": "Oct 18, 2026"
+    },
+    {
+      "title": "Egyptian parliament begins emergency session on possible troop deployment to defend Saudi Arabia",
+      "url": "https://aa.com.tr/en/middle-east/egyptian-parliament-begins-emergency-session-on-possible-troop-deployment-to-defend-saudi-arabia/4092616",
+      "domain": "aa.com.tr",
+      "date": "Oct 18, 2026"
+    },
+    {
+      "title": "Egypt ready to help Saudi Arabia defend itself , says al - Sisi",
+      "url": "https://www.timeslive.co.za/news/africa/2026-10-18-egypt-ready-to-help-saudi-arabia-defend-itself-says-al-sisi/",
+      "domain": "timeslive.co.za",
+      "date": "Oct 18, 2026"
+    },
+    {
+      "title": "Egypt says ready to give Saudi Arabia necessary support amid Houthi conflict",
+      "url": "https://www.moneycontrol.com/world/egypt-says-ready-to-give-saudi-arabia-necessary-support-amid-houthi-conflict-article-14054889.html",
+      "domain": "moneycontrol.com",
+      "date": "Oct 18, 2026"
+    },
+    {
+      "title": "Egypt approves sending troops to Saudi amid Houthi attacks",
+      "url": "https://www.siasat.com/egypt-approves-sending-troops-to-saudi-amid-houthi-attacks-3560586/",
+      "domain": "siasat.com",
+      "date": "Oct 18, 2026"
+    },
+    {
+      "title": "Egypt Sisi asks parliament to authorize support for Saudi",
+      "url": "https://www.hurriyetdailynews.com/egypts-sisi-asks-parliament-to-authorize-support-for-saudi-228277",
+      "domain": "hurriyetdailynews.com",
+      "date": "Oct 18, 2026"
+    },
+    {
+      "title": "Arab News | Egypt enters the war",
+      "url": "https://www.arabnews.com/opinion/egypt-enters-the-war-3006985",
+      "domain": "arabnews.com",
+      "date": "Oct 18, 2026"
+    },
+    {
+      "title": "Egyptian parliament to discuss defensive aid to Saudi Arabia",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/egyptian-parliament-discuss-defensive-aid-saudi-arabia",
+      "domain": "middleeasteye.net",
+      "date": "Oct 18, 2026"
+    },
+    {
+      "title": "Arab News | Moody upgrades Egypt rating to B3 , maintains positive outlook",
+      "url": "https://www.arabnews.com/finance/moodys-upgrades-egypts-rating-to-b3-maintains-positive-outlook-3006980",
+      "domain": "arabnews.com",
+      "date": "Oct 18, 2026"
+    },
+    {
+      "title": "Egypt Enters the War",
+      "url": "https://english.aawsat.com/opinion/5330699-egypt-enters-war",
+      "domain": "english.aawsat.com",
+      "date": "Oct 18, 2026"
+    },
+    {
+      "title": "Egypt Sissi asks parliament to authorise support for Saudi",
+      "url": "https://www.koreaherald.com/article/10906127",
+      "domain": "koreaherald.com",
+      "date": "Oct 18, 2026"
+    },
+    {
+      "title": "Egypt Sisi Declares His Presidency Will End In 2030",
+      "url": "http://www.zerohedge.com/geopolitical/egypts-sisi-declares-his-presidency-will-end-2030",
+      "domain": "zerohedge.com",
+      "date": "Oct 18, 2026"
+    },
+    {
+      "title": "Egypt Sisi seeks parliament backing to help defend Saudi Arabia if asked",
+      "url": "https://arynews.tv/egypts-sisi-seeks-parliaments-backing-to-help-defend-saudi-arabia-if-asked",
+      "domain": "arynews.tv",
+      "date": "Oct 17, 2026"
+    },
+    {
+      "title": "Sisi says Egypt ready to defend Saudi Arabia  if requested",
+      "url": "https://www.freemalaysiatoday.com/category/world/2026/10/17/sisi-says-egypt-ready-to-defend-saudi-arabia-if-requested",
+      "domain": "freemalaysiatoday.com",
+      "date": "Oct 17, 2026"
+    },
+    {
+      "title": "Egypt president says country ready to defend Saudi Arabia  if requested",
+      "url": "https://www.vanguardngr.com/2026/10/egypts-president-says-country-ready-to-defend-saudi-arabia-if-requested/",
+      "domain": "vanguardngr.com",
+      "date": "Oct 17, 2026"
+    },
+    {
+      "title": "Arab News | Egypt Sisi seeks parliament approval to authorize support for Saudi Arabia",
+      "url": "https://www.arabnews.com/middle-east/egypts-sisi-seeks-parliament-approval-to-authorize-support-for-saudi-arabia-3006835",
+      "domain": "arabnews.com",
+      "date": "Oct 17, 2026"
+    },
+    {
+      "title": "Egypt Sisi says he will step down in 2030 , rules out another term",
+      "url": "https://www.dailysabah.com/world/africa/egypts-sisi-says-he-will-step-down-in-2030-rules-out-another-term",
+      "domain": "dailysabah.com",
+      "date": "Oct 17, 2026"
+    },
+    {
+      "title": "I cannot carry all of this alone : the couples kept apart by the war in Gaza | Gaza",
+      "url": "https://www.theguardian.com/world/2026/oct/17/couples-families-separated-war-in-gaza",
+      "domain": "theguardian.com",
+      "date": "Oct 17, 2026"
+    },
+    {
+      "title": "Moody raises Egypt credit rating , gives positive outlook",
+      "url": "https://www.jacarandafm.com/news/news/moodys-raise-egypt-credit-rating-give-positive-outlook/",
+      "domain": "jacarandafm.com",
+      "date": "Oct 17, 2026"
+    },
+    {
+      "title": "Man discovers mysterious stone outside home , leading to massive 3 , 300 - year - old Egyptian treasure",
+      "url": "https://www.fox5atlanta.com/news/man-discovers-mysterious-stone-massive-3300-year-old-egyptian-treasure",
+      "domain": "fox5atlanta.com",
+      "date": "Oct 17, 2026"
+    },
+    {
+      "title": "Spain punished for Islamophobic chants during Egypt friendly",
+      "url": "https://www.lbc.co.uk/article/spain-punished-islamophobic-chants-egypt-5Hjdk2P_2/",
+      "domain": "lbc.co.uk",
+      "date": "Oct 16, 2026"
+    },
+    {
+      "title": "Sisi warns against threats to Saudi Arabia , says Gulf security is linked to Egypt national security \u2013 Middle East Monitor",
+      "url": "https://www.middleeastmonitor.com/20261016-sisi-warns-against-threats-to-saudi-arabia-says-gulf-security-is-linked-to-egypts-national-security/",
+      "domain": "middleeastmonitor.com",
+      "date": "Oct 16, 2026"
+    },
+    {
+      "title": "Ethiopia : From Sinai to the Nile - Egypt Cannot Demand Peace From Israel While Threatening War Against Ethiopia",
+      "url": "https://allafrica.com/stories/202610160214.html",
+      "domain": "allafrica.com",
+      "date": "Oct 16, 2026"
+    },
+    {
+      "title": "Angola Book Futsal Afcon Semi - Final Place With Commanding Victory",
+      "url": "https://allafrica.com/stories/202610160194.html",
+      "domain": "allafrica.com",
+      "date": "Oct 16, 2026"
+    },
+    {
+      "title": "Egypt plans real estate investment fund to maximise returns from NUCA assets",
+      "url": "https://www.zawya.com/en/business/real-estate/egypt-plans-real-estate-investment-fund-to-maximise-returns-from-nuca-assets-1663233",
+      "domain": "zawya.com",
+      "date": "Oct 15, 2026"
+    },
+    {
+      "title": "2 giant Ramesses II statues , one wearing a double crown , discovered by man in Egypt",
+      "url": "https://www.livescience.com/archaeology/ancient-egyptians/2-giant-ramesses-ii-statues-one-wearing-a-double-crown-discovered-by-man-in-egypt",
+      "domain": "livescience.com",
+      "date": "Oct 15, 2026"
+    },
+    {
+      "title": "Public office is a public trust : Congresswoman calls for El - Sayed disqualification if tied to Muslim Brotherhood * WorldNetDaily * by Pedro Rodriguez , The Daily Signal",
+      "url": "https://www.wnd.com/2026/10/public-office-is-public-trust-congresswoman-calls-el/",
+      "domain": "wnd.com",
+      "date": "Oct 15, 2026"
+    },
+    {
+      "title": "China covered up the cause of a detained Uyghur father death \u2013 Radio Free Asia",
+      "url": "https://www.rfa.org:443/english/uyghur/2026/10/15/yasinjan-toxti-uyghur-xinjiang-china-detention/",
+      "domain": "rfa.org",
+      "date": "Oct 15, 2026"
+    },
+    {
+      "title": "Inside Starlight Festival Historic Debut at the Great Pyramids of Giza",
+      "url": "https://www.billboard.com/music/music-news/starlight-festival-great-pyramids-of-giza-1236361129/",
+      "domain": "billboard.com",
+      "date": "Oct 15, 2026"
+    },
+    {
+      "title": "African Startups Raise $2 . 49B in 9 Months as Q3 Rebounds",
+      "url": "https://techcabal.com/2026/10/15/african-startups-raise-2-49b-in-9-months/",
+      "domain": "techcabal.com",
+      "date": "Oct 15, 2026"
+    },
+    {
+      "title": "Sisi says Egypt has no  territorial ambition after Israel Smotrich threatens Sinai - AL - MONITOR : The Middle East\u02bcs leading independent news source since 2012",
+      "url": "https://www.al-monitor.com/originals/2026/10/sisi-says-egypt-has-no-territorial-ambitions-after-israels-smotrich-threatens",
+      "domain": "al-monitor.com",
+      "date": "Oct 15, 2026"
+    },
+    {
+      "title": "Here More Proof That Abdul El - Sayed Has Ties to the Muslim Brotherhood",
+      "url": "https://townhall.com/news/amy-curtis/2026/10/15/el-sayed-deleted-article-defending-member-of-muslim-brotherhood-n2684714",
+      "domain": "townhall.com",
+      "date": "Oct 15, 2026"
+    },
+    {
+      "title": "An Egyptian Villager Stumbled Upon an Inscribed Stone . It Led to a Colossal Head of Ramses II",
+      "url": "https://gizmodo.com/an-egyptian-villager-stumbled-upon-an-inscribed-stone-it-led-to-a-colossal-head-of-ramses-ii-2000826264",
+      "domain": "gizmodo.com",
+      "date": "Oct 15, 2026"
+    },
+    {
+      "title": "Homeowner Clue Leads to Massive Egyptian Discovery",
+      "url": "https://www.newser.com/story/398174/archaeologists-dig-up-huge-pharaoh-statue-outside-home.html",
+      "domain": "newser.com",
+      "date": "Oct 15, 2026"
+    },
+    {
+      "title": "Egypt hopes CICA to grow as inclusive dialogue platform for Asia",
+      "url": "https://www.trend.az/azerbaijan/politics/4235259.html",
+      "domain": "trend.az",
+      "date": "Oct 15, 2026"
+    }
+  ]
 }
