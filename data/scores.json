@@ -1,40 +1,19 @@
 {
-  "generatedAt": "2026-11-13T13:56:27.999980+00:00",
+  "generatedAt": "2026-11-13T23:15:09.217895+00:00",
   "source": "GDELT (news tone/volume, 3-day window) blended 50/50 with baseline",
   "countries": [
     {
       "name": "Afghanistan",
       "region": "South Asia",
-      "political": 68,
+      "political": 78,
       "conflict": 70,
       "economic": 80,
       "regulatory": 84,
-      "trend": "flat",
-      "note": "Live-updated from recent news coverage.",
-      "headlines": [
-        {
-          "title": "Over Half of Afghan Primary School - Age Children Out of School",
-          "url": "https://www.khaama.com/afghanistan-education-crisis-children-out-of-school-un-report/",
-          "domain": "khaama.com"
-        },
-        {
-          "title": "[ INTERVIEW ] Korea has much to gain from helping refugees , UNHCR official says",
-          "url": "https://www.koreatimes.co.kr/southkorea/globalcommunity/20261112/korea-has-much-to-gain-from-helping-refugees-unhcr-official-says",
-          "domain": "koreatimes.co.kr"
-        },
-        {
-          "title": "Tajikistan foils another attempt to smuggle narcotics from Afghanistan",
-          "url": "https://www.radio.gov.pk/12-11-2026/tajikistan-foils-another-attempt-to-smuggle-narcotics-from-afghanistan",
-          "domain": "radio.gov.pk"
-        },
-        {
-          "title": "Foreign - backed groups forming fronts are not Afghans , Fitrat says",
-          "url": "https://pajhwok.com/2026/11/08/foreign-backed-groups-forming-fronts-are-not-afghans-fitrat-says/",
-          "domain": "pajhwok.com"
-        }
-      ],
-      "toneReading": "Coverage over the last 3 days has been mixed or neutral.",
-      "volumeReading": "Coverage volume has been unusually high this week."
+      "trend": "up",
+      "note": "No fresh coverage this cycle; showing baseline.",
+      "headlines": [],
+      "toneReading": "No recent coverage found.",
+      "volumeReading": null
     },
     {
       "name": "Argentina",
@@ -45,22 +24,43 @@
       "regulatory": 44,
       "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [],
+      "headlines": [
+        {
+          "title": "Millions Gather In Argentina For Pope Leo Mass",
+          "url": "https://ktok.iheart.com/content/2026-11-09-millions-gather-in-argentina-for-pope-leos-mass/",
+          "domain": "ktok.iheart.com"
+        },
+        {
+          "title": "Millions Gather In Argentina For Pope Leo Mass | Newsradio 970 KFBX - AM",
+          "url": "https://970kfbx.iheart.com/content/2026-11-09-millions-gather-in-argentina-for-pope-leos-mass/",
+          "domain": "970kfbx.iheart.com"
+        },
+        {
+          "title": "Millions Gather In Argentina For Pope Leo Mass | News Talk 1090 WKBZ - AM",
+          "url": "https://newstalk1090.iheart.com/content/2026-11-09-millions-gather-in-argentina-for-pope-leos-mass/",
+          "domain": "newstalk1090.iheart.com"
+        },
+        {
+          "title": "Millions Gather In Argentina For Pope Leo Mass | Newstalk 1400 , 104 . 5 , and 105 . 9 WJMX",
+          "url": "https://newstalk1400online.iheart.com/content/2026-11-09-millions-gather-in-argentina-for-pope-leos-mass/",
+          "domain": "newstalk1400online.iheart.com"
+        }
+      ],
       "toneReading": "No recent coverage found.",
       "volumeReading": null
     },
     {
       "name": "Australia",
       "region": "Oceania",
-      "political": 35,
+      "political": 17,
       "conflict": 8,
       "economic": 13,
       "regulatory": 10,
-      "trend": "up",
-      "note": "Live-updated from recent news coverage.",
+      "trend": "down",
+      "note": "No fresh coverage this cycle; showing baseline.",
       "headlines": [],
-      "toneReading": "Coverage over the last 3 days has been mixed or neutral.",
-      "volumeReading": "Coverage volume has been unusually high this week."
+      "toneReading": "No recent coverage found.",
+      "volumeReading": null
     },
     {
       "name": "Azerbaijan",
@@ -84,28 +84,7 @@
       "regulatory": 42,
       "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [
-        {
-          "title": "World Bank approves US$300mil to improve Bangladesh primary education",
-          "url": "https://www.freemalaysiatoday.com/category/world/2026/11/07/world-bank-approves-us-300mil-to-improve-bangladesh-s-primary-education",
-          "domain": "freemalaysiatoday.com"
-        },
-        {
-          "title": "Bangladesh law minister calls Hasina  convicted criminal , says extradition request sent to India",
-          "url": "https://www.moneycontrol.com/world/bangladesh-law-minister-calls-hasina-convicted-criminal-says-extradition-request-sent-to-india-article-14074906.html",
-          "domain": "moneycontrol.com"
-        },
-        {
-          "title": "They do not want Sheikh Hasina to go back : Former diplomat Veena Sikri questions Bangladesh focus on extradition",
-          "url": "https://aninews.in/news/world/asia/they-do-not-want-sheikh-hasina-to-go-back-former-diplomat-veena-sikri-questions-bangladesh8217s-focus-on-extradition20261110094041/",
-          "domain": "aninews.in"
-        },
-        {
-          "title": "LPG now way too costly in Bangladesh",
-          "url": "https://www.thedailystar.net/news/bangladesh/news/lpg-now-way-too-costly-bangladesh-4317301",
-          "domain": "thedailystar.net"
-        }
-      ],
+      "headlines": [],
       "toneReading": "No recent coverage found.",
       "volumeReading": null
     },
@@ -151,15 +130,15 @@
     {
       "name": "Chile",
       "region": "Latin America",
-      "political": 24,
+      "political": 39,
       "conflict": 14,
       "economic": 26,
       "regulatory": 22,
-      "trend": "down",
-      "note": "No fresh coverage this cycle; showing baseline.",
+      "trend": "up",
+      "note": "Live-updated from recent news coverage.",
       "headlines": [],
-      "toneReading": "No recent coverage found.",
-      "volumeReading": null
+      "toneReading": "Coverage over the last 3 days has been mixed or neutral.",
+      "volumeReading": "Coverage volume has been unusually high this week."
     },
     {
       "name": "China",
@@ -183,7 +162,28 @@
       "regulatory": 40,
       "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [],
+      "headlines": [
+        {
+          "title": "Drone attack on a Colombian military base leaves 3 soldiers dead \u2013 Winnipeg Free Press",
+          "url": "https://www.winnipegfreepress.com/world/2026/11/07/drone-attack-on-a-colombian-military-base-leaves-3-soldiers-dead",
+          "domain": "winnipegfreepress.com"
+        },
+        {
+          "title": "Colombia Trumpian president is taking no prisoners",
+          "url": "https://www.hindustantimes.com/world-news/colombias-trumpian-president-is-taking-no-prisoners-101794279141251.html",
+          "domain": "hindustantimes.com"
+        },
+        {
+          "title": "Colombian media outlet highlights Azerbaijan Victory Day ( PHOTO )",
+          "url": "https://www.trend.az/azerbaijan/4244057.html",
+          "domain": "trend.az"
+        },
+        {
+          "title": "Drone attack on Colombian military base kills 3 soldiers , injures 16",
+          "url": "https://pajhwok.com/2026/11/08/drone-attack-on-colombian-military-base-kills-3-soldiers-injures-16/",
+          "domain": "pajhwok.com"
+        }
+      ],
       "toneReading": "No recent coverage found.",
       "volumeReading": null
     },
@@ -207,9 +207,30 @@
       "conflict": 80,
       "economic": 68,
       "regulatory": 64,
-      "trend": "up",
+      "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [],
+      "headlines": [
+        {
+          "title": "U - 23 AFCONQ : Nigeria suffer 2 - 0 defeat to DR Congo in first leg",
+          "url": "https://www.vanguardngr.com/2026/11/u-23-afconq-nigeria-suffer-2-0-defeat-to-dr-congo-in-first-leg/",
+          "domain": "vanguardngr.com"
+        },
+        {
+          "title": "MoH plans 21 - day quarantine for Kenyans returning from DR Congo",
+          "url": "https://www.the-star.co.ke/news/2026-11-11-page-2-story-1-moh-plans-21-day-quarantine-for-kenyans-returning-from-dr-congo-duale-1",
+          "domain": "the-star.co.ke"
+        },
+        {
+          "title": "Williams blames Nigeria poor form for Osimhen CAF snub",
+          "url": "https://punchng.com/williams-blames-nigerias-poor-form-for-osimhens-caf-snub/",
+          "domain": "punchng.com"
+        },
+        {
+          "title": "Who is Super Eagle new boy Suleiman Mubarak ?",
+          "url": "https://punchng.com/who-is-eagles-new-boy-suleiman-mubarak/",
+          "domain": "punchng.com"
+        }
+      ],
       "toneReading": "No recent coverage found.",
       "volumeReading": null
     },
@@ -229,15 +250,36 @@
     {
       "name": "Egypt",
       "region": "MENA",
-      "political": 46,
+      "political": 50,
       "conflict": 34,
       "economic": 56,
       "regulatory": 44,
       "trend": "flat",
-      "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [],
-      "toneReading": "No recent coverage found.",
-      "volumeReading": null
+      "note": "Live-updated from recent news coverage.",
+      "headlines": [
+        {
+          "title": "Egypt Train Crash Leaves At Least 7 Killed and Over 100 Injured",
+          "url": "https://www.tmz.com/2026/11/08/egypt-train-crash-cairo-collision/",
+          "domain": "tmz.com"
+        },
+        {
+          "title": "FAM downplays Egypt coach firing - Nation Online",
+          "url": "https://mwnation.com/fam-downplays-egypt-coachs-firing/",
+          "domain": "mwnation.com"
+        },
+        {
+          "title": "More than seven dead and 110 injured in train collision in Egypt",
+          "url": "https://www.abc.net.au/news/2026-11-09/train-collision-egypt-giza/107361794",
+          "domain": "abc.net.au"
+        },
+        {
+          "title": "Seven killed and more than 100 injured in train collision in Egypt",
+          "url": "https://www.theargus.co.uk/news/national/26710005.seven-killed-100-injured-train-collision-egypt/",
+          "domain": "theargus.co.uk"
+        }
+      ],
+      "toneReading": "Coverage over the last 3 days has been mixed or neutral.",
+      "volumeReading": "Coverage volume has been unusually high this week."
     },
     {
       "name": "Ethiopia",
@@ -246,7 +288,7 @@
       "conflict": 62,
       "economic": 58,
       "regulatory": 52,
-      "trend": "up",
+      "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
       "headlines": [],
       "toneReading": "No recent coverage found.",
@@ -268,15 +310,15 @@
     {
       "name": "Georgia",
       "region": "Eurasia",
-      "political": 48,
+      "political": 52,
       "conflict": 30,
       "economic": 36,
       "regulatory": 38,
       "trend": "flat",
-      "note": "No fresh coverage this cycle; showing baseline.",
+      "note": "Live-updated from recent news coverage.",
       "headlines": [],
-      "toneReading": "No recent coverage found.",
-      "volumeReading": null
+      "toneReading": "Coverage over the last 3 days has been mixed or neutral.",
+      "volumeReading": "Coverage volume has been unusually high this week."
     },
     {
       "name": "Germany",
@@ -367,36 +409,15 @@
     {
       "name": "Israel",
       "region": "MENA",
-      "political": 63,
-      "conflict": 70,
+      "political": 58,
+      "conflict": 66,
       "economic": 34,
       "regulatory": 30,
-      "trend": "flat",
-      "note": "Live-updated from recent news coverage.",
-      "headlines": [
-        {
-          "title": "US midterm results may help unite Israeli coalition to unseat Netanyahu",
-          "url": "https://www.theguardian.com/world/2026/nov/07/us-midterm-results-may-help-unite-israeli-coalition-to-unseat-netanyahu",
-          "domain": "theguardian.com"
-        },
-        {
-          "title": "US election confirms erosion of support for Israel , with even Trump questioning military aid",
-          "url": "https://economictimes.indiatimes.com/news/international/world-news/us-election-confirms-erosion-of-support-for-israel-with-even-trump-questioning-military-aid/articleshow/135627719.cms",
-          "domain": "economictimes.indiatimes.com"
-        },
-        {
-          "title": "US midterm election confirms erosion of support for Israel , with even Trump questioning military aid",
-          "url": "https://www.hindustantimes.com/world-news/us-news/us-midterm-election-confirms-erosion-of-support-for-israel-with-even-trump-questioning-military-aid-101794028655114.html",
-          "domain": "hindustantimes.com"
-        },
-        {
-          "title": "EduExpo 2026 | From US campuses to Israel : Why Jewish students are choosing to study here",
-          "url": "https://www.israelnationalnews.com/news/435521",
-          "domain": "israelnationalnews.com"
-        }
-      ],
-      "toneReading": "Coverage over the last 3 days has leaned negative.",
-      "volumeReading": "Coverage volume has been unusually high this week."
+      "trend": "down",
+      "note": "No fresh coverage this cycle; showing baseline.",
+      "headlines": [],
+      "toneReading": "No recent coverage found.",
+      "volumeReading": null
     },
     {
       "name": "Italy",
@@ -427,36 +448,15 @@
     {
       "name": "Jordan",
       "region": "MENA",
-      "political": 36,
+      "political": 45,
       "conflict": 11,
       "economic": 40,
       "regulatory": 20,
-      "trend": "flat",
-      "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [
-        {
-          "title": "Croc - textured Leather Comes to the Air Jordan 4 Spotlight",
-          "url": "https://wwd.com/footwear-news/sneaker-news/air-jordan-4-spotlight-croc-release-date-hv0823-002-1239411777/",
-          "domain": "wwd.com"
-        },
-        {
-          "title": "Utah County woman shares domestic abuse survival story",
-          "url": "https://www.ksl.com:443/article/51645117/utah-county-woman-shares-domestic-abuse-survival-story",
-          "domain": "ksl.com"
-        },
-        {
-          "title": "Jim Jordan Ohio State Scandal Explained as Representative Elected Minority Leader",
-          "url": "https://www.newsweek.com/jim-jordan-scandal-allegations-ohio-wrestling-abuse-minority-leader-12697029",
-          "domain": "newsweek.com"
-        },
-        {
-          "title": "House Republicans Choose Jim Jordan As Minority Leader",
-          "url": "https://newsradio1470.iheart.com/content/2026-11-10-house-republicans-choose-jim-jordan-as-minority-leader/",
-          "domain": "newsradio1470.iheart.com"
-        }
-      ],
-      "toneReading": "No recent coverage found.",
-      "volumeReading": null
+      "trend": "up",
+      "note": "Live-updated from recent news coverage.",
+      "headlines": [],
+      "toneReading": "Coverage over the last 3 days has been mixed or neutral.",
+      "volumeReading": "Coverage volume has been unusually high this week."
     },
     {
       "name": "Kazakhstan",
@@ -480,7 +480,28 @@
       "regulatory": 34,
       "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [],
+      "headlines": [
+        {
+          "title": "Kenya tobacco industry sheds 4 , 700 jobs as illicit trade expands",
+          "url": "https://www.the-star.co.ke/news/2026-11-09-kenyas-tobacco-industry-sheds-4700-jobs-as-illicit-trade-expands",
+          "domain": "the-star.co.ke"
+        },
+        {
+          "title": "Kenya says 6 Ebola patients recover , 1 under treatment | The Peninsula Qatar",
+          "url": "http://thepeninsulaqatar.com/article/07/11/2026/kenya-says-6-ebola-patients-recover-1-under-treatment",
+          "domain": "thepeninsulaqatar.com"
+        },
+        {
+          "title": "MCK Victor Bwire among nine shortlisted for KNCHR CEO position",
+          "url": "https://www.the-star.co.ke/news/2026-11-09-mcks-bwire-among-9-shortlisted-for-knchr-ceo",
+          "domain": "the-star.co.ke"
+        },
+        {
+          "title": "Moving target : Why Kenya dream of industrialising keeps being deferred",
+          "url": "https://www.standardmedia.co.ke/opinion/article/2001561921/moving-target-why-kenyas-dream-of-industrialising-keeps-being-deferred",
+          "domain": "standardmedia.co.ke"
+        }
+      ],
       "toneReading": "No recent coverage found.",
       "volumeReading": null
     },
@@ -488,14 +509,14 @@
       "name": "Lebanon",
       "region": "MENA",
       "political": 65,
-      "conflict": 34,
+      "conflict": 35,
       "economic": 64,
       "regulatory": 20,
       "trend": "flat",
-      "note": "No fresh coverage this cycle; showing baseline.",
+      "note": "Live-updated from recent news coverage.",
       "headlines": [],
-      "toneReading": "No recent coverage found.",
-      "volumeReading": null
+      "toneReading": "Coverage over the last 3 days has leaned negative.",
+      "volumeReading": "Coverage volume has been unusually high this week."
     },
     {
       "name": "Libya",
@@ -513,36 +534,15 @@
     {
       "name": "Malaysia",
       "region": "Southeast Asia",
-      "political": 31,
+      "political": 41,
       "conflict": 13,
       "economic": 14,
       "regulatory": 18,
-      "trend": "down",
-      "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [
-        {
-          "title": "Unfazed by Taiwan suspending investment talks , Anwar says numbers going up",
-          "url": "https://www.malaysiakini.com/news/888950-anwar-unfazed-by-taiwan-suspending-investment-talks-says-numbers-going-up",
-          "domain": "malaysiakini.com"
-        },
-        {
-          "title": "Malaysia Airlines Secures Major Accolades for Service and MICE Offering",
-          "url": "https://www.manilatimes.net/2026/11/11/tmt-newswire/media-outreach-newswire/malaysia-airlines-secures-major-accolades-for-service-and-mice-offering/2467211",
-          "domain": "manilatimes.net"
-        },
-        {
-          "title": "Malaysia successfully achieved 90 % 5G coverage nine months ahead of schedule , says Fahmi",
-          "url": "https://www.thestar.com.my/news/nation/2026/11/08/malaysia-successfully-achieved-90-5g-coverage-nine-months-ahead-of-schedule-says-fahmi",
-          "domain": "thestar.com.my"
-        },
-        {
-          "title": "One Industry , One Fair : MIFF 2027 Unites Malaysia Furniture Industry With MATRADE , MFA , AND MFC",
-          "url": "https://www.manilatimes.net/2026/11/11/tmt-newswire/media-outreach-newswire/one-industry-one-fair-miff-2027-unites-malaysias-furniture-industry-with-matrade-mfa-and-mfc/2467157",
-          "domain": "manilatimes.net"
-        }
-      ],
-      "toneReading": "No recent coverage found.",
-      "volumeReading": null
+      "trend": "up",
+      "note": "Live-updated from recent news coverage.",
+      "headlines": [],
+      "toneReading": "Coverage over the last 3 days has been mixed or neutral.",
+      "volumeReading": "Coverage volume has been unusually high this week."
     },
     {
       "name": "Mali",
@@ -579,7 +579,28 @@
       "regulatory": 18,
       "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [],
+      "headlines": [
+        {
+          "title": "Israel new defense office in Morocco : why Algeria is watching",
+          "url": "https://www.ynetnews.com/opinions-analysis/article/skcdttxcgl",
+          "domain": "ynetnews.com"
+        },
+        {
+          "title": "Morocco celebrates anniversary of Western Sahara takeover as UN mission ends",
+          "url": "https://www.naharnet.com/stories/en/323597-morocco-celebrates-anniversary-of-western-sahara-takeover-as-un-mission-ends",
+          "domain": "naharnet.com"
+        },
+        {
+          "title": "Monimichele Hails Flamingos , Attributes Victory to Good Preparations on Quality Turf \u2013 THISDAYLIVE",
+          "url": "https://www.thisdaylive.com/2026/11/10/monimichele-hails-flamingos-attributes-victory-to-good-preparations-on-quality-turf/",
+          "domain": "thisdaylive.com"
+        },
+        {
+          "title": "Ivanka Trump Morocco Visit Cost $93 , 000 in Secret Service Hotel Expenses",
+          "url": "https://www.moroccoworldnews.com/2026/11/345395/ivanka-trumps-morocco-visit-cost-93000-in-secret-service-hotel-expenses/",
+          "domain": "moroccoworldnews.com"
+        }
+      ],
       "toneReading": "No recent coverage found.",
       "volumeReading": null
     },
@@ -592,7 +613,28 @@
       "regulatory": 70,
       "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [],
+      "headlines": [
+        {
+          "title": "Rohingya last hope rests on the ICJ verdict",
+          "url": "https://www.thedailystar.net/opinion/views/news/rohingyas-last-hope-rests-the-icj-verdict-4318756",
+          "domain": "thedailystar.net"
+        },
+        {
+          "title": "India , Myanmar conclude inaugural tri - services HADR exercise  Rahat Mitra  in Chennai",
+          "url": "https://www.dailyexcelsior.com/india-myanmar-conclude-inaugural-tri-services-hadr-exercise-rahat-mitra-in-chennai/",
+          "domain": "dailyexcelsior.com"
+        },
+        {
+          "title": "Myanmar Small Oil Fields Become a Prize as Fuel Prices Rise",
+          "url": "https://econotimes.com/Myanmar-s-Small-Oil-Fields-Become-a-Prize-as-Fuel-Prices-Rise-1774996",
+          "domain": "econotimes.com"
+        },
+        {
+          "title": "US national links arrest to Russia - Ukraine war , affidavit alleges assault inside Tihar | Delhi News",
+          "url": "https://timesofindia.indiatimes.com/city/delhi/us-national-links-arrest-to-russia-ukraine-war-affidavit-alleges-assault-inside-tihar/articleshow/135718008.cms",
+          "domain": "timesofindia.indiatimes.com"
+        }
+      ],
       "toneReading": "No recent coverage found.",
       "volumeReading": null
     },
@@ -605,28 +647,7 @@
       "regulatory": 50,
       "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [
-        {
-          "title": "Nigeria , T\u00fcrkiye to sign media MoUs , join forces against fake news",
-          "url": "https://thenationonlineng.net/nigeria-turkiye-to-sign-media-mous-join-forces-against-fake-news-2/",
-          "domain": "thenationonlineng.net"
-        },
-        {
-          "title": "FIFA U - 17 WWC : Why we lost to Nigeria in final - Japan coach Shirai",
-          "url": "https://www.vanguardngr.com/2026/11/fifa-u-17-wwc-why-we-lost-to-nigeria-in-final-japan-coach-shirai/",
-          "domain": "vanguardngr.com"
-        },
-        {
-          "title": "HURIWA Warns National Assembly To Block Tinubu Fresh Loans , Says Nigeria Will Mortgage Unborn Generations With $145billion Debt",
-          "url": "https://saharareporters.com/2026/11/07/huriwa-warns-national-assembly-block-tinubus-fresh-loans-says-nigeria-will-mortgage",
-          "domain": "saharareporters.com"
-        },
-        {
-          "title": "Flamingos : Presidency , Obi bicker over access to players at Abuja airport",
-          "url": "https://www.vanguardngr.com/2026/11/flamingos-presidency-obi-bicker-over-access-to-players-at-abuja-airport/",
-          "domain": "vanguardngr.com"
-        }
-      ],
+      "headlines": [],
       "toneReading": "No recent coverage found.",
       "volumeReading": null
     },
@@ -699,43 +720,22 @@
       "regulatory": 30,
       "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [
-        {
-          "title": "First song ni Gehlee nanguna sa Genius Korea chart",
-          "url": "https://www.abante.com.ph/2026/11/07/first-song-ni-gehlee-nanguna-sa-genius-korea-chart/",
-          "domain": "abante.com.ph"
-        },
-        {
-          "title": "Groups back DFA on sustained talks with China",
-          "url": "https://www.philstar.com/headlines/2026/11/08/2568672/groups-back-dfa-sustained-talks-china",
-          "domain": "philstar.com"
-        },
-        {
-          "title": "Eschewing branch campuses , Philippines targets joint degrees",
-          "url": "https://www.timeshighereducation.com/news/eschewing-branch-campuses-philippines-targets-joint-degrees",
-          "domain": "timeshighereducation.com"
-        },
-        {
-          "title": "Groups urge stronger economic ties with China",
-          "url": "https://www.manilatimes.net/2026/11/08/news/national/groups-urge-stronger-economic-ties-with-china/2464580",
-          "domain": "manilatimes.net"
-        }
-      ],
+      "headlines": [],
       "toneReading": "No recent coverage found.",
       "volumeReading": null
     },
     {
       "name": "Poland",
       "region": "Europe",
-      "political": 24,
+      "political": 39,
       "conflict": 20,
       "economic": 22,
       "regulatory": 20,
-      "trend": "flat",
-      "note": "No fresh coverage this cycle; showing baseline.",
+      "trend": "up",
+      "note": "Live-updated from recent news coverage.",
       "headlines": [],
-      "toneReading": "No recent coverage found.",
-      "volumeReading": null
+      "toneReading": "Coverage over the last 3 days has been mixed or neutral.",
+      "volumeReading": "Coverage volume has been unusually high this week."
     },
     {
       "name": "Qatar",
@@ -779,35 +779,14 @@
     {
       "name": "Serbia",
       "region": "Europe",
-      "political": 47,
+      "political": 39,
       "conflict": 34,
       "economic": 43,
       "regulatory": 40,
-      "trend": "up",
-      "note": "Live-updated from recent news coverage.",
-      "headlines": [
-        {
-          "title": "Serbia Parliament to meet on Nov 17 after student - led movement won election over strongman Vucic",
-          "url": "https://www.hindustantimes.com/world-news/serbias-parliament-to-meet-on-nov-17-after-student-led-movement-won-election-over-strongman-vucic-101794140003340.html",
-          "domain": "hindustantimes.com"
-        },
-        {
-          "title": "Walls are closing in around Putin \u2026 Oligarchs turn against the war",
-          "url": "https://freerepublic.com/focus/f-news/4402325/posts",
-          "domain": "freerepublic.com"
-        },
-        {
-          "title": "Serbia Parliament to meet on Nov . 17 after student - led movement won election over strongman Vucic",
-          "url": "https://www.niagarafallsreview.ca/news/world/europe/serbia-s-parliament-to-meet-on-nov-17-after-student-led-movement-won-election-over-strongman-vucic/article_ae555477-95db-509f-b986-fbb956cfceca.html",
-          "domain": "niagarafallsreview.ca"
-        },
-        {
-          "title": "Virgil van Dijk Withdraws from Dutch National Team",
-          "url": "https://liverpooloffside.sbnation.com/liverpool-fc-news-coverage/84972/virgil-van-dijk-withdraws-from-dutch-national-team",
-          "domain": "liverpooloffside.sbnation.com"
-        }
-      ],
-      "toneReading": "Coverage over the last 3 days has been mixed or neutral.",
+      "trend": "down",
+      "note": "No fresh coverage this cycle; showing baseline.",
+      "headlines": [],
+      "toneReading": "No recent coverage found.",
       "volumeReading": null
     },
     {
@@ -819,21 +798,42 @@
       "regulatory": 8,
       "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [],
+      "headlines": [
+        {
+          "title": "Singapore confirms a probe into Megaspeed but denies investigating Alice Huang over spy claims ; how is Nvidia CEO Jensen Huang linked to the controversy ?",
+          "url": "https://economictimes.indiatimes.com/news/international/us/singapore-confirms-a-probe-into-megaspeed-but-denies-investigating-alice-huang-over-spy-claims-how-is-nvidia-ceo-jensen-huang-linked-to-the-controversy/articleshow/135640591.cms",
+          "domain": "economictimes.indiatimes.com"
+        },
+        {
+          "title": "Largest double bed in the sky : \u00a0Singapore Airlines gets new cabins",
+          "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/11/07/039largest-double-bed-in-the-sky039singapore-airlines-gets-new-cabins",
+          "domain": "thestar.com.my"
+        },
+        {
+          "title": "Seventh suspect arrested over Cambodia - based scam syndicate targeting Singaporeans",
+          "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/11/07/seventh-suspect-arrested-over-cambodia-based-scam-syndicate-targeting-singaporeans",
+          "domain": "thestar.com.my"
+        },
+        {
+          "title": "Singapore Airlines First Class suites",
+          "url": "https://www.smh.com.au/traveller/singapore-airlines-first-class-suites-20261107-p61cai.html",
+          "domain": "smh.com.au"
+        }
+      ],
       "toneReading": "No recent coverage found.",
       "volumeReading": null
     },
     {
       "name": "Somalia",
       "region": "Sub-Saharan Africa",
-      "political": 55,
+      "political": 56,
       "conflict": 90,
       "economic": 67,
       "regulatory": 42,
       "trend": "flat",
-      "note": "No fresh coverage this cycle; showing baseline.",
+      "note": "Live-updated from recent news coverage.",
       "headlines": [],
-      "toneReading": "No recent coverage found.",
+      "toneReading": "Coverage over the last 3 days has been mixed or neutral.",
       "volumeReading": null
     },
     {
@@ -897,7 +897,28 @@
       "regulatory": 67,
       "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [],
+      "headlines": [
+        {
+          "title": "Syria rules out troop deployment to Yemen , says military ties with Saudi Arabia could expand",
+          "url": "https://timesofindia.indiatimes.com/world/middle-east/syria-rules-out-troop-deployment-to-yemen-says-military-ties-with-saudi-arabia-could-expand/articleshow/135643192.cms",
+          "domain": "timesofindia.indiatimes.com"
+        },
+        {
+          "title": "Several US troops wounded in attack in Syria : Reports",
+          "url": "https://www.marinecorpstimes.com/news/your-marine-corps/2025/12/13/several-us-troops-wounded-in-attack-in-syria-reports/",
+          "domain": "marinecorpstimes.com"
+        },
+        {
+          "title": "EU Explores Deeper Syria Partnership , Flags Concern over Russia Role",
+          "url": "https://english.aawsat.com/arab-world/5340347-eu-explores-deeper-syria-partnership-flags-concern-over-russia-role",
+          "domain": "english.aawsat.com"
+        },
+        {
+          "title": "Olabi outlines Syria efforts to build free and responsible media",
+          "url": "https://sana.sy/en/syria/2356635/",
+          "domain": "sana.sy"
+        }
+      ],
       "toneReading": "No recent coverage found.",
       "volumeReading": null
     },
@@ -956,15 +977,15 @@
     {
       "name": "Ukraine",
       "region": "Europe",
-      "political": 61,
+      "political": 62,
       "conflict": 92,
       "economic": 70,
       "regulatory": 58,
       "trend": "flat",
-      "note": "Live-updated from recent news coverage.",
+      "note": "No fresh coverage this cycle; showing baseline.",
       "headlines": [],
-      "toneReading": "Coverage over the last 3 days has leaned negative.",
-      "volumeReading": "Coverage volume has been unusually high this week."
+      "toneReading": "No recent coverage found.",
+      "volumeReading": null
     },
     {
       "name": "United Kingdom",
@@ -1029,12 +1050,12 @@
     {
       "name": "Vietnam",
       "region": "Southeast Asia",
-      "political": 22,
+      "political": 36,
       "conflict": 12,
       "economic": 24,
       "regulatory": 30,
-      "trend": "down",
-      "note": "No fresh coverage this cycle; showing baseline.",
+      "trend": "up",
+      "note": "Live-updated from recent news coverage.",
       "headlines": [
         {
           "title": "WALOVI X - Hero Debuts at Inaugural Fortune Southeast Asia 500 Summit , Vietnam Emerges as a Growth Engine for Southeast Asia",
@@ -1052,13 +1073,13 @@
           "domain": "thejakartapost.com"
         },
         {
-          "title": "Asia Rice : Vietnam , Thai rice prices hit near two - year highs as India slips",
-          "url": "https://economictimes.indiatimes.com/small-biz/trade/exports/insights/asia-rice-vietnam-thai-rice-prices-hit-near-two-year-highs-as-india-slips/articleshow/135627665.cms",
-          "domain": "economictimes.indiatimes.com"
+          "title": "Vietnam cheap coffee may lose edge as EU tightens rules , Nestl\u00e9 Vietnam chair warns",
+          "url": "https://fortune.com/2026/11/09/vietnam-cheap-coffee-sustainability-eu-rules/",
+          "domain": "fortune.com"
         }
       ],
-      "toneReading": "No recent coverage found.",
-      "volumeReading": null
+      "toneReading": "Coverage over the last 3 days has been mixed or neutral.",
+      "volumeReading": "Coverage volume has been unusually high this week."
     },
     {
       "name": "Yemen",
@@ -1088,6 +1109,12 @@
     }
   ],
   "alerts": [
+    {
+      "name": "Poland",
+      "from": "LOW",
+      "to": "GUARDED",
+      "at": "2026-11-13T23:15:09.217895+00:00"
+    },
     {
       "name": "Ethiopia",
       "from": "ELEVATED",
@@ -1260,12 +1287,6 @@
       "name": "Myanmar",
       "from": "HIGH",
       "to": "SEVERE",
-      "at": "2026-11-10T14:21:22.384428+00:00"
-    },
-    {
-      "name": "Egypt",
-      "from": "GUARDED",
-      "to": "ELEVATED",
       "at": "2026-11-10T14:21:22.384428+00:00"
     }
   ]

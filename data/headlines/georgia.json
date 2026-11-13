@@ -1,5 +1,516 @@
 {
   "country": "Georgia",
-  "generatedAt": "2026-11-13T13:56:27.999980+00:00",
-  "headlines": []
+  "generatedAt": "2026-11-13T23:15:09.217895+00:00",
+  "headlines": [
+    {
+      "title": "Raffensperger reflects on Georgia voting overhaul as term ends",
+      "url": "https://www.fox5atlanta.com/news/raffensperger-reflects-georgia-voting-overhaul-term-ends",
+      "domain": "fox5atlanta.com",
+      "date": "Nov 12, 2026"
+    },
+    {
+      "title": "At MMCA , Georgia OKeeffe on her own terms - The Korea Herald",
+      "url": "https://www.koreaherald.com/article/10934964",
+      "domain": "koreaherald.com",
+      "date": "Nov 12, 2026"
+    },
+    {
+      "title": "Jordan 27 send Georgia Tech over Eastern Kentucky 85 - 71 \u2013 Winnipeg Free Press",
+      "url": "https://www.winnipegfreepress.com/uncategorized/2026/11/10/jordans-27-send-georgia-tech-over-eastern-kentucky-85-71",
+      "domain": "winnipegfreepress.com",
+      "date": "Nov 11, 2026"
+    },
+    {
+      "title": "Why Atlanta is losing the SEC championship game after 30 years",
+      "url": "https://www.fox5atlanta.com/news/why-atlanta-is-losing-sec-championship-game-after-30-years",
+      "domain": "fox5atlanta.com",
+      "date": "Nov 10, 2026"
+    },
+    {
+      "title": "How a 388 - vote discrepancy changed who won a Georgia House seat",
+      "url": "https://www.fox5atlanta.com/news/how-388-vote-discrepancy-changed-who-won-georgia-house-seat",
+      "domain": "fox5atlanta.com",
+      "date": "Nov 10, 2026"
+    },
+    {
+      "title": "Georgia College Students Use AI to Solve Problems for Burgeoning Town",
+      "url": "https://www.govtech.com/education/higher-ed/georgia-college-students-use-ai-to-solve-problems-for-burgeoning-town",
+      "domain": "govtech.com",
+      "date": "Nov 10, 2026"
+    },
+    {
+      "title": "Georgia health insurance costs soar as ER visits jump - WSB - TV Channel 2",
+      "url": "https://www.wsbtv.com/news/local/atlanta/nearly-500k-georgians-could-leave-aca-marketplace-premiums-climb/NKVCFPZIARALBHV23KXGVU4FVI/",
+      "domain": "wsbtv.com",
+      "date": "Nov 10, 2026"
+    },
+    {
+      "title": "Georgia next school superintendent wants major changes to how schools are funded \u2013 WSB - TV Channel 2",
+      "url": "https://www.wsbtv.com/news/local/atlanta/georgias-next-school-superintendent-wants-major-changes-how-schools-are-funded/JMB463ZVQFA4XPQNS2PV7MVQXI/",
+      "domain": "wsbtv.com",
+      "date": "Nov 10, 2026"
+    },
+    {
+      "title": "GA court order stops company from taking homeowners property",
+      "url": "https://www.wsbtv.com/news/local/ga-court-order-stops-company-taking-homeowners-property/W3AF6PBKCFDTBBVCDLIDOWENHE/",
+      "domain": "wsbtv.com",
+      "date": "Nov 10, 2026"
+    },
+    {
+      "title": "Georgia health officials urge flu shots two weeks before Thanksgiving",
+      "url": "https://www.fox5atlanta.com/news/georgia-health-officials-urge-flu-shots-two-weeks-before-thanksgiving",
+      "domain": "fox5atlanta.com",
+      "date": "Nov 10, 2026"
+    },
+    {
+      "title": "Gunner Stockton and No . 2 Georgia pound No . 10 Mississippi 42 - 7 to make case for top ranking | The Arkansas Democrat - Gazette",
+      "url": "https://www.arkansasonline.com/news/2026/nov/08/gunner-stockton-and-no-2-georgia-pound-no-10/",
+      "domain": "arkansasonline.com",
+      "date": "Nov 08, 2026"
+    },
+    {
+      "title": "Jyot Singh becomes first Sikh elected to Georgia Assembly",
+      "url": "https://www.rediff.com/news/report/jyot-singh-becomes-first-sikh-elected-to-georgia-assembly/20261106.htm",
+      "domain": "rediff.com",
+      "date": "Nov 06, 2026"
+    },
+    {
+      "title": "At least 80 rescued as historic flooding prompts state of emergency near Georgia - Tennessee state line",
+      "url": "https://www.aol.com/articles/least-80-rescued-historic-flooding-144434000.html",
+      "domain": "aol.com",
+      "date": "Nov 06, 2026"
+    },
+    {
+      "title": "Georgia governor and lieutenant governor election results",
+      "url": "https://www.wyff4.com/article/georgia-governor-lt-gov-election-results/74179709",
+      "domain": "wyff4.com",
+      "date": "Nov 04, 2026"
+    },
+    {
+      "title": "Drug addict turned yellow and bladder shrank to teaspoon - heartbreaking message",
+      "url": "https://www.aol.co.uk/articles/drug-addict-turned-yellow-bladder-101500000.html",
+      "domain": "aol.co.uk",
+      "date": "Oct 25, 2026"
+    },
+    {
+      "title": "Six Flags says it will install seat belts on Georgia roller coaster after rider death \u2013 The Press Democrat",
+      "url": "https://www.pressdemocrat.com/2026/10/24/six-flags-says-it-will-install-seat-belts-on-georgia-roller-coaster-after-riders-death/",
+      "domain": "pressdemocrat.com",
+      "date": "Oct 24, 2026"
+    },
+    {
+      "title": "Six Flags says it will install seat belts on Georgia roller coaster after rider death",
+      "url": "https://www.click2houston.com/news/national/2026/10/24/six-flags-says-it-will-install-seat-belts-on-georgia-roller-coaster-after-riders-death/",
+      "domain": "click2houston.com",
+      "date": "Oct 24, 2026"
+    },
+    {
+      "title": "Six Flags making change to  Goliath  coaster after dad fell to his death from 200 - foot ride",
+      "url": "https://nypost.com/2026/10/24/us-news/six-flags-making-change-to-goliath-coaster-after-dad-fell-to-his-death-from-200-foot-ride/",
+      "domain": "nypost.com",
+      "date": "Oct 24, 2026"
+    },
+    {
+      "title": "Horror movies , TV shows that were filmed in Georgia",
+      "url": "https://www.ajc.com/life/5-horror-movies-and-shows-filmed-in-georgia/RZ7FRBQA7FCF7MB6VCW3ADTOF4/",
+      "domain": "ajc.com",
+      "date": "Oct 24, 2026"
+    },
+    {
+      "title": "In 1994 , Georgia mixed damaged factory roofing shingles into Chatham Parkway asphalt ; later checks found the recycled road performing as well as its control",
+      "url": "https://economictimes.indiatimes.com/news/international/us/in-1994-georgia-mixed-damaged-factory-roofing-shingles-into-chatham-parkway-asphalt-later-checks-found-the-recycled-road-performing-as-well-as-its-control/articleshow/135147097.cms",
+      "domain": "economictimes.indiatimes.com",
+      "date": "Oct 24, 2026"
+    },
+    {
+      "title": "Georgia leaders call for kratom to be removed from stores as new legislation is considered",
+      "url": "https://www.wsbradio.com/news/local/georgia-leaders-call-kratom-be-removed-stores-new-legislation-is-considered/HRKQWB2ZY5GRHCT3ZPQOHEJUC4/",
+      "domain": "wsbradio.com",
+      "date": "Oct 23, 2026"
+    },
+    {
+      "title": "Georgia inmate dies of tuberculosis",
+      "url": "https://www.wsbtv.com/news/local/georgia-inmate-dies-tuberculosis/VQRBPN76BRDZ7BDM7TEGWN7ZSY/",
+      "domain": "wsbtv.com",
+      "date": "Oct 23, 2026"
+    },
+    {
+      "title": "Armenia Prosecutor General and Georgia Prime Minister discussed issues related to cooperation between the competent authorities of the two countries",
+      "url": "https://tert.am/en/news/2026/10/23/Armenian%20Prosecutor%20General%20Anna%20Vardapetyan/4287813",
+      "domain": "tert.am",
+      "date": "Oct 23, 2026"
+    },
+    {
+      "title": "Early Voting Lags in Rural Georgia",
+      "url": "https://politicalwire.com/2026/10/22/early-voting-lags-in-rural-georgia/",
+      "domain": "politicalwire.com",
+      "date": "Oct 23, 2026"
+    },
+    {
+      "title": "USDA drops rabies vaccine baits across north Georgia counties",
+      "url": "https://www.wsbtv.com/news/local/usda-drops-rabies-vaccine-baits-across-north-georgia-counties/PXFK3QH2RVCBDNZXTAVK6NVRK4/",
+      "domain": "wsbtv.com",
+      "date": "Oct 22, 2026"
+    },
+    {
+      "title": "Georgia secretary of state touts vote audits ahead of midterms :  We audit the fool out of it  \u2013 WSB - TV Channel 2",
+      "url": "https://www.wsbtv.com/news/local/georgias-secretary-state-touts-vote-audits-ahead-midterms-we-audit-fool-out-it/UCIRZFQHSFGKXBJ3UJS3H5QAHI/",
+      "domain": "wsbtv.com",
+      "date": "Oct 22, 2026"
+    },
+    {
+      "title": "Government continues talks with Azerbaijan , Armenia on border delimitation . Georgian PM",
+      "url": "https://tert.am/en/news/2026/10/22/Irakli%20Kobakhidze/4287685",
+      "domain": "tert.am",
+      "date": "Oct 22, 2026"
+    },
+    {
+      "title": "Georgia woman trying to stop roommate suicide attempt is fatally shot",
+      "url": "https://www.aol.com/articles/georgia-woman-trying-stop-roommate-005131000.html",
+      "domain": "aol.com",
+      "date": "Oct 22, 2026"
+    },
+    {
+      "title": "$1 million lottery ticket sold at metro Atlanta Kroger",
+      "url": "https://www.wsbtv.com/news/local/gwinnett-county/1-million-lottery-ticket-sold-metro-atlanta-kroger/L2N2OOIWOFFTVICWUDKQPJNQ7E/",
+      "domain": "wsbtv.com",
+      "date": "Oct 21, 2026"
+    },
+    {
+      "title": "Edwards and Tolbert spar over Georgia utility rate hikes",
+      "url": "https://www.fox5atlanta.com/news/edwards-tolbert-spar-over-georgia-utility-rate-hikes",
+      "domain": "fox5atlanta.com",
+      "date": "Oct 21, 2026"
+    },
+    {
+      "title": "Georgia Lt . Governor debate : Dolezal and McLaurin spar in Atlanta",
+      "url": "https://www.fox5atlanta.com/news/georgia-lt-governor-debate-dolezal-mclaurin-spar-atlanta",
+      "domain": "fox5atlanta.com",
+      "date": "Oct 21, 2026"
+    },
+    {
+      "title": "Hubbard challenges absent PSC rival in Atlanta debate",
+      "url": "https://www.fox5atlanta.com/news/hubbard-challenges-absent-psc-rival-atlanta-debate",
+      "domain": "fox5atlanta.com",
+      "date": "Oct 21, 2026"
+    },
+    {
+      "title": "Georgia secretary of state answers voter early voting questions",
+      "url": "https://www.fox5atlanta.com/news/georgia-secretary-state-answers-voters-early-voting-questions",
+      "domain": "fox5atlanta.com",
+      "date": "Oct 21, 2026"
+    },
+    {
+      "title": "Arab News | Georgia top court hears lawsuit to ban main opposition parties in latest crackdown on dissent",
+      "url": "https://www.arabnews.com/world/georgias-top-court-hears-lawsuit-to-ban-main-opposition-parties-in-latest-crackdown-on-dissent-3007594",
+      "domain": "arabnews.com",
+      "date": "Oct 21, 2026"
+    },
+    {
+      "title": "Georgia top court hears lawsuit to ban main opposition parties in latest crackdown on dissent \u2013 Winnipeg Free Press",
+      "url": "https://www.winnipegfreepress.com/world/2026/10/21/georgias-top-court-hears-lawsuit-to-ban-main-opposition-parties-in-latest-crackdown-on-dissent",
+      "domain": "winnipegfreepress.com",
+      "date": "Oct 21, 2026"
+    },
+    {
+      "title": "Georgia officials warn drivers to watch for tractors on rural roads",
+      "url": "https://www.walb.com/2026/10/21/slow-downjust-share-road-officials-urge-drivers-slow-down-safely-pass-tractors-during-harvest-season/",
+      "domain": "walb.com",
+      "date": "Oct 21, 2026"
+    },
+    {
+      "title": "Georgia Court Hears Ruling Party Bid to Ban Pro - EU Opposition",
+      "url": "https://www.kyivpost.com/post/87744",
+      "domain": "kyivpost.com",
+      "date": "Oct 21, 2026"
+    },
+    {
+      "title": "Geoheritage of Georgia",
+      "url": "https://link.springer.com/book/10.1007/978-3-032-27639-1",
+      "domain": "link.springer.com",
+      "date": "Oct 21, 2026"
+    },
+    {
+      "title": "Forever chemical in all of Georgia waterways that have been tested , group says",
+      "url": "https://www.wtoc.com/2026/10/20/forever-chemicals-all-georgia-waterways-that-have-been-tested-group-says/",
+      "domain": "wtoc.com",
+      "date": "Oct 21, 2026"
+    },
+    {
+      "title": "Successful Closure of the Left Half of the B3 Arch Bridge under Lot 2 of the Georgia North - South Corridor Highway Project",
+      "url": "https://www.manilatimes.net/2026/10/21/tmt-newswire/pr-newswire/successful-closure-of-the-left-half-of-the-b3-arch-bridge-under-lot-2-of-the-georgia-north-south-corridor-highway-project/2450361",
+      "domain": "manilatimes.net",
+      "date": "Oct 21, 2026"
+    },
+    {
+      "title": "Forever chemical found in Chattahoochee River , several other Georgia waterways \u2013 WSB - TV Channel 2",
+      "url": "https://www.wsbtv.com/news/local/forever-chemicals-found-chattahoochee-river-several-other-georgia-waterways/OKOMZBOIB5BEFPYRKXE7DHHFSM/",
+      "domain": "wsbtv.com",
+      "date": "Oct 21, 2026"
+    },
+    {
+      "title": "Jackson outlines vision for Georgia in bid for governor",
+      "url": "https://www.wtoc.com/2026/10/20/jackson-outlines-vision-georgia-bid-governor/",
+      "domain": "wtoc.com",
+      "date": "Oct 21, 2026"
+    },
+    {
+      "title": "Bottoms focuses campaign on affordability , calls for data center pause",
+      "url": "https://www.wtoc.com/2026/10/20/bottoms-focuses-campaign-affordability-calls-data-center-pause/",
+      "domain": "wtoc.com",
+      "date": "Oct 21, 2026"
+    },
+    {
+      "title": "Southwest Georgia awarded $12 . 5M grant to upgrade rail crossings , lines",
+      "url": "https://www.fox5atlanta.com/news/southwest-georgia-awarded-12-5m-grant-upgrade-rail-crossings-lines",
+      "domain": "fox5atlanta.com",
+      "date": "Oct 20, 2026"
+    },
+    {
+      "title": "Barack Obama To Join Keisha Lance Bottoms And Sen . Ossoff ATL Rally",
+      "url": "https://www.blackenterprise.com/barack-obama-keisha-lance-bottoms-ossoff-atlanta-rally/",
+      "domain": "blackenterprise.com",
+      "date": "Oct 20, 2026"
+    },
+    {
+      "title": "Previewing the 2026 American South Michelin Guide ceremony in Nashville",
+      "url": "https://www.ajc.com/food-and-dining/2026/10/michelin-guide-american-south-ceremony-2026/",
+      "domain": "ajc.com",
+      "date": "Oct 20, 2026"
+    },
+    {
+      "title": "Tracking early voting data in SC , NC , Georgia",
+      "url": "https://www.wyff4.com/article/early-voting-data-sc-nc-georgia/74193979",
+      "domain": "wyff4.com",
+      "date": "Oct 20, 2026"
+    },
+    {
+      "title": "Georgia Lottery players win big in Powerball drawing , online game",
+      "url": "https://www.wsbtv.com/news/local/georgia-lottery-players-win-big-powerball-drawing-online-game/5TAGI4GUNJAZBAJHDVL6EPQ4ZE/",
+      "domain": "wsbtv.com",
+      "date": "Oct 20, 2026"
+    },
+    {
+      "title": "Perry LongHorn Steakhouse Diners From October 7 Should Watch for Measles Symptoms Through October 28 After Georgia Alert",
+      "url": "https://www.medicaldaily.com/perry-longhorn-steakhouse-measles-exposure-october-7-georgia-480178",
+      "domain": "medicaldaily.com",
+      "date": "Oct 20, 2026"
+    },
+    {
+      "title": "Behind the scenes at Netherworld : 15 things to do this weekend",
+      "url": "https://www.ajc.com/accessatl/2026/10/behind-the-scenes-at-netherworld-weeknd-activities/",
+      "domain": "ajc.com",
+      "date": "Oct 20, 2026"
+    },
+    {
+      "title": "Iowa crime : Man wanted for violent Des Moines robbery arrested in Georgia",
+      "url": "https://www.kcci.com/article/us-marshals-arrest-des-moines-robbery-assault-suspect-in-georgia/74194678",
+      "domain": "kcci.com",
+      "date": "Oct 20, 2026"
+    },
+    {
+      "title": "DIALOGUE : Albany Links chapter hosts  Cupcakes , Cocktails and Fedoras for a Cure  to fund breast cancer screenings",
+      "url": "https://www.walb.com/2026/10/20/dialogue-albany-links-chapter-hosts-cupcakes-cocktails-fedoras-cure-fund-breast-cancer-screenings/",
+      "domain": "walb.com",
+      "date": "Oct 20, 2026"
+    },
+    {
+      "title": "Georgia Faces New Test As Court Weighs Ban On 5 Opposition Parties",
+      "url": "https://www.rferl.org/a/georgia-faces-new-test-as-court-weighs-ban-on-five-opposition-parties/33880171.html",
+      "domain": "rferl.org",
+      "date": "Oct 20, 2026"
+    },
+    {
+      "title": "Georgia Peanut Commission working to strengthen industry with research , education , promotion , and advocacy at 2026 Sunbelt Ag Expo",
+      "url": "https://www.walb.com/2026/10/14/georgia-peanut-commission-celebrates-georgias-agricultural-heritage-2026-sunbelt-ag-expo/",
+      "domain": "walb.com",
+      "date": "Oct 20, 2026"
+    },
+    {
+      "title": "AJC / UGA poll : Bottoms , Jackson in dead heat in Georgia governor race",
+      "url": "https://www.wsbtv.com/news/local/ajcuga-poll-bottoms-jackson-dead-heat-georgia-governor-race/76TN3NROXRG4HDILVYDUMJS4RQ/",
+      "domain": "wsbtv.com",
+      "date": "Oct 20, 2026"
+    },
+    {
+      "title": "Georgia midterm early voting : Over 940 , 000 cast ballots in first week",
+      "url": "https://www.fox5atlanta.com/news/georgia-midterm-early-voting-over-940000-cast-ballots-first-week",
+      "domain": "fox5atlanta.com",
+      "date": "Oct 20, 2026"
+    },
+    {
+      "title": "New THC caps threaten 225 , 800 jobs nationwide , up to $1B in Georgia sales",
+      "url": "https://www.fox5atlanta.com/news/new-thc-caps-threaten-225800-jobs-nationwide-up-1b-georgia-sales",
+      "domain": "fox5atlanta.com",
+      "date": "Oct 20, 2026"
+    },
+    {
+      "title": "Six Flags Over Georgia Guests More  Cautiou After Man Fatal Fall",
+      "url": "https://radaronline.com/p/six-flags-over-georgia-guests-cautious-fatal-fall-goliath/",
+      "domain": "radaronline.com",
+      "date": "Oct 20, 2026"
+    },
+    {
+      "title": "A top GOP election official just slapped down Trump big lie",
+      "url": "https://www.alternet.org/trump-election-georgia/",
+      "domain": "alternet.org",
+      "date": "Oct 19, 2026"
+    },
+    {
+      "title": "Trump mocks the name Mohammad in campaign speech",
+      "url": "https://www.fox4news.com/news/trump-mocks-name-mohammad-campaign-speech",
+      "domain": "fox4news.com",
+      "date": "Oct 19, 2026"
+    },
+    {
+      "title": "Georgia receives federal grant to improve child care nutrition",
+      "url": "https://www.fox5atlanta.com/news/georgia-receives-federal-grant-improve-child-care-nutrition",
+      "domain": "fox5atlanta.com",
+      "date": "Oct 19, 2026"
+    },
+    {
+      "title": "5 things you may have missed this week",
+      "url": "https://www.redandblack.com/athensnews/5-things-you-may-have-missed-this-week/article_a6cbf85c-2873-499c-ad46-2c9362e78db6.html",
+      "domain": "redandblack.com",
+      "date": "Oct 19, 2026"
+    },
+    {
+      "title": "Georgia Lottery player wins $125K jackpot",
+      "url": "https://www.wsbtv.com/news/local/georgia-lottery-player-wins-125k-jackpot/JBIMFUAOSNCAXAXPT5PEAZSXH4/",
+      "domain": "wsbtv.com",
+      "date": "Oct 19, 2026"
+    },
+    {
+      "title": "Not just Evan : Alex McPherson kicks critical game - winning field goal for Auburn against No . 1 Georgia",
+      "url": "https://www.wlwt.com/article/alex-mcpherson-kicks-critical-game-winning-field-goal-for-auburn/74171032",
+      "domain": "wlwt.com",
+      "date": "Oct 18, 2026"
+    },
+    {
+      "title": "Eric Dane describes terrifying moment daughter saved him from drowning in posthumous memoir",
+      "url": "https://pagesix.com/2026/10/18/celebrity-news/eric-dane-describes-terrifying-moment-daughter-saved-him-from-drowning-in-posthumous-memoir/",
+      "domain": "pagesix.com",
+      "date": "Oct 18, 2026"
+    },
+    {
+      "title": "In a First , 5 of Top 7 Teams Lose in 1 Day",
+      "url": "https://www.newser.com/story/398355/polls-top-7-bloc-has-worst-day-ever.html",
+      "domain": "newser.com",
+      "date": "Oct 18, 2026"
+    },
+    {
+      "title": "Alex McPherson kicks 34 - yard field goal as time expires to lift Auburn over No . 1 Georgia 27 - 24 | The Arkansas Democrat - Gazette",
+      "url": "https://www.arkansasonline.com/news/2026/oct/18/alex-mcpherson-kicks-34-yard-field-goal-as-time/",
+      "domain": "arkansasonline.com",
+      "date": "Oct 18, 2026"
+    },
+    {
+      "title": "Georgia Kirby Smart shares blunt response after Bulldog late collapse against Auburn",
+      "url": "https://www.thebiglead.com/georgias-kirby-smart-bulldogs-collapse-auburn/",
+      "domain": "thebiglead.com",
+      "date": "Oct 18, 2026"
+    },
+    {
+      "title": "Alex McPherson kicks 34 - yard field goal as time expires to lift Auburn over No . 1 Georgia 27 - 24",
+      "url": "https://www.pressdemocrat.com/2026/10/17/alex-mcpherson-kicks-34-yard-field-goal-as-time-expires-to-lift-auburn-over-no-1-georgia-27-24/",
+      "domain": "pressdemocrat.com",
+      "date": "Oct 18, 2026"
+    },
+    {
+      "title": "All the numbers behind Auburn stunning upset of No . 1 Georgia",
+      "url": "https://www.tsn.ca/ncaa/article/all-the-numbers-behind-auburns-stunning-upset-of-no-1-georgia-n1-50205300/",
+      "domain": "tsn.ca",
+      "date": "Oct 18, 2026"
+    },
+    {
+      "title": "Where Is The Oldest Roadside Welcome Center In America ?",
+      "url": "https://www.aol.com/articles/where-oldest-roadside-welcome-center-104500000.html",
+      "domain": "aol.com",
+      "date": "Oct 17, 2026"
+    },
+    {
+      "title": "No . 1 Georgia is expected to have Nate Frazier return at running back for SEC test against Auburn | The Arkansas Democrat - Gazette",
+      "url": "https://www.arkansasonline.com/news/2026/oct/17/no-1-georgia-is-expected-to-have-nate-frazier/",
+      "domain": "arkansasonline.com",
+      "date": "Oct 17, 2026"
+    },
+    {
+      "title": "Trump Falsely Says Election of Jon Ossoff Was Illegitimate",
+      "url": "https://politicalwire.com/2026/10/16/trump-falsely-says-election-of-jon-ossoff-was-illegitimate/",
+      "domain": "politicalwire.com",
+      "date": "Oct 17, 2026"
+    },
+    {
+      "title": "Georgia theme park sanitizes  Fright Fest  show after fatal coaster fall",
+      "url": "https://nypost.com/2026/10/16/us-news/georgia-theme-park-sanitizes-fright-fest-show-after-fatal-coaster-fall/",
+      "domain": "nypost.com",
+      "date": "Oct 16, 2026"
+    },
+    {
+      "title": "Trump Attacks Jon Ossoff Looks at Georgia Rally Interrupted by Protesters",
+      "url": "https://www.newsweek.com/trump-attacks-jon-ossoff-looks-georgia-rally-protestors-12582319",
+      "domain": "newsweek.com",
+      "date": "Oct 16, 2026"
+    },
+    {
+      "title": "Trump will rally Georgia Republicans despite party divisions in battleground state",
+      "url": "https://www.newsday.com/long-island/politics/trump-midterms-georgia-mike-collins-rick-jackson-g12122",
+      "domain": "newsday.com",
+      "date": "Oct 16, 2026"
+    },
+    {
+      "title": "Georgia Black Women Roundtable Launches  Overload the Polls  With Early Voting Push , Free Rides to Vote and Election Protection",
+      "url": "https://www.prnewswire.com:443/news-releases/georgia-black-womens-roundtable-launches-overload-the-polls-with-early-voting-push-free-rides-to-vote-and-election-protection-302910806.html",
+      "domain": "prnewswire.com",
+      "date": "Oct 16, 2026"
+    },
+    {
+      "title": "No . 1 Georgia is expected to have Nate Frazier return against Auburn",
+      "url": "https://www.wsbtv.com/news/local/no-1-georgia-is-expected-have-nate-frazier-return-against-auburn/CDHYKICP7BDVHEBB27DTKVJRCU/",
+      "domain": "wsbtv.com",
+      "date": "Oct 16, 2026"
+    },
+    {
+      "title": "President Donald Trump attending Georgia rally for Mike Collins , Rick Jackson today",
+      "url": "https://www.wsbtv.com/news/local/president-donald-trump-attending-georgia-rally-mike-collins-rick-jackson-today/ATMEJFQRLNAMFEKQWS2CB4MVKY/",
+      "domain": "wsbtv.com",
+      "date": "Oct 16, 2026"
+    },
+    {
+      "title": "Six Flags Over Georgia to reopen after Goliath roller coaster death",
+      "url": "https://www.fox10phoenix.com/news/six-flags-over-georgia-reopen-after-goliath-roller-coaster-death",
+      "domain": "fox10phoenix.com",
+      "date": "Oct 16, 2026"
+    },
+    {
+      "title": "Why the Georgia labor commissioner race could reshape worker rights and union rules",
+      "url": "https://www.fox5atlanta.com/news/why-georgia-labor-commissioner-race-could-reshape-worker-rights-union-rules",
+      "domain": "fox5atlanta.com",
+      "date": "Oct 16, 2026"
+    },
+    {
+      "title": "Six Flags Georgia Goliath : Zero violations found in March inspection",
+      "url": "https://www.fox5atlanta.com/news/six-flags-goliath-had-zero-violations-march-inspection-state-says",
+      "domain": "fox5atlanta.com",
+      "date": "Oct 16, 2026"
+    },
+    {
+      "title": "Georgia school chief candidates clash over literacy and voucher spending",
+      "url": "https://www.fox5atlanta.com/news/georgia-school-chief-candidates-clash-over-literacy-voucher-spending",
+      "domain": "fox5atlanta.com",
+      "date": "Oct 15, 2026"
+    },
+    {
+      "title": "Between the Hose : 40 Years After Auburn Soaked Georgia Fans in a Bitter Defeat",
+      "url": "https://pjmedia.com/chris-queen/2026/10/15/between-the-hoses-40-years-after-auburn-soaked-georgia-fans-in-a-bitter-defeat-n4958341",
+      "domain": "pjmedia.com",
+      "date": "Oct 15, 2026"
+    },
+    {
+      "title": "Most recent inspection of Six Flags roller coaster involved in fatal fall found no violations : Officials",
+      "url": "https://abc7chicago.com/story/most-recent-inspection-flags-roller-coaster-involved-fatal-fall-found-no-violations-officials/19940975/",
+      "domain": "abc7chicago.com",
+      "date": "Oct 15, 2026"
+    }
+  ]
 }
