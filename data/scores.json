@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-16T14:49:26.102624+00:00",
+  "generatedAt": "2026-11-17T01:35:21.049994+00:00",
   "source": "GDELT (news tone/volume, 3-day window) blended 50/50 with baseline",
   "countries": [
     {
@@ -37,28 +37,7 @@
       "regulatory": 10,
       "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [
-        {
-          "title": "Australia cricket captain Pat Cummins to speak about Usman Khawaja Sandpapergate revelations",
-          "url": "https://www.abc.net.au/news/2026-11-12/pat-cummins-to-respond-properly-to-usman-khawaja/107377786",
-          "domain": "abc.net.au"
-        },
-        {
-          "title": "Woman exposes Bali living costs after leaving Australia",
-          "url": "https://www.realestate.com.au/news/woman-exposes-bali-living-costs-after-leaving-australia/",
-          "domain": "realestate.com.au"
-        },
-        {
-          "title": "Summer Holidays are Non - Negotiable : Aussie and Kiwi Desire to Travel Remains Strong Despite Uncertainty",
-          "url": "https://www.thehindubusinessline.com/brandhub/pr-release/summer-holidays-are-non-negotiable-aussies-and-kiwis-desire-to-travel-remains-strong-despite-uncertainty/article71684826.ece",
-          "domain": "thehindubusinessline.com"
-        },
-        {
-          "title": "Australia to adopt  mandatory  AI safeguards",
-          "url": "https://www.channelnewsasia.com/world/australia-tightens-ai-overnight-rules-openai-breach-6537776",
-          "domain": "channelnewsasia.com"
-        }
-      ],
+      "headlines": [],
       "toneReading": "No recent coverage found.",
       "volumeReading": null
     },
@@ -71,28 +50,7 @@
       "regulatory": 20,
       "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [
-        {
-          "title": "Azerbaijan praises T\u00fcrkiye COP31 leadership , stresses need for tangible climate results",
-          "url": "https://www.trend.az/world/4245494.html",
-          "domain": "trend.az"
-        },
-        {
-          "title": "Azeri Light price exceeds $100 per barrel at Augusta port",
-          "url": "https://www.trend.az/azerbaijan/4245468.html",
-          "domain": "trend.az"
-        },
-        {
-          "title": "IDEA organizes tree - planting campaign in Gobustan ( PHOTO )",
-          "url": "https://www.trend.az/azerbaijan/4245457.html",
-          "domain": "trend.az"
-        },
-        {
-          "title": "Azerbaijani MFA congratulates Palestine on National Day",
-          "url": "https://www.trend.az/azerbaijan/4246634.html",
-          "domain": "trend.az"
-        }
-      ],
+      "headlines": [],
       "toneReading": "No recent coverage found.",
       "volumeReading": null
     },
@@ -155,7 +113,7 @@
       "conflict": 14,
       "economic": 26,
       "regulatory": 22,
-      "trend": "down",
+      "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
       "headlines": [],
       "toneReading": "No recent coverage found.",
@@ -229,36 +187,15 @@
     {
       "name": "Egypt",
       "region": "MENA",
-      "political": 46,
+      "political": 54,
       "conflict": 34,
       "economic": 56,
       "regulatory": 44,
-      "trend": "flat",
-      "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [
-        {
-          "title": "Defense Minister Katz warns :  Bringing Hamas sister movement into govt endangers Israel",
-          "url": "https://www.israelnationalnews.com/news/436216",
-          "domain": "israelnationalnews.com"
-        },
-        {
-          "title": "F1 racer Hamilton demands Israel lets aid into Gaza after Rafah crossing visit",
-          "url": "https://www.jpost.com/israel-news/article-914638",
-          "domain": "jpost.com"
-        },
-        {
-          "title": "F1 champion Lewis Hamilton visits Gaza border",
-          "url": "https://www.aljazeera.com/news/2026/11/10/f1-champion-lewis-hamilton-visits-gaza-border",
-          "domain": "aljazeera.com"
-        },
-        {
-          "title": "Rare Fayum portraits bring the faces of Roman Egypt to life in major Rome exhibition",
-          "url": "https://artdaily.com/news/202075/Rare-Fayum-portraits-bring-the-faces-of-Roman-Egypt-to-life-in-major-Rome-exhibition",
-          "domain": "artdaily.com"
-        }
-      ],
-      "toneReading": "No recent coverage found.",
-      "volumeReading": null
+      "trend": "up",
+      "note": "Live-updated from recent news coverage.",
+      "headlines": [],
+      "toneReading": "Coverage over the last 3 days has leaned negative.",
+      "volumeReading": "Coverage volume has been light this week."
     },
     {
       "name": "Ethiopia",
@@ -269,28 +206,7 @@
       "regulatory": 52,
       "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [
-        {
-          "title": "Ethiopia Mobilizes Global Partnerships , Climate Finance Ahead of COP32",
-          "url": "https://allafrica.com/stories/202611100060.html",
-          "domain": "allafrica.com"
-        },
-        {
-          "title": "Sudan : Proxy Politics and Border Clashes - an Escalating Crisis Between Sudan and Ethiopia",
-          "url": "https://allafrica.com/stories/202611100043.html",
-          "domain": "allafrica.com"
-        },
-        {
-          "title": "Ethiopia Green Legacy Showcases Commitment to Global Climate Action - Pmo Press Secretary",
-          "url": "https://allafrica.com/stories/202611130515.html",
-          "domain": "allafrica.com"
-        },
-        {
-          "title": "Hakim Adi  Pan - Africanism and Communism : A pro - Stalinist attempt to erase the Trotskyist alternative Part Eight",
-          "url": "https://www.wsws.org/en/articles/2026/11/10/uael-n10.html",
-          "domain": "wsws.org"
-        }
-      ],
+      "headlines": [],
       "toneReading": "No recent coverage found.",
       "volumeReading": null
     },
@@ -310,35 +226,14 @@
     {
       "name": "Georgia",
       "region": "Eurasia",
-      "political": 48,
+      "political": 49,
       "conflict": 30,
       "economic": 36,
       "regulatory": 38,
       "trend": "flat",
-      "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [
-        {
-          "title": "Georgia health insurance costs soar as ER visits jump - WSB - TV Channel 2",
-          "url": "https://www.wsbtv.com/news/local/atlanta/nearly-500k-georgians-could-leave-aca-marketplace-premiums-climb/NKVCFPZIARALBHV23KXGVU4FVI/",
-          "domain": "wsbtv.com"
-        },
-        {
-          "title": "Why Atlanta is losing the SEC championship game after 30 years",
-          "url": "https://www.fox5atlanta.com/news/why-atlanta-is-losing-sec-championship-game-after-30-years",
-          "domain": "fox5atlanta.com"
-        },
-        {
-          "title": "Raffensperger reflects on Georgia voting overhaul as term ends",
-          "url": "https://www.fox5atlanta.com/news/raffensperger-reflects-georgia-voting-overhaul-term-ends",
-          "domain": "fox5atlanta.com"
-        },
-        {
-          "title": "Georgia next school superintendent wants major changes to how schools are funded \u2013 WSB - TV Channel 2",
-          "url": "https://www.wsbtv.com/news/local/atlanta/georgias-next-school-superintendent-wants-major-changes-how-schools-are-funded/JMB463ZVQFA4XPQNS2PV7MVQXI/",
-          "domain": "wsbtv.com"
-        }
-      ],
-      "toneReading": "No recent coverage found.",
+      "note": "Live-updated from recent news coverage.",
+      "headlines": [],
+      "toneReading": "Coverage over the last 3 days has been mixed or neutral.",
       "volumeReading": null
     },
     {
@@ -361,7 +256,7 @@
       "conflict": 84,
       "economic": 78,
       "regulatory": 82,
-      "trend": "up",
+      "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
       "headlines": [],
       "toneReading": "No recent coverage found.",
@@ -428,7 +323,28 @@
       "regulatory": 17,
       "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [],
+      "headlines": [
+        {
+          "title": "Meta fined $887M in Italy over Android gallery photos , videos on Facebook",
+          "url": "https://abcnews.com/Technology/wireStory/meta-fined-887-million-italy-android-gallery-photos-138145127",
+          "domain": "abcnews.com"
+        },
+        {
+          "title": "74 - Year - Old Former Red Brigades Marxist Escapes House Arrest in Argentina",
+          "url": "https://www.kyivpost.com/post/89846",
+          "domain": "kyivpost.com"
+        },
+        {
+          "title": "Hakim Adi  Pan - Africanism and Communism : A pro - Stalinist attempt to erase the Trotskyist alternative Part Eight",
+          "url": "https://www.wsws.org/en/articles/2026/11/10/uael-n10.html",
+          "domain": "wsws.org"
+        },
+        {
+          "title": "Business : Italy launches business hub to strengthen Uganda",
+          "url": "https://www.newvision.co.ug/category/business/italy-launches-business-hub-to-strengthen-uga-NV_243868_112026",
+          "domain": "newvision.co.ug"
+        }
+      ],
       "toneReading": "No recent coverage found.",
       "volumeReading": null
     },
@@ -439,30 +355,9 @@
       "conflict": 10,
       "economic": 22,
       "regulatory": 14,
-      "trend": "down",
+      "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [
-        {
-          "title": "Russia Justifies Control of Japan Tobacco Assets",
-          "url": "https://www.nippon.com/en/articles/-/57304",
-          "domain": "nippon.com"
-        },
-        {
-          "title": "Yankii  Fashion for Coming - of - Age Ceremony Showcased in London",
-          "url": "https://www.nippon.com/en/articles/-/57307",
-          "domain": "nippon.com"
-        },
-        {
-          "title": "Seventeen Junghan , Joshua cinch  gold  in Japan",
-          "url": "https://www.koreaherald.com/article/10933415",
-          "domain": "koreaherald.com"
-        },
-        {
-          "title": "Japan to provide coastal radar and drones to the Philippines under US$27mil deal",
-          "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/11/10/japan-to-provide-coastal-radar-and-drones-to-the-philippines-under-us27mil-deal",
-          "domain": "thestar.com.my"
-        }
-      ],
+      "headlines": [],
       "toneReading": "No recent coverage found.",
       "volumeReading": null
     },
@@ -503,15 +398,15 @@
     {
       "name": "Kazakhstan",
       "region": "Eurasia",
-      "political": 32,
+      "political": 34,
       "conflict": 20,
       "economic": 34,
       "regulatory": 36,
       "trend": "flat",
-      "note": "Live-updated from recent news coverage.",
+      "note": "No fresh coverage this cycle; showing baseline.",
       "headlines": [],
-      "toneReading": "Coverage over the last 3 days has leaned positive.",
-      "volumeReading": "Coverage volume has been light this week."
+      "toneReading": "No recent coverage found.",
+      "volumeReading": null
     },
     {
       "name": "Kenya",
@@ -529,14 +424,14 @@
     {
       "name": "Lebanon",
       "region": "MENA",
-      "political": 66,
+      "political": 65,
       "conflict": 34,
       "economic": 64,
       "regulatory": 20,
       "trend": "flat",
-      "note": "Live-updated from recent news coverage.",
+      "note": "No fresh coverage this cycle; showing baseline.",
       "headlines": [],
-      "toneReading": "Coverage over the last 3 days has leaned negative.",
+      "toneReading": "No recent coverage found.",
       "volumeReading": null
     },
     {
@@ -598,7 +493,7 @@
       "conflict": 20,
       "economic": 38,
       "regulatory": 18,
-      "trend": "down",
+      "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
       "headlines": [],
       "toneReading": "No recent coverage found.",
@@ -607,36 +502,15 @@
     {
       "name": "Myanmar",
       "region": "Southeast Asia",
-      "political": 70,
+      "political": 82,
       "conflict": 78,
       "economic": 72,
       "regulatory": 70,
-      "trend": "flat",
-      "note": "Live-updated from recent news coverage.",
-      "headlines": [
-        {
-          "title": "India , Myanmar conclude inaugural tri - services HADR exercise  Rahat Mitra  in Chennai",
-          "url": "https://www.dailyexcelsior.com/india-myanmar-conclude-inaugural-tri-services-hadr-exercise-rahat-mitra-in-chennai/",
-          "domain": "dailyexcelsior.com"
-        },
-        {
-          "title": "Myanmar Small Oil Fields Become a Prize as Fuel Prices Rise",
-          "url": "https://econotimes.com/Myanmar-s-Small-Oil-Fields-Become-a-Prize-as-Fuel-Prices-Rise-1774996",
-          "domain": "econotimes.com"
-        },
-        {
-          "title": "US national links arrest to Russia - Ukraine war , affidavit alleges assault inside Tihar | Delhi News",
-          "url": "https://timesofindia.indiatimes.com/city/delhi/us-national-links-arrest-to-russia-ukraine-war-affidavit-alleges-assault-inside-tihar/articleshow/135718008.cms",
-          "domain": "timesofindia.indiatimes.com"
-        },
-        {
-          "title": "Singapore PM calls for setting up of regional platform to tackle haze issue",
-          "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/11/16/singapore-pm-calls-for-setting-up-of-regional-platform-to-tackle-haze-issue",
-          "domain": "thestar.com.my"
-        }
-      ],
-      "toneReading": "Coverage over the last 3 days has been mixed or neutral.",
-      "volumeReading": "Coverage volume has been light this week."
+      "trend": "up",
+      "note": "No fresh coverage this cycle; showing baseline.",
+      "headlines": [],
+      "toneReading": "No recent coverage found.",
+      "volumeReading": null
     },
     {
       "name": "Nigeria",
@@ -647,7 +521,28 @@
       "regulatory": 50,
       "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [],
+      "headlines": [
+        {
+          "title": "Lookman ruled out of Tanzania return leg with knee ligament sprain",
+          "url": "https://www.vanguardngr.com/2026/11/lookman-ruled-out-of-tanzania-return-leg-with-knee-ligament-sprain/",
+          "domain": "vanguardngr.com"
+        },
+        {
+          "title": "Flamingos : Presidency , Obi bicker over access to players at Abuja airport",
+          "url": "https://www.vanguardngr.com/2026/11/flamingos-presidency-obi-bicker-over-access-to-players-at-abuja-airport/",
+          "domain": "vanguardngr.com"
+        },
+        {
+          "title": "Tanzania / Nigeria : Nigeria Vs Tanzania Live Updates - Super Eagles Seek Crucial Victory in Uyo",
+          "url": "https://allafrica.com/stories/202611130518.html",
+          "domain": "allafrica.com"
+        },
+        {
+          "title": "U - 23 AFCONQ : Nigeria suffer 2 - 0 defeat to DR Congo in first leg",
+          "url": "https://www.vanguardngr.com/2026/11/u-23-afconq-nigeria-suffer-2-0-defeat-to-dr-congo-in-first-leg/",
+          "domain": "vanguardngr.com"
+        }
+      ],
       "toneReading": "No recent coverage found.",
       "volumeReading": null
     },
@@ -673,28 +568,7 @@
       "regulatory": 50,
       "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [
-        {
-          "title": "PM urges Iran conflict de - escalation in meeting with Pezeshkian",
-          "url": "https://dunyanews.tv/en/Pakistan/982437-pm-urges-iran-conflict-deescalation-in-meeting-with-pezeshkian",
-          "domain": "dunyanews.tv"
-        },
-        {
-          "title": "10 Police , 18 Militants Killed in Pakistan Northwest",
-          "url": "https://english.aawsat.com/world/5340344-10-police-18-militants-killed-pakistans-northwest",
-          "domain": "english.aawsat.com"
-        },
-        {
-          "title": "NIA to probe online radicalisation of youths by Pak - based gangster",
-          "url": "https://www.hindustantimes.com/india-news/nia-to-probe-online-radicalisation-of-youths-by-pak-based-gangster-101794465456090.html",
-          "domain": "hindustantimes.com"
-        },
-        {
-          "title": "At COP31 summit , PM stresses Pakistan requires $188billion to meet clean energy goals",
-          "url": "https://dunyanews.tv/en/Pakistan/982404-at-cop31-summit-pm-stresses-pakistan-requires-188billion-to-meet-cle",
-          "domain": "dunyanews.tv"
-        }
-      ],
+      "headlines": [],
       "toneReading": "No recent coverage found.",
       "volumeReading": null
     },
@@ -740,28 +614,49 @@
     {
       "name": "Qatar",
       "region": "MENA",
-      "political": 47,
+      "political": 34,
       "conflict": 14,
       "economic": 22,
       "regulatory": 16,
-      "trend": "up",
-      "note": "Live-updated from recent news coverage.",
+      "trend": "down",
+      "note": "No fresh coverage this cycle; showing baseline.",
       "headlines": [],
-      "toneReading": "Coverage over the last 3 days has leaned negative.",
+      "toneReading": "No recent coverage found.",
       "volumeReading": null
     },
     {
       "name": "Russia",
       "region": "Europe",
-      "political": 58,
+      "political": 60,
       "conflict": 74,
       "economic": 64,
       "regulatory": 76,
       "trend": "flat",
-      "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [],
-      "toneReading": "No recent coverage found.",
-      "volumeReading": null
+      "note": "Live-updated from recent news coverage.",
+      "headlines": [
+        {
+          "title": "Russian ambassador to US , Alexander Darchiev , dies at 66",
+          "url": "https://pmnewsnigeria.com/2026/11/11/russian-ambassador-to-us-alexander-darchiev-dies-at-66/",
+          "domain": "pmnewsnigeria.com"
+        },
+        {
+          "title": "Spate of deadly bear attacks in Russia leaves 35 people dead",
+          "url": "https://www.freemalaysiatoday.com/category/world/2026/11/12/spate-of-deadly-bear-attacks-in-russia-leaves-35-people-dead",
+          "domain": "freemalaysiatoday.com"
+        },
+        {
+          "title": "US officials seek  final end  to Russia - Ukraine war as Abu Dhabi talks begin | Ukraine",
+          "url": "https://www.theguardian.com/world/2026/nov/10/us-officials-russia-ukraine-war-abu-dhabi-talks",
+          "domain": "theguardian.com"
+        },
+        {
+          "title": "US officials seek  final end  to Russia - Ukraine war as Abu Dhabi talks begin",
+          "url": "https://www.aol.co.uk/articles/us-officials-seek-final-end-050029000.html",
+          "domain": "aol.co.uk"
+        }
+      ],
+      "toneReading": "Coverage over the last 3 days has leaned negative.",
+      "volumeReading": "Coverage volume has been unusually high this week."
     },
     {
       "name": "Saudi Arabia",
@@ -779,28 +674,49 @@
     {
       "name": "Serbia",
       "region": "Europe",
-      "political": 52,
+      "political": 39,
       "conflict": 34,
       "economic": 43,
       "regulatory": 40,
-      "trend": "up",
-      "note": "Live-updated from recent news coverage.",
-      "headlines": [],
-      "toneReading": "Coverage over the last 3 days has leaned negative.",
-      "volumeReading": "Coverage volume has been light this week."
-    },
-    {
-      "name": "Singapore",
-      "region": "Southeast Asia",
-      "political": 8,
-      "conflict": 4,
-      "economic": 10,
-      "regulatory": 8,
-      "trend": "flat",
+      "trend": "down",
       "note": "No fresh coverage this cycle; showing baseline.",
       "headlines": [],
       "toneReading": "No recent coverage found.",
       "volumeReading": null
+    },
+    {
+      "name": "Singapore",
+      "region": "Southeast Asia",
+      "political": 30,
+      "conflict": 4,
+      "economic": 10,
+      "regulatory": 8,
+      "trend": "up",
+      "note": "Live-updated from recent news coverage.",
+      "headlines": [
+        {
+          "title": "Is Singapore still South - east Asia headquarters haven ?",
+          "url": "https://www.businesstimes.com.sg/singapore/economy-policy/singapore-still-south-east-asias-headquarters-haven",
+          "domain": "businesstimes.com.sg"
+        },
+        {
+          "title": "Nvidia CEO probe and Singapore ties : Will future chip orders suffer ?",
+          "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/11/11/nvidias-ceo-probe-and-singapore-ties-will-future-chip-orders-suffer",
+          "domain": "thestar.com.my"
+        },
+        {
+          "title": "Tossing your old textbooks ? Donate or score preloved ones at FairPrice Share - A - Textbook",
+          "url": "https://www.asiaone.com:443/singapore/share-a-textbook-donation-fairprice",
+          "domain": "asiaone.com"
+        },
+        {
+          "title": "Vocalbeats . AI Partners with AI Singapore to Support AI Talent Development Through Hands - On Industry Projects",
+          "url": "https://www.manilatimes.net/2026/11/10/tmt-newswire/globenewswire/vocalbeatsai-partners-with-ai-singapore-to-support-ai-talent-development-through-hands-on-industry-projects/2465891",
+          "domain": "manilatimes.net"
+        }
+      ],
+      "toneReading": "Coverage over the last 3 days has been mixed or neutral.",
+      "volumeReading": "Coverage volume has been unusually high this week."
     },
     {
       "name": "Somalia",
@@ -831,14 +747,14 @@
     {
       "name": "South Korea",
       "region": "East Asia",
-      "political": 41,
+      "political": 30,
       "conflict": 24,
       "economic": 20,
       "regulatory": 18,
-      "trend": "up",
-      "note": "Live-updated from recent news coverage.",
+      "trend": "down",
+      "note": "No fresh coverage this cycle; showing baseline.",
       "headlines": [],
-      "toneReading": "Coverage over the last 3 days has been mixed or neutral.",
+      "toneReading": "No recent coverage found.",
       "volumeReading": null
     },
     {
@@ -850,7 +766,28 @@
       "regulatory": 38,
       "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [],
+      "headlines": [
+        {
+          "title": "CA Sri Lanka membership crosses 10 , 000 milestone",
+          "url": "https://www.ft.lk/hr/CA-Sri-Lanka-membership-crosses-10-000-milestone/47-799987",
+          "domain": "ft.lk"
+        },
+        {
+          "title": "We opened the door to trade first . Then we stood still",
+          "url": "https://www.ft.lk/columns/We-opened-the-door-to-trade-first-Then-we-stood-still/4-799992",
+          "domain": "ft.lk"
+        },
+        {
+          "title": "As Washington - Colombo ties strengthen , China exits Sri Lankan port project",
+          "url": "https://www.wsws.org/en/articles/2026/11/11/jzel-n11.html",
+          "domain": "wsws.org"
+        },
+        {
+          "title": "Indian Health Minister in town",
+          "url": "https://www.ft.lk/news/Indian-Health-Minister-in-town/56-799961",
+          "domain": "ft.lk"
+        }
+      ],
       "toneReading": "No recent coverage found.",
       "volumeReading": null
     },
@@ -861,7 +798,7 @@
       "conflict": 94,
       "economic": 86,
       "regulatory": 80,
-      "trend": "up",
+      "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
       "headlines": [],
       "toneReading": "No recent coverage found.",
@@ -889,55 +826,34 @@
       "regulatory": 20,
       "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [
-        {
-          "title": "Unfazed by Taiwan suspending investment talks , Anwar says numbers going up",
-          "url": "https://www.malaysiakini.com/news/888950-anwar-unfazed-by-taiwan-suspending-investment-talks-says-numbers-going-up",
-          "domain": "malaysiakini.com"
-        },
-        {
-          "title": "G7 Foreign Ministers say China actions east of Taiwan threaten stability",
-          "url": "https://www.thehindu.com/news/international/g7-foreign-ministers-say-chinas-actions-east-of-taiwan-threaten-stability/article71692205.ece",
-          "domain": "thehindu.com"
-        },
-        {
-          "title": "China Xi says Taiwan  reunification  must happen as history cannot be stopped",
-          "url": "https://www.koreatimes.co.kr/world/20261112/chinas-xi-says-taiwan-reunification-must-happen-as-history-cannot-be-stopped",
-          "domain": "koreatimes.co.kr"
-        },
-        {
-          "title": "Taiwan and Thailand : Manufacturing Smarter , Competing Stronger at METALEX 2026",
-          "url": "https://www.manilatimes.net/2026/11/10/tmt-newswire/pr-newswire/taiwan-and-thailand-manufacturing-smarter-competing-stronger-at-metalex-2026/2465953",
-          "domain": "manilatimes.net"
-        }
-      ],
+      "headlines": [],
       "toneReading": "No recent coverage found.",
       "volumeReading": null
     },
     {
       "name": "Thailand",
       "region": "Southeast Asia",
-      "political": 40,
+      "political": 46,
       "conflict": 26,
       "economic": 32,
       "regulatory": 34,
-      "trend": "flat",
-      "note": "No fresh coverage this cycle; showing baseline.",
+      "trend": "up",
+      "note": "Live-updated from recent news coverage.",
       "headlines": [],
-      "toneReading": "No recent coverage found.",
+      "toneReading": "Coverage over the last 3 days has been mixed or neutral.",
       "volumeReading": null
     },
     {
       "name": "Turkey",
       "region": "Europe",
-      "political": 52,
+      "political": 51,
       "conflict": 38,
       "economic": 60,
       "regulatory": 48,
       "trend": "flat",
-      "note": "No fresh coverage this cycle; showing baseline.",
+      "note": "Live-updated from recent news coverage.",
       "headlines": [],
-      "toneReading": "No recent coverage found.",
+      "toneReading": "Coverage over the last 3 days has been mixed or neutral.",
       "volumeReading": null
     },
     {
@@ -962,28 +878,7 @@
       "regulatory": 58,
       "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [
-        {
-          "title": "Jared Kushner Claims Trump Is  Determined  to End Ukraine War",
-          "url": "https://radaronline.com/p/jared-kushner-trump-determined-end-ukraine-russia-war/",
-          "domain": "radaronline.com"
-        },
-        {
-          "title": "Ukraine claims record 3 , 000 Russian casualties in one day as war drags on",
-          "url": "https://www.aljazeera.com/news/2026/11/13/russias-demands-come-from-different-reality-as-war-efforts-stagnates",
-          "domain": "aljazeera.com"
-        },
-        {
-          "title": "US - brokered talks are set to start in Abu Dhabi to discuss Ukraine - Russia peace deal",
-          "url": "https://www.clickondetroit.com/news/world/2026/11/10/us-brokered-talks-are-set-to-start-in-abu-dhabi-to-discuss-ukraine-russia-peace-deal/",
-          "domain": "clickondetroit.com"
-        },
-        {
-          "title": "US - brokered talks are set to start in Abu Dhabi to discuss Ukraine - Russia peace deal \u2013 Winnipeg Free Press",
-          "url": "https://www.winnipegfreepress.com/world/2026/11/10/us-brokered-talks-are-set-to-start-in-abu-dhabi-to-discuss-ukraine-russia-peace-deal",
-          "domain": "winnipegfreepress.com"
-        }
-      ],
+      "headlines": [],
       "toneReading": "No recent coverage found.",
       "volumeReading": null
     },
@@ -1035,7 +930,28 @@
       "regulatory": 30,
       "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [],
+      "headlines": [
+        {
+          "title": "Vietnam , Indonesia can shape the future of ASEAN - Academia",
+          "url": "http://www.thejakartapost.com/opinion/2026/11/13/vietnam-indonesia-can-shape-the-future-of-asean",
+          "domain": "thejakartapost.com"
+        },
+        {
+          "title": "Budget airline launches routes between Vietnam and Cebu , Clark",
+          "url": "https://www.philstar.com/lifestyle/travel-and-tourism/2026/11/12/2569441/budget-airline-launches-routes-between-vietnam-and-cebu-clark",
+          "domain": "philstar.com"
+        },
+        {
+          "title": "Vietnam veteran hat sparks love story between two Bay Area veterans at the gas pump",
+          "url": "https://www.fox13news.com/news/vietnam-veteran-hat-sparks-love-story-between-two-bay-area-veterans-gas-pump",
+          "domain": "fox13news.com"
+        },
+        {
+          "title": "Long Island Vietnam vets get rousing applause at Veterans Day ceremony at Calverton National Cemetery",
+          "url": "https://www.newsday.com/long-island/suffolk/veterans-day-calverton-ceremony-xpd6zklf",
+          "domain": "newsday.com"
+        }
+      ],
       "toneReading": "No recent coverage found.",
       "volumeReading": null
     },
@@ -1048,28 +964,7 @@
       "regulatory": 74,
       "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [
-        {
-          "title": "Saudi - led coalition says it intercepted Houthi attacks",
-          "url": "https://www.jpost.com/middle-east/article-914398",
-          "domain": "jpost.com"
-        },
-        {
-          "title": "Saudi intercepts two ballistic missiles fired towards Riyadh",
-          "url": "https://www.omanobserver.om/article/1199693/world/region/saudi-intercepts-two-ballistic-missiles-fired-towards-riyadh",
-          "domain": "omanobserver.om"
-        },
-        {
-          "title": "UN says over 333 , 000 displaced in Yemen since August",
-          "url": "https://aa.com.tr/en/middle-east/un-says-over-333-000-displaced-in-yemen-since-august/4123525",
-          "domain": "aa.com.tr"
-        },
-        {
-          "title": "Saudi Arabia says debris from intercepted missiles fell in Mecca region",
-          "url": "https://www.freemalaysiatoday.com/category/world/2026/11/12/saudi-arabia-says-debris-from-intercepted-missiles-falls-in-mecca-region",
-          "domain": "freemalaysiatoday.com"
-        }
-      ],
+      "headlines": [],
       "toneReading": "No recent coverage found.",
       "volumeReading": null
     },
@@ -1088,6 +983,30 @@
     }
   ],
   "alerts": [
+    {
+      "name": "Turkey",
+      "from": "ELEVATED",
+      "to": "GUARDED",
+      "at": "2026-11-17T01:35:21.049994+00:00"
+    },
+    {
+      "name": "South Korea",
+      "from": "GUARDED",
+      "to": "LOW",
+      "at": "2026-11-17T01:35:21.049994+00:00"
+    },
+    {
+      "name": "Myanmar",
+      "from": "HIGH",
+      "to": "SEVERE",
+      "at": "2026-11-17T01:35:21.049994+00:00"
+    },
+    {
+      "name": "Qatar",
+      "from": "GUARDED",
+      "to": "LOW",
+      "at": "2026-11-17T01:35:21.049994+00:00"
+    },
     {
       "name": "South Korea",
       "from": "LOW",
@@ -1240,30 +1159,6 @@
     },
     {
       "name": "France",
-      "from": "GUARDED",
-      "to": "LOW",
-      "at": "2026-11-14T21:58:35.401120+00:00"
-    },
-    {
-      "name": "South Korea",
-      "from": "GUARDED",
-      "to": "LOW",
-      "at": "2026-11-14T21:58:35.401120+00:00"
-    },
-    {
-      "name": "Indonesia",
-      "from": "LOW",
-      "to": "GUARDED",
-      "at": "2026-11-14T21:58:35.401120+00:00"
-    },
-    {
-      "name": "Ethiopia",
-      "from": "HIGH",
-      "to": "ELEVATED",
-      "at": "2026-11-14T21:58:35.401120+00:00"
-    },
-    {
-      "name": "Poland",
       "from": "GUARDED",
       "to": "LOW",
       "at": "2026-11-14T21:58:35.401120+00:00"
