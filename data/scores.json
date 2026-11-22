@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-22T05:09:08.956544+00:00",
+  "generatedAt": "2026-11-22T14:03:37.313032+00:00",
   "source": "GDELT (news tone/volume, 3-day window) blended 50/50 with baseline",
   "countries": [
     {
@@ -35,7 +35,7 @@
       "conflict": 8,
       "economic": 13,
       "regulatory": 10,
-      "trend": "down",
+      "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
       "headlines": [],
       "toneReading": "No recent coverage found.",
@@ -52,7 +52,7 @@
       "note": "Live-updated from recent news coverage.",
       "headlines": [],
       "toneReading": "Coverage over the last 3 days has been mixed or neutral.",
-      "volumeReading": null
+      "volumeReading": "Coverage volume has been unusually high this week."
     },
     {
       "name": "Bangladesh",
@@ -63,7 +63,28 @@
       "regulatory": 42,
       "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [],
+      "headlines": [
+        {
+          "title": "Bangladesh textile export growth to outpace Pakistan by over threefold through 2035 : Report",
+          "url": "https://www.businesstoday.in/world/story/bangladeshs-textile-export-growth-to-outpace-pakistan-by-over-threefold-through-2035-report-568605-2026-11-20",
+          "domain": "businesstoday.in"
+        },
+        {
+          "title": "India - Bangladesh Ties Tested by Hasina and Ganges Treaty",
+          "url": "https://indiawest.com/hasina-factor-ganges-treaty-put-india-bangladesh-ties-to-test/",
+          "domain": "indiawest.com"
+        },
+        {
+          "title": "Bangladesh Minister vows action against those behind\u00a0 arson , blames Awami League - linked groups : reports",
+          "url": "https://www.dailyexcelsior.com/bangladesh-minister-vows-action-against-those-behind-arson-blames-awami-league-linked-groups-reports/",
+          "domain": "dailyexcelsior.com"
+        },
+        {
+          "title": "Bangladesh PM Blames Sheikh Hasina Party For Fresh Violence",
+          "url": "https://www.deccanchronicle.com/world/bangladesh-pm-blames-sheikh-hasinas-party-for-fresh-violence-2006115",
+          "domain": "deccanchronicle.com"
+        }
+      ],
       "toneReading": "No recent coverage found.",
       "volumeReading": null
     },
@@ -115,7 +136,28 @@
       "regulatory": 22,
       "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [],
+      "headlines": [
+        {
+          "title": "Takaichi meets leaders of Peru , Chile to discuss critical mineral supply chains",
+          "url": "https://japantoday.com/category/politics/update2-japan-peru-agree-to-promote-cooperation-on-critical-mineral-supply-chains",
+          "domain": "japantoday.com"
+        },
+        {
+          "title": "The great data centre slowdown has begun",
+          "url": "https://www.straitstimes.com/opinion/the-great-data-centre-slowdown-has-begun",
+          "domain": "straitstimes.com"
+        },
+        {
+          "title": "Colombian climate activist , 17 , wins International Children Peace Prize after death threats forced him into exile",
+          "url": "https://www.manilatimes.net/2026/11/20/tmt-newswire/pr-newswire/colombian-climate-activist-17-wins-international-childrens-peace-prize-after-death-threats-forced-him-into-exile/2474505",
+          "domain": "manilatimes.net"
+        },
+        {
+          "title": "Global wine production remains near lowest levels in decades",
+          "url": "https://www.fox13now.com/weather/global-wine-production-remains-near-lowest-levels-in-decades",
+          "domain": "fox13now.com"
+        }
+      ],
       "toneReading": "No recent coverage found.",
       "volumeReading": null
     },
@@ -135,14 +177,35 @@
     {
       "name": "Colombia",
       "region": "Latin America",
-      "political": 53,
+      "political": 48,
       "conflict": 56,
       "economic": 38,
       "regulatory": 40,
-      "trend": "up",
-      "note": "Live-updated from recent news coverage.",
-      "headlines": [],
-      "toneReading": "Coverage over the last 3 days has been mixed or neutral.",
+      "trend": "down",
+      "note": "No fresh coverage this cycle; showing baseline.",
+      "headlines": [
+        {
+          "title": "Apostolic nuncio begins mission in Colombia , meets with President de la Espriella | News Headlines",
+          "url": "https://www.catholicculture.org/news/headlines/index.cfm?storyid=71326",
+          "domain": "catholicculture.org"
+        },
+        {
+          "title": "Carmel Valley woman describes  chao getting home after nationwide ground stop",
+          "url": "https://www.10news.com/news/local-news/carmel-valley-woman-describes-chaos-getting-home-after-nationwide-ground-stop",
+          "domain": "10news.com"
+        },
+        {
+          "title": "Colombian climate activist , 17 , wins International Children Peace Prize after death threats forced him into exile",
+          "url": "https://www.manilatimes.net/2026/11/20/tmt-newswire/pr-newswire/colombian-climate-activist-17-wins-international-childrens-peace-prize-after-death-threats-forced-him-into-exile/2474505",
+          "domain": "manilatimes.net"
+        },
+        {
+          "title": "Jalisco Connects the World Cuisines Through The 50 Best Gastronomic Experiences",
+          "url": "https://www.prnewswire.com/news-releases/jalisco-connects-the-worlds-cuisines-through-the-50-best-gastronomic-experiences-302947332.html",
+          "domain": "prnewswire.com"
+        }
+      ],
+      "toneReading": "No recent coverage found.",
       "volumeReading": null
     },
     {
@@ -178,7 +241,7 @@
       "conflict": 57,
       "economic": 36,
       "regulatory": 13,
-      "trend": "down",
+      "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
       "headlines": [],
       "toneReading": "No recent coverage found.",
@@ -193,28 +256,7 @@
       "regulatory": 44,
       "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [
-        {
-          "title": "Street Prophets Coffee Hour : Kings and gods in Ancient Egypt",
-          "url": "https://www.dailykos.com/stories/2026/11/19/800117251/community/street-prophets-coffee-hour-kings-and-gods-in-ancient-egypt/",
-          "domain": "dailykos.com"
-        },
-        {
-          "title": "Defense Minister Katz warns :  Bringing Hamas sister movement into govt endangers Israel",
-          "url": "https://www.israelnationalnews.com/news/436216",
-          "domain": "israelnationalnews.com"
-        },
-        {
-          "title": "Egyptian Music Star Mohamed Mounir Gets Biopic \u2013 Doha Industry Days",
-          "url": "https://deadline.com/2026/11/egyptian-music-star-mohamed-mounir-biopic-doha-1237230880/",
-          "domain": "deadline.com"
-        },
-        {
-          "title": "Congress gives posthumous gold medal to former Egyptian president Sadat",
-          "url": "https://www.clevelandjewishnews.com/jns/congress-gives-posthumous-gold-medal-to-former-egyptian-president-sadat/article_24e243f4-0650-5a65-98fa-6ac3d3f0bd69.html",
-          "domain": "clevelandjewishnews.com"
-        }
-      ],
+      "headlines": [],
       "toneReading": "No recent coverage found.",
       "volumeReading": null
     },
@@ -240,22 +282,43 @@
       "regulatory": 24,
       "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [],
+      "headlines": [
+        {
+          "title": "Fast French , car necessities , and citizenship : 6 essential articles for life in France",
+          "url": "https://www.thelocal.fr/20261122/fast-french-car-necessities-and-citizenship-6-essential-articles-for-life-in-france",
+          "domain": "thelocal.fr"
+        },
+        {
+          "title": "Budget wrangling and Black Friday : What on the agenda in France this week",
+          "url": "https://www.thelocal.fr/20261122/budget-wrangling-and-black-friday-whats-on-the-agenda-in-france-this-week",
+          "domain": "thelocal.fr"
+        },
+        {
+          "title": "Le Pen pledges to honor Macron commitments to Ukraine while ruling out any future funding for Kyiv",
+          "url": "https://www.bankingnews.gr/diethni/articles/912563/le-pen-pledges-to-honor-macron-s-commitments-to-ukraine-while-ruling-out-any-future-funding-for-kyiv",
+          "domain": "bankingnews.gr"
+        },
+        {
+          "title": "Wale shock victory over All Blacks gives Springboks Nations Championship lifeline",
+          "url": "https://www.dailymaverick.co.za/article/2026-11-16-wales-shock-victory-over-all-blacks-gives-springboks-nations-championship-lifeline/",
+          "domain": "dailymaverick.co.za"
+        }
+      ],
       "toneReading": "No recent coverage found.",
       "volumeReading": null
     },
     {
       "name": "Georgia",
       "region": "Eurasia",
-      "political": 54,
+      "political": 48,
       "conflict": 30,
       "economic": 36,
       "regulatory": 38,
-      "trend": "up",
-      "note": "Live-updated from recent news coverage.",
+      "trend": "down",
+      "note": "No fresh coverage this cycle; showing baseline.",
       "headlines": [],
-      "toneReading": "Coverage over the last 3 days has been mixed or neutral.",
-      "volumeReading": "Coverage volume has been unusually high this week."
+      "toneReading": "No recent coverage found.",
+      "volumeReading": null
     },
     {
       "name": "Germany",
@@ -299,15 +362,36 @@
     {
       "name": "Indonesia",
       "region": "Southeast Asia",
-      "political": 40,
+      "political": 28,
       "conflict": 20,
       "economic": 30,
       "regulatory": 32,
-      "trend": "flat",
-      "note": "Live-updated from recent news coverage.",
-      "headlines": [],
-      "toneReading": "Coverage over the last 3 days has been mixed or neutral.",
-      "volumeReading": "Coverage volume has been unusually high this week."
+      "trend": "down",
+      "note": "No fresh coverage this cycle; showing baseline.",
+      "headlines": [
+        {
+          "title": "Indonesia regulator fines and sanctions firms for stock manipulation , disclosure failures",
+          "url": "https://www.businesstimes.com.sg/international/asean/indonesia-regulator-fines-and-sanctions-firms-stock-manipulation-disclosure-failures",
+          "domain": "businesstimes.com.sg"
+        },
+        {
+          "title": "Indonesia asks Google to clarify removal of 19 , 000 YouTube channels , ministry says",
+          "url": "https://www.straitstimes.com/asia/se-asia/indonesia-asks-google-to-clarify-removal-of-19000-youtube-channels-ministry-says",
+          "domain": "straitstimes.com"
+        },
+        {
+          "title": "An insincere apology - Editorial - The Jakarta Post",
+          "url": "http://www.thejakartapost.com/opinion/2026/11/20/an-insincere-apology",
+          "domain": "thejakartapost.com"
+        },
+        {
+          "title": "Turkish Analysis Questions Indonesia Maritime Strategy After BrahMos Deal",
+          "url": "https://idrw.org/turkiye-indonesia-brahmos-mecca-pact/",
+          "domain": "idrw.org"
+        }
+      ],
+      "toneReading": "No recent coverage found.",
+      "volumeReading": null
     },
     {
       "name": "Iran",
@@ -329,7 +413,7 @@
       "conflict": 66,
       "economic": 34,
       "regulatory": 30,
-      "trend": "down",
+      "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
       "headlines": [],
       "toneReading": "No recent coverage found.",
@@ -368,7 +452,7 @@
       "conflict": 11,
       "economic": 40,
       "regulatory": 20,
-      "trend": "down",
+      "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
       "headlines": [],
       "toneReading": "No recent coverage found.",
@@ -377,14 +461,14 @@
     {
       "name": "Kazakhstan",
       "region": "Eurasia",
-      "political": 41,
+      "political": 34,
       "conflict": 20,
       "economic": 34,
       "regulatory": 36,
-      "trend": "up",
-      "note": "Live-updated from recent news coverage.",
+      "trend": "down",
+      "note": "No fresh coverage this cycle; showing baseline.",
       "headlines": [],
-      "toneReading": "Coverage over the last 3 days has been mixed or neutral.",
+      "toneReading": "No recent coverage found.",
       "volumeReading": null
     },
     {
@@ -396,7 +480,28 @@
       "regulatory": 34,
       "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [],
+      "headlines": [
+        {
+          "title": "Kenya Selects US - Led Consortium for Rare Earth Project",
+          "url": "https://www.theepochtimes.com/china/kenya-selects-us-led-consortium-for-rare-earth-project-6127181",
+          "domain": "theepochtimes.com"
+        },
+        {
+          "title": "German President Steinmeier to visit Ghana on November 24",
+          "url": "https://www.graphic.com.gh/news/general-news/german-president-steinmeier-to-visit-ghana-on-november-24.html",
+          "domain": "graphic.com.gh"
+        },
+        {
+          "title": "East Africa : Kenya Selects US - Led Consortium to Develop Rare Earth Minerals",
+          "url": "https://allafrica.com/stories/202611200045.html",
+          "domain": "allafrica.com"
+        },
+        {
+          "title": "U . S . Women Could Be Upgraded to World Half Marathon Gold After Kenyan Runner EPO Ban",
+          "url": "https://www.runnersworld.com/news/a74481360/world-half-marathon-american-women-upgraded/",
+          "domain": "runnersworld.com"
+        }
+      ],
       "toneReading": "No recent coverage found.",
       "volumeReading": null
     },
@@ -461,21 +566,42 @@
       "regulatory": 46,
       "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [],
+      "headlines": [
+        {
+          "title": "FBI most wanted  El Chapo Isidro  captured in US - Mexican raid",
+          "url": "https://www.jpost.com/international/article-915658",
+          "domain": "jpost.com"
+        },
+        {
+          "title": "New Mexico Throws In Towel After Second Suit Over Gun Waiting Period",
+          "url": "https://dailycaller.com/2026/11/19/blue-state-throws-in-the-towel-after-second-suit-over-waiting-period/",
+          "domain": "dailycaller.com"
+        },
+        {
+          "title": "11 killed as Mexican forces capture FBI most - wanted fugitive  El Chapo Isidro",
+          "url": "https://www.moneycontrol.com/world/11-killed-as-mexican-forces-capture-fbi-most-wanted-fugitive-el-chapo-isidro-article-14086575.html",
+          "domain": "moneycontrol.com"
+        },
+        {
+          "title": "Mexico captures  El Chapo Isidro  in string of arrests",
+          "url": "https://bworldonline.com/world/2026/11/22/795711/mexico-captures-el-chapo-isidro-in-string-of-arrests/",
+          "domain": "bworldonline.com"
+        }
+      ],
       "toneReading": "No recent coverage found.",
       "volumeReading": null
     },
     {
       "name": "Morocco",
       "region": "MENA",
-      "political": 32,
+      "political": 38,
       "conflict": 20,
       "economic": 38,
       "regulatory": 18,
-      "trend": "flat",
-      "note": "No fresh coverage this cycle; showing baseline.",
+      "trend": "up",
+      "note": "Live-updated from recent news coverage.",
       "headlines": [],
-      "toneReading": "No recent coverage found.",
+      "toneReading": "Coverage over the last 3 days has been mixed or neutral.",
       "volumeReading": null
     },
     {
@@ -525,10 +651,10 @@
       "economic": 62,
       "regulatory": 50,
       "trend": "flat",
-      "note": "Live-updated from recent news coverage.",
+      "note": "No fresh coverage this cycle; showing baseline.",
       "headlines": [],
-      "toneReading": "Coverage over the last 3 days has been mixed or neutral.",
-      "volumeReading": "Coverage volume has been unusually high this week."
+      "toneReading": "No recent coverage found.",
+      "volumeReading": null
     },
     {
       "name": "Peru",
@@ -565,28 +691,7 @@
       "regulatory": 20,
       "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [
-        {
-          "title": "Official denounces  Russian object crashing in Poland",
-          "url": "https://www.columbian.com/news/2026/nov/20/official-denounces-russian-objects-crashing-in-poland/",
-          "domain": "columbian.com"
-        },
-        {
-          "title": "Poland failure to call Putin bluff exposes Nato fragility",
-          "url": "https://www.telegraph.co.uk/world-news/2026/11/21/polands-failure-to-call-putins-bluff-exposes-nato-fragility/",
-          "domain": "telegraph.co.uk"
-        },
-        {
-          "title": "Russian missile hits Poland as Ukraine allies hold military exercise",
-          "url": "https://www.the-star.co.ke/news/world/2026-11-21-russian-missile-hits-poland-as-ukraines-allies-hold-military-exercise-says-tusk",
-          "domain": "the-star.co.ke"
-        },
-        {
-          "title": "Trump Defends Calling Putin A  Friend  Amid Criticism",
-          "url": "https://woc1420.iheart.com/content/2026-11-20-trump-defends-calling-putin-a-friend-amid-criticism/",
-          "domain": "woc1420.iheart.com"
-        }
-      ],
+      "headlines": [],
       "toneReading": "No recent coverage found.",
       "volumeReading": null
     },
@@ -597,7 +702,7 @@
       "conflict": 14,
       "economic": 22,
       "regulatory": 16,
-      "trend": "down",
+      "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
       "headlines": [],
       "toneReading": "No recent coverage found.",
@@ -638,43 +743,43 @@
       "regulatory": 40,
       "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [
-        {
-          "title": "Geci questions Tha\u00e7i role in Rambouillet : the US invested billions for an independent Kosovo \u2013 how did Hashim Tha\u00e7i end up in prison ?",
-          "url": "https://albeu.com/english/geci-questions-thacis-role-in-rambouillet-the-us-invested-billions-for-an-independent-kosovo-how-did-hashim-thaci-end-up-in-prison/1109426/",
-          "domain": "albeu.com"
-        },
-        {
-          "title": "World top court finds Myanmar guilty of genocide against Rohingya Global Issues",
-          "url": "https://www.globalissues.org/news/2026/11/19/44641",
-          "domain": "globalissues.org"
-        },
-        {
-          "title": "World top court finds Myanmar guilty of genocide against Rohingya",
-          "url": "https://www.manilatimes.net/2026/11/20/world/un-news/worlds-top-court-finds-myanmar-guilty-of-genocide-against-rohingya/2474701",
-          "domain": "manilatimes.net"
-        },
-        {
-          "title": "ICJ finds Myanmar committed genocide against Rohingya in historic ruling",
-          "url": "https://mg.co.za/news/international/2026-11-19-icj-finds-myanmar-committed-genocide-against-rohingya/",
-          "domain": "mg.co.za"
-        }
-      ],
+      "headlines": [],
       "toneReading": "No recent coverage found.",
       "volumeReading": null
     },
     {
       "name": "Singapore",
       "region": "Southeast Asia",
-      "political": 8,
+      "political": 31,
       "conflict": 4,
       "economic": 10,
       "regulatory": 8,
-      "trend": "flat",
-      "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [],
-      "toneReading": "No recent coverage found.",
-      "volumeReading": null
+      "trend": "up",
+      "note": "Live-updated from recent news coverage.",
+      "headlines": [
+        {
+          "title": "Nvidia chip case : How Chinese man in Megaspeed built network serving China with Alice Huang",
+          "url": "https://timesofindia.indiatimes.com/business/international-business/nvidia-chip-case-how-chinese-man-in-megaspeed-built-network-serving-china-with-alice-huang/articleshow/136072827.cms",
+          "domain": "timesofindia.indiatimes.com"
+        },
+        {
+          "title": "Chinese national facing fraud charges played key role in Megaspeed Nvidia chip trade : Report",
+          "url": "https://www.moneycontrol.com/world/chinese-national-facing-fraud-charges-played-key-role-in-megaspeed-s-nvidia-chip-trade-wsj-article-14086572.html",
+          "domain": "moneycontrol.com"
+        },
+        {
+          "title": "Singapore energy security : Diversification and natural gas",
+          "url": "https://www.straitstimes.com/singapore/environment/diversifying-energy-sources-and-fuel-suppliers-key-to-self-sufficiency-in-spore-tan-see-leng",
+          "domain": "straitstimes.com"
+        },
+        {
+          "title": "Singapore can  make a good living  in a multipolar world if US and China dont collide : PM Wong",
+          "url": "https://www.businesstimes.com.sg/singapore/singapore-can-make-good-living-multipolar-world-if-us-and-china-dont-collide-pm-wong",
+          "domain": "businesstimes.com.sg"
+        }
+      ],
+      "toneReading": "Coverage over the last 3 days has been mixed or neutral.",
+      "volumeReading": "Coverage volume has been unusually high this week."
     },
     {
       "name": "Somalia",
@@ -718,14 +823,14 @@
     {
       "name": "Sri Lanka",
       "region": "South Asia",
-      "political": 44,
+      "political": 40,
       "conflict": 18,
       "economic": 52,
       "regulatory": 38,
       "trend": "flat",
-      "note": "Live-updated from recent news coverage.",
+      "note": "No fresh coverage this cycle; showing baseline.",
       "headlines": [],
-      "toneReading": "Coverage over the last 3 days has been mixed or neutral.",
+      "toneReading": "No recent coverage found.",
       "volumeReading": null
     },
     {
@@ -776,7 +881,28 @@
       "regulatory": 34,
       "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [],
+      "headlines": [
+        {
+          "title": "Thailand makes prepares to stop exporting rare earth mining chemicals to Myanmar",
+          "url": "https://www.thenews.com.pk/latest/1424588-thailand-makes-prepares-to-stop-exporting-rare-earth-mining-chemicals-to-myanmar",
+          "domain": "thenews.com.pk"
+        },
+        {
+          "title": "Birla Carbon Inaugurates Rayong Plant in Thailand",
+          "url": "https://www.thehindu.com/brandhub/pr-release/birla-carbon-inaugurates-rayong-plant-in-thailand/article71723049.ece",
+          "domain": "thehindu.com"
+        },
+        {
+          "title": "Thailand Pushes Japan Partnership Beyond Autos Into Space , Quantum Tech",
+          "url": "https://econotimes.com/Thailand-Pushes-Japan-Partnership-Beyond-Autos-Into-Space-Quantum-Tech-1780028",
+          "domain": "econotimes.com"
+        },
+        {
+          "title": "Birla Carbon Inaugurates Rayong Plant in Thailand - The HinduBusinessLine",
+          "url": "https://www.thehindubusinessline.com/brandhub/pr-release/birla-carbon-inaugurates-rayong-plant-in-thailand/article71723052.ece",
+          "domain": "thehindubusinessline.com"
+        }
+      ],
       "toneReading": "No recent coverage found.",
       "volumeReading": null
     },
@@ -841,22 +967,43 @@
       "regulatory": 28,
       "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [],
+      "headlines": [
+        {
+          "title": "( Update ) Trump Briefs Takaichi on U . S .- China - Russia Summit",
+          "url": "https://www.nippon.com/en/articles/-/57765",
+          "domain": "nippon.com"
+        },
+        {
+          "title": "New Taylor Sheridan - Esque 10 - Part Crime Thriller Is the # 1 Show on Streaming",
+          "url": "https://movieweb.com/anna-pigeon-stream-vudu-november-2026/",
+          "domain": "movieweb.com"
+        },
+        {
+          "title": "Brooklyn Jury Convicts Tajik Man of Supporting ISIS , Facing Up to 55 Years",
+          "url": "https://townhall.com/news/scott-mcclallen/2026/11/19/brooklyn-jury-convicts-tajik-man-of-supporting-isis-facing-up-to-55-years-n2686718",
+          "domain": "townhall.com"
+        },
+        {
+          "title": "Chinese Regime Threatens Countermeasures If US Imposes New Chip Bans",
+          "url": "https://www.theepochtimes.com/china/chinese-regime-threatens-countermeasures-if-us-imposes-new-chip-bans-6127155",
+          "domain": "theepochtimes.com"
+        }
+      ],
       "toneReading": "No recent coverage found.",
       "volumeReading": null
     },
     {
       "name": "Venezuela",
       "region": "Latin America",
-      "political": 82,
+      "political": 70,
       "conflict": 48,
       "economic": 88,
       "regulatory": 80,
-      "trend": "flat",
-      "note": "No fresh coverage this cycle; showing baseline.",
+      "trend": "down",
+      "note": "Live-updated from recent news coverage.",
       "headlines": [],
-      "toneReading": "No recent coverage found.",
-      "volumeReading": null
+      "toneReading": "Coverage over the last 3 days has been mixed or neutral.",
+      "volumeReading": "Coverage volume has been unusually high this week."
     },
     {
       "name": "Vietnam",
@@ -865,9 +1012,30 @@
       "conflict": 12,
       "economic": 24,
       "regulatory": 30,
-      "trend": "down",
+      "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [],
+      "headlines": [
+        {
+          "title": "Vietnam emerges as promising destination for Russian tech firms",
+          "url": "https://vietnamnet.vn/en/vietnam-emerges-as-promising-destination-for-russian-tech-firms-2577436.html",
+          "domain": "vietnamnet.vn"
+        },
+        {
+          "title": "Vietnam makes World Cup history with two goals against Belgium",
+          "url": "https://vietnamnet.vn/en/vietnam-makes-world-cup-history-with-two-goals-against-belgium-2577417.html",
+          "domain": "vietnamnet.vn"
+        },
+        {
+          "title": "Vietnamese scholar highlights President Ilham Aliyev role in strengthening Azerbaijan - Vietnam ties",
+          "url": "https://www.trend.az/azerbaijan/4248635.html",
+          "domain": "trend.az"
+        },
+        {
+          "title": "Vietnam , Russia Leaders Agree to Deepen Their Energy Cooperation at APEC",
+          "url": "https://www.theepochtimes.com/world/vietnam-russia-leaders-agree-to-deepen-their-energy-cooperation-at-apec-6126921",
+          "domain": "theepochtimes.com"
+        }
+      ],
       "toneReading": "No recent coverage found.",
       "volumeReading": null
     },
@@ -880,7 +1048,28 @@
       "regulatory": 74,
       "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [],
+      "headlines": [
+        {
+          "title": "Saudi Forces Strike Hodeidah Port As Houthis Warn",
+          "url": "https://www.marinelink.com/news/saudi-forces-strike-hodeidah-port-houthis-544509",
+          "domain": "marinelink.com"
+        },
+        {
+          "title": "Houthis Order Ships to Leave Saudi Red Sea Ports After Hodeidah Airstrikes",
+          "url": "https://gcaptain.com/houthis-order-ships-to-leave-saudi-red-sea-ports-after-hodeidah-airstrikes/",
+          "domain": "gcaptain.com"
+        },
+        {
+          "title": "Saudi Arabia says it intercepts three Houthi missiles targeting Riyadh",
+          "url": "https://tribune.com.pk/story/2641505/saudi-arabia-says-it-intercepts-three-houthi-missiles-targeting-riyadh",
+          "domain": "tribune.com.pk"
+        },
+        {
+          "title": "Riyadh tallest skyscraper hit in Houthi strike on Saudi wealth fund HQ",
+          "url": "https://bdnews24.com/world/middle-east/fivt512358",
+          "domain": "bdnews24.com"
+        }
+      ],
       "toneReading": "No recent coverage found.",
       "volumeReading": null
     },
@@ -899,6 +1088,30 @@
     }
   ],
   "alerts": [
+    {
+      "name": "Indonesia",
+      "from": "GUARDED",
+      "to": "LOW",
+      "at": "2026-11-22T14:03:37.313032+00:00"
+    },
+    {
+      "name": "Venezuela",
+      "from": "HIGH",
+      "to": "ELEVATED",
+      "at": "2026-11-22T14:03:37.313032+00:00"
+    },
+    {
+      "name": "Kazakhstan",
+      "from": "GUARDED",
+      "to": "LOW",
+      "at": "2026-11-22T14:03:37.313032+00:00"
+    },
+    {
+      "name": "Sri Lanka",
+      "from": "GUARDED",
+      "to": "LOW",
+      "at": "2026-11-22T14:03:37.313032+00:00"
+    },
     {
       "name": "Kazakhstan",
       "from": "LOW",
@@ -1054,30 +1267,6 @@
       "from": "HIGH",
       "to": "SEVERE",
       "at": "2026-11-20T00:18:54.872211+00:00"
-    },
-    {
-      "name": "Morocco",
-      "from": "LOW",
-      "to": "GUARDED",
-      "at": "2026-11-20T00:18:54.872211+00:00"
-    },
-    {
-      "name": "Turkey",
-      "from": "GUARDED",
-      "to": "ELEVATED",
-      "at": "2026-11-19T15:26:44.311012+00:00"
-    },
-    {
-      "name": "Indonesia",
-      "from": "GUARDED",
-      "to": "LOW",
-      "at": "2026-11-19T15:26:44.311012+00:00"
-    },
-    {
-      "name": "Kazakhstan",
-      "from": "GUARDED",
-      "to": "LOW",
-      "at": "2026-11-19T15:26:44.311012+00:00"
     }
   ]
 }
