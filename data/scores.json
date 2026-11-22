@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-21T22:46:37.451519+00:00",
+  "generatedAt": "2026-11-22T05:09:08.956544+00:00",
   "source": "GDELT (news tone/volume, 3-day window) blended 50/50 with baseline",
   "countries": [
     {
@@ -31,15 +31,15 @@
     {
       "name": "Australia",
       "region": "Oceania",
-      "political": 36,
+      "political": 17,
       "conflict": 8,
       "economic": 13,
       "regulatory": 10,
-      "trend": "up",
-      "note": "Live-updated from recent news coverage.",
+      "trend": "down",
+      "note": "No fresh coverage this cycle; showing baseline.",
       "headlines": [],
-      "toneReading": "Coverage over the last 3 days has been mixed or neutral.",
-      "volumeReading": "Coverage volume has been unusually high this week."
+      "toneReading": "No recent coverage found.",
+      "volumeReading": null
     },
     {
       "name": "Azerbaijan",
@@ -61,7 +61,7 @@
       "conflict": 34,
       "economic": 44,
       "regulatory": 42,
-      "trend": "down",
+      "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
       "headlines": [],
       "toneReading": "No recent coverage found.",
@@ -135,14 +135,14 @@
     {
       "name": "Colombia",
       "region": "Latin America",
-      "political": 48,
+      "political": 53,
       "conflict": 56,
       "economic": 38,
       "regulatory": 40,
-      "trend": "flat",
-      "note": "No fresh coverage this cycle; showing baseline.",
+      "trend": "up",
+      "note": "Live-updated from recent news coverage.",
       "headlines": [],
-      "toneReading": "No recent coverage found.",
+      "toneReading": "Coverage over the last 3 days has been mixed or neutral.",
       "volumeReading": null
     },
     {
@@ -174,14 +174,14 @@
     {
       "name": "Ecuador",
       "region": "Latin America",
-      "political": 49,
+      "political": 38,
       "conflict": 57,
       "economic": 36,
       "regulatory": 13,
-      "trend": "up",
-      "note": "Live-updated from recent news coverage.",
+      "trend": "down",
+      "note": "No fresh coverage this cycle; showing baseline.",
       "headlines": [],
-      "toneReading": "Coverage over the last 3 days has been mixed or neutral.",
+      "toneReading": "No recent coverage found.",
       "volumeReading": null
     },
     {
@@ -193,7 +193,28 @@
       "regulatory": 44,
       "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [],
+      "headlines": [
+        {
+          "title": "Street Prophets Coffee Hour : Kings and gods in Ancient Egypt",
+          "url": "https://www.dailykos.com/stories/2026/11/19/800117251/community/street-prophets-coffee-hour-kings-and-gods-in-ancient-egypt/",
+          "domain": "dailykos.com"
+        },
+        {
+          "title": "Defense Minister Katz warns :  Bringing Hamas sister movement into govt endangers Israel",
+          "url": "https://www.israelnationalnews.com/news/436216",
+          "domain": "israelnationalnews.com"
+        },
+        {
+          "title": "Egyptian Music Star Mohamed Mounir Gets Biopic \u2013 Doha Industry Days",
+          "url": "https://deadline.com/2026/11/egyptian-music-star-mohamed-mounir-biopic-doha-1237230880/",
+          "domain": "deadline.com"
+        },
+        {
+          "title": "Congress gives posthumous gold medal to former Egyptian president Sadat",
+          "url": "https://www.clevelandjewishnews.com/jns/congress-gives-posthumous-gold-medal-to-former-egyptian-president-sadat/article_24e243f4-0650-5a65-98fa-6ac3d3f0bd69.html",
+          "domain": "clevelandjewishnews.com"
+        }
+      ],
       "toneReading": "No recent coverage found.",
       "volumeReading": null
     },
@@ -226,15 +247,15 @@
     {
       "name": "Georgia",
       "region": "Eurasia",
-      "political": 48,
+      "political": 54,
       "conflict": 30,
       "economic": 36,
       "regulatory": 38,
-      "trend": "flat",
-      "note": "No fresh coverage this cycle; showing baseline.",
+      "trend": "up",
+      "note": "Live-updated from recent news coverage.",
       "headlines": [],
-      "toneReading": "No recent coverage found.",
-      "volumeReading": null
+      "toneReading": "Coverage over the last 3 days has been mixed or neutral.",
+      "volumeReading": "Coverage volume has been unusually high this week."
     },
     {
       "name": "Germany",
@@ -304,15 +325,15 @@
     {
       "name": "Israel",
       "region": "MENA",
-      "political": 63,
-      "conflict": 71,
+      "political": 58,
+      "conflict": 66,
       "economic": 34,
       "regulatory": 30,
-      "trend": "up",
-      "note": "Live-updated from recent news coverage.",
+      "trend": "down",
+      "note": "No fresh coverage this cycle; showing baseline.",
       "headlines": [],
-      "toneReading": "Coverage over the last 3 days has leaned negative.",
-      "volumeReading": "Coverage volume has been unusually high this week."
+      "toneReading": "No recent coverage found.",
+      "volumeReading": null
     },
     {
       "name": "Italy",
@@ -343,27 +364,27 @@
     {
       "name": "Jordan",
       "region": "MENA",
-      "political": 45,
+      "political": 36,
       "conflict": 11,
       "economic": 40,
       "regulatory": 20,
-      "trend": "up",
-      "note": "Live-updated from recent news coverage.",
+      "trend": "down",
+      "note": "No fresh coverage this cycle; showing baseline.",
       "headlines": [],
-      "toneReading": "Coverage over the last 3 days has been mixed or neutral.",
-      "volumeReading": "Coverage volume has been unusually high this week."
+      "toneReading": "No recent coverage found.",
+      "volumeReading": null
     },
     {
       "name": "Kazakhstan",
       "region": "Eurasia",
-      "political": 34,
+      "political": 41,
       "conflict": 20,
       "economic": 34,
       "regulatory": 36,
-      "trend": "flat",
-      "note": "No fresh coverage this cycle; showing baseline.",
+      "trend": "up",
+      "note": "Live-updated from recent news coverage.",
       "headlines": [],
-      "toneReading": "No recent coverage found.",
+      "toneReading": "Coverage over the last 3 days has been mixed or neutral.",
       "volumeReading": null
     },
     {
@@ -373,30 +394,9 @@
       "conflict": 28,
       "economic": 38,
       "regulatory": 34,
-      "trend": "down",
+      "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [
-        {
-          "title": "Kenya Selects US - Led Consortium for Rare Earth Project",
-          "url": "https://www.theepochtimes.com/china/kenya-selects-us-led-consortium-for-rare-earth-project-6127181",
-          "domain": "theepochtimes.com"
-        },
-        {
-          "title": "German President Steinmeier to visit Ghana on November 24",
-          "url": "https://www.graphic.com.gh/news/general-news/german-president-steinmeier-to-visit-ghana-on-november-24.html",
-          "domain": "graphic.com.gh"
-        },
-        {
-          "title": "East Africa : Kenya Selects US - Led Consortium to Develop Rare Earth Minerals",
-          "url": "https://allafrica.com/stories/202611200045.html",
-          "domain": "allafrica.com"
-        },
-        {
-          "title": "U . S . Women Could Be Upgraded to World Half Marathon Gold After Kenyan Runner EPO Ban",
-          "url": "https://www.runnersworld.com/news/a74481360/world-half-marathon-american-women-upgraded/",
-          "domain": "runnersworld.com"
-        }
-      ],
+      "headlines": [],
       "toneReading": "No recent coverage found.",
       "volumeReading": null
     },
@@ -513,28 +513,7 @@
       "regulatory": 92,
       "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [
-        {
-          "title": "UN Nuclear Watchdog Voices  Serious Concern  As North Korea Expands Uranium Enrichment",
-          "url": "http://www.zerohedge.com/geopolitical/un-nuclear-watchdog-voices-serious-concern-north-korea-expands-uranium-enrichment",
-          "domain": "zerohedge.com"
-        },
-        {
-          "title": "N . Korea , Laos vow deeper cooperation in Pyongyang meeting",
-          "url": "https://www.koreaherald.com/article/10943538",
-          "domain": "koreaherald.com"
-        },
-        {
-          "title": "Trump leaves China without meeting Kim Jong - un as trilateral summit raises concerns across Asia",
-          "url": "https://www.euronews.com/2026/11/19/trump-leaves-china-without-meeting-kim-jong-un-as-trilateral-summit-raises-concerns-across",
-          "domain": "euronews.com"
-        },
-        {
-          "title": "White House pool have phones taken away on return from China",
-          "url": "https://www.independent.co.uk/news/world/americas/us-politics/white-house-china-trip-phones-air-force-one-b3087996.html",
-          "domain": "independent.co.uk"
-        }
-      ],
+      "headlines": [],
       "toneReading": "No recent coverage found.",
       "volumeReading": null
     },
@@ -546,31 +525,10 @@
       "economic": 62,
       "regulatory": 50,
       "trend": "flat",
-      "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [
-        {
-          "title": "Dialogue with India depends on Delhi conduct , willingness to solve issues : Dar",
-          "url": "https://www.samaa.tv/2087360724-dialogue-with-india-depends-on-delhi-s-conduct-willingness-to-solve-issues-dar",
-          "domain": "samaa.tv"
-        },
-        {
-          "title": "Pak fanboy : BJP targets Rahul Gandhi over  side player  in geopolitics remark on India during US visit",
-          "url": "https://www.moneycontrol.com/news/india/obsessed-with-pakistan-bjp-targets-rahul-gandhi-over-foreign-policy-remarks-calls-his-pak-fan-boy-14085340.html",
-          "domain": "moneycontrol.com"
-        },
-        {
-          "title": "Pakistan rejects India remarks at UN as interference in internal affairs",
-          "url": "https://dunyanews.tv/en/Pakistan/984012-pakistan-rejects-indias-remarks-at-un-as-interference-in-internal-aff",
-          "domain": "dunyanews.tv"
-        },
-        {
-          "title": "DPM Dar calls for new regional security framework to ensure lasting peace",
-          "url": "https://tribune.com.pk/story/2641518/dpm-dar-calls-for-new-regional-security-framework-to-ensure-lasting-peace",
-          "domain": "tribune.com.pk"
-        }
-      ],
-      "toneReading": "No recent coverage found.",
-      "volumeReading": null
+      "note": "Live-updated from recent news coverage.",
+      "headlines": [],
+      "toneReading": "Coverage over the last 3 days has been mixed or neutral.",
+      "volumeReading": "Coverage volume has been unusually high this week."
     },
     {
       "name": "Peru",
@@ -607,22 +565,43 @@
       "regulatory": 20,
       "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
-      "headlines": [],
+      "headlines": [
+        {
+          "title": "Official denounces  Russian object crashing in Poland",
+          "url": "https://www.columbian.com/news/2026/nov/20/official-denounces-russian-objects-crashing-in-poland/",
+          "domain": "columbian.com"
+        },
+        {
+          "title": "Poland failure to call Putin bluff exposes Nato fragility",
+          "url": "https://www.telegraph.co.uk/world-news/2026/11/21/polands-failure-to-call-putins-bluff-exposes-nato-fragility/",
+          "domain": "telegraph.co.uk"
+        },
+        {
+          "title": "Russian missile hits Poland as Ukraine allies hold military exercise",
+          "url": "https://www.the-star.co.ke/news/world/2026-11-21-russian-missile-hits-poland-as-ukraines-allies-hold-military-exercise-says-tusk",
+          "domain": "the-star.co.ke"
+        },
+        {
+          "title": "Trump Defends Calling Putin A  Friend  Amid Criticism",
+          "url": "https://woc1420.iheart.com/content/2026-11-20-trump-defends-calling-putin-a-friend-amid-criticism/",
+          "domain": "woc1420.iheart.com"
+        }
+      ],
       "toneReading": "No recent coverage found.",
       "volumeReading": null
     },
     {
       "name": "Qatar",
       "region": "MENA",
-      "political": 42,
+      "political": 34,
       "conflict": 14,
       "economic": 22,
       "regulatory": 16,
-      "trend": "up",
-      "note": "Live-updated from recent news coverage.",
+      "trend": "down",
+      "note": "No fresh coverage this cycle; showing baseline.",
       "headlines": [],
-      "toneReading": "Coverage over the last 3 days has been mixed or neutral.",
-      "volumeReading": "Coverage volume has been unusually high this week."
+      "toneReading": "No recent coverage found.",
+      "volumeReading": null
     },
     {
       "name": "Russia",
@@ -644,7 +623,7 @@
       "conflict": 26,
       "economic": 30,
       "regulatory": 36,
-      "trend": "down",
+      "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
       "headlines": [],
       "toneReading": "No recent coverage found.",
@@ -691,7 +670,7 @@
       "conflict": 4,
       "economic": 10,
       "regulatory": 8,
-      "trend": "down",
+      "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
       "headlines": [],
       "toneReading": "No recent coverage found.",
@@ -700,14 +679,14 @@
     {
       "name": "Somalia",
       "region": "Sub-Saharan Africa",
-      "political": 58,
+      "political": 55,
       "conflict": 90,
       "economic": 67,
       "regulatory": 42,
       "trend": "flat",
-      "note": "Live-updated from recent news coverage.",
+      "note": "No fresh coverage this cycle; showing baseline.",
       "headlines": [],
-      "toneReading": "Coverage over the last 3 days has leaned negative.",
+      "toneReading": "No recent coverage found.",
       "volumeReading": null
     },
     {
@@ -717,7 +696,7 @@
       "conflict": 30,
       "economic": 46,
       "regulatory": 40,
-      "trend": "down",
+      "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
       "headlines": [],
       "toneReading": "No recent coverage found.",
@@ -739,14 +718,14 @@
     {
       "name": "Sri Lanka",
       "region": "South Asia",
-      "political": 40,
+      "political": 44,
       "conflict": 18,
       "economic": 52,
       "regulatory": 38,
-      "trend": "down",
-      "note": "No fresh coverage this cycle; showing baseline.",
+      "trend": "flat",
+      "note": "Live-updated from recent news coverage.",
       "headlines": [],
-      "toneReading": "No recent coverage found.",
+      "toneReading": "Coverage over the last 3 days has been mixed or neutral.",
       "volumeReading": null
     },
     {
@@ -830,36 +809,15 @@
     {
       "name": "Ukraine",
       "region": "Europe",
-      "political": 61,
+      "political": 62,
       "conflict": 92,
       "economic": 70,
       "regulatory": 58,
       "trend": "flat",
-      "note": "Live-updated from recent news coverage.",
-      "headlines": [
-        {
-          "title": "Trump questions Europe billions in Ukraine aid during surprise call",
-          "url": "https://www.euronews.com/2026/11/19/trump-questions-europes-billions-in-ukraine-aid-during-surprise-call",
-          "domain": "euronews.com"
-        },
-        {
-          "title": "Ukraine : Europe presents united front in push for peace",
-          "url": "https://www.dw.com/en/european-leaders-present-united-front-in-push-for-peace-in-ukraine/live-79986520",
-          "domain": "dw.com"
-        },
-        {
-          "title": "The scale of Russia war on Ukraine laid bare as Putin embraces Trump in China",
-          "url": "https://www.independent.co.uk/news/world/europe/donald-trump-vladimir-putin-russia-ukraine-b3087755.html",
-          "domain": "independent.co.uk"
-        },
-        {
-          "title": "In Ukraine , the Drones Are Flying Faster Than the Diplomacy",
-          "url": "https://foreignpolicy.com/2026/11/19/ukraine-drones-diplomacy-russian-strikes-putin-xi-trump-trilateral/",
-          "domain": "foreignpolicy.com"
-        }
-      ],
-      "toneReading": "Coverage over the last 3 days has leaned negative.",
-      "volumeReading": "Coverage volume has been unusually high this week."
+      "note": "No fresh coverage this cycle; showing baseline.",
+      "headlines": [],
+      "toneReading": "No recent coverage found.",
+      "volumeReading": null
     },
     {
       "name": "United Kingdom",
@@ -894,7 +852,7 @@
       "conflict": 48,
       "economic": 88,
       "regulatory": 80,
-      "trend": "up",
+      "trend": "flat",
       "note": "No fresh coverage this cycle; showing baseline.",
       "headlines": [],
       "toneReading": "No recent coverage found.",
@@ -903,15 +861,15 @@
     {
       "name": "Vietnam",
       "region": "Southeast Asia",
-      "political": 39,
+      "political": 22,
       "conflict": 12,
       "economic": 24,
       "regulatory": 30,
-      "trend": "up",
-      "note": "Live-updated from recent news coverage.",
+      "trend": "down",
+      "note": "No fresh coverage this cycle; showing baseline.",
       "headlines": [],
-      "toneReading": "Coverage over the last 3 days has been mixed or neutral.",
-      "volumeReading": "Coverage volume has been unusually high this week."
+      "toneReading": "No recent coverage found.",
+      "volumeReading": null
     },
     {
       "name": "Yemen",
@@ -941,6 +899,18 @@
     }
   ],
   "alerts": [
+    {
+      "name": "Kazakhstan",
+      "from": "LOW",
+      "to": "GUARDED",
+      "at": "2026-11-22T05:09:08.956544+00:00"
+    },
+    {
+      "name": "Sri Lanka",
+      "from": "LOW",
+      "to": "GUARDED",
+      "at": "2026-11-22T05:09:08.956544+00:00"
+    },
     {
       "name": "Turkey",
       "from": "GUARDED",
@@ -1108,18 +1078,6 @@
       "from": "GUARDED",
       "to": "LOW",
       "at": "2026-11-19T15:26:44.311012+00:00"
-    },
-    {
-      "name": "Qatar",
-      "from": "GUARDED",
-      "to": "LOW",
-      "at": "2026-11-19T15:26:44.311012+00:00"
-    },
-    {
-      "name": "India",
-      "from": "GUARDED",
-      "to": "LOW",
-      "at": "2026-11-19T05:56:53.040831+00:00"
     }
   ]
 }
